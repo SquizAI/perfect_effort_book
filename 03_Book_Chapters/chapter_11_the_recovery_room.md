@@ -1,6 +1,20 @@
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_11_The_Recovery_Room.png" alt="Chapter 11: The Recovery Room" width="600"/>
+
 # Chapter 11: The Recovery Room
 
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+---
+
+</div>
+
+> [!NOTE]
+> **💡 Key Insight**
 > **Core Concept**: Elite athletes don't train 24/7 - they train hard, then recover harder. Rest isn't the opposite of work. It's what makes the work actually work.
+> [!NOTE]
+> **💡 Key Insight**
 > **The Output**: Perform at your highest level consistently by mastering recovery as a skill.
 
 ---
@@ -859,3 +873,11 @@ Now let's talk about the resource you can never get back, the currency you're sp
 Next up: **Chapter 12: Time is Your Currency** - Master the resource that matters most.
 
 ---
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 10 - Fuel Your Engine](chapter_10_fuel_your_engine.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 12 - Time is Your Currency ➡️](chapter_12_time_is_your_currency.md)
+
+</div>

@@ -1,4 +1,14 @@
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_05_Your_Inner_Coach.png" alt="Chapter 5: Your Inner Coach" width="600"/>
+
 # Chapter 5: Your Inner Coach
+
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+---
+
+</div>
 
 ## The Voice That Decides Everything
 
@@ -102,6 +112,8 @@ The coach says: "This hurts. That's how growth feels."
 
 Elite athletes understand this instinctively. When Kobe Bryant talked about mental toughness, he said it's about "staying even-keeled" – not getting too high or too low. Your inner coach keeps you steady. Your inner critic sends you spiraling.
 
+> [!NOTE]
+> **💡 Key Insight**
 > **Coach's Corner:**
 >
 > Research shows that students with growth mindsets literally process mistakes differently in their brains. When they mess up, their neural circuits activate learning pathways. When fixed mindset students mess up, their brains activate threat responses. Same mistake. Different self-talk. Different brain activity. Different results.
@@ -307,6 +319,8 @@ Before bed, review your day:
 3. **What's one thing I can coach myself better on tomorrow?**
    - Specific. "Tomorrow when I'm practicing free throws and I miss three in a row, I'll remind myself that's normal – even pros miss. I'll focus on my form, not the outcome."
 
+> [!NOTE]
+> **💡 Key Insight**
 > **Coach's Corner:**
 >
 > This is habit formation science in action. Cue (challenge arises) → Routine (Notice, Challenge, Replace) → Reward (better emotional state, better performance) → Identity (you become someone who coaches themselves through challenges). That's how you rewire your brain.
@@ -487,3 +501,12 @@ That's what we're tackling next.
 Because here's the truth: Your inner coach isn't just for the wins. It's for the losses too. And how you handle those losses? That's what separates good from unstoppable.
 
 Let's go.
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 4 - Practice Like a Pro](chapter_04_practice_like_a_pro.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 6 - Losing is Learning ➡️](chapter_06_losing_is_learning.md)
+
+</div>

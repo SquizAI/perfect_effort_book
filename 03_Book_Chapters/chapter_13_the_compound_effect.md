@@ -1,6 +1,20 @@
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_13_The_Compound_Effect.png" alt="Chapter 13: The Compound Effect" width="600"/>
+
 # Chapter 13: The Compound Effect
 
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+---
+
+</div>
+
+> [!NOTE]
+> **💡 Key Insight**
 > **Core Concept**: Small daily improvements compound exponentially over time - 1% better every day means you're 37x better in a year.
+> [!NOTE]
+> **💡 Key Insight**
 > **The Output**: Build exponential results through relentless consistency while everyone else quits looking for shortcuts.
 
 ---
@@ -1098,3 +1112,11 @@ You've got this.
 **Remember your mission:** Build exponential results through relentless consistency.
 
 Now go compound.
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 12 - Time is Your Currency](chapter_12_time_is_your_currency.md) | [📚 All Chapters](../README.md#-the-chapters) | [🏠 Back to Home](../README.md)
+
+</div>

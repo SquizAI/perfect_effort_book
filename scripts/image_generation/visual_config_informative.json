@@ -1,0 +1,172 @@
+{
+  "description": "Informative visual system that TEACHES the chapter lesson through the image itself",
+  "approach": "Each image visualizes the core metaphor and key concept so students understand the lesson just by looking at it",
+
+  "bookCover": {
+    "aspectRatio": "2:3",
+    "title": "PERFECT EFFORT",
+    "subtitle": "Winning at the Game of Life",
+    "philosophyToVisualize": "Nobody is perfect, but you can put in the best effort you can. That's all we ask. Accountability, growth, and winning the game of life.",
+    "prompt": "Create a vibrant Pixar-style 3D cartoon book cover embodying 'PERFECT EFFORT' philosophy.
+
+Central visual: A diverse group of middle/high school students in a championship arena, each giving their absolute best effort in different ways - not perfect, but fully committed. Show imperfect but earnest attempts: one student helping another up, one studying intensely with determination, one practicing a skill with focus, one being coached and held accountable. All showing EFFORT over perfection.
+
+Foreground: Students with visible determination, sweat, focus - giving everything they have. Some succeeding, some struggling, ALL trying their hardest. Growth mindset visible on faces.
+
+Background: Scoreboard showing 'EFFORT' metrics instead of perfect scores. Championship stadium with blue-gold atmosphere representing life as a game to win.
+
+Symbolic elements:
+- Trophy labeled 'Best Effort' (not 'First Place')
+- Accountability partners high-fiving
+- Growth arrows showing progress over perfection
+- Game board/life map showing the journey
+
+Top area: Clean space for title 'PERFECT EFFORT'
+Bottom area: Space for subtitle 'Winning at the Game of Life'
+
+Color palette: Championship blue (#2563EB), victory gold (#FBBF24), energetic orange, inspiring atmosphere
+Style: Pixar/Disney-quality 3D cartoon realism
+Mood: Inspiring, accountable, growth-focused, earnest effort
+Message: You don't need to be perfect - you need to give your best effort. That's how we win at life.
+
+NO text in image - text added separately. Pure visual storytelling of the Perfect Effort philosophy."
+  },
+
+  "chapters": {
+    "aspectRatio": "16:9",
+    "globalStyle": "Pixar-quality 3D cartoon realism with informative visual storytelling. Each image should TEACH the lesson visually - someone should understand the core concept just by looking at the image. Fun but educational, colorful championship stadium setting with blue-gold palette.",
+
+    "01": {
+      "title": "Life is a Sport",
+      "quote": "The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life.",
+      "visualMetaphor": "A cartoon student standing at a basketball free-throw line, but the court transforms/morphs into different life scenarios - classroom desk, stage with microphone, workplace, gym. Same game mechanics apply everywhere. The student has a determined smile showing comfort with discomfort. Blue-gold stadium lights overhead. Style: Pixar 3D, showing life's universal game mechanics.",
+      "teachingPoint": "Life operates like a sport with rules and scoreboards - you're already in the game"
+    },
+
+    "02": {
+      "title": "Know Your Stats",
+      "quote": "In God we trust. All others bring data.",
+      "visualMetaphor": "A cartoon student looking at themselves in a mirror, but instead of their reflection, they see a glowing holographic video game character sheet displaying life stats: Study Hours, Sleep Quality, Friendship Level, Skills Progress, etc. The stats glow in blue-gold neon. Stadium setting. Style: Pixar 3D with video game UI aesthetic, showing the power of tracking metrics.",
+      "teachingPoint": "You can't improve what you don't measure - track your stats to level up"
+    },
+
+    "03": {
+      "title": "The Scoreboard That Matters",
+      "quote": "The external scoreboard is infinite - there's always someone ahead. The internal scoreboard is the only game you can actually win.",
+      "visualMetaphor": "Split-screen cartoon scene: Left side shows an external scoreboard with social media likes, followers, comparisons fading away like smoke and wisps. Right side shows a solid, glowing internal scoreboard with personal values, growth metrics, character stats that are stable and bright. Cartoon student choosing the internal scoreboard. Blue-gold championship setting. Style: Pixar 3D showing two contrasting scoreboards.",
+      "teachingPoint": "Choose the scoreboard you can control - internal values over external validation"
+    },
+
+    "04": {
+      "title": "Practice Like a Pro",
+      "quote": "You don't rise to the occasion. You fall to your level of preparation.",
+      "visualMetaphor": "Side-by-side comparison in cartoon style: Left court shows player mindlessly shooting 100 shots while distracted on phone (shots missing, bored expression). Right court shows player shooting 50 shots with laser focus, video camera recording, analyzing form, intense concentration (shots swishing, improvement arrows). Blue-gold stadium lighting. Style: Pixar 3D showing deliberate practice vs mindless reps.",
+      "teachingPoint": "Deliberate practice beats mindless repetition - focus on quality over quantity"
+    },
+
+    "05": {
+      "title": "Your Inner Coach",
+      "quote": "Your inner voice is either your greatest coach or your worst enemy. You get to choose which one wins.",
+      "visualMetaphor": "Cartoon student at a crossroads with two large speech bubbles above: Dark bubble on left says 'I'm not good at this' (negative, shadowy). Bright glowing bubble on right says 'I'm not good at this YET' (positive, energized with growth symbols). Student pointing toward the bright bubble making the choice. Stadium setting with blue-gold spotlights. Style: Pixar 3D showing the power of reframing.",
+      "teachingPoint": "Your inner dialogue determines your performance - choose the coach, not the critic"
+    },
+
+    "06": {
+      "title": "Losing is Learning",
+      "quote": "Failure isn't the opposite of success - it's the admission price.",
+      "visualMetaphor": "Cartoon film room with multiple screens showing replays of mistakes/failures, but instead of showing losses, the screens have bright highlighted lessons, adjustments, and 'What I Learned' notes like a sports analyst breaking down game film. Cartoon student taking notes excitedly. Blue-gold professional atmosphere. Style: Pixar 3D showing failure as valuable data extraction.",
+      "teachingPoint": "Every failure contains a lesson - extract the data like a pro"
+    },
+
+    "07": {
+      "title": "Focus Mode: On",
+      "quote": "In a world designed to steal your attention, the ability to focus deeply is your unfair competitive advantage.",
+      "visualMetaphor": "Cartoon student inside a protective bubble of deep focus/concentration (glowing blue shield). Outside the bubble, notifications, social media icons, phone alerts, distractions are swirling and bouncing off the shield harmlessly. Student is intensely focused on their work inside, in flow state. Stadium setting. Style: Pixar 3D showing attention protection and deep work.",
+      "teachingPoint": "Protect your focus like a superpower - it's your competitive advantage"
+    },
+
+    "08": {
+      "title": "The Pressure Test",
+      "quote": "Pressure doesn't create who you are - it reveals who you've become through practice.",
+      "visualMetaphor": "Cartoon basketball player at free-throw line with visible holographic displays showing: elevated heart rate, nervous system activation, pressure indicators. BUT their internal thought bubble shows calm, process-focused thinking: 'Breathe. Focus. Trust.' Split-screen showing body's alarm (yellow) vs mind's control (blue-gold calm). Style: Pixar 3D showing pressure reframing.",
+      "teachingPoint": "Your preparation determines your performance under pressure"
+    },
+
+    "09": {
+      "title": "Morning Warm-Up",
+      "quote": "Your morning isn't about waking up early - it's about owning your day before chaos takes control.",
+      "visualMetaphor": "Two parallel morning timelines shown in cartoon split-screen: Left path shows CHAOS - snooze button, rushed stress, scattered start (dark, frantic). Right path shows CONTROL - 5-4-3-2-1-MOVE, structured routine, calm energy (bright, organized). Same person, different outcomes based on morning choice. Blue-gold championship morning light. Style: Pixar 3D showing morning momentum.",
+      "teachingPoint": "Win your morning, win your day - design your opening plays"
+    },
+
+    "10": {
+      "title": "Fuel Your Engine",
+      "quote": "Your body is the engine that powers everything. Premium fuel equals peak performance.",
+      "visualMetaphor": "Cartoon student as a high-performance race car with visible transparent engine showing fuel systems, energy levels, performance gauges. Left side shows garbage fuel input = sputtering engine (dark smoke). Right side shows premium fuel (healthy food, water, sleep) = purring engine (blue-gold energy glow). Dashboard displays performance metrics. Style: Pixar 3D showing body as high-performance machine.",
+      "teachingPoint": "Your body is your engine - fuel it like a Ferrari, not a garbage truck"
+    },
+
+    "11": {
+      "title": "The Recovery Room",
+      "quote": "You don't get stronger during the workout. You get stronger during recovery.",
+      "visualMetaphor": "Time-lapse cartoon plant growing in three stages: 1) Stress (watering/sunlight), 2) RECOVERY period (rest, no action visible), 3) GROWTH explosion (visible size increase). Arrows showing the cycle: Stress → Recovery → Adaptation. Plant grows during rest periods, not during stress. Peaceful blue-gold recovery atmosphere. Style: Pixar 3D showing growth happens in recovery.",
+      "teachingPoint": "Recovery isn't weakness - it's when growth happens"
+    },
+
+    "12": {
+      "title": "Time is Your Currency",
+      "quote": "You can't make more time. You can only decide what you're willing to trade it for.",
+      "visualMetaphor": "Cartoon student at crossroads with two paths showing hourglasses: Path 1 shows hours invested in scrolling/distraction - sand disappearing into nothing (1x return, fading away). Path 2 shows hours invested in skills/growth - sand multiplying exponentially (100x return, compounding). Visual comparison of time ROI. Blue-gold dramatic lighting. Style: Pixar 3D showing time investment returns.",
+      "teachingPoint": "Time is non-renewable currency - invest it in what compounds"
+    },
+
+    "13": {
+      "title": "The Compound Effect",
+      "quote": "1% better every day means you're 37 times better in a year.",
+      "visualMetaphor": "Large exponential curve graph in cartoon 3D showing two paths: Flat blue line labeled 'Same every day' staying at baseline. Bright gold exponential curve labeled '1% daily improvement' starting flat then curving upward dramatically. Markers at Day 30 (barely visible change), Day 90 (starting to curve), Day 365 (37x higher, explosive growth). Cartoon student celebrating at top. Style: Pixar 3D showing compound mathematics visually.",
+      "teachingPoint": "Small daily improvements compound exponentially - patience through the invisible phase wins"
+    },
+
+    "14": {
+      "title": "Choose Your Teammates",
+      "visualMetaphor": "Cartoon scene showing diverse hands in team huddle formation with glowing blue-gold energy bonds connecting them. Each hand represents different strengths (brain icons, muscle icons, heart icons, creative icons). Visual emphasis on selective collaboration - quality connections over quantity. Stadium championship teamwork atmosphere.",
+      "teachingPoint": "Strategic relationships amplify your potential - choose your team wisely"
+    },
+
+    "15": {
+      "title": "The Mentor Advantage",
+      "visualMetaphor": "Two cartoon characters on stepped platform: wise mentor (elevated) and eager student (learning). Mentor pointing forward, illuminating student's path with golden light beam filled with knowledge symbols (books, lightbulbs, experience stars). Transfer of wisdom shown visually. Blue-gold championship guidance atmosphere.",
+      "teachingPoint": "Mentors accelerate your journey - learn from their experience"
+    },
+
+    "16": {
+      "title": "Building Your Support System",
+      "visualMetaphor": "Cartoon structural foundation made of glowing pillars labeled 'Family', 'Friends', 'Mentors', 'Team' supporting a platform above where student stands strong. Network web connecting all pillars with blue-gold energy. Shows support system as critical infrastructure for success.",
+      "teachingPoint": "Your support system is your foundation - build it strong"
+    },
+
+    "17": {
+      "title": "Level Up Your Skills",
+      "visualMetaphor": "Ascending cartoon stairway with clear progression levels: Bronze → Silver → Gold → Platinum. Each step shows skill advancement with glowing achievement badges, power-up stars, progression indicators. Cartoon student climbing with determination. Video game achievement aesthetic. Blue-gold championship progression.",
+      "teachingPoint": "Skills compound through consistent leveling - master the progression path"
+    },
+
+    "18": {
+      "title": "Play Your Position",
+      "visualMetaphor": "Cartoon chess piece (king) perfectly positioned on strategic board with happy confident expression OR cartoon athlete in their ideal position/stance with spotlight. Finding sweet spot visualization. Blue-gold strategic lighting showing optimal positioning.",
+      "teachingPoint": "Find your unique position where your strengths shine"
+    },
+
+    "19": {
+      "title": "Clutch Moments",
+      "visualMetaphor": "Cartoon basketball frozen mid-swish at rim with energy particles and slow-motion effect OR cartoon sprinter breaking finish tape with victory explosion of confetti and championship energy. Peak performance moment captured. Blue-gold dramatic lighting showing clutch execution.",
+      "teachingPoint": "Clutch moments are built through preparation - deliver when it matters"
+    },
+
+    "20": {
+      "title": "The Long Game",
+      "visualMetaphor": "Winding cartoon marathon path with friendly mile markers leading from arena floor to distant mountain peak with victory flag. Cartoon student silhouette journeying forward along glowing blue-gold path showing progress over time. Long-term persistence visualization.",
+      "teachingPoint": "Champions play the long game - patience and persistence win"
+    }
+  }
+}

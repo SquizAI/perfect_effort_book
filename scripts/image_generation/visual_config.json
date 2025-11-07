@@ -1,0 +1,177 @@
+{
+  "bookCover": {
+    "aspectRatio": "2:3",
+    "style": {
+      "artistic": "Pixar-style 3D cartoon realism",
+      "mood": "Fun, energetic, inspirational, educational",
+      "colorPalette": {
+        "primary": "Vibrant championship blue (#2563EB)",
+        "secondary": "Bright victory gold (#FBBF24)",
+        "accent": "Energetic orange (#FB923C)",
+        "highlights": "Playful pinks and purples (#EC4899, #A855F7)",
+        "background": "Soft sky blue gradients"
+      },
+      "lighting": "Bright, cheerful, warm sunlight with soft shadows",
+      "texture": "Smooth cartoon shading with subtle highlights",
+      "quality": "High-quality Pixar/Disney-level rendering"
+    },
+    "theme": "Championship sports stadium with cartoon characters and fun educational elements",
+    "prompt": "Create a vibrant, fun Pixar-style 3D cartoon book cover for 'Perfect Effort: Winning at the Game of Life'. The scene shows a diverse group of excited cartoon middle/high school students in a colorful championship stadium. They're celebrating achievements with trophies, medals, and sports equipment floating around them. The stadium has bright blue and gold colors, cheerful lighting, and an inspiring atmosphere. Style: Pixar/Disney 3D animation quality, cartoon realism, fun but sophisticated, educational energy. Clean space at top for title. No text in image. Appeals to teens ages 12-18."
+  },
+  "chapters": {
+    "aspectRatio": "16:9",
+    "unifiedTheme": {
+      "setting": "Colorful cartoon championship stadium/arena with Pixar-style quality",
+      "lighting": "Bright, warm, cheerful lighting with soft cartoon shadows",
+      "floor": "Glossy, reflective cartoon arena floor with fun blue-gold patterns",
+      "background": "Soft-focused cartoon stadium with diverse excited spectator silhouettes",
+      "colorPalette": {
+        "primary": "Vibrant championship blue (#2563EB)",
+        "secondary": "Bright victory gold (#FBBF24)",
+        "accent": "Energetic orange (#FB923C)",
+        "pops": "Playful pinks, purples, greens for variety (#EC4899, #A855F7, #10B981)"
+      },
+      "style": "Pixar/Disney-quality 3D cartoon realism - fun, approachable, educational",
+      "perspective": "Dynamic, slightly elevated camera angle (15-25 degrees)",
+      "composition": "Centered main element with depth, rule of thirds balance",
+      "depthOfField": "Sharp, colorful foreground; soft, fun background",
+      "mood": "Inspiring, energetic, fun, educational, optimistic",
+      "targetAudience": "Middle and high school students (ages 12-18)"
+    },
+    "imagePrompts": {
+      "01": {
+        "title": "Life is a Sport",
+        "mainElement": "Cartoon sports equipment (basketball, soccer ball, chess pieces, running shoes, game controller) floating and glowing in a fun arrangement. Each item has personality - slight cartoon faces or expressions. Colorful energy trails connect them.",
+        "style": "Playful Pixar-style 3D, bright and inviting"
+      },
+      "02": {
+        "title": "Know Your Stats",
+        "mainElement": "Holographic cartoon dashboard with fun animated graphs, progress bars, and metrics floating in 3D space. Bright neon blue-gold-purple colors. Friendly UI design with playful icons and numbers that pop.",
+        "style": "Futuristic but fun, like a video game HUD"
+      },
+      "03": {
+        "title": "The Scoreboard That Matters",
+        "mainElement": "Modern cartoon scoreboard displaying unique success metrics with friendly icons: growth meter, friendship counter, learning streak, happiness gauge. Gold frame, colorful digital displays with fun animations.",
+        "style": "Bright, optimistic, game-like interface"
+      },
+      "04": {
+        "title": "Practice Like a Pro",
+        "mainElement": "Training station with cartoon practice equipment - weights with happy faces, musical instruments with personality, books that glow, all arranged in determined but friendly poses. Shows dedication with a smile.",
+        "style": "Motivational cartoon energy, friendly determination"
+      },
+      "05": {
+        "title": "Your Inner Coach",
+        "mainElement": "Glowing cartoon character silhouette radiating warm golden inner light. The light forms encouraging symbols (stars, hearts, thumbs up) around them. Ethereal but friendly, like a wise cartoon mentor.",
+        "style": "Magical, empowering, warm cartoon glow"
+      },
+      "06": {
+        "title": "Losing is Learning",
+        "mainElement": "Cartoon phoenix character rising from playful blue-gold flames, or broken trophy pieces magically reassembling with sparkles. Transformation shown in a hopeful, fun way. Character smiling through the challenge.",
+        "style": "Hopeful transformation with cartoon magic"
+      },
+      "07": {
+        "title": "Focus Mode: On",
+        "mainElement": "Giant colorful bullseye target with single glowing arrow dead center. Dramatic but playful spotlight beam. Surrounding area slightly blurred with cartoon motion lines showing intense focus energy.",
+        "style": "Sharp focus with fun energy visualization"
+      },
+      "08": {
+        "title": "The Pressure Test",
+        "mainElement": "Cartoon diamond forming in glass display case with visible cartoon pressure forces (fun weighted anvils, springs). Blue-gold crystalline structure with sparkles. Shows transformation in a friendly way.",
+        "style": "Dramatic but approachable, educational science vibe"
+      },
+      "09": {
+        "title": "Morning Warm-Up",
+        "mainElement": "Cheerful sunrise breaking through arena skylight, illuminating cartoon morning items on platform - yoga mat with cute pose figure, colorful healthy breakfast, journal with doodles. Dawn light mixing with arena glow.",
+        "style": "Fresh, energizing, bright morning energy"
+      },
+      "10": {
+        "title": "Fuel Your Engine",
+        "mainElement": "Cartoon engine made of vibrant fresh fruits, sparkling water droplets, and glowing energy symbols. Fruits have happy faces, engine parts are colorful and friendly. Blue-gold energy particles flowing.",
+        "style": "Vibrant, healthy, powered-up cartoon aesthetic"
+      },
+      "11": {
+        "title": "The Recovery Room",
+        "mainElement": "Peaceful cartoon recovery zone - comfy meditation cushion with sleepy character, gentle cartoon plants swaying, cozy rest area with soft pillows. Bathed in calm blue glow with floating Zzz's and peaceful symbols.",
+        "style": "Calming but still colorful and friendly"
+      },
+      "12": {
+        "title": "Time is Your Currency",
+        "mainElement": "Ornate cartoon hourglass where sand is made of golden coins and clock gears. Time pieces have friendly faces showing value. Precious metals shine, blue glass glows. Treasure-like presentation.",
+        "style": "Sophisticated but fun, valuable cartoon treasure"
+      },
+      "13": {
+        "title": "The Compound Effect",
+        "mainElement": "Cartoon domino chain mid-fall with each domino getting bigger and more colorful, or tiny seed with cartoon face sprouting into magnificent glowing golden tree with happy leaves. Small-to-large progression visual.",
+        "style": "Growth energy, exponential fun visualization"
+      },
+      "14": {
+        "title": "Choose Your Teammates",
+        "mainElement": "Circle of diverse cartoon hands reaching inward forming unified team huddle. Hands glow with blue-gold energy bonds connecting them. Friendship sparkles and high-five energy radiating.",
+        "style": "Collaborative, warm, inclusive cartoon teamwork"
+      },
+      "15": {
+        "title": "The Mentor Advantage",
+        "mainElement": "Two cartoon characters - wise mentor and eager student on stepped platform. Mentor illuminating student's path with golden light beam filled with knowledge symbols (books, lightbulbs, stars). Both characters smiling.",
+        "style": "Wisdom transfer with cartoon warmth"
+      },
+      "16": {
+        "title": "Building Your Support System",
+        "mainElement": "Strong cartoon architectural pillars or glowing network web with friendly connection nodes. Each node shows different support types (family, friends, teachers) with happy icons. Foundation looks solid but fun.",
+        "style": "Strong structure with friendly, connected energy"
+      },
+      "17": {
+        "title": "Level Up Your Skills",
+        "mainElement": "Ascending cartoon stairway with each level showing skill progression (bronze to silver to gold to platinum). Glowing progression indicators, achievement badges, power-up stars at each level. Video game aesthetic.",
+        "style": "Achievement-focused, gamified, aspirational"
+      },
+      "18": {
+        "title": "Play Your Position",
+        "mainElement": "Cartoon chess piece (king or queen) perfectly positioned on strategic board with happy confident expression. Or cartoon athlete in ideal stance with determination pose. Finding sweet spot visualization.",
+        "style": "Strategic but friendly, confident positioning"
+      },
+      "19": {
+        "title": "Clutch Moments",
+        "mainElement": "Cartoon basketball frozen at rim mid-swish with energy particles, or cartoon sprinter breaking finish tape with victory explosion of confetti and stars. Peak performance captured in fun moment.",
+        "style": "Victorious, peak energy, celebration mood"
+      },
+      "20": {
+        "title": "The Long Game",
+        "mainElement": "Winding cartoon marathon path with friendly mile markers leading from arena floor to distant mountain peak with victory flag. Cartoon character silhouette journeying forward. Path glows blue-gold showing progress.",
+        "style": "Patient journey, hopeful long-term adventure"
+      }
+    },
+    "consistentElements": [
+      "Pixar/Disney-quality 3D cartoon rendering",
+      "Vibrant blue-gold-orange color palette with playful accents",
+      "Bright, cheerful stadium/arena setting",
+      "Soft cartoon shadows and warm lighting",
+      "Friendly, approachable characters or objects with personality",
+      "Educational but fun - never childish, always teen-appropriate",
+      "Depth of field - sharp colorful foreground, soft background",
+      "No text or typography in images",
+      "High-quality, publication-ready rendering",
+      "Inspires action while being fun and engaging"
+    ],
+    "qualityChecklist": [
+      "Pixar/Disney-level 3D rendering quality",
+      "Bright, vibrant, optimistic color scheme",
+      "Stadium/arena environment visible",
+      "Cartoon realism - not too childish, not too serious",
+      "16:9 aspect ratio maintained",
+      "Appeals to ages 12-18 (middle/high school)",
+      "Educational energy without being preachy",
+      "Consistent with other chapter images",
+      "Fun elements that enhance, not distract",
+      "Professional quality suitable for publication"
+    ]
+  },
+  "technicalSpecs": {
+    "model": "gemini-2.5-flash-image",
+    "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent",
+    "responseModalities": ["Image"],
+    "bookCoverResolution": "832x1248",
+    "chapterResolution": "1344x768",
+    "format": "PNG",
+    "tokensPerImage": 1290
+  }
+}

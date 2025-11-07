@@ -1,6 +1,20 @@
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_04_Practice_Like_a_Pro.png" alt="Chapter 4: Practice Like a Pro" width="600"/>
+
 # Chapter 4: Practice Like a Pro
 
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+---
+
+</div>
+
+> [!NOTE]
+> **💡 Key Insight**
 > **Core Concept**: Hours don't make you better. The right kind of practice makes you better.
+> [!NOTE]
+> **💡 Key Insight**
 > **The Output**: Master any skill faster than you thought possible – not by practicing more, but by practicing deliberately.
 
 ---
@@ -1071,3 +1085,12 @@ Then report back to yourself: How much more effective was that than your normal 
 The game has begun. Time to practice like a pro.
 
 Let's go.
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 3 - The Scoreboard That Matters](chapter_03_the_scoreboard_that_matters.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 5 - Your Inner Coach ➡️](chapter_05_your_inner_coach.md)
+
+</div>

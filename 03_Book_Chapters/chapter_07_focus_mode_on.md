@@ -1,6 +1,20 @@
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_07_Focus_Mode:_On.png" alt="Chapter 7: Focus Mode: On" width="600"/>
+
 # Chapter 7: Focus Mode: On
 
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+---
+
+</div>
+
+> [!NOTE]
+> **💡 Key Insight**
 > **Core Concept**: Your attention is your most valuable resource. Where you focus determines what you build.
+> [!NOTE]
+> **💡 Key Insight**
 > **The Output**: Master deep focus so you can accomplish in 90 minutes what takes others all day – and actually enjoy the process.
 
 ---
@@ -786,12 +800,20 @@ Each choice seems small. But they compound.
 
 ## Coach's Corner: The Focus Mindset
 
+> [!NOTE]
+> **💡 Key Insight**
 > **Remember:** Focus isn't about never getting distracted. It's about returning to focus faster each time.
 >
+> [!NOTE]
+> **💡 Key Insight**
 > **Remember:** The discomfort of resisting distraction is the feeling of your focus muscle getting stronger.
 >
+> [!NOTE]
+> **💡 Key Insight**
 > **Remember:** You're not fighting against your phone. You're fighting for your future.
 >
+> [!NOTE]
+> **💡 Key Insight**
 > **Remember:** Every second of focus is training. Every second of distraction is also training. Choose which you want to get good at.
 
 ---
@@ -891,3 +913,12 @@ Track your progress:
 **Remember:** In a world where everyone is distracted, the ability to focus deeply is your unfair advantage. Every moment of focus is a vote for the future you're building.
 
 **Where will your attention take you?**
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 6 - Losing is Learning](chapter_06_losing_is_learning.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 8 - The Pressure Test ➡️](chapter_08_the_pressure_test.md)
+
+</div>

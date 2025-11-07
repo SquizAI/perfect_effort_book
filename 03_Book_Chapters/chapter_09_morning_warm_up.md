@@ -1,6 +1,20 @@
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_09_Morning_Warm-Up.png" alt="Chapter 9: Morning Warm-Up" width="600"/>
+
 # Chapter 9: Morning Warm-Up
 
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+---
+
+</div>
+
+> [!NOTE]
+> **💡 Key Insight**
 > **Core Concept**: Your morning isn't about waking up early - it's about owning your day before distractions, demands, and chaos take control.
+> [!NOTE]
+> **💡 Key Insight**
 > **The Output**: Walk into school like you've already won three times before anyone else woke up.
 
 ---
@@ -297,6 +311,8 @@ A good morning isn't just about the morning. It primes your brain for peak perfo
 
 ---
 
+> [!NOTE]
+> **💡 Key Insight**
 > **Coach's Corner:**
 >
 > Your brain in the morning is like a clean whiteboard. You can write whatever you want on it. By noon, everyone else has already written all over it. Use that clean space while you have it.
@@ -522,6 +538,8 @@ You're designing the environment so the right behavior becomes automatic. That's
 
 ---
 
+> [!NOTE]
+> **💡 Key Insight**
 > **Coach's Corner:**
 >
 > If your morning routine requires willpower to execute, it's designed wrong. Willpower is limited. Systems are unlimited. Design a system that works even when motivation is low.
@@ -1095,3 +1113,12 @@ Next up: **Chapter 10: Fuel Your Engine** - How to eat, sleep, and recover like 
 ---
 
 **The morning is yours. What are you going to build with it?**
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 8 - The Pressure Test](chapter_08_the_pressure_test.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 10 - Fuel Your Engine ➡️](chapter_10_fuel_your_engine.md)
+
+</div>

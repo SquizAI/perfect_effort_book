@@ -1,6 +1,20 @@
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_08_The_Pressure_Test.png" alt="Chapter 8: The Pressure Test" width="600"/>
+
 # Chapter 8: The Pressure Test
 
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+---
+
+</div>
+
+> [!NOTE]
+> **💡 Key Insight**
 > **Core Concept**: Pressure doesn't create who you are – it reveals who you've become through practice.
+> [!NOTE]
+> **💡 Key Insight**
 > **The Output**: Perform your best when the stakes are highest and everyone's watching.
 
 ---
@@ -106,6 +120,8 @@ Within days, he was reinstated. The company stabilized. Why? Because when pressu
 
 That's not talent. That's trained response under pressure.
 
+> [!NOTE]
+> **💡 Key Insight**
 > **Coach's Corner:**
 >
 > Your body can't tell the difference between excitement and nervousness. They're the same physiological state. The only difference is your interpretation. Next time you feel "nervous," try thinking "I'm excited." Same feeling. Different label. Different performance.
@@ -353,6 +369,8 @@ Here's how to build yours:
 - Between plays, reset your breathing.
 - **Micro-resets keep you calm throughout.**
 
+> [!NOTE]
+> **💡 Key Insight**
 > **Coach's Corner:**
 >
 > Your pre-performance routine should be the same every time. Same warm-up. Same breathing. Same self-talk. Why? Consistency creates calm. Your brain recognizes the routine and goes, "I know this. I've done this before. I'm ready." Novelty creates anxiety.
@@ -490,6 +508,8 @@ You analyze the tape. You break down what happened. You learn.
 **Do I need to adjust my training?**
 - If you choked on a specific skill, practice that specific scenario under pressure this week.
 
+> [!NOTE]
+> **💡 Key Insight**
 > **Coach's Corner:**
 >
 > The most important film room sessions happen after you choke, not after you win. Winning feels great, but choking teaches more. The question isn't "Will I ever choke?" (you will). The question is "What will I learn when I do?"
@@ -810,3 +830,12 @@ Because consistency beats intensity. And the morning you create determines the d
 **Next up: Chapter 9 – Morning Warm-Up: Own Your Day Before It Owns You**
 
 The game starts before you think it does. Let's make sure you're ready from the moment you wake up.
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 7 - Focus Mode: On](chapter_07_focus_mode_on.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 9 - Morning Warm-Up ➡️](chapter_09_morning_warm_up.md)
+
+</div>

@@ -1,4 +1,14 @@
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_01_Life_is_a_Sport.png" alt="Chapter 1: Life is a Sport" width="600"/>
+
 # Chapter 1: Life is a Sport
+
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+---
+
+</div>
 
 ## The Whistle Just Blew
 
@@ -361,3 +371,12 @@ You can't improve what you don't measure. Time to get scientific about your life
 The game has begun.
 
 Let's go.
+
+
+---
+
+<div align="center">
+
+[🏠 Back to Home](../README.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 2 - Know Your Stats ➡️](chapter_02_know_your_stats.md)
+
+</div>

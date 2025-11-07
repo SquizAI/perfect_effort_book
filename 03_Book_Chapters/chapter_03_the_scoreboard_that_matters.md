@@ -1,6 +1,20 @@
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_03_The_Scoreboard_That_Matters.png" alt="Chapter 3: The Scoreboard That Matters" width="600"/>
+
 # Chapter 3: The Scoreboard That Matters
 
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+---
+
+</div>
+
+> [!NOTE]
+> **💡 Key Insight**
 > **Core Concept**: The only scoreboard that truly matters is the one you keep for yourself. External validation is a game you can never win—internal standards are a game you can dominate.
+> [!NOTE]
+> **💡 Key Insight**
 > **The Output**: Become the person you're proud of, not the person you think will impress others.
 
 ---
@@ -723,3 +737,12 @@ Play your game.
 Win your way.
 
 Let's go.
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 2 - Know Your Stats](chapter_02_know_your_stats.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 4 - Practice Like a Pro ➡️](chapter_04_practice_like_a_pro.md)
+
+</div>

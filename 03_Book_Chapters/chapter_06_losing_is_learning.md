@@ -1,6 +1,20 @@
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_06_Losing_is_Learning.png" alt="Chapter 6: Losing is Learning" width="600"/>
+
 # Chapter 6: Losing is Learning
 
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+---
+
+</div>
+
+> [!NOTE]
+> **💡 Key Insight**
 > **Core Concept**: Failure isn't the opposite of success – it's the admission price. Every loss is a lesson if you're willing to learn from it.
+> [!NOTE]
+> **💡 Key Insight**
 > **The Output**: Transform every setback into a strategic advantage by extracting the lesson and bouncing back faster than your competition.
 
 ---
@@ -730,3 +744,12 @@ That's what we're covering next.
 **Remember:** The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life. Failure is uncomfortable. Analyzing failure is uncomfortable. That discomfort is the price of growth. Winners pay it. Losers avoid it.
 
 Which one are you?
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 5 - Your Inner Coach](chapter_05_your_inner_coach.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 7 - Focus Mode: On ➡️](chapter_07_focus_mode_on.md)
+
+</div>

@@ -1,6 +1,20 @@
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_12_Time_is_Your_Currency.png" alt="Chapter 12: Time is Your Currency" width="600"/>
+
 # Chapter 12: Time is Your Currency
 
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+---
+
+</div>
+
+> [!NOTE]
+> **💡 Key Insight**
 > **Core Concept**: Time is your only non-renewable resource. You can't make more. You can only decide what you're willing to trade it for.
+> [!NOTE]
+> **💡 Key Insight**
 > **The Output**: Master your time to create leverage, freedom, and options that compound for years.
 
 ---
@@ -961,3 +975,12 @@ The game is just getting started.
 **And the next one.**
 
 **What are you buying with your time?**
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 11 - The Recovery Room](chapter_11_the_recovery_room.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 13 - The Compound Effect ➡️](chapter_13_the_compound_effect.md)
+
+</div>

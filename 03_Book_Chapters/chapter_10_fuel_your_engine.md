@@ -1,6 +1,20 @@
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_10_Fuel_Your_Engine.png" alt="Chapter 10: Fuel Your Engine" width="600"/>
+
 # Chapter 10: Fuel Your Engine
 
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+---
+
+</div>
+
+> [!NOTE]
+> **💡 Key Insight**
 > **Core Concept**: Your body is the engine that powers everything you want to achieve.
+> [!NOTE]
+> **💡 Key Insight**
 > **The Output**: Consistent energy, razor-sharp focus, and a body built to dominate for the next 70 years.
 
 ---
@@ -982,3 +996,12 @@ That's not luck. That's fuel.
 6. **Journal: How does better fuel change your performance?** - Energy, focus, mood, physical capability. Track the difference.
 
 One week. Six commitments. Your engine will thank you.
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 9 - Morning Warm-Up](chapter_09_morning_warm_up.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 11 - The Recovery Room ➡️](chapter_11_the_recovery_room.md)
+
+</div>

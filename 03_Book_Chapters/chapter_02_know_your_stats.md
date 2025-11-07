@@ -1,6 +1,20 @@
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_02_Know_Your_Stats.png" alt="Chapter 2: Know Your Stats" width="600"/>
+
 # Chapter 2: Know Your Stats
 
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+---
+
+</div>
+
+> [!NOTE]
+> **💡 Key Insight**
 > **Core Concept**: You can't improve what you don't measure. Winners track their stats religiously – not to judge themselves, but to level up strategically.
+> [!NOTE]
+> **💡 Key Insight**
 > **The Output**: Build a system that shows you exactly where you are, where you're going, and how fast you're getting there.
 
 ---
@@ -695,3 +709,12 @@ Time to figure out what game you're actually playing.
 The game has a scoreboard.
 
 Let's find out what it says.
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 1 - Life is a Sport](chapter_01_life_is_a_sport.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 3 - The Scoreboard That Matters ➡️](chapter_03_the_scoreboard_that_matters.md)
+
+</div>

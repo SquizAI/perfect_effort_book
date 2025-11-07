@@ -1,116 +1,46 @@
 <div align="center">
 
-# 🏆 Perfect Effort
+# 🏆 PERFECT EFFORT
 ### *Winning at the Game of Life*
+#### by Professor Matty
 
-**A practical guide for middle and high school students on mastering the fundamentals of success through powerful habits, output-focused mindset, and growth through discomfort.**
+<img src="images/generated/book_cover_perfect_effort.png" alt="Perfect Effort Book Cover" width="400"/>
 
----
+**A practical playbook for middle and high school students mastering the fundamentals of success**
 
-[![GitHub](https://img.shields.io/badge/GitHub-SquizAI-blue?style=flat-square&logo=github)](https://github.com/SquizAI/perfect_effort_book)
-[![Progress](https://img.shields.io/badge/Progress-13%2F20_Chapters-green?style=flat-square)]()
-[![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)]()
+[![GitHub](https://img.shields.io/badge/GitHub-SquizAI-2563EB?style=for-the-badge&logo=github)](https://github.com/SquizAI/perfect_effort_book)
+[![License](https://img.shields.io/badge/License-Open-FBBF24?style=for-the-badge)](https://github.com/SquizAI/perfect_effort_book)
 
 </div>
 
 ---
 
-## 💡 Core Philosophy
+## 💎 What is Perfect Effort?
 
-> **"The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life. When you are uncomfortable, that means you are learning."**
+> **Nobody is perfect, but you can give your best effort. That's all we ask.**
 
-### Three Pillars
+Perfect Effort isn't about being flawless—it's about **showing up**, **putting in the work**, and **holding yourself accountable**. This book teaches you how to win at the game of life by mastering the fundamentals: powerful habits, output-focused mindset, and growth through discomfort.
 
-```
-🎯 OUTPUT over Tasks          🏃 Life is a Sport          📈 Embrace Discomfort
-Focus on compelling           Master the fundamentals     Growth happens outside
-end states, not grinding      to level up your game       your comfort zone
-```
-
----
-
-## 📚 Book Chapters
-
-<details open>
-<summary><b>Part 1: The Game (Foundation)</b></summary>
-
-| # | Chapter | Status | Read |
-|---|---------|--------|------|
-| 1 | [Life is a Sport](03_Book_Chapters/chapter_01_life_is_a_sport.md) | ✅ Complete | [📖](03_Book_Chapters/chapter_01_life_is_a_sport.md) |
-| 2 | [Know Your Stats](03_Book_Chapters/chapter_02_know_your_stats.md) | ✅ Complete | [📖](03_Book_Chapters/chapter_02_know_your_stats.md) |
-| 3 | [The Scoreboard That Matters](03_Book_Chapters/chapter_03_the_scoreboard_that_matters.md) | ✅ Complete | [📖](03_Book_Chapters/chapter_03_the_scoreboard_that_matters.md) |
-| 4 | [Practice Like a Pro](03_Book_Chapters/chapter_04_practice_like_a_pro.md) | ✅ Complete | [📖](03_Book_Chapters/chapter_04_practice_like_a_pro.md) |
-
-</details>
-
-<details open>
-<summary><b>Part 2: Mental Game (Mindset)</b></summary>
-
-| # | Chapter | Status | Read |
-|---|---------|--------|------|
-| 5 | [Your Inner Coach](03_Book_Chapters/chapter_05_your_inner_coach.md) | ✅ Complete | [📖](03_Book_Chapters/chapter_05_your_inner_coach.md) |
-| 6 | [Losing is Learning](03_Book_Chapters/chapter_06_losing_is_learning.md) | ✅ Complete | [📖](03_Book_Chapters/chapter_06_losing_is_learning.md) |
-| 7 | [Focus Mode: On](03_Book_Chapters/chapter_07_focus_mode_on.md) | ✅ Complete | [📖](03_Book_Chapters/chapter_07_focus_mode_on.md) |
-| 8 | [The Pressure Test](03_Book_Chapters/chapter_08_the_pressure_test.md) | ✅ Complete | [📖](03_Book_Chapters/chapter_08_the_pressure_test.md) |
-
-</details>
-
-<details open>
-<summary><b>Part 3: Daily Training (Habits)</b></summary>
-
-| # | Chapter | Status | Read |
-|---|---------|--------|------|
-| 9 | [Morning Warm-Up](03_Book_Chapters/chapter_09_morning_warm_up.md) | ✅ Complete | [📖](03_Book_Chapters/chapter_09_morning_warm_up.md) |
-| 10 | [Fuel Your Engine](03_Book_Chapters/chapter_10_fuel_your_engine.md) | ✅ Complete | [📖](03_Book_Chapters/chapter_10_fuel_your_engine.md) |
-| 11 | [The Recovery Room](03_Book_Chapters/chapter_11_the_recovery_room.md) | ✅ Complete | [📖](03_Book_Chapters/chapter_11_the_recovery_room.md) |
-| 12 | [Time is Your Currency](03_Book_Chapters/chapter_12_time_is_your_currency.md) | ✅ Complete | [📖](03_Book_Chapters/chapter_12_time_is_your_currency.md) |
-| 13 | [The Compound Effect](03_Book_Chapters/chapter_13_the_compound_effect.md) | ✅ Complete | [📖](03_Book_Chapters/chapter_13_the_compound_effect.md) |
-
-</details>
-
-<details open>
-<summary><b>Part 4: Team Play (Relationships)</b></summary>
-
-| # | Chapter | Status | Read |
-|---|---------|--------|------|
-| 14 | Choose Your Teammates | 🔄 In Progress | — |
-| 15 | The Mentor Advantage | 📝 Planned | — |
-| 16 | Building Your Support System | 📝 Planned | — |
-
-</details>
-
-<details open>
-<summary><b>Part 5: Championship Level (Excellence)</b></summary>
-
-| # | Chapter | Status | Read |
-|---|---------|--------|------|
-| 17 | Level Up Your Skills | 📝 Planned | — |
-| 18 | Play Your Position | 📝 Planned | — |
-| 19 | Clutch Moments | 📝 Planned | — |
-| 20 | The Long Game | 📝 Planned | — |
-
-</details>
-
----
-
-## 🎯 Quick Navigation
+### 🎯 Core Philosophy
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 📖 For Readers
-- [Start Reading: Chapter 1](03_Book_Chapters/chapter_01_life_is_a_sport.md)
-- [View Master Outline](02_Documents/master_outline.md)
-- [About the Book](02_Documents/project_roadmap.md)
+### 🏃 Life is a Sport
+Master the fundamentals<br/>to level up your game
 
 </td>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🛠️ For Contributors
-- [Style Guide](02_Documents/style_guide.md)
-- [Chapter Template](02_Documents/chapter_template.md)
-- [Research Resources](01_Research/)
+### 🎯 OUTPUT over Tasks
+Focus on compelling<br/>end states, not grinding
+
+</td>
+<td width="33%" align="center">
+
+### 📈 Embrace Discomfort
+Growth happens outside<br/>your comfort zone
 
 </td>
 </tr>
@@ -118,111 +48,187 @@ end states, not grinding      to level up your game       your comfort zone
 
 ---
 
-## 🚀 Project Structure
+## 📚 The Chapters
 
-```
-📁 Perfect Effort/
-│
-├── 📂 01_Research/              Research notes, sources, examples
-│   ├── examples/                Categorized success stories
-│   └── research_topics_checklist.md
-│
-├── 📂 02_Documents/             Planning, outlines, guides
-│   ├── chapter_outlines/        Detailed chapter outlines
-│   ├── editor_notes/            Editorial feedback
-│   ├── fact_checks/             Fact-checking reports
-│   ├── master_outline.md        Book structure overview
-│   ├── style_guide.md           Writing style guidelines
-│   └── project_roadmap.md       Timeline and milestones
-│
-├── 📂 03_Book_Chapters/         Published chapter manuscripts
-│
-└── 📂 .claude/                  AI agent configuration
-    ├── commands/                Slash commands for development
-    └── skills/                  Automated task skills
-```
+<div align="center">
+
+### Part 1: The Game (Foundation)
+
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="images/generated/chapters_informative/chapter_01_Life_is_a_Sport.png" width="200"/><br/>
+<b>1. Life is a Sport</b><br/>
+<a href="03_Book_Chapters/chapter_01_life_is_a_sport.md">Read Chapter →</a>
+</td>
+<td width="25%" align="center">
+<img src="images/generated/chapters_informative/chapter_02_Know_Your_Stats.png" width="200"/><br/>
+<b>2. Know Your Stats</b><br/>
+<a href="03_Book_Chapters/chapter_02_know_your_stats.md">Read Chapter →</a>
+</td>
+<td width="25%" align="center">
+<img src="images/generated/chapters_informative/chapter_03_The_Scoreboard_That_Matters.png" width="200"/><br/>
+<b>3. The Scoreboard That Matters</b><br/>
+<a href="03_Book_Chapters/chapter_03_the_scoreboard_that_matters.md">Read Chapter →</a>
+</td>
+<td width="25%" align="center">
+<img src="images/generated/chapters_informative/chapter_04_Practice_Like_a_Pro.png" width="200"/><br/>
+<b>4. Practice Like a Pro</b><br/>
+<a href="03_Book_Chapters/chapter_04_practice_like_a_pro.md">Read Chapter →</a>
+</td>
+</tr>
+</table>
+
+### Part 2: Mental Game (Mindset)
+
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="images/generated/chapters_informative/chapter_05_Your_Inner_Coach.png" width="200"/><br/>
+<b>5. Your Inner Coach</b><br/>
+<a href="03_Book_Chapters/chapter_05_your_inner_coach.md">Read Chapter →</a>
+</td>
+<td width="25%" align="center">
+<img src="images/generated/chapters_informative/chapter_06_Losing_is_Learning.png" width="200"/><br/>
+<b>6. Losing is Learning</b><br/>
+<a href="03_Book_Chapters/chapter_06_losing_is_learning.md">Read Chapter →</a>
+</td>
+<td width="25%" align="center">
+<img src="images/generated/chapters_informative/chapter_07_Focus_Mode:_On.png" width="200"/><br/>
+<b>7. Focus Mode: On</b><br/>
+<a href="03_Book_Chapters/chapter_07_focus_mode_on.md">Read Chapter →</a>
+</td>
+<td width="25%" align="center">
+<img src="images/generated/chapters_informative/chapter_08_The_Pressure_Test.png" width="200"/><br/>
+<b>8. The Pressure Test</b><br/>
+<a href="03_Book_Chapters/chapter_08_the_pressure_test.md">Read Chapter →</a>
+</td>
+</tr>
+</table>
+
+### Part 3: Daily Training (Habits)
+
+<table>
+<tr>
+<td width="20%" align="center">
+<img src="images/generated/chapters_informative/chapter_09_Morning_Warm-Up.png" width="180"/><br/>
+<b>9. Morning Warm-Up</b><br/>
+<a href="03_Book_Chapters/chapter_09_morning_warm_up.md">Read Chapter →</a>
+</td>
+<td width="20%" align="center">
+<img src="images/generated/chapters_informative/chapter_10_Fuel_Your_Engine.png" width="180"/><br/>
+<b>10. Fuel Your Engine</b><br/>
+<a href="03_Book_Chapters/chapter_10_fuel_your_engine.md">Read Chapter →</a>
+</td>
+<td width="20%" align="center">
+<img src="images/generated/chapters_informative/chapter_11_The_Recovery_Room.png" width="180"/><br/>
+<b>11. The Recovery Room</b><br/>
+<a href="03_Book_Chapters/chapter_11_the_recovery_room.md">Read Chapter →</a>
+</td>
+<td width="20%" align="center">
+<img src="images/generated/chapters_informative/chapter_12_Time_is_Your_Currency.png" width="180"/><br/>
+<b>12. Time is Your Currency</b><br/>
+<a href="03_Book_Chapters/chapter_12_time_is_your_currency.md">Read Chapter →</a>
+</td>
+<td width="20%" align="center">
+<img src="images/generated/chapters_informative/chapter_13_The_Compound_Effect.png" width="180"/><br/>
+<b>13. The Compound Effect</b><br/>
+<a href="03_Book_Chapters/chapter_13_the_compound_effect.md">Read Chapter →</a>
+</td>
+</tr>
+</table>
+
+### Part 4: Team Play (Relationships) • Coming Soon
+
+**Chapter 14:** Choose Your Teammates
+**Chapter 15:** The Mentor Advantage
+**Chapter 16:** Building Your Support System
+
+### Part 5: Championship Level (Excellence) • Coming Soon
+
+**Chapter 17:** Level Up Your Skills
+**Chapter 18:** Play Your Position
+**Chapter 19:** Clutch Moments
+**Chapter 20:** The Long Game
+
+</div>
 
 ---
 
-## 🤖 AI Development Tools
+## 🎯 Who This Book Is For
 
-### Specialized Agents
+**Middle & High School Students (Ages 12-18)** who want to:
 
-| Agent | Purpose | Usage |
-|-------|---------|-------|
-| `research-agent` | Gather credible sources on psychology, habits, flow state | Research phase |
-| `chapter-writer` | Draft engaging chapters with authentic teen voice | Writing phase |
-| `editor-agent` | Polish chapters while maintaining voice and philosophy | Editing phase |
-| `orchestrator-agent` | Coordinate multi-agent workflows | Project management |
-
-### Slash Commands
-
-```bash
-/research           # Research assistant for gathering information
-/write-chapter      # Chapter writer following style guide
-/editor             # Edit and polish chapter drafts
-/outline-chapter    # Create detailed chapter outlines
-```
+- 🏆 Build powerful habits that compound over time
+- 🎯 Develop an output-focused mindset
+- 🚀 Master the fundamentals of success early
+- 💪 Learn to embrace discomfort as growth
+- 🎮 Understand life as a learnable game with rules to master
 
 ---
 
-## 📊 Progress Tracker
+## 🔥 Key Quotes
 
-```
-Overall Progress: ████████████░░░░░░░░ 65%
+> *"The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life."*
 
-Part 1: Foundation     ████████████████████ 100% (4/4 chapters)
-Part 2: Mental Game    ████████████████████ 100% (4/4 chapters)
-Part 3: Daily Training ████████████████████ 100% (5/5 chapters)
-Part 4: Team Play      ░░░░░░░░░░░░░░░░░░░░   0% (0/3 chapters)
-Part 5: Excellence     ░░░░░░░░░░░░░░░░░░░░   0% (0/4 chapters)
-```
+> *"You don't rise to the occasion. You fall to your level of preparation."*
 
-**Target Completion:** 28-week timeline from research to publication-ready manuscript
+> *"In God we trust. All others bring data."*
+
+> *"Your inner voice is either your greatest coach or your worst enemy. You get to choose which one wins."*
+
+> *"1% better every day means you're 37 times better in a year."*
+
+---
+
+## 📖 Start Reading
+
+<div align="center">
+
+### Ready to level up?
+
+**[📖 Start with Chapter 1: Life is a Sport](03_Book_Chapters/chapter_01_life_is_a_sport.md)**
+
+Or jump to any chapter that speaks to you:
+- Struggling with focus? → [Chapter 7: Focus Mode On](03_Book_Chapters/chapter_07_focus_mode_on.md)
+- Need better habits? → [Chapter 9: Morning Warm-Up](03_Book_Chapters/chapter_09_morning_warm_up.md)
+- Want to handle pressure? → [Chapter 8: The Pressure Test](03_Book_Chapters/chapter_08_the_pressure_test.md)
+- Failing at something? → [Chapter 6: Losing is Learning](03_Book_Chapters/chapter_06_losing_is_learning.md)
+
+</div>
 
 ---
 
 ## 📚 Research Foundation
 
-Our approach is grounded in research from leading experts:
+This book is grounded in research from leading experts:
 
-- **Flow Research Collective** — Steven Kotler, Michael Mannino (Peak performance science)
+- **Steven Kotler & Flow Research Collective** — Peak performance science
 - **Carol Dweck** — Growth Mindset research
-- **Angela Duckworth** — Grit and perseverance studies
+- **Angela Duckworth** — Grit and perseverance
 - **James Clear** — Atomic Habits methodology
-- **BJ Fogg** — Tiny Habits behavioral design
+- **BJ Fogg** — Behavioral design
+- **Cal Newport** — Deep work and focus
 
 ---
 
-## 🎓 Target Audience
+## 🤝 Contributing
 
-**Middle and High School Students (Ages 12-18)**
+Feedback, suggestions, and contributions are welcome!
 
-Students who want to:
-- Build powerful habits that compound over time
-- Develop an output-focused mindset
-- Master the fundamentals of success early
-- Learn to embrace discomfort as a path to growth
-- Understand life as a learnable game with rules to master
-
----
-
-## 📝 License & Contributing
-
-This is an open development project. Feedback, suggestions, and contributions are welcome!
-
-**Contact:** [GitHub Issues](https://github.com/SquizAI/perfect_effort_book/issues)
+- 💬 **Questions?** [Open an issue](https://github.com/SquizAI/perfect_effort_book/issues)
+- 📧 **Contact:** [GitHub Discussions](https://github.com/SquizAI/perfect_effort_book/discussions)
 
 ---
 
 <div align="center">
 
-**Start Your Journey**
+**Perfect Effort** is about giving your best—not being perfect.
 
-[📖 Begin with Chapter 1: Life is a Sport](03_Book_Chapters/chapter_01_life_is_a_sport.md)
+*Let's win at the game of life together.*
 
 ---
 
-*Built with dedication to helping the next generation master the game of life.*
+**[📖 Start Reading Now](03_Book_Chapters/chapter_01_life_is_a_sport.md)**
 
 </div>
