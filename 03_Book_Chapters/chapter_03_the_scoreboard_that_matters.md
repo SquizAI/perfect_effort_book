@@ -20,7 +20,7 @@
 
 ---
 
-## 100 Likes and Still Empty
+## <span style="color: #0969DA">100 Likes and Still Empty</span>
 
 
 You posted it 3 minutes ago.
@@ -57,7 +57,7 @@ Because you're playing on the wrong scoreboard.
 
 ---
 
-## The Two Scoreboards
+## <span style="color: #0969DA">The Two Scoreboards</span>
 
 
 Let me ask you something. Really think about this.
@@ -89,7 +89,7 @@ One scorecard you control completely. The other scorecard you control exactly ze
 
 Guess which one most people spend their lives chasing?
 
-### The External Scorecard Trap
+### <span style="color: #0969DA">The External Scorecard Trap</span>
 
 The external scorecard is seductive. It's immediate. It's visible. It feels real.
 
@@ -118,7 +118,7 @@ You're playing a game with no finish line, on a scoreboard that's always changin
 
 That's not a game. That's a trap.
 
-### The Internal Scorecard: A Game You Can Actually Win
+### <span style="color: #0969DA">The Internal Scorecard: A Game You Can Actually Win</span>
 
 Now here's the beautiful thing about the internal scorecard:
 
@@ -150,7 +150,7 @@ You're playing your own game. And that's a game you can dominate.
 
 ---
 
-## Who Wrote Your Rules?
+## <span style="color: #0969DA">Who Wrote Your Rules?</span>
 
 
 Pop quiz:
@@ -176,7 +176,7 @@ Here's what the default scorecard looks like:
 
 **Question**: Is that YOUR scoreboard, or just the default settings?
 
-### The Problem with Default Settings
+### <span style="color: #0969DA">The Problem with Default Settings</span>
 
 Think about video games for a second. When you first start playing, default settings are fine. But if you want to actually get good? You customize.
 
@@ -206,7 +206,7 @@ And here's the most painful part: They "win" the external game and still feel li
 
 Because they were playing the wrong game the entire time.
 
-### The Uncomfortable Choice
+### <span style="color: #0969DA">The Uncomfortable Choice</span>
 
 Warren Buffett said something that changed how I think about this forever:
 
@@ -235,7 +235,7 @@ The sooner you learn to be comfortable with being uncomfortable—with choosing 
 
 ---
 
-## Building Your Internal Scorecard
+## <span style="color: #0969DA">Building Your Internal Scorecard</span>
 
 
 Alright. Theory's great. But how do you actually do this?
@@ -244,7 +244,7 @@ How do you build an internal scorecard when you've spent your whole life playing
 
 Here's the framework. Four questions. Answer them honestly—not with what you think you "should" say, but with what you actually feel.
 
-### Question 1: What Do You Actually Value?
+### <span style="color: #0969DA">Question 1: What Do You Actually Value?</span>
 
 Not what you're supposed to value. What you genuinely care about.
 
@@ -269,7 +269,7 @@ Examples of values to consider:
 
 Pick 3-5 that actually resonate. These are your foundations.
 
-### Question 2: What Does YOUR Version of Winning Look Like?
+### <span style="color: #0969DA">Question 2: What Does YOUR Version of Winning Look Like?</span>
 
 Based on your values, what does success actually mean?
 
@@ -302,7 +302,7 @@ Here's what this looks like in practice:
 
 See the difference? One is about who you're becoming. The other is about what others think of you.
 
-### Question 3: What Makes You Feel Alive?
+### <span style="color: #0969DA">Question 3: What Makes You Feel Alive?</span>
 
 This one's sneaky important.
 
@@ -316,7 +316,7 @@ The best scorecard includes things that energize you. Activities that put you in
 
 This is about finding the intersection between what matters to you AND what makes you come alive.
 
-### Question 4: Who Do You Want to Be?
+### <span style="color: #0969DA">Question 4: Who Do You Want to Be?</span>
 
 Not what you want to HAVE. Not what you want people to THINK about you.
 
@@ -346,7 +346,7 @@ The scoreboard becomes internal. And that's when you become unstoppable.
 
 ---
 
-## The Private Victory List
+## <span style="color: #0969DA">The Private Victory List</span>
 
 
 Here's an exercise that'll change everything:
@@ -375,7 +375,7 @@ Because if you'd still feel proud even if nobody knew, that's proof it matters t
 
 If the only reason you'd feel proud is because others would be impressed, that's proof you're still playing the external game.
 
-### The Test
+### <span style="color: #0969DA">The Test</span>
 
 Here's how you know if you're living by your internal scorecard:
 
@@ -407,7 +407,7 @@ If your honest answer is "I'm only doing this because it looks good," you've fou
 
 ---
 
-## The Social Media Trap
+## <span style="color: #0969DA">The Social Media Trap</span>
 
 
 We have to talk about this. Because if there's one thing that's completely hijacked the internal scorecard for your generation, it's social media.
@@ -422,7 +422,7 @@ And I'm not going to preach at you about "phones bad" or "kids these days." I'm 
 
 That's not conspiracy theory. That's how they're designed.
 
-### How the Algorithm Wins (And You Lose)
+### <span style="color: #0969DA">How the Algorithm Wins (And You Lose)</span>
 
 Here's the cycle:
 
@@ -440,7 +440,7 @@ The app doesn't want you to feel satisfied. It wants you checking constantly. It
 
 And here's the brutal part: **Everyone else is playing the same game, so everyone loses together.**
 
-### The Uncomfortable Truth About Likes
+### <span style="color: #0969DA">The Uncomfortable Truth About Likes</span>
 
 Likes are not a scoreboard. They're a slot machine.
 
@@ -450,7 +450,7 @@ So if you're basing your self-worth on social media engagement, you're literally
 
 Does that sound like a game you want to play?
 
-### The Internal Scorecard Alternative
+### <span style="color: #0969DA">The Internal Scorecard Alternative</span>
 
 I'm not saying delete all your social media. I'm saying change the game.
 
@@ -497,7 +497,7 @@ Internal scorecard says Creator B. They're building something they care about. T
 
 ---
 
-## Living by Your Internal Scorecard (The Hard Part)
+## <span style="color: #0969DA">Living by Your Internal Scorecard (The Hard Part)</span>
 
 
 Okay. You've defined your values. You've built your internal scorecard. You know what winning means for YOU.
@@ -516,7 +516,7 @@ Your parents might not understand why you're choosing a different path than they
 
 The sooner you get comfortable being uncomfortable—with choosing your path even when others don't get it—the sooner you'll actually win the game that matters.
 
-### The Warren Buffett Test
+### <span style="color: #0969DA">The Warren Buffett Test</span>
 
 Before making any big decision, ask yourself:
 
@@ -534,7 +534,7 @@ Be brutally honest.
 
 Let's run through some real scenarios:
 
-### Scenario 1: College Choice
+### <span style="color: #0969DA">Scenario 1: College Choice</span>
 
 
 > [!NOTE]
@@ -558,7 +558,7 @@ Let's run through some real scenarios:
 
 The prestigious school might look better on LinkedIn. But if you spend 4 years miserable, is that winning?
 
-### Scenario 2: Weekend Plans
+### <span style="color: #0969DA">Scenario 2: Weekend Plans</span>
 
 
 > [!NOTE]
@@ -582,7 +582,7 @@ The prestigious school might look better on LinkedIn. But if you spend 4 years m
 
 The party looks better on Instagram. But which choice makes you proud when you're alone?
 
-### Scenario 3: Social Media Posts
+### <span style="color: #0969DA">Scenario 3: Social Media Posts</span>
 
 
 > [!NOTE]
@@ -606,7 +606,7 @@ The party looks better on Instagram. But which choice makes you proud when you'r
 
 More likes looks like winning. But which version of you would you actually want to be friends with?
 
-### The Pattern
+### <span style="color: #0969DA">The Pattern</span>
 
 Notice the pattern? **Internal scorecard choices often look "worse" externally but feel better internally.**
 
@@ -629,7 +629,7 @@ But it's the only path to actually winning.
 
 ---
 
-## When the Scoreboards Align (The Bonus Round)
+## <span style="color: #0969DA">When the Scoreboards Align (The Bonus Round)</span>
 
 
 Here's the cool part: Sometimes—not always, but sometimes—your internal and external scoreboards align.
@@ -648,7 +648,7 @@ But here's the danger: **When external validation shows up, your brain wants to 
 
 Suddenly you're not learning for mastery anymore. You're learning for grades. You're not creating for the love of creating. You're creating for likes. The internal scorecard gets hijacked by the external one.
 
-### The Check-In Question
+### <span style="color: #0969DA">The Check-In Question</span>
 
 Ask yourself regularly:
 
@@ -677,7 +677,7 @@ If the answer is no, you're playing the wrong game.
 
 ---
 
-## Your Scoreboard, Your Rules
+## <span style="color: #0969DA">Your Scoreboard, Your Rules</span>
 
 
 Let's bring this home.
@@ -702,7 +702,7 @@ You can't blame anyone else if you don't like the game you're playing. Because y
 
 But that's also why it's the only game worth playing. Because when you win on your own terms, it actually means something.
 
-### The Game Plan
+### <span style="color: #0969DA">The Game Plan</span>
 
 This week, do these two things:
 
@@ -744,7 +744,7 @@ It's going to feel uncomfortable. People might not understand. Your brain will t
 > *That discomfort is growth. That's the feeling of taking your life back.*
 
 
-### Build Your Actual Internal Scorecard
+### <span style="color: #0969DA">Build Your Actual Internal Scorecard</span>
 
 Get out a piece of paper or open a note on your phone. Answer these for real:
 
@@ -810,7 +810,7 @@ This is your game now.
 
 ---
 
-## Closing Power Move
+## <span style="color: #0969DA">Closing Power Move</span>
 
 
 Warren Buffett put it perfectly:
@@ -866,7 +866,7 @@ And dominate.
 
 ---
 
-## Post-Game Review
+## <span style="color: #0969DA">Post-Game Review</span>
 
 
 
@@ -891,7 +891,7 @@ And dominate.
 
 5. **Discomfort is the Price**: Choosing your own path means disappointing people sometimes. Get comfortable with being uncomfortable.
 
-### Reflection Questions
+### <span style="color: #0969DA">Reflection Questions</span>
 
 
 1. What's one thing you're currently doing purely because it looks impressive, not because it actually serves your goals or values?
@@ -908,7 +908,7 @@ And dominate.
 
 5. If nobody ever knew about your achievements, what would you still want to accomplish?
 
-### The Output Mindset
+### <span style="color: #0969DA">The Output Mindset</span>
 
 
 ---
@@ -923,7 +923,7 @@ But if you're proud of who you're becoming, you've already won the only game tha
 
 ---
 
-### Next Play
+### <span style="color: #0969DA">Next Play</span>
 
 Now that you've defined YOUR scoreboard... how do you actually score points on it?
 

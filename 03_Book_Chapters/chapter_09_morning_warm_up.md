@@ -20,7 +20,7 @@
 
 ---
 
-## Two Students, Same 24 Hours
+## <span style="color: #0969DA">Two Students, Same 24 Hours</span>
 
 
 6:45am.
@@ -72,7 +72,7 @@ Here's the question nobody asks: What if the most important hour of your day is 
 
 ---
 
-## Why Your Morning Is Your Competitive Edge
+## <span style="color: #0969DA">Why Your Morning Is Your Competitive Edge</span>
 
 
 Let's get real about something. Most people lose their day before it even starts.
@@ -87,7 +87,7 @@ That's not a morning routine problem. That's a life problem.
 
 ---
 
-### The Control Window
+### <span style="color: #0969DA">The Control Window</span>
 
 When you first wake up, you have a window. A golden window.
 
@@ -103,7 +103,7 @@ The question is simple: Are you using this window, or are you wasting it?
 
 ---
 
-### The Momentum Physics
+### <span style="color: #0969DA">The Momentum Physics</span>
 
 You know how a basketball team that scores the first few baskets suddenly has all the energy? How momentum feels like it creates more momentum?
 
@@ -133,7 +133,7 @@ Same person. Different morning. Completely different day.
 
 ---
 
-### The Uncomfortable Truth
+### <span style="color: #0969DA">The Uncomfortable Truth</span>
 
 "The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life."
 
@@ -154,7 +154,7 @@ You're building something different.
 
 ---
 
-## Design Your Morning Like Jony Ive Designed the iPhone
+## <span style="color: #0969DA">Design Your Morning Like Jony Ive Designed the iPhone</span>
 
 
 You know what made the iPhone revolutionary? It wasn't that it did more things. It was that it did the right things perfectly.
@@ -167,7 +167,7 @@ Your morning routine deserves the same approach.
 
 ---
 
-### The Designer's Mindset
+### <span style="color: #0969DA">The Designer's Mindset</span>
 
 Think about the iPhone for a second. When you hold one, it feels inevitable. Like it couldn't be any other way. That's not accident. That's design.
 
@@ -190,7 +190,7 @@ You're not trying to build the most complex morning routine in the world. You're
 
 ---
 
-### The Three Design Questions
+### <span style="color: #0969DA">The Three Design Questions</span>
 
 Before you add anything to your morning routine, ask these three questions:
 
@@ -232,7 +232,7 @@ If your routine requires waking up at 4am and doing a two-hour workout before sc
 
 ---
 
-### Subtract to Add
+### <span style="color: #0969DA">Subtract to Add</span>
 
 Here's where Ive's philosophy gets really interesting. He didn't just ask what to add. He asked what to remove.
 
@@ -270,7 +270,7 @@ Same principle. Remove what doesn't serve you, and you create space for what doe
 
 ---
 
-### Design With Purpose
+### <span style="color: #0969DA">Design With Purpose</span>
 
 When Ive created a product, he didn't wing it. He didn't just throw things together and hope they worked. He designed systematically.
 
@@ -301,7 +301,7 @@ Creation is an act of care. When Ive designed, every detail mattered because the
 
 ---
 
-## The Science Behind Morning Wins
+## <span style="color: #0969DA">The Science Behind Morning Wins</span>
 
 
 Let's talk about why mornings actually matter, beyond just "it feels good to be productive."
@@ -310,7 +310,7 @@ Your brain and body have biological reasons for why the morning is your advantag
 
 ---
 
-### The Cortisol Advantage
+### <span style="color: #0969DA">The Cortisol Advantage</span>
 
 When you wake up, your body naturally releases a hormone called cortisol. Not the stress cortisol everyone talks about. This is activation cortisol.
 
@@ -324,7 +324,7 @@ It's like having a superpower that only lasts a few hours, and choosing not to u
 
 ---
 
-### Decision Fatigue Is Real
+### <span style="color: #0969DA">Decision Fatigue Is Real</span>
 
 Research shows you make about 35,000 decisions per day. Every single decision depletes your willpower a little bit.
 
@@ -336,7 +336,7 @@ Don't waste that decision energy negotiating with yourself about whether to hit 
 
 ---
 
-### The Habit Formation Sweet Spot
+### <span style="color: #0969DA">The Habit Formation Sweet Spot</span>
 
 Morning routines stick better than other habits. Here's why:
 
@@ -355,7 +355,7 @@ That's why morning routines work when other habits fail.
 
 ---
 
-### Flow State Foundation
+### <span style="color: #0969DA">Flow State Foundation</span>
 
 
 ---
@@ -377,7 +377,7 @@ A good morning isn't just about the morning. It primes your brain for peak perfo
 
 ---
 
-## Building Your Morning System
+## <span style="color: #0969DA">Building Your Morning System</span>
 
 
 You can't copy someone else's morning routine. What works for a professional athlete training for the Olympics won't work for you. What works for a CEO running a company probably won't either.
@@ -388,7 +388,7 @@ But every effective morning routine has the same four core elements.
 
 ---
 
-### The Four Core Elements
+### <span style="color: #0969DA">The Four Core Elements</span>
 
 
 > [!NOTE]
@@ -474,7 +474,7 @@ Some people need 10 minutes of movement and 30 minutes of intention. Some people
 
 ---
 
-### The Minimum Viable Morning
+### <span style="color: #0969DA">The Minimum Viable Morning</span>
 
 If you're starting from zero, don't try to build the perfect 90-minute routine on day one. That's bad design. That's setting yourself up to quit.
 
@@ -507,7 +507,7 @@ The MVM gives you all four elements. It's simple enough that you can actually do
 
 ---
 
-### The 60-Minute Power Morning
+### <span style="color: #0969DA">The 60-Minute Power Morning</span>
 
 Once the MVM feels easy, here's the next level.
 
@@ -537,7 +537,7 @@ Because you have.
 
 ---
 
-### Design Your Own System
+### <span style="color: #0969DA">Design Your Own System</span>
 
 Here's the framework for building YOUR morning routine.
 
@@ -624,7 +624,7 @@ Consistency is what creates the transformation.
 
 ---
 
-### Environment Design: Remove the Friction
+### <span style="color: #0969DA">Environment Design: Remove the Friction</span>
 
 Here's where Ive's design thinking really shows up. Make the right behavior the easiest behavior.
 
@@ -667,7 +667,7 @@ You're designing the environment so the right behavior becomes automatic. That's
 
 ---
 
-## The Alarm Clock Moment
+## <span style="color: #0969DA">The Alarm Clock Moment</span>
 
 
 Everything we just talked about means nothing if you can't get out of bed when your alarm rings.
@@ -676,7 +676,7 @@ Let's talk about the moment that determines everything. The first five seconds a
 
 ---
 
-### The 5-Second Window
+### <span style="color: #0969DA">The 5-Second Window</span>
 
 When your alarm rings, your brain immediately starts negotiating.
 
@@ -694,7 +694,7 @@ What you do in these five seconds determines everything that follows.
 
 ---
 
-### The 5-4-3-2-1 Rule
+### <span style="color: #0969DA">The 5-4-3-2-1 Rule</span>
 
 Mel Robbins, a motivational speaker who studied habit formation, created something called the 5-Second Rule. It's stupid simple. And it works.
 
@@ -724,7 +724,7 @@ Practice this. Seriously. It's the difference between people who own mornings an
 
 ---
 
-### The Snooze Button Is Training You to Quit
+### <span style="color: #0969DA">The Snooze Button Is Training You to Quit</span>
 
 Every time you hit snooze, you're not just getting a few more minutes of sleep. You're training your brain that commitments are negotiable.
 
@@ -760,7 +760,7 @@ Which person do you want to be?
 
 ---
 
-### The Pre-Commitment
+### <span style="color: #0969DA">The Pre-Commitment</span>
 
 Here's a trick that makes the alarm moment easier. The night before, tell yourself what's going to happen.
 
@@ -778,7 +778,7 @@ The alarm is just the cue. The decision is already made.
 
 ---
 
-### The First 60 Seconds
+### <span style="color: #0969DA">The First 60 Seconds</span>
 
 After your feet hit the floor, keep moving.
 
@@ -795,7 +795,7 @@ The first 60 seconds after your alarm determines the next 60 minutes. Win those 
 
 ---
 
-## Making It Stick
+## <span style="color: #0969DA">Making It Stick</span>
 
 
 Starting a morning routine is easy. Everyone's motivated on day one.
@@ -806,7 +806,7 @@ Here's how to actually make it last.
 
 ---
 
-### The 30-Day Reality Check
+### <span style="color: #0969DA">The 30-Day Reality Check</span>
 
 Let's be real about what happens.
 
@@ -822,7 +822,7 @@ The critical period is Days 11-21. That's the make-or-break window.
 
 ---
 
-### Strategy for the Critical Period
+### <span style="color: #0969DA">Strategy for the Critical Period</span>
 
 **Track your streak.** Put X's on a calendar. Use a habit app. Whatever. Just make it visible.
 
@@ -837,7 +837,7 @@ The critical period is Days 11-21. That's the make-or-break window.
 
 ---
 
-### The Weekend Test
+### <span style="color: #0969DA">The Weekend Test</span>
 
 Most morning routines die on weekends.
 
@@ -861,7 +861,7 @@ Weekends are when you separate from the pack.
 
 ---
 
-### The Accountability System
+### <span style="color: #0969DA">The Accountability System</span>
 
 Make it harder to quit than to continue.
 
@@ -893,7 +893,7 @@ The principle: Externalize your commitment. Don't rely on willpower alone.
 
 ---
 
-### When You Fail (And You Will)
+### <span style="color: #0969DA">When You Fail (And You Will)</span>
 
 You will miss a morning. Maybe you're actually sick. Maybe you had a terrible night's sleep. Maybe life just happened.
 
@@ -919,7 +919,7 @@ It's okay. Elite performers aren't perfect. They're just better at bouncing back
 
 ---
 
-### The Long-Term Compound Effect
+### <span style="color: #0969DA">The Long-Term Compound Effect</span>
 
 After 30 days, your routine feels automatic. You've built 30 small wins. Your baseline discipline is higher. Other people start noticing something different about you.
 
@@ -938,14 +938,14 @@ That's the real output. Not a good morning. A better you.
 
 ---
 
-## Champions Build in the Dark
+## <span style="color: #0969DA">Champions Build in the Dark</span>
 
 
 Let's look at what this actually looks like in real life. Morning routines aren't theory. They're what separate good from great.
 
 ---
 
-### Kobe Bryant: The 4am Advantage
+### <span style="color: #0969DA">Kobe Bryant: The 4am Advantage</span>
 
 Kobe's alarm went off at 4:00am. Not 5:00am. Not 6:00am. 4:00am.
 
@@ -969,7 +969,7 @@ You don't need to wake up at 4am to win. But the principle is the same. Use the 
 
 ---
 
-### Michelle Obama: The Non-Negotiable Hour
+### <span style="color: #0969DA">Michelle Obama: The Non-Negotiable Hour</span>
 
 As First Lady, Michelle Obama had an impossible schedule. Constant demands. Zero privacy. Pressure from every direction.
 
@@ -993,7 +993,7 @@ Your morning is yours. Before demands hit, before people need things from you, y
 
 ---
 
-### The Ordinary Student Who Got Extraordinary Results
+### <span style="color: #0969DA">The Ordinary Student Who Got Extraordinary Results</span>
 
 This one's about someone like you. High school senior. Not a professional athlete or celebrity. Just a regular student who changed the game.
 
@@ -1032,14 +1032,14 @@ You don't need to be Kobe or Michelle Obama to benefit. Ordinary people plus eli
 
 ---
 
-## Your Morning Playbook
+## <span style="color: #0969DA">Your Morning Playbook</span>
 
 
 Now you build your system. Here's the step-by-step playbook to design, launch, and lock in your morning routine.
 
 ---
 
-### Week 1: Design Phase
+### <span style="color: #0969DA">Week 1: Design Phase</span>
 
 
 > [!NOTE]
@@ -1081,7 +1081,7 @@ Design your environment. Lay out clothes. Prep breakfast. Put phone across the r
 
 ---
 
-### Week 2-3: Launch Phase
+### <span style="color: #0969DA">Week 2-3: Launch Phase</span>
 
 Your mission: 14 consecutive days. No misses.
 
@@ -1109,7 +1109,7 @@ Losing motivation? Review your output goals. Remember why this matters.
 
 ---
 
-### Week 4: Lock-In Phase
+### <span style="color: #0969DA">Week 4: Lock-In Phase</span>
 
 Your mission: Make it automatic.
 
@@ -1137,7 +1137,7 @@ What parts of the routine feel natural now? What still feels forced? What's your
 
 ---
 
-### The 30-Day Challenge
+### <span style="color: #0969DA">The 30-Day Challenge</span>
 
 Here's your commitment:
 
@@ -1151,7 +1151,7 @@ You'll be someone different on Day 31. Not motivation-dependent anymore. Your id
 
 ---
 
-### The Morning Routine Cheat Sheet
+### <span style="color: #0969DA">The Morning Routine Cheat Sheet</span>
 
 Print this. Put it where you'll see it.
 
@@ -1192,14 +1192,14 @@ Print this. Put it where you'll see it.
 
 ---
 
-## The Morning Advantage
+## <span style="color: #0969DA">The Morning Advantage</span>
 
 
 Owning your morning isn't about waking up early. It's about taking control of your life before anything else can.
 
 ---
 
-### What You Really Gain
+### <span style="color: #0969DA">What You Really Gain</span>
 
 This isn't about the morning routine. It's about:
 
@@ -1219,7 +1219,7 @@ Your morning routine is training for life.
 
 ---
 
-### The Uncomfortable Truth Revisited
+### <span style="color: #0969DA">The Uncomfortable Truth Revisited</span>
 
 "The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life."
 
@@ -1241,7 +1241,7 @@ You? You're building something different.
 
 ---
 
-### The Long Game
+### <span style="color: #0969DA">The Long Game</span>
 
 In one week, you'll feel the difference. More energy. More control. More confidence.
 
@@ -1257,7 +1257,7 @@ All because you decided to own your mornings instead of letting them own you.
 
 ---
 
-### The Choice
+### <span style="color: #0969DA">The Choice</span>
 
 Champions aren't built in games. They're built in the mornings nobody sees.
 
@@ -1291,7 +1291,7 @@ Move.
 
 ---
 
-## Post-Game Review
+## <span style="color: #0969DA">Post-Game Review</span>
 
 
 
@@ -1316,7 +1316,7 @@ Move.
 
 5. **Discomfort is the price of separation.** Everyone else is choosing comfort. That's why everyone else gets average results. You're building something different.
 
-### Reflection Questions
+### <span style="color: #0969DA">Reflection Questions</span>
 
 
 1. What would be different about your life if you owned your first 90 minutes every day?
@@ -1333,7 +1333,7 @@ Move.
 
 5. Who do you know who owns their mornings? What can you learn from them?
 
-### Practice Drills This Week
+### <span style="color: #0969DA">Practice Drills This Week</span>
 
 
 > [!NOTE]
@@ -1359,7 +1359,7 @@ Set your alarm 10 minutes earlier than usual. Practice the 5-4-3-2-1-MOVE techni
 
 Tonight, lay out tomorrow's clothes. Put your phone across the room. Prep breakfast if possible. Pack your bag. Go to bed on time. See how much smoother your morning flows when you remove the friction.
 
-### Next Level
+### <span style="color: #0969DA">Next Level</span>
 
 You've mastered your morning. Now let's talk about the fuel that makes everything else possible. Sleep. Nutrition. Recovery. The things that determine whether you're running on premium gas or fumes.
 

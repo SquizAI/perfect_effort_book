@@ -22,7 +22,7 @@
 
 ---
 
-## The Two Free Throws
+## <span style="color: #0969DA">The Two Free Throws</span>
 
 
 
@@ -136,7 +136,7 @@ You either prepare for big moments, or they eat you alive.
 
 ---
 
-## The Pressure Paradox
+## <span style="color: #0969DA">The Pressure Paradox</span>
 
 
 
@@ -236,7 +236,7 @@ All of these are fixable.
 
 ---
 
-## The Clutch Performance System
+## <span style="color: #0969DA">The Clutch Performance System</span>
 
 
 
@@ -252,7 +252,7 @@ If any variable equals zero, the whole thing fails.
 
 All three working together? That's when you deliver.
 
-### Component 1: PREPARATION (Before the Moment)
+### <span style="color: #0969DA">Component 1: PREPARATION (Before the Moment)</span>
 
 In 2007, Netflix was primarily a DVD-by-mail service. Streaming existed, but it was clunky and most people didn't use it.
 
@@ -332,7 +332,7 @@ Routine removes uncertainty. Every variable you control is one less thing to thi
 
 > Hope is not a strategy. Preparation is. You can't control outcomes, but you can control how ready you are for the moment.
 
-### Component 2: COMPOSURE (During the Moment)
+### <span style="color: #0969DA">Component 2: COMPOSURE (During the Moment)</span>
 
 Let's be honest about what happens physiologically when pressure hits.
 
@@ -404,7 +404,7 @@ Don't say: "I hope I don't choke."
 
 Approach language activates. Avoidance language paralyzes.
 
-### Component 3: EXECUTION (The Moment)
+### <span style="color: #0969DA">Component 3: EXECUTION (The Moment)</span>
 
 Here's the paradox that trips people up:
 
@@ -488,7 +488,7 @@ Losing isn't the problem. Not learning from losing is.
 
 ---
 
-## The Output Focus
+## <span style="color: #0969DA">The Output Focus</span>
 
 
 
@@ -555,7 +555,7 @@ Big moments go to people who can handle them. When you've got a reputation for b
 
 ---
 
-## Real-World Examples
+## <span style="color: #0969DA">Real-World Examples</span>
 
 
 
@@ -718,11 +718,11 @@ Not because she was naturally confident. Not because she's a gifted public speak
 
 ---
 
-## Your Game Plan
+## <span style="color: #0969DA">Your Game Plan</span>
 
 
 
-### Step 1: Identify Your High-Stakes Moments
+### <span style="color: #0969DA">Step 1: Identify Your High-Stakes Moments</span>
 
 You can't prepare for pressure if you don't know where it's coming from.
 
@@ -762,7 +762,7 @@ Identify where YOU need clutch performance.
 
 **The Output**: Clear picture of where you need to develop clutch skills.
 
-### Step 2: Over-Prepare for Big Moments
+### <span style="color: #0969DA">Step 2: Over-Prepare for Big Moments</span>
 
 The 10x Preparation Rule: Practice ten times more than you think you need to.
 
@@ -864,7 +864,7 @@ When the moment arrives, you're over-prepared. Not winging it.
 
 **The Output**: Confidence built on work, not wishful thinking.
 
-### Step 3: Build Your Pre-Performance Routine
+### <span style="color: #0969DA">Step 3: Build Your Pre-Performance Routine</span>
 
 
 > [!NOTE]
@@ -955,7 +955,7 @@ Then trust it when stakes are high.
 
 **The Output**: A reliable system that works when pressure spikes.
 
-### Step 4: Manage the Moment (Execute Under Pressure)
+### <span style="color: #0969DA">Step 4: Manage the Moment (Execute Under Pressure)</span>
 
 
 > [!NOTE]
@@ -1048,7 +1048,7 @@ If you feel yourself choking:
 
 **The Output**: You perform when it matters because you have a system.
 
-### Step 5: Learn from Clutch Failures
+### <span style="color: #0969DA">Step 5: Learn from Clutch Failures</span>
 
 Here's the truth: You WILL blow clutch moments sometimes. Everyone does.
 
@@ -1136,7 +1136,7 @@ He never made that mistake again.
 
 **The Output**: Every clutch failure becomes preparation for the next clutch success.
 
-### Step 6: Seek Out Pressure (Become a Pressure Hunter)
+### <span style="color: #0969DA">Step 6: Seek Out Pressure (Become a Pressure Hunter)</span>
 
 **The Counterintuitive Move**: Don't avoid pressure—actively seek it.
 
@@ -1194,11 +1194,11 @@ You can't simulate real pressure in your comfort zone.
 
 ---
 
-## Practice Drills
+## <span style="color: #0969DA">Practice Drills</span>
 
 
 
-### Exercise 1: The Pressure Simulation Lab
+### <span style="color: #0969DA">Exercise 1: The Pressure Simulation Lab</span>
 
 **Goal**: Create pressure in practice that matches or exceeds real moments.
 
@@ -1248,7 +1248,7 @@ You can't simulate real pressure in your comfort zone.
 
 **The Output**: When the real moment comes, you've been there before in practice.
 
-### Exercise 2: The Routine Builder
+### <span style="color: #0969DA">Exercise 2: The Routine Builder</span>
 
 **Goal**: Create and practice your pre-performance routine.
 
@@ -1304,7 +1304,7 @@ Use routine before real clutch moments. Same routine, every time.
 
 **The Output**: A reliable routine you can trust when stakes are highest.
 
-### Exercise 3: The Clutch Film Study
+### <span style="color: #0969DA">Exercise 3: The Clutch Film Study</span>
 
 **Goal**: Learn from clutch moments—yours and others'.
 
@@ -1360,7 +1360,7 @@ Watch three clutch performances in your domain:
 
 ---
 
-## Post-Game Review
+## <span style="color: #0969DA">Post-Game Review</span>
 
 
 

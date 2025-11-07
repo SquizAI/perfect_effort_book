@@ -31,7 +31,7 @@
 
 ---
 
-## Two Players, Different Playbooks
+## <span style="color: #0969DA">Two Players, Different Playbooks</span>
 
 
 
@@ -102,13 +102,13 @@ She understood something most people don't: asking for help isn't weak. It's str
 
 ---
 
-## The Concept: Mentorship is Your Competitive Advantage
+## <span style="color: #0969DA">The Concept: Mentorship is Your Competitive Advantage</span>
 
 
 
 
 
-### The Problem: Reinventing Every Wheel
+### <span style="color: #0969DA">The Problem: Reinventing Every Wheel</span>
 
 Here's how most people approach challenges: like they're the first human ever to face them.
 
@@ -149,7 +149,7 @@ Same destination. Completely different timeline.
 
 The smartest players in any game—business, sports, school, life—all have one thing in common: they find people who've already beaten the level they're trying to beat, and they learn everything they can from them.
 
-### The Solution: Strategic Mentorship
+### <span style="color: #0969DA">The Solution: Strategic Mentorship</span>
 
 
 > 💡 **Key Insight**
@@ -209,7 +209,7 @@ Good mentors don't help everyone equally. They invest in people who do the work.
 
 Be that person, and you're not asking for a favor. You're offering an opportunity.
 
-### The Bill Campbell Playbook
+### <span style="color: #0969DA">The Bill Campbell Playbook</span>
 
 Bill Campbell was called "The Coach of Silicon Valley" because he mentored Steve Jobs, Eric Schmidt (Google), Larry Page (Google), Sheryl Sandberg (Facebook), and dozens of other leaders who built the biggest companies in the world.
 
@@ -291,7 +291,7 @@ When you approach mentorship as an exchange—not a favor—you show up differen
 
 > The best mentors don't help everyone. They invest in people who invest in themselves. Show up prepared, take action on their advice, and report back on what happened. That's how you become someone they want to keep helping.
 
-### Why This Works: The Science
+### <span style="color: #0969DA">Why This Works: The Science</span>
 
 
 > 💡 **Key Insight**
@@ -350,7 +350,7 @@ Those aren't small differences. Those are game-changing outcomes.
 
 Not because mentors do the work for you. But because they show you what's possible, help you avoid stupid mistakes, and give you confidence at the moments that matter most.
 
-### The Output Focus: What You Actually Gain
+### <span style="color: #0969DA">The Output Focus: What You Actually Gain</span>
 
 Don't think about "getting a mentor." Think about what having a mentor actually gets you.
 
@@ -659,7 +659,7 @@ That's the mentor advantage. Not magic. Just someone who's been there showing yo
 
 
 
-### Step 1: Get Clear on Your Game (Know What You're Trying to Achieve)
+### <span style="color: #0969DA">Step 1: Get Clear on Your Game (Know What You're Trying to Achieve)</span>
 
 Before you can find the right mentor, you need to know what game you're playing.
 
@@ -699,7 +699,7 @@ The clearer your goal, the easier it is to identify who can actually help you ge
 
 **The Output**: A crystal-clear answer to "What am I trying to achieve?" That clarity makes everything else easier.
 
-### Step 2: Find Your Potential Mentors (Look 5-10 Steps Ahead)
+### <span style="color: #0969DA">Step 2: Find Your Potential Mentors (Look 5-10 Steps Ahead)</span>
 
 Now that you know what you're trying to do, find people who've already done it.
 
@@ -804,7 +804,7 @@ Now that you know what you're trying to do, find people who've already done it.
 
 **The Output**: A shortlist of 3-5 potential mentors who are actually qualified and accessible.
 
-### Step 3: Make the Ask (The Right Way)
+### <span style="color: #0969DA">Step 3: Make the Ask (The Right Way)</span>
 
 This is where most people fail. They either never reach out (fear), or they reach out so poorly that they get ignored or rejected.
 
@@ -884,7 +884,7 @@ This dramatically increases your response rate because you've made it easy to sa
 
 **The Output**: A clear, confident message that makes it easy for them to say yes. Higher response rate because you approached it professionally.
 
-### Step 4: Show Up Prepared (Make Every Minute Count)
+### <span style="color: #0969DA">Step 4: Show Up Prepared (Make Every Minute Count)</span>
 
 You got the meeting. Amazing. Now don't waste it.
 
@@ -999,7 +999,7 @@ This is huge. Most people say "thank you" and disappear. The ones who report bac
 
 **The Output**: You build a real relationship based on respect and action, not a transactional "I asked, you answered, goodbye" interaction.
 
-### Step 5: Be the Mentee They Want to Help (Earn Ongoing Investment)
+### <span style="color: #0969DA">Step 5: Be the Mentee They Want to Help (Earn Ongoing Investment)</span>
 
 Here's the truth: mentors don't help everyone equally.
 
@@ -1084,7 +1084,7 @@ Steve Jobs did the work. Eric Schmidt did the work. That's why Campbell kept sho
 
 
 
-### Drill 1: The Mentor Map
+### <span style="color: #0969DA">Drill 1: The Mentor Map</span>
 
 
 > 💡 **Key Insight**
@@ -1108,7 +1108,7 @@ Don't overthink it. Don't wait for the perfect moment. Write the message, read i
 
 That uncomfortable feeling? That's growth.
 
-### Drill 2: The Question Prep
+### <span style="color: #0969DA">Drill 2: The Question Prep</span>
 
 
 > 💡 **Key Insight**
@@ -1133,7 +1133,7 @@ Write these down. Bring them to the meeting. Don't just wing it.
 
 **Why this works**: Preparation shows respect. Specific questions get useful answers. Question 5 ensures you leave with clear next steps.
 
-### Drill 3: The Reverse Mentor
+### <span style="color: #0969DA">Drill 3: The Reverse Mentor</span>
 
 
 > 💡 **Key Insight**
@@ -1170,7 +1170,7 @@ When you understand what it's like to be a mentor, you become way better at bein
 
 Plus—you're helping someone. That matters.
 
-### Weekly Check-In
+### <span style="color: #0969DA">Weekly Check-In</span>
 
 Track your mentor-finding progress:
 
@@ -1207,7 +1207,7 @@ Track your mentor-finding progress:
 
 ---
 
-## Post-Game Review
+## <span style="color: #0969DA">Post-Game Review</span>
 
 
 
@@ -1271,7 +1271,7 @@ Track your mentor-finding progress:
 
 7. **Even the best have mentors.** Steve Jobs had Bill Campbell. Serena Williams had Patrick Mouratoglou. If they needed guides, you definitely do.
 
-### Reflection Questions
+### <span style="color: #0969DA">Reflection Questions</span>
 
 
 
@@ -1303,7 +1303,7 @@ Track your mentor-finding progress:
 
 5. **Who could I mentor?** What would I teach them? How would that change how I think about being a mentee?
 
-### The Output Mindset
+### <span style="color: #0969DA">The Output Mindset</span>
 
 **Don't think:** "I need to find a mentor"
 
@@ -1315,7 +1315,7 @@ The uncomfortable feeling when you hit send on that first message? That's what g
 
 ---
 
-### Next Level: Building Your Full Support System
+### <span style="color: #0969DA">Next Level: Building Your Full Support System</span>
 
 You've learned to build your peer team (Chapter 14). You've learned to find mentors who guide you toward excellence (Chapter 15).
 

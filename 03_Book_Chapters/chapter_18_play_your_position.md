@@ -22,7 +22,7 @@
 
 ---
 
-## The Two Athletes
+## <span style="color: #0969DA">The Two Athletes</span>
 
 
 
@@ -80,7 +80,7 @@ Let's talk about how to find your position and dominate it.
 
 ---
 
-## The Problem: The "Good at Everything" Trap
+## <span style="color: #0969DA">The Problem: The "Good at Everything" Trap</span>
 
 
 
@@ -124,7 +124,7 @@ In business, they call it "differentiation strategy." You don't win by being the
 
 The pattern is clear across fields: specialists dominate. The well-rounded get replaced.
 
-### The Solution: Own Your Position
+### <span style="color: #0969DA">The Solution: Own Your Position</span>
 
 Whitney Wolfe Herd built a $13 billion company by refusing to play someone else's game.
 
@@ -194,7 +194,7 @@ Where's your unfair advantage? What could you be in the top 10% at with focused 
 
 Notice: we're not asking "where can I be average at everything?" We're asking "where can I be exceptional at my thing?"
 
-### Reframe: Strengths vs. Weaknesses
+### <span style="color: #0969DA">Reframe: Strengths vs. Weaknesses</span>
 
 Here's the old model most people follow:
 
@@ -230,7 +230,7 @@ Fix the weakness enough that it doesn't block you. Then get back to building you
 
 > Well-rounded sounds safe. But in the real world, specialists win. Companies hire experts, not generalists. Audiences follow people who are the best at their thing, not pretty good at several things. Be spike-shaped—deep expertise in your area—not flat across everything.
 
-### Why This Works
+### <span style="color: #0969DA">Why This Works</span>
 
 The research is clear on this.
 
@@ -250,7 +250,7 @@ She turned being female in tech—often seen as a disadvantage in Silicon Valley
 
 The result? A company worth $13 billion. She became the youngest woman to take a company public as CEO. All because she played her position instead of trying to be someone else.
 
-### The Output You'll Create
+### <span style="color: #0969DA">The Output You'll Create</span>
 
 When you play your position, here's what you gain:
 
@@ -319,7 +319,7 @@ The world doesn't need another version of someone else. It needs the first versi
 
 ---
 
-## Real-World Examples
+## <span style="color: #0969DA">Real-World Examples</span>
 
 
 
@@ -427,11 +427,11 @@ Accepted to dream school. Now leading multiple student organizations in college.
 
 ---
 
-## Your Game Plan
+## <span style="color: #0969DA">Your Game Plan</span>
 
 
 
-### Step 1: Discover Your Unique Strengths
+### <span style="color: #0969DA">Step 1: Discover Your Unique Strengths</span>
 
 You can't play your position if you don't know what it is.
 
@@ -522,7 +522,7 @@ Strengths typically fall into four categories:
 
 Most people have one or two primary categories. That's your starting position.
 
-### Step 2: Find Your Competitive Advantage
+### <span style="color: #0969DA">Step 2: Find Your Competitive Advantage</span>
 
 Now we're getting specific. Draw three overlapping circles:
 
@@ -575,7 +575,7 @@ _________________________________________________________________
 
 **The Output:** You now have a clear position statement. This is your lane. This is what you build on.
 
-### Step 3: Stop Competing Where You Can't Win
+### <span style="color: #0969DA">Step 3: Stop Competing Where You Can't Win</span>
 
 This step is hard. But necessary.
 
@@ -654,7 +654,7 @@ If Jordan had done this sophomore year, the story would have ended differently.
 
 > Letting go isn't weakness. It's strategy. The best players in any sport know their role. They don't try to do everything. They do their thing at an elite level. That's how teams win championships.
 
-### Step 4: Double Down on Your Strengths
+### <span style="color: #0969DA">Step 4: Double Down on Your Strengths</span>
 
 Now that you know your position and you've freed up energy, it's time to go all in.
 
@@ -750,7 +750,7 @@ I will stack my strength with _______________________________ (complementary ski
 
 **The Output:** A clear path from "good" to "exceptional" in your position. This is how you become irreplaceable.
 
-### Step 5: Rewrite the Rules
+### <span style="color: #0969DA">Step 5: Rewrite the Rules</span>
 
 This is the Whitney Wolfe Herd move. If you don't like the game, change it.
 
@@ -853,7 +853,7 @@ Whitney didn't hide the fact that Bumble was different. She made it the main fea
 
 **The Output:** You're no longer playing someone else's game. You're winning at yours.
 
-### Step 6: Turn Differences Into Advantages
+### <span style="color: #0969DA">Step 6: Turn Differences Into Advantages</span>
 
 Your "weaknesses" or "differences" might be your greatest competitive edge.
 
@@ -922,11 +922,11 @@ Your difference? It's not holding you back. It's your edge. Own it.
 
 ---
 
-## Practice Drills
+## <span style="color: #0969DA">Practice Drills</span>
 
 
 
-### Exercise 1: The Strengths Finder Survey
+### <span style="color: #0969DA">Exercise 1: The Strengths Finder Survey</span>
 
 **Week 1 Challenge:** Ask five people who know you well this question:
 
@@ -950,7 +950,7 @@ What patterns emerge? Are you surprised by anything? Do they see strengths in yo
 
 **Action:** Write your position statement based on this feedback. This is your lane.
 
-### Exercise 2: The Comparison Detox
+### <span style="color: #0969DA">Exercise 2: The Comparison Detox</span>
 
 **Week 2 Challenge:** For seven days, track every time you compare yourself to someone else.
 
@@ -974,7 +974,7 @@ How many comparisons were in areas that AREN'T your position? What would happen 
 
 **Action:** Pick ONE comparison trap to consciously release this month. When you notice yourself falling into it, redirect: "That's not my game. I'm playing a different position."
 
-### Exercise 3: The Position Showcase
+### <span style="color: #0969DA">Exercise 3: The Position Showcase</span>
 
 **Week 3 Challenge:** Create something tangible that showcases your unique position.
 
@@ -1003,7 +1003,7 @@ Success looks like: _______________________________
 
 Visibility matters. Showcase your position publicly.
 
-### Exercise 4: The Rule Rewrite Experiment
+### <span style="color: #0969DA">Exercise 4: The Rule Rewrite Experiment</span>
 
 **Week 4 Challenge:** Identify one "rule" or "norm" that doesn't work for you, and run a 30-day experiment with an alternative.
 
@@ -1048,11 +1048,11 @@ Don't just complain about rules that don't fit you. Test alternatives. Be the pe
 
 ---
 
-## Post-Game Review
+## <span style="color: #0969DA">Post-Game Review</span>
 
 
 
-### Reflection Questions
+### <span style="color: #0969DA">Reflection Questions</span>
 
 
 
@@ -1132,7 +1132,7 @@ The world doesn't need another version of someone else. It needs the first versi
 
 When you know your position, decisions get easier. You know what's your game and what's not. You know where to invest time and where to pull back.
 
-### Your Position Statement
+### <span style="color: #0969DA">Your Position Statement</span>
 
 Take a minute and write this clearly. This is your north star:
 
@@ -1140,7 +1140,7 @@ Take a minute and write this clearly. This is your north star:
 
 Pin this somewhere you'll see it daily. This is your lane. Own it.
 
-### Next Level Preview
+### <span style="color: #0969DA">Next Level Preview</span>
 
 You've found your position (Chapter 18). You know what makes you unique. You know what lane you're competing in.
 

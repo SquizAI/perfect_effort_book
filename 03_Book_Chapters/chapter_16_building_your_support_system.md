@@ -31,7 +31,7 @@
 
 ---
 
-## The Breaking Point
+## <span style="color: #0969DA">The Breaking Point</span>
 
 
 
@@ -167,7 +167,7 @@ And she's learned something that changed everything:
 
 ---
 
-## The Problem: The "I'll Handle It Alone" Trap
+## <span style="color: #0969DA">The Problem: The "I'll Handle It Alone" Trap</span>
 
 
 
@@ -199,7 +199,7 @@ It's the loneliest game you can play.
 
 ---
 
-### What Happens When You Try to Win Alone
+### <span style="color: #0969DA">What Happens When You Try to Win Alone</span>
 
 **Isolation**: Your problems feel bigger than they actually are. When you're inside your own head, everything gets magnified. That test you're stressing about? Feels impossible. That conflict with your friend? Feels permanent. That future you're worried about? Feels hopeless.
 
@@ -219,7 +219,7 @@ Support systems don't just catch you when you fall. They show you paths you didn
 
 ---
 
-### The Truth Nobody Tells You
+### <span style="color: #0969DA">The Truth Nobody Tells You</span>
 
 Every person you think is crushing it alone? They're not.
 
@@ -254,7 +254,7 @@ They're smart enough to build their team before they need it. Strategic enough t
 
 ---
 
-## The Solution: Building Your Strategic Ohana
+## <span style="color: #0969DA">The Solution: Building Your Strategic Ohana</span>
 
 
 
@@ -281,7 +281,7 @@ Let's build your Ohana. Your strategic support system. Your team.
 
 ---
 
-### What a Support System Actually IS
+### <span style="color: #0969DA">What a Support System Actually IS</span>
 
 Not some vague "positive vibes" circle. Not people who just tell you what you want to hear.
 
@@ -311,7 +311,7 @@ A real support system is:
 
 ---
 
-### The Three Layers of Support
+### <span style="color: #0969DA">The Three Layers of Support</span>
 
 Think of your support system like a championship team. Different positions, different roles, all essential.
 
@@ -387,7 +387,7 @@ You're not close with everyone here, but you share identity and values. There's 
 
 ---
 
-### The Strategic Vulnerability Playbook
+### <span style="color: #0969DA">The Strategic Vulnerability Playbook</span>
 
 Here's where it gets real.
 
@@ -452,7 +452,7 @@ People want to help. They just need to know you need it.
 
 ---
 
-### Why This Works: The Science of Support
+### <span style="color: #0969DA">Why This Works: The Science of Support</span>
 
 Let's get real about why support systems aren't just "nice to have." They're essential.
 
@@ -470,7 +470,7 @@ The people with strong support systems lived longer, stayed healthier, recovered
 
 ---
 
-### The Support System Multiplier Effect
+### <span style="color: #0969DA">The Support System Multiplier Effect</span>
 
 Here's what happens when you build real support:
 
@@ -511,7 +511,7 @@ Here's what happens when you build real support:
 
 ---
 
-## Real Champions, Real Support Systems
+## <span style="color: #0969DA">Real Champions, Real Support Systems</span>
 
 
 
@@ -519,7 +519,7 @@ Here's what happens when you build real support:
 
 Let's look at people who've proven this works.
 
-### Oprah Winfrey: The Power of Chosen Family
+### <span style="color: #0969DA">Oprah Winfrey: The Power of Chosen Family</span>
 
 You know Oprah as one of the most successful people on the planet. Billionaire. Media mogul. Cultural icon.
 
@@ -547,7 +547,7 @@ She built her empire on top of a foundation of support.
 
 ---
 
-### Simone Biles: Vulnerability on the World's Biggest Stage
+### <span style="color: #0969DA">Simone Biles: Vulnerability on the World's Biggest Stage</span>
 
 Tokyo Olympics, 2021.
 
@@ -589,7 +589,7 @@ But more importantly, she showed the entire world what strength actually looks l
 
 ---
 
-### Jordan: A Student Who Learned to Ask
+### <span style="color: #0969DA">Jordan: A Student Who Learned to Ask</span>
 
 Jordan's not famous. He's a regular high school junior.
 
@@ -657,7 +657,7 @@ But he wasn't carrying it alone anymore.
 
 ---
 
-## Your Game Plan: Building Your Support System
+## <span style="color: #0969DA">Your Game Plan: Building Your Support System</span>
 
 
 
@@ -667,7 +667,7 @@ Okay, enough theory. Let's build your actual support system.
 
 This isn't vague. This isn't someday. This is your strategic playbook for the next 30 days.
 
-### Step 1: Audit Your Current Support System
+### <span style="color: #0969DA">Step 1: Audit Your Current Support System</span>
 
 Before you can build, you need to know what you're working with.
 
@@ -799,7 +799,7 @@ What groups give you a sense of identity and belonging?
 
 ---
 
-### Step 2: Identify Your Support Gaps
+### <span style="color: #0969DA">Step 2: Identify Your Support Gaps</span>
 
 You can't build what you can't see. Let's find the gaps.
 
@@ -841,7 +841,7 @@ You can't build what you can't see. Let's find the gaps.
 
 ---
 
-### Step 3: Ask for Help (The Hardest and Most Important Step)
+### <span style="color: #0969DA">Step 3: Ask for Help (The Hardest and Most Important Step)</span>
 
 This is where most people stop. They see the gaps. They know they need help. But asking feels impossible.
 
@@ -959,7 +959,7 @@ The right people will show up.
 
 ---
 
-### Step 4: Build Reciprocity (Be the Support You Want to Have)
+### <span style="color: #0969DA">Step 4: Build Reciprocity (Be the Support You Want to Have)</span>
 
 Support systems work both ways.
 
@@ -1037,7 +1037,7 @@ You attract what you give.
 
 ---
 
-### Step 5: Maintain Your System (Don't Wait for Crisis)
+### <span style="color: #0969DA">Step 5: Maintain Your System (Don't Wait for Crisis)</span>
 
 Here's what most people get wrong:
 
@@ -1139,7 +1139,7 @@ This isn't complicated. It's just intentional.
 
 ---
 
-## Practice Drills
+## <span style="color: #0969DA">Practice Drills</span>
 
 
 
@@ -1149,7 +1149,7 @@ Okay, enough reading. Time to practice.
 
 These aren't optional. These are your assignments for the next week.
 
-### Drill 1: The Three-Layer Map (Complete This Week)
+### <span style="color: #0969DA">Drill 1: The Three-Layer Map (Complete This Week)</span>
 
 
 > 💡 **Key Insight**
@@ -1203,7 +1203,7 @@ Then listen.
 
 ---
 
-### Drill 2: The Vulnerability Practice (Start Small)
+### <span style="color: #0969DA">Drill 2: The Vulnerability Practice (Start Small)</span>
 
 
 > 💡 **Key Insight**
@@ -1256,7 +1256,7 @@ Asking for help is a skill. You build the skill with low-stakes practice so when
 
 ---
 
-### Drill 3: The Support Audit (Reflect on Last 30 Days)
+### <span style="color: #0969DA">Drill 3: The Support Audit (Reflect on Last 30 Days)</span>
 
 
 > 💡 **Key Insight**
@@ -1327,7 +1327,7 @@ You can't change patterns you don't see. This creates awareness of how you're cu
 
 ---
 
-### Weekly Check-In
+### <span style="color: #0969DA">Weekly Check-In</span>
 
 Track your progress over the next 7 days:
 
@@ -1364,7 +1364,7 @@ Track your progress over the next 7 days:
 
 ---
 
-## Post-Game Review
+## <span style="color: #0969DA">Post-Game Review</span>
 
 
 
@@ -1435,7 +1435,7 @@ You need all three. Your Inner Circle is small and deep. Your Extended Network i
 
 ---
 
-### Reflection Questions
+### <span style="color: #0969DA">Reflection Questions</span>
 
 Take a few minutes. Really think about these.
 
@@ -1523,7 +1523,7 @@ You're building the community that will rise with you.
 
 ---
 
-### Next Level
+### <span style="color: #0969DA">Next Level</span>
 
 You've learned to manage your mindset (Part 1), master your habits (Part 2), perform under pressure (Part 3), and build your team (Part 4).
 

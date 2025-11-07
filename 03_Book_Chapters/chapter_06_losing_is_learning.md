@@ -20,7 +20,7 @@
 
 ---
 
-## Championship Game. Final Seconds. One Shot.
+## <span style="color: #0969DA">Championship Game. Final Seconds. One Shot.</span>
 
 
 The ball leaves your hands. Perfect rotation. Clean release. Good arc.
@@ -64,7 +64,7 @@ Here's what nobody tells you about losing: it's only a loss if you don't learn f
 
 ---
 
-## The Scoreboard Lied to You
+## <span style="color: #0969DA">The Scoreboard Lied to You</span>
 
 
 Let's talk about the biggest lie society's been telling you since kindergarten:
@@ -89,7 +89,7 @@ In other words, it creates losers.
 
 Not because they lose. But because they refuse to learn.
 
-### What Winners See That Losers Don't
+### <span style="color: #0969DA">What Winners See That Losers Don't</span>
 
 Elite performers look at the same losses you do. They see something completely different.
 
@@ -112,7 +112,7 @@ See the difference? One is a judgment. The other is information.
 
 > The external scoreboard tells you WHAT happened. The internal scoreboard tells you HOW to improve. Losers obsess over what happened. Winners focus on how to get better.
 
-### The Jeff Bezos Perspective
+### <span style="color: #0969DA">The Jeff Bezos Perspective</span>
 
 Let's talk about someone who's failed more than almost anyone on the planet: Jeff Bezos.
 
@@ -152,7 +152,7 @@ Same loss. Completely different interpretation.
 
 ---
 
-## Failure is Just Expensive Data
+## <span style="color: #0969DA">Failure is Just Expensive Data</span>
 
 
 Here's what separates winners from everyone else:
@@ -171,7 +171,7 @@ That's like going to the gym, feeling sore, and deciding working out doesn't wor
 
 Don't waste your failures.
 
-### The Film Room Review Framework
+### <span style="color: #0969DA">The Film Room Review Framework</span>
 
 When you "fail" at something, here's what winners do:
 
@@ -263,7 +263,7 @@ Same grade. One person stayed stuck. One person just got better.
 
 > Every test, every game, every performance gives you free diagnostic information about where you are versus where you want to be. Winners collect that data. Losers ignore it and wonder why they're not improving.
 
-### The Uncomfortable Truth (Applied)
+### <span style="color: #0969DA">The Uncomfortable Truth (Applied)</span>
 
 
 ---
@@ -287,7 +287,7 @@ Which do you choose?
 
 ---
 
-## Your Personal Film Room
+## <span style="color: #0969DA">Your Personal Film Room</span>
 
 
 Here's how elite athletes use failure: they watch the film.
@@ -308,7 +308,7 @@ That's it. No drama. No "I'm a terrible player." Just objective analysis and a p
 
 You can do the same thing in every area of life.
 
-### The Bounce-Back Framework
+### <span style="color: #0969DA">The Bounce-Back Framework</span>
 
 Here's your system for turning every loss into growth:
 
@@ -450,7 +450,7 @@ The failure wasn't wasted. It showed you exactly what to practice.
 
 ---
 
-## The Jeff Bezos Long Game
+## <span style="color: #0969DA">The Jeff Bezos Long Game</span>
 
 
 Let's zoom way out for a second.
@@ -461,7 +461,7 @@ That's like judging a basketball season based on the first quarter of the first 
 
 Winners think long-term. They understand that most "failures" only look like failures because you're zooming in too close.
 
-### Day 1 vs. Day 2 Mentality
+### <span style="color: #0969DA">Day 1 vs. Day 2 Mentality</span>
 
 Bezos talks about two types of companies (and people):
 
@@ -485,7 +485,7 @@ And by playing it safe, they guarantee they'll never reach their potential.
 
 **Winners stay in Day 1 mode**: Always learning. Always willing to fail. Always building toward something bigger.
 
-### The Timeline Principle
+### <span style="color: #0969DA">The Timeline Principle</span>
 
 Here's a mental shift that changes everything:
 
@@ -523,7 +523,7 @@ But it means the hurt is temporary, and the lesson is permanent.
 
 > Jeff Bezos asks: "Will I regret NOT trying this when I'm 80 years old?" The regret of not trying is worse than the regret of trying and failing. Because at least when you try and fail, you learned something.
 
-### The Pattern Winners See
+### <span style="color: #0969DA">The Pattern Winners See</span>
 
 Here's what elite performers understand:
 
@@ -550,7 +550,7 @@ Your choice.
 
 ---
 
-## The Failure Log Exercise
+## <span style="color: #0969DA">The Failure Log Exercise</span>
 
 
 Here's a practice that changes everything:
@@ -597,7 +597,7 @@ See how powerful that is? You transformed a painful loss into measurable growth.
 
 ---
 
-## When Failure Means You're Aiming Too Low
+## <span style="color: #0969DA">When Failure Means You're Aiming Too Low</span>
 
 
 Here's a counterintuitive truth:
@@ -629,7 +629,7 @@ Think about it:
 - Maximum learning is happening
 - This is where champions are built
 
-### The "Good Failure" Test
+### <span style="color: #0969DA">The "Good Failure" Test</span>
 
 Not all failures are equal. Some failures are productive. Some are just stupid.
 
@@ -672,7 +672,7 @@ One is a sign of growth. The other is a sign you need to go back to Chapter 4 an
 
 ---
 
-## The Scoreboard That Actually Matters
+## <span style="color: #0969DA">The Scoreboard That Actually Matters</span>
 
 
 Let's bring this home.
@@ -687,7 +687,7 @@ Your real record isn't grades or scores or stats.
 > *Your real record is lessons learned vs. lessons ignored.*
 
 
-### The Real Stats to Track
+### <span style="color: #0969DA">The Real Stats to Track</span>
 
 **Don't track:**
 - W-L record
@@ -718,7 +718,7 @@ Because here's the truth: everyone fails. Everyone loses. Everyone faces setback
 > *It's that winners treat failure like a teacher, not a judge.*
 
 
-### This Week's Game Plan
+### <span style="color: #0969DA">This Week's Game Plan</span>
 
 
 > [!NOTE]
@@ -759,7 +759,7 @@ Because here's the truth: everyone fails. Everyone loses. Everyone faces setback
 - When you face a similar situation, did you do better?
 - Even small improvement = you won
 
-### The Growth Scorecard
+### <span style="color: #0969DA">The Growth Scorecard</span>
 
 At the end of each week, ask yourself:
 
@@ -790,7 +790,7 @@ You're not focused on this week's score. You're focused on who you're becoming o
 
 ---
 
-## Post-Game Review
+## <span style="color: #0969DA">Post-Game Review</span>
 
 
 
@@ -815,7 +815,7 @@ You're not focused on this week's score. You're focused on who you're becoming o
 
 5. **Long-term thinking changes everything.** Most "failures" only look like failures on a short timeline. Zoom out. Keep the Day 1 mentality. Stay in the game.
 
-### Reflection Questions
+### <span style="color: #0969DA">Reflection Questions</span>
 
 
 1. **What's one failure you're still holding onto as evidence you're "not good enough"?** What if you reframed it as data about what you need to practice?
@@ -832,7 +832,7 @@ You're not focused on this week's score. You're focused on who you're becoming o
 
 5. **If you looked at your last failure through Jeff Bezos's eyes (10-year timeline, Day 1 mentality), what would you see differently?**
 
-### The Output Mindset
+### <span style="color: #0969DA">The Output Mindset</span>
 
 
 ---
@@ -849,7 +849,7 @@ You're not trying to avoid losses. You're trying to learn faster than your compe
 
 ---
 
-### Practice Drills
+### <span style="color: #0969DA">Practice Drills</span>
 
 
 > [!NOTE]
@@ -902,7 +902,7 @@ Track this. Try to get faster.
 
 ---
 
-### Weekly Check-In
+### <span style="color: #0969DA">Weekly Check-In</span>
 
 Track your progress:
 
@@ -920,7 +920,7 @@ Track your progress:
 
 ---
 
-## Closing Power Move
+## <span style="color: #0969DA">Closing Power Move</span>
 
 
 Everyone loses. Everyone fails. Everyone faces setbacks.
@@ -969,7 +969,7 @@ Don't refuse.
 
 ---
 
-### Next Level
+### <span style="color: #0969DA">Next Level</span>
 
 You've learned to bounce back from losses. But how do you stay focused when distractions are everywhere and your phone is buzzing every 30 seconds?
 

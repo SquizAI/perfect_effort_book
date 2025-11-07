@@ -31,7 +31,7 @@
 
 ---
 
-## The Two Friend Groups
+## <span style="color: #0969DA">The Two Friend Groups</span>
 
 
 
@@ -71,7 +71,7 @@ There's no in-between.
 
 ---
 
-## The Problem: Friendship by Default
+## <span style="color: #0969DA">The Problem: Friendship by Default</span>
 
 
 
@@ -130,7 +130,7 @@ That's how powerful peer groups are.
 
 ---
 
-## The Solution: Strategic Friendship
+## <span style="color: #0969DA">The Solution: Strategic Friendship</span>
 
 
 
@@ -180,7 +180,7 @@ You're not building a company. You're building yourself. But the same principles
 
 Let's break down the three types of relationships in your life right now.
 
-### Type 1: Drainers
+### <span style="color: #0969DA">Type 1: Drainers</span>
 
 These people take more energy than they give. They're not bad people. But they pull you toward comfortable instead of pushing you toward better.
 
@@ -190,7 +190,7 @@ They're invested in keeping you at their level because your growth makes them un
 
 **After hanging with drainers**, you feel drained. Tired. Like your energy got vacuumed out. Like you're less motivated than when you started.
 
-### Type 2: Maintainers
+### <span style="color: #0969DA">Type 2: Maintainers</span>
 
 These are neutral relationships. Fine people. Not pulling you down, but not pushing you up either.
 
@@ -198,7 +198,7 @@ These are neutral relationships. Fine people. Not pulling you down, but not push
 
 **After hanging with maintainers**, you feel... the same. Not worse, not better. Just comfortable.
 
-### Type 3: Elevators
+### <span style="color: #0969DA">Type 3: Elevators</span>
 
 These are the relationships that change everything.
 
@@ -224,7 +224,7 @@ Not by being ruthless. By being intentional.
 
 ---
 
-## Why This Changes Everything
+## <span style="color: #0969DA">Why This Changes Everything</span>
 
 
 
@@ -271,7 +271,7 @@ Your peer group is either your competitive advantage or your anchor. Choose wise
 
 ---
 
-## Real-World Examples
+## <span style="color: #0969DA">Real-World Examples</span>
 
 
 
@@ -352,7 +352,7 @@ Think that's a coincidence? They chose teammates who raised their game. When eve
 
 ---
 
-## Your Game Plan
+## <span style="color: #0969DA">Your Game Plan</span>
 
 
 
@@ -360,7 +360,7 @@ Think that's a coincidence? They chose teammates who raised their game. When eve
 
 Ready to build your championship team? Here's how.
 
-### Step 1: Audit Your Current Team
+### <span style="color: #0969DA">Step 1: Audit Your Current Team</span>
 
 You can't change what you don't measure. Time to get honest about who you're spending time with.
 
@@ -402,7 +402,7 @@ Right now, you might be at 20% Elevators, 50% Maintainers, 30% Drainers. That's 
 
 **The Output**: Crystal-clear picture of who's on your team right now.
 
-### Step 2: Define Your Championship Team
+### <span style="color: #0969DA">Step 2: Define Your Championship Team</span>
 
 Now that you know where you are, define where you're going.
 
@@ -444,7 +444,7 @@ This isn't shallow. It's strategic. NBA coaches don't build rosters by accident�
 
 **The Output**: Clear criteria for who belongs in your inner circle.
 
-### Step 3: Expand Your Elevator Circle
+### <span style="color: #0969DA">Step 3: Expand Your Elevator Circle</span>
 
 You've audited your current team. You know what you're looking for. Now go find them.
 
@@ -475,7 +475,7 @@ Notice the pattern? Elevators are wherever the standards are high. They're not h
 
 **The Output**: A growing network of people who raise your game.
 
-### Step 4: Set Boundaries with Drainers
+### <span style="color: #0969DA">Step 4: Set Boundaries with Drainers</span>
 
 This is the hardest part. But it's necessary.
 
@@ -522,7 +522,7 @@ You're not abandoning people. You're choosing yourself. There's a difference.
 
 **The Output**: Time and energy freed up for the people who will help you become exceptional.
 
-### Step 5: Be the Elevator
+### <span style="color: #0969DA">Step 5: Be the Elevator</span>
 
 Here's the ultimate move: don't just seek elevators. Become one.
 
@@ -560,13 +560,13 @@ And here's the secret: being an elevator makes you better too. When you hold oth
 
 ---
 
-## Practice Drills
+## <span style="color: #0969DA">Practice Drills</span>
 
 
 
 
 
-### Exercise 1: The 7-Day Time Audit
+### <span style="color: #0969DA">Exercise 1: The 7-Day Time Audit</span>
 
 **This Week's Challenge**: Track every hour of social time for seven days.
 
@@ -587,7 +587,7 @@ Create a simple log in your phone or notebook:
 
 **Right now**, you're just building awareness. No judgment—just data.
 
-### Exercise 2: The Elevator Expansion Plan
+### <span style="color: #0969DA">Exercise 2: The Elevator Expansion Plan</span>
 
 **Identify 3 Potential Elevators** you want to build relationships with:
 
@@ -617,7 +617,7 @@ Create a simple log in your phone or notebook:
 - Offer value first (help with something, ask about their project, invite them to collaborate)
 - Follow up consistently
 
-### Exercise 3: The Boundary Practice
+### <span style="color: #0969DA">Exercise 3: The Boundary Practice</span>
 
 **Pick 1 Drainer** relationship to create distance from:
 
@@ -651,7 +651,7 @@ The first no is the hardest. The second is easier. By the third, you'll realize 
 
 ---
 
-## Post-Game Review
+## <span style="color: #0969DA">Post-Game Review</span>
 
 
 
@@ -703,7 +703,7 @@ The first no is the hardest. The second is easier. By the third, you'll realize 
 
 5. **Short-term discomfort, long-term winning** - Yes, changing friend groups is uncomfortable. But staying stuck with the wrong people for years is more uncomfortable. Choose growth discomfort over stuck comfort.
 
-### Reflection Questions
+### <span style="color: #0969DA">Reflection Questions</span>
 
 
 
@@ -735,7 +735,7 @@ The first no is the hardest. The second is easier. By the third, you'll realize 
 
 5. What's scarier: the discomfort of changing my peer group, or the regret of staying stuck at my current level for the next two years?
 
-### The Championship Team Mindset
+### <span style="color: #0969DA">The Championship Team Mindset</span>
 
 Don't think: "I need to make friends."
 
@@ -765,7 +765,7 @@ You're not just hanging out. You're building the peer group that will help you b
 
 **Remember**: Life is a sport. You wouldn't pick your basketball team based on who lives closest to the gym. You'd pick the players who make you better. Do the same with your peer group.
 
-### Next Level Preview
+### <span style="color: #0969DA">Next Level Preview</span>
 
 Now that you're building your peer team—people at your level who push you higher—Chapter 15 will show you how to find mentors. People five to ten years ahead who've already won the game you're playing.
 

@@ -22,7 +22,7 @@
 
 ---
 
-## The Ten-Year Reunion
+## <span style="color: #0969DA">The Ten-Year Reunion</span>
 
 
 
@@ -106,7 +106,7 @@ Let's talk about how to win a game that actually matters.
 
 ---
 
-## The Problem: The Short-Term Thinking Epidemic
+## <span style="color: #0969DA">The Problem: The Short-Term Thinking Epidemic</span>
 
 
 
@@ -122,7 +122,7 @@ The result? Everyone's playing checkers when life is chess.
 
 ---
 
-### What Happens When You Only Play the Short Game
+### <span style="color: #0969DA">What Happens When You Only Play the Short Game</span>
 
 
 > [!NOTE]
@@ -168,7 +168,7 @@ Impressive on the outside, hollow on the inside. People congratulate you on achi
 
 ---
 
-### The Common Short-Term Traps
+### <span style="color: #0969DA">The Common Short-Term Traps</span>
 
 You'll face these decisions soon if you haven't already:
 
@@ -184,7 +184,7 @@ You'll face these decisions soon if you haven't already:
 
 ---
 
-### The Math Is Simple
+### <span style="color: #0969DA">The Math Is Simple</span>
 
 **Short game thinking**: Optimize for the next six months. Win battles. Lose the war.
 
@@ -204,13 +204,13 @@ Which game are you playing?
 
 ---
 
-## The Solution: Values-Driven Long-Term Vision
+## <span style="color: #0969DA">The Solution: Values-Driven Long-Term Vision</span>
 
 
 
 Let's get clear on what the long game actually is—and what it isn't.
 
-### What the Long Game IS
+### <span style="color: #0969DA">What the Long Game IS</span>
 
 **Defining YOUR definition of success.** Not your parents'. Not society's. Not Instagram's. Yours. What does success actually mean to you? What does a life well-lived look like through your eyes?
 
@@ -224,7 +224,7 @@ Let's get clear on what the long game actually is—and what it isn't.
 
 ---
 
-### What the Long Game ISN'T
+### <span style="color: #0969DA">What the Long Game ISN'T</span>
 
 Let's clear up some misconceptions.
 
@@ -246,7 +246,7 @@ The long game is about having a compass (your values), not a detailed map. The c
 
 ---
 
-### The Angela Ahrendts Principles
+### <span style="color: #0969DA">The Angela Ahrendts Principles</span>
 
 Angela Ahrendts built one of the most successful careers in business—CEO of Burberry, Senior VP of Retail at Apple—but she did it on her own terms. She's the perfect model for the long game.
 
@@ -325,7 +325,7 @@ The second question matters. But the first question is what creates legacy.
 
 ---
 
-### Why This Works: The Research
+### <span style="color: #0969DA">Why This Works: The Research</span>
 
 This isn't just philosophy. It's backed by decades of research.
 
@@ -341,7 +341,7 @@ This isn't just philosophy. It's backed by decades of research.
 
 ---
 
-### The Long Game Multiplier
+### <span style="color: #0969DA">The Long Game Multiplier</span>
 
 Here's what happens when you play the long game:
 
@@ -365,7 +365,7 @@ Small aligned decisions compound over time into an extraordinary life.
 
 ---
 
-## The Output: What You'll Build
+## <span style="color: #0969DA">The Output: What You'll Build</span>
 
 
 
@@ -399,7 +399,7 @@ That's the output of the long game.
 
 ---
 
-## Real-World Examples
+## <span style="color: #0969DA">Real-World Examples</span>
 
 
 
@@ -525,13 +525,13 @@ Every decision is a chance to choose alignment over impression.
 
 ---
 
-## Your Game Plan
+## <span style="color: #0969DA">Your Game Plan</span>
 
 
 
 Enough theory. Let's build your long game strategy.
 
-### Step 1: Define Your Core Values (Build Your Compass)
+### <span style="color: #0969DA">Step 1: Define Your Core Values (Build Your Compass)</span>
 
 Your values are your decision-making filter for the next thirty years.
 
@@ -623,7 +623,7 @@ If no, you're building someone else's life.
 
 ---
 
-### Step 2: Conduct Your Life Audit (Build Self-Awareness)
+### <span style="color: #0969DA">Step 2: Conduct Your Life Audit (Build Self-Awareness)</span>
 
 Most people avoid this step. It's uncomfortable. It requires honesty.
 
@@ -671,7 +671,7 @@ This isn't about guilt. It's about awareness. You can't build the life you want 
 
 ---
 
-### Step 3: Build Your 10-Year Vision (Create Your North Star)
+### <span style="color: #0969DA">Step 3: Build Your 10-Year Vision (Create Your North Star)</span>
 
 This isn't a rigid plan. Life changes. You'll change. New opportunities emerge.
 
@@ -741,7 +741,7 @@ That clarity is priceless.
 
 ---
 
-### Step 4: The Long Game Decision Framework (Make Aligned Choices)
+### <span style="color: #0969DA">Step 4: The Long Game Decision Framework (Make Aligned Choices)</span>
 
 You have your values. You have your vision. Now you need a system for making decisions that serve the long game.
 
@@ -886,7 +886,7 @@ That's how you build a championship life one decision at a time.
 
 ---
 
-### Step 5: Sustain Excellence Over Decades (Avoid Burnout)
+### <span style="color: #0969DA">Step 5: Sustain Excellence Over Decades (Avoid Burnout)</span>
 
 The long game requires sustainable pace. You can't sprint for thirty years.
 
@@ -1003,7 +1003,7 @@ You're building a life that compounds for forty years.
 
 ---
 
-### Step 6: Build Your Legacy (Impact That Lasts)
+### <span style="color: #0969DA">Step 6: Build Your Legacy (Impact That Lasts)</span>
 
 Your legacy isn't your achievements. It's your impact on people.
 
@@ -1116,13 +1116,13 @@ That's the long game.
 
 ---
 
-## Practice Drills
+## <span style="color: #0969DA">Practice Drills</span>
 
 
 
 You've got the framework. Now let's practice.
 
-### Exercise 1: The Values Deep Dive
+### <span style="color: #0969DA">Exercise 1: The Values Deep Dive</span>
 
 **Week 1 Challenge**: Define and test your core values.
 
@@ -1143,7 +1143,7 @@ You've got the framework. Now let's practice.
 
 ---
 
-### Exercise 2: The Life Alignment Audit
+### <span style="color: #0969DA">Exercise 2: The Life Alignment Audit</span>
 
 **Week 2 Challenge**: Assess current alignment.
 
@@ -1163,7 +1163,7 @@ Track it. See if the alignment improves.
 
 ---
 
-### Exercise 3: The 10-Year Vision Letter
+### <span style="color: #0969DA">Exercise 3: The 10-Year Vision Letter</span>
 
 **Week 3 Challenge**: Write a letter from your future self.
 
@@ -1190,7 +1190,7 @@ Track it. See if the alignment improves.
 
 ---
 
-### Exercise 4: The Decision Filter Practice
+### <span style="color: #0969DA">Exercise 4: The Decision Filter Practice</span>
 
 **Week 4 Challenge**: Apply the five-filter framework to real decisions.
 
@@ -1231,13 +1231,13 @@ Build the muscle. Get comfortable filtering decisions through your values.
 
 ---
 
-## Post-Game Review
+## <span style="color: #0969DA">Post-Game Review</span>
 
 
 
 You've made it to the final chapter. Let's tie it all together.
 
-### Reflection Questions
+### <span style="color: #0969DA">Reflection Questions</span>
 
 These aren't gentle questions. They're designed to make you think.
 
@@ -1321,7 +1321,7 @@ Let's distill this chapter into the essentials:
 
 ---
 
-## The "Perfect Effort" Philosophy - One Page Summary
+## <span style="color: #0969DA">The "Perfect Effort" Philosophy - One Page Summary</span>
 
 
 
@@ -1341,7 +1341,7 @@ Perfect Effort isn't about being perfect. It's about alignment.
 
 ---
 
-### The Core Principles (Chapters 1-20 in One Page)
+### <span style="color: #0969DA">The Core Principles (Chapters 1-20 in One Page)</span>
 
 
 > [!NOTE]
@@ -1404,7 +1404,7 @@ Perfect Effort isn't about being perfect. It's about alignment.
 
 ---
 
-### The Perfect Effort Question
+### <span style="color: #0969DA">The Perfect Effort Question</span>
 
 Before any decision, ask:
 
@@ -1415,7 +1415,7 @@ If no, walk away, no matter how impressive it looks.
 
 ---
 
-### Your Championship Life
+### <span style="color: #0969DA">Your Championship Life</span>
 
 You have one life. One opportunity to build something you're proud of.
 
@@ -1443,7 +1443,7 @@ Proud because it's authentically yours. Proud because you played the game with i
 
 ---
 
-## The Final Challenge: Your Perfect Effort Commitment
+## <span style="color: #0969DA">The Final Challenge: Your Perfect Effort Commitment</span>
 
 
 
@@ -1459,7 +1459,7 @@ So here's the challenge:
 
 ---
 
-### Your Perfect Effort Commitment
+### <span style="color: #0969DA">Your Perfect Effort Commitment</span>
 
 > I commit to building a life aligned with my values:
 >
@@ -1490,7 +1490,7 @@ So here's the challenge:
 
 ---
 
-## A Letter From Your Coach
+## <span style="color: #0969DA">A Letter From Your Coach</span>
 
 
 

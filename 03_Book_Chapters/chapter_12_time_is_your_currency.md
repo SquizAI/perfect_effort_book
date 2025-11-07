@@ -20,7 +20,7 @@
 
 ---
 
-## Sunday Night, 10:47pm
+## <span style="color: #0969DA">Sunday Night, 10:47pm</span>
 
 
 You're lying in bed scrolling through your phone.
@@ -54,7 +54,7 @@ And you're spending it like you're rich when you're actually broke.
 
 ---
 
-## The Time Poverty Crisis
+## <span style="color: #0969DA">The Time Poverty Crisis</span>
 
 
 You think you have plenty of time. You're young. Your whole life is ahead of you.
@@ -63,7 +63,7 @@ Wrong.
 
 Let's do some math.
 
-### The Brutal Truth About Your Time
+### <span style="color: #0969DA">The Brutal Truth About Your Time</span>
 
 You're 15 years old. You'll live to maybe 80. That's 65 years left.
 
@@ -93,7 +93,7 @@ Wrong.
 
 And here's what's terrifying: most people waste 80% of those hours on things that literally don't matter.
 
-### Where Your Time Actually Goes
+### <span style="color: #0969DA">Where Your Time Actually Goes</span>
 
 Let's track a typical day. Not what you think you do. What you actually do.
 
@@ -123,7 +123,7 @@ That's not a good trade.
 
 > Most people measure time by hours spent. Winners measure time by what they created. "I worked for 3 hours" means nothing. "I mastered this concept" means everything.
 
-### The Time Value Ladder
+### <span style="color: #0969DA">The Time Value Ladder</span>
 
 Not all hours are equal. Some hours create massive value. Some create zero.
 
@@ -165,7 +165,7 @@ Same hour. Completely different returns.
 
 ---
 
-## The Contrarian Time Choice
+## <span style="color: #0969DA">The Contrarian Time Choice</span>
 
 
 Here's a question most people never ask: "What important truth do very few people agree with you on?"
@@ -192,7 +192,7 @@ Think about it. Most teenagers spend their time the same way:
 
 What if you made different choices?
 
-### The Four Contrarian Time Mistakes
+### <span style="color: #0969DA">The Four Contrarian Time Mistakes</span>
 
 
 > [!NOTE]
@@ -264,7 +264,7 @@ The winners? They made that uncomfortable choice at 15.
 
 By 25, they're ten years ahead of everyone who played it safe.
 
-### The Weekly Contrarian Questions
+### <span style="color: #0969DA">The Weekly Contrarian Questions</span>
 
 Ask yourself every Sunday night:
 
@@ -286,7 +286,7 @@ The stuff that will matter? You're probably avoiding it because it's hard and no
 
 ---
 
-## The 7-Day Time Audit
+## <span style="color: #0969DA">The 7-Day Time Audit</span>
 
 
 You can't fix what you can't see.
@@ -295,7 +295,7 @@ Right now, you probably have no idea where your time actually goes. You have a r
 
 Let's find out.
 
-### Week 1: Track Everything
+### <span style="color: #0969DA">Week 1: Track Everything</span>
 
 For the next seven days, track every single hour.
 
@@ -314,7 +314,7 @@ Set a reminder to update it every few hours. Don't judge. Just track.
 
 By the end of the week, you'll have 168 hours of data.
 
-### The Wake-Up Call
+### <span style="color: #0969DA">The Wake-Up Call</span>
 
 After seven days, add up your hours by category.
 
@@ -345,7 +345,7 @@ The goal? Flip it.
 
 > The time audit is uncomfortable. You'll see patterns you don't like. That discomfort is the feeling of growth. Lean into it.
 
-### The Energy-Value Matrix
+### <span style="color: #0969DA">The Energy-Value Matrix</span>
 
 Here's the next level: Not all hours are created equal.
 
@@ -439,7 +439,7 @@ Context switching between tasks constantly.
 
 ---
 
-## The Leverage Hierarchy
+## <span style="color: #0969DA">The Leverage Hierarchy</span>
 
 
 Some activities give you 1x return. You put in an hour, you get an hour of value.
@@ -448,7 +448,7 @@ Some activities give you 100x return. You put in an hour, it creates value for y
 
 You need to know the difference.
 
-### The Four Leverage Levels
+### <span style="color: #0969DA">The Four Leverage Levels</span>
 
 **Level 1: Linear Return** (1 hour = 1x value)
 
@@ -490,7 +490,7 @@ Developing rare skill combinations nobody else has.
 
 Example: Building a business that generates income while you sleep. One year of work creates ten years of returns.
 
-### How Winners Allocate Time
+### <span style="color: #0969DA">How Winners Allocate Time</span>
 
 **Conventional allocation** (how most people spend time):
 - 80% maintenance activities
@@ -508,7 +508,7 @@ Result: Exponential growth. Time invested once creates returns forever.
 
 Same 24 hours. Completely different trajectories.
 
-### The Time Investment Checklist
+### <span style="color: #0969DA">The Time Investment Checklist</span>
 
 Before you commit time to anything, run it through these five questions:
 
@@ -538,7 +538,7 @@ If you can't answer yes to at least three of these, you're probably wasting time
 
 ---
 
-## The Art of Strategic No
+## <span style="color: #0969DA">The Art of Strategic No</span>
 
 
 Your time is the scarcest resource you have.
@@ -547,7 +547,7 @@ Learning to say no is the highest-leverage skill you can develop.
 
 But it's also the hardest.
 
-### Why Saying No Feels Impossible
+### <span style="color: #0969DA">Why Saying No Feels Impossible</span>
 
 You want people to like you. You don't want to miss out. You worry about letting people down.
 
@@ -563,7 +563,7 @@ Say yes to a club you don't care about? You just said no to deep practice in som
 
 Say yes to keeping everyone happy? You just said no to becoming exceptional.
 
-### The 90% Rule
+### <span style="color: #0969DA">The 90% Rule</span>
 
 Here's the system that changes everything.
 
@@ -611,7 +611,7 @@ Keep a "Maybe Later" list. Write it down. Acknowledge it. Don't commit.
 
 Most opportunities that seem urgent aren't actually urgent at all.
 
-### The Strategic Yes
+### <span style="color: #0969DA">The Strategic Yes</span>
 
 So what should you say yes to?
 
@@ -627,7 +627,7 @@ So what should you say yes to?
 - Time with people who drain your energy and ambition
 - Busywork disguised as productivity
 
-### The Uncomfortable Trades
+### <span style="color: #0969DA">The Uncomfortable Trades</span>
 
 You can't have everything. But you can consciously choose what you're trading.
 
@@ -686,14 +686,14 @@ Which do you want?
 
 ---
 
-## Your High-Leverage Time Blocks
+## <span style="color: #0969DA">Your High-Leverage Time Blocks</span>
 
 
 You can't just think about time differently. You have to structure your days differently.
 
 Design your schedule around your highest-leverage activities. Not around what's convenient.
 
-### The Ideal Week Template
+### <span style="color: #0969DA">The Ideal Week Template</span>
 
 **Morning Block** (First 2-3 hours after waking):
 
@@ -763,7 +763,7 @@ Actual rest that sets up your next morning.
 > *This determines how good tomorrow's morning block will be.*
 
 
-### The 90-Minute Sprint
+### <span style="color: #0969DA">The 90-Minute Sprint</span>
 
 Every day, protect one 90-minute block of deep work.
 
@@ -783,7 +783,7 @@ They're spreading attention across ten things. You're going deep on two.
 
 In a year, you won't just be ahead. You'll be in a completely different league.
 
-### The Weekly Time Budget
+### <span style="color: #0969DA">The Weekly Time Budget</span>
 
 You have about 50 discretionary hours per week.
 
@@ -827,7 +827,7 @@ Same amount of time.
 
 In five years? Completely different lives.
 
-### The Monthly Reset
+### <span style="color: #0969DA">The Monthly Reset</span>
 
 Once a month, run this check-in:
 
@@ -856,7 +856,7 @@ Because it's easy to slip back into old patterns without realizing it.
 
 ---
 
-## The Compound Time Effect
+## <span style="color: #0969DA">The Compound Time Effect</span>
 
 
 Small daily choices about time don't create small results.
@@ -865,7 +865,7 @@ They create exponential results.
 
 And the earlier you start, the more extreme those results become.
 
-### Two People, Same Age, Different Choices
+### <span style="color: #0969DA">Two People, Same Age, Different Choices</span>
 
 **Person A** (Conventional time use):
 - Ages 15-25: Standard path. Average effort. Normal activities.
@@ -887,7 +887,7 @@ What made the difference?
 
 How they invested time at age 15.
 
-### The One-Hour Edge
+### <span style="color: #0969DA">The One-Hour Edge</span>
 
 What if you invested just one extra hour per day in high-leverage activities?
 
@@ -917,7 +917,7 @@ Playing a different game.
 
 With different rules.
 
-### The 5-Year You
+### <span style="color: #0969DA">The 5-Year You</span>
 
 Try this exercise. It's uncomfortable.
 
@@ -958,12 +958,12 @@ Which version do you want to be?
 
 ---
 
-## Your Game Plan
+## <span style="color: #0969DA">Your Game Plan</span>
 
 
 Time to move from theory to action.
 
-### Step 1: See Where Your Time Actually Goes
+### <span style="color: #0969DA">Step 1: See Where Your Time Actually Goes</span>
 
 **This Week:**
 
@@ -973,7 +973,7 @@ Use four columns: Time/Activity, Value Category, Energy Level, Output Created.
 
 **The Output:** Crystal-clear picture of where your time goes and what it produces.
 
-### Step 2: Find and Eliminate Your Biggest Time Leak
+### <span style="color: #0969DA">Step 2: Find and Eliminate Your Biggest Time Leak</span>
 
 After seven days, your biggest time leak will be obvious.
 
@@ -987,7 +987,7 @@ Delete the app. Block the website. Change the environment.
 
 **The Output:** 5-15 hours per week freed up for high-leverage activities.
 
-### Step 3: Protect Your Golden Hours
+### <span style="color: #0969DA">Step 3: Protect Your Golden Hours</span>
 
 Identify your highest-energy time window. Usually first 2-3 hours after waking.
 
@@ -1003,7 +1003,7 @@ Phone in another room. Door closed. 90-minute sprint.
 
 **The Output:** Daily progress on what actually matters most.
 
-### Step 4: Design Your Ideal Week
+### <span style="color: #0969DA">Step 4: Design Your Ideal Week</span>
 
 Take 30 minutes this Sunday night.
 
@@ -1013,7 +1013,7 @@ Be honest about trade-offs. You can't do everything.
 
 **The Output:** Clear blueprint for how you want to invest your 50 discretionary hours.
 
-### Step 5: Practice Strategic No
+### <span style="color: #0969DA">Step 5: Practice Strategic No</span>
 
 This week, say no to one commitment that doesn't serve your goals.
 
@@ -1028,10 +1028,10 @@ Be direct. Be kind. Be firm.
 
 ---
 
-## Practice Drills
+## <span style="color: #0969DA">Practice Drills</span>
 
 
-### Drill 1: The Hour Value Calculator
+### <span style="color: #0969DA">Drill 1: The Hour Value Calculator</span>
 
 For each activity you did today, calculate the return:
 
@@ -1044,7 +1044,7 @@ Example:
 
 Do this for a week. It changes how you see every time choice.
 
-### Drill 2: The Contrarian Question Challenge
+### <span style="color: #0969DA">Drill 2: The Contrarian Question Challenge</span>
 
 Every Sunday night, answer these five questions:
 
@@ -1057,7 +1057,7 @@ Every Sunday night, answer these five questions:
 
 Write down your answers. Track patterns over time.
 
-### Drill 3: The 90-Minute Sprint
+### <span style="color: #0969DA">Drill 3: The 90-Minute Sprint</span>
 
 Starting tomorrow, protect one 90-minute deep work block.
 
@@ -1071,7 +1071,7 @@ Track what you create in these blocks for a week.
 
 You'll be shocked at what you can accomplish with actual focus.
 
-### Weekly Check-In
+### <span style="color: #0969DA">Weekly Check-In</span>
 
 Track your time transformation:
 
@@ -1090,7 +1090,7 @@ Track your time transformation:
 
 ---
 
-## Post-Game Review
+## <span style="color: #0969DA">Post-Game Review</span>
 
 
 
@@ -1115,7 +1115,7 @@ Track your time transformation:
 
 5. **Small daily choices compound into massive life differences.** One hour per day of strategic time use creates a completely different life in five years.
 
-### Reflection Questions
+### <span style="color: #0969DA">Reflection Questions</span>
 
 
 1. If you tracked your time for the last week honestly, what percentage went to zero-value activities?
@@ -1132,7 +1132,7 @@ Track your time transformation:
 
 5. What one commitment can you say no to this week to free up time for what actually matters?
 
-### The Output Mindset
+### <span style="color: #0969DA">The Output Mindset</span>
 
 
 ---
@@ -1155,7 +1155,7 @@ Choose wisely.
 
 ---
 
-### Next Level
+### <span style="color: #0969DA">Next Level</span>
 
 You've learned to invest time wisely. You've identified high-leverage activities.
 

@@ -22,7 +22,7 @@
 
 ---
 
-## The Two Coders
+## <span style="color: #0969DA">The Two Coders</span>
 
 
 
@@ -78,7 +78,7 @@ Let's talk about how to actually do that.
 
 ---
 
-## Why Most People Plateau Fast
+## <span style="color: #0969DA">Why Most People Plateau Fast</span>
 
 
 
@@ -124,7 +124,7 @@ That's the problem with collecting information instead of building foundations.
 
 ---
 
-## The Deep Learning Approach
+## <span style="color: #0969DA">The Deep Learning Approach</span>
 
 
 
@@ -138,7 +138,7 @@ You can't skip to advanced capability. You have to build it. Layer by layer. Fou
 
 Here's how that actually works.
 
-### Depth Before Breadth (Master Fundamentals)
+### <span style="color: #0969DA">Depth Before Breadth (Master Fundamentals)</span>
 
 Listen. Fundamentals are boring. Everyone wants the flashy moves. The advanced techniques. The secret hacks that shortcut the whole process.
 
@@ -163,7 +163,7 @@ The question is: are you willing to be bored for a while to be capable forever?
 **Don't think**: "I need to learn everything"
 **Think**: "Master fundamentals deeply, then build"
 
-### Deliberate Practice (Quality Over Quantity)
+### <span style="color: #0969DA">Deliberate Practice (Quality Over Quantity)</span>
 
 Ten thousand hours.
 
@@ -199,7 +199,7 @@ The first approach feels good. The second approach makes you good.
 
 > If practice feels easy, you're not growing. Comfort is the enemy of improvement. Struggle is not a sign you're doing it wrong—it's a sign you're doing it right. Seek the difficulty. That's where skill lives.
 
-### Skill Stacking (Build Systems, Not Silos)
+### <span style="color: #0969DA">Skill Stacking (Build Systems, Not Silos)</span>
 
 Here's where it gets really interesting.
 
@@ -258,7 +258,7 @@ The game isn't about collecting isolated skills. It's about building capability 
 
 ---
 
-## Why This Actually Works
+## <span style="color: #0969DA">Why This Actually Works</span>
 
 
 
@@ -302,11 +302,11 @@ And thinking systems compound forever.
 
 ---
 
-## Real People Who Get This
+## <span style="color: #0969DA">Real People Who Get This</span>
 
 
 
-### Ilya Sutskever: Building Revolutionary Technology on Boring Fundamentals
+### <span style="color: #0969DA">Ilya Sutskever: Building Revolutionary Technology on Boring Fundamentals</span>
 
 You might not know his name. But you've definitely used his work.
 
@@ -336,7 +336,7 @@ The lesson? The people who build revolutionary things master boring fundamentals
 
 If you want to do work that matters, stop looking for shortcuts. Start building foundations.
 
-### Steph Curry: Making Fundamentals Unfair
+### <span style="color: #0969DA">Steph Curry: Making Fundamentals Unfair</span>
 
 Greatest shooter in NBA history. Broke the all-time three-point record. Revolutionized how basketball is played.
 
@@ -366,7 +366,7 @@ He revolutionized basketball not by inventing something new. But by mastering so
 
 The lesson? You don't need to invent a new skill. Just master an existing one deeper than everyone else.
 
-### Alex: From Cramming to Capability
+### <span style="color: #0969DA">Alex: From Cramming to Capability</span>
 
 Let's talk about someone more like you.
 
@@ -420,13 +420,13 @@ The lesson? Master the process of learning itself, and every other skill becomes
 
 ---
 
-## Your Game Plan: Building Compound Capability
+## <span style="color: #0969DA">Your Game Plan: Building Compound Capability</span>
 
 
 
 Alright. Enough theory. Let's make this practical.
 
-### Step 1: Choose Your Core Skills (Build Your Foundation)
+### <span style="color: #0969DA">Step 1: Choose Your Core Skills (Build Your Foundation)</span>
 
 You can't master everything. That's not how this works. Trying to learn everything means you'll master nothing.
 
@@ -483,7 +483,7 @@ These are your focus for the next six months.
 
 **The Output**: Clear focus on skills that will compound over time.
 
-### Step 2: Master the Fundamentals (Go Deep Before Wide)
+### <span style="color: #0969DA">Step 2: Master the Fundamentals (Go Deep Before Wide)</span>
 
 Once you've picked your skill, here's the hard part.
 
@@ -520,7 +520,7 @@ Action step: for your chosen skill, write down:
 
 **The Output**: Deep competence in foundational skills that unlock everything else.
 
-### Step 3: Practice Deliberately (Not Just More, But Better)
+### <span style="color: #0969DA">Step 3: Practice Deliberately (Not Just More, But Better)</span>
 
 Every practice session should have a specific focus.
 
@@ -571,7 +571,7 @@ Deliberate practice: a hundred hours equals exponential improvement.
 
 > You're not practicing wrong. You're just not practicing deliberately. Thirty focused minutes beats three mindless hours. Every rep should have a purpose. Otherwise it's not practice. It's just repetition.
 
-### Step 4: Build Your Learning System (Make Improvement Automatic)
+### <span style="color: #0969DA">Step 4: Build Your Learning System (Make Improvement Automatic)</span>
 
 Don't rely on motivation. Motivation fades. Build a system.
 
@@ -645,7 +645,7 @@ Quarterly: How far have I come? What's unlocked now that wasn't possible before?
 
 **The Output**: Improvement becomes automatic, built into your routine, not dependent on motivation.
 
-### Step 5: Stack Your Skills (Create Compound Capability)
+### <span style="color: #0969DA">Step 5: Stack Your Skills (Create Compound Capability)</span>
 
 Once you have depth in one area, strategically add related skills.
 
@@ -791,11 +791,11 @@ Difficulty equals your brain building new connections.
 
 ---
 
-## Practice Drills
+## <span style="color: #0969DA">Practice Drills</span>
 
 
 
-### Exercise 1: The Fundamental Audit
+### <span style="color: #0969DA">Exercise 1: The Fundamental Audit</span>
 
 Week one challenge. Identify the fundamentals of your chosen skill.
 
@@ -815,7 +815,7 @@ For your primary skill, answer:
 
 Action: Spend the next two weeks ONLY on your highest-priority fundamental. Go deep.
 
-### Exercise 2: Deliberate Practice Session
+### <span style="color: #0969DA">Exercise 2: Deliberate Practice Session</span>
 
 This week. Run ONE deliberate practice session using the template.
 
@@ -838,7 +838,7 @@ This week. Run ONE deliberate practice session using the template.
 
 Goal: Feel the difference between mindless reps and deliberate practice.
 
-### Exercise 3: The Learning System Build
+### <span style="color: #0969DA">Exercise 3: The Learning System Build</span>
 
 Thirty-day challenge. Build your skill development system.
 
@@ -861,7 +861,7 @@ Thirty-day challenge. Build your skill development system.
 
 The output: A repeatable system for skill development that works beyond this one skill.
 
-### Exercise 4: Teach What You're Learning
+### <span style="color: #0969DA">Exercise 4: Teach What You're Learning</span>
 
 This month. Teach your skill to someone else.
 
@@ -885,11 +885,11 @@ The output: Deeper mastery through teaching plus practice helping others (leader
 
 ---
 
-## Post-Game Review
+## <span style="color: #0969DA">Post-Game Review</span>
 
 
 
-### Reflection Questions
+### <span style="color: #0969DA">Reflection Questions</span>
 
 
 
@@ -924,7 +924,7 @@ The output: Deeper mastery through teaching plus practice helping others (leader
 
 **Struggle in practice equals growth**. Embrace difficulty. If it's not hard, you're not learning. Discomfort is the feeling of your brain building new capabilities.
 
-### Next Level Preview
+### <span style="color: #0969DA">Next Level Preview</span>
 
 You've learned how to build skills that compound over time. Strategic focus. Deep foundations. Deliberate practice. Systems that make improvement automatic.
 
