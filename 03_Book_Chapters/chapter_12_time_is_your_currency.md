@@ -20,7 +20,7 @@
 
 ---
 
-## <span style="color: #0969DA">Sunday Night, 10:47pm</span>
+## $${\color{blue}Sunday \space Night, \space 10:47pm}$$
 
 
 You're lying in bed scrolling through your phone.
@@ -54,7 +54,7 @@ And you're spending it like you're rich when you're actually broke.
 
 ---
 
-## <span style="color: #0969DA">The Time Poverty Crisis</span>
+## $${\color{blue}The \space Time \space Poverty \space Crisis}$$
 
 
 You think you have plenty of time. You're young. Your whole life is ahead of you.
@@ -63,7 +63,7 @@ Wrong.
 
 Let's do some math.
 
-### <span style="color: #0969DA">The Brutal Truth About Your Time</span>
+### $${\color{blue}The \space Brutal \space Truth \space About \space Your \space Time}$$
 
 You're 15 years old. You'll live to maybe 80. That's 65 years left.
 
@@ -93,7 +93,7 @@ Wrong.
 
 And here's what's terrifying: most people waste 80% of those hours on things that literally don't matter.
 
-### <span style="color: #0969DA">Where Your Time Actually Goes</span>
+### $${\color{blue}Where \space Your \space Time \space Actually \space Goes}$$
 
 Let's track a typical day. Not what you think you do. What you actually do.
 
@@ -123,7 +123,7 @@ That's not a good trade.
 
 > Most people measure time by hours spent. Winners measure time by what they created. "I worked for 3 hours" means nothing. "I mastered this concept" means everything.
 
-### <span style="color: #0969DA">The Time Value Ladder</span>
+### $${\color{blue}The \space Time \space Value \space Ladder}$$
 
 Not all hours are equal. Some hours create massive value. Some create zero.
 
@@ -165,7 +165,7 @@ Same hour. Completely different returns.
 
 ---
 
-## <span style="color: #0969DA">The Contrarian Time Choice</span>
+## $${\color{blue}The \space Contrarian \space Time \space Choice}$$
 
 
 Here's a question most people never ask: "What important truth do very few people agree with you on?"
@@ -192,7 +192,7 @@ Think about it. Most teenagers spend their time the same way:
 
 What if you made different choices?
 
-### <span style="color: #0969DA">The Four Contrarian Time Mistakes</span>
+### $${\color{blue}The \space Four \space Contrarian \space Time \space Mistakes}$$
 
 
 > [!NOTE]
@@ -264,7 +264,7 @@ The winners? They made that uncomfortable choice at 15.
 
 By 25, they're ten years ahead of everyone who played it safe.
 
-### <span style="color: #0969DA">The Weekly Contrarian Questions</span>
+### $${\color{blue}The \space Weekly \space Contrarian \space Questions}$$
 
 Ask yourself every Sunday night:
 
@@ -286,7 +286,7 @@ The stuff that will matter? You're probably avoiding it because it's hard and no
 
 ---
 
-## <span style="color: #0969DA">The 7-Day Time Audit</span>
+## $${\color{blue}The \space 7-Day \space Time \space Audit}$$
 
 
 You can't fix what you can't see.
@@ -295,7 +295,7 @@ Right now, you probably have no idea where your time actually goes. You have a r
 
 Let's find out.
 
-### <span style="color: #0969DA">Week 1: Track Everything</span>
+### $${\color{blue}Week \space 1: \space Track \space Everything}$$
 
 For the next seven days, track every single hour.
 
@@ -314,7 +314,7 @@ Set a reminder to update it every few hours. Don't judge. Just track.
 
 By the end of the week, you'll have 168 hours of data.
 
-### <span style="color: #0969DA">The Wake-Up Call</span>
+### $${\color{blue}The \space Wake-Up \space Call}$$
 
 After seven days, add up your hours by category.
 
@@ -345,7 +345,7 @@ The goal? Flip it.
 
 > The time audit is uncomfortable. You'll see patterns you don't like. That discomfort is the feeling of growth. Lean into it.
 
-### <span style="color: #0969DA">The Energy-Value Matrix</span>
+### $${\color{blue}The \space Energy-Value \space Matrix}$$
 
 Here's the next level: Not all hours are created equal.
 
@@ -439,7 +439,7 @@ Context switching between tasks constantly.
 
 ---
 
-## <span style="color: #0969DA">The Leverage Hierarchy</span>
+## $${\color{blue}The \space Leverage \space Hierarchy}$$
 
 
 Some activities give you 1x return. You put in an hour, you get an hour of value.
@@ -448,7 +448,7 @@ Some activities give you 100x return. You put in an hour, it creates value for y
 
 You need to know the difference.
 
-### <span style="color: #0969DA">The Four Leverage Levels</span>
+### $${\color{blue}The \space Four \space Leverage \space Levels}$$
 
 **Level 1: Linear Return** (1 hour = 1x value)
 
@@ -490,7 +490,7 @@ Developing rare skill combinations nobody else has.
 
 Example: Building a business that generates income while you sleep. One year of work creates ten years of returns.
 
-### <span style="color: #0969DA">How Winners Allocate Time</span>
+### $${\color{blue}How \space Winners \space Allocate \space Time}$$
 
 **Conventional allocation** (how most people spend time):
 - 80% maintenance activities
@@ -508,7 +508,7 @@ Result: Exponential growth. Time invested once creates returns forever.
 
 Same 24 hours. Completely different trajectories.
 
-### <span style="color: #0969DA">The Time Investment Checklist</span>
+### $${\color{blue}The \space Time \space Investment \space Checklist}$$
 
 Before you commit time to anything, run it through these five questions:
 
@@ -538,7 +538,7 @@ If you can't answer yes to at least three of these, you're probably wasting time
 
 ---
 
-## <span style="color: #0969DA">The Art of Strategic No</span>
+## $${\color{blue}The \space Art \space of \space Strategic \space No}$$
 
 
 Your time is the scarcest resource you have.
@@ -547,7 +547,7 @@ Learning to say no is the highest-leverage skill you can develop.
 
 But it's also the hardest.
 
-### <span style="color: #0969DA">Why Saying No Feels Impossible</span>
+### $${\color{blue}Why \space Saying \space No \space Feels \space Impossible}$$
 
 You want people to like you. You don't want to miss out. You worry about letting people down.
 
@@ -563,7 +563,7 @@ Say yes to a club you don't care about? You just said no to deep practice in som
 
 Say yes to keeping everyone happy? You just said no to becoming exceptional.
 
-### <span style="color: #0969DA">The 90% Rule</span>
+### $${\color{blue}The \space 90% \space Rule}$$
 
 Here's the system that changes everything.
 
@@ -611,7 +611,7 @@ Keep a "Maybe Later" list. Write it down. Acknowledge it. Don't commit.
 
 Most opportunities that seem urgent aren't actually urgent at all.
 
-### <span style="color: #0969DA">The Strategic Yes</span>
+### $${\color{blue}The \space Strategic \space Yes}$$
 
 So what should you say yes to?
 
@@ -627,7 +627,7 @@ So what should you say yes to?
 - Time with people who drain your energy and ambition
 - Busywork disguised as productivity
 
-### <span style="color: #0969DA">The Uncomfortable Trades</span>
+### $${\color{blue}The \space Uncomfortable \space Trades}$$
 
 You can't have everything. But you can consciously choose what you're trading.
 
@@ -686,14 +686,14 @@ Which do you want?
 
 ---
 
-## <span style="color: #0969DA">Your High-Leverage Time Blocks</span>
+## $${\color{blue}Your \space High-Leverage \space Time \space Blocks}$$
 
 
 You can't just think about time differently. You have to structure your days differently.
 
 Design your schedule around your highest-leverage activities. Not around what's convenient.
 
-### <span style="color: #0969DA">The Ideal Week Template</span>
+### $${\color{blue}The \space Ideal \space Week \space Template}$$
 
 **Morning Block** (First 2-3 hours after waking):
 
@@ -763,7 +763,7 @@ Actual rest that sets up your next morning.
 > *This determines how good tomorrow's morning block will be.*
 
 
-### <span style="color: #0969DA">The 90-Minute Sprint</span>
+### $${\color{blue}The \space 90-Minute \space Sprint}$$
 
 Every day, protect one 90-minute block of deep work.
 
@@ -783,7 +783,7 @@ They're spreading attention across ten things. You're going deep on two.
 
 In a year, you won't just be ahead. You'll be in a completely different league.
 
-### <span style="color: #0969DA">The Weekly Time Budget</span>
+### $${\color{blue}The \space Weekly \space Time \space Budget}$$
 
 You have about 50 discretionary hours per week.
 
@@ -827,7 +827,7 @@ Same amount of time.
 
 In five years? Completely different lives.
 
-### <span style="color: #0969DA">The Monthly Reset</span>
+### $${\color{blue}The \space Monthly \space Reset}$$
 
 Once a month, run this check-in:
 
@@ -856,7 +856,7 @@ Because it's easy to slip back into old patterns without realizing it.
 
 ---
 
-## <span style="color: #0969DA">The Compound Time Effect</span>
+## $${\color{blue}The \space Compound \space Time \space Effect}$$
 
 
 Small daily choices about time don't create small results.
@@ -865,7 +865,7 @@ They create exponential results.
 
 And the earlier you start, the more extreme those results become.
 
-### <span style="color: #0969DA">Two People, Same Age, Different Choices</span>
+### $${\color{blue}Two \space People, \space Same \space Age, \space Different \space Choices}$$
 
 **Person A** (Conventional time use):
 - Ages 15-25: Standard path. Average effort. Normal activities.
@@ -887,7 +887,7 @@ What made the difference?
 
 How they invested time at age 15.
 
-### <span style="color: #0969DA">The One-Hour Edge</span>
+### $${\color{blue}The \space One-Hour \space Edge}$$
 
 What if you invested just one extra hour per day in high-leverage activities?
 
@@ -917,7 +917,7 @@ Playing a different game.
 
 With different rules.
 
-### <span style="color: #0969DA">The 5-Year You</span>
+### $${\color{blue}The \space 5-Year \space You}$$
 
 Try this exercise. It's uncomfortable.
 
@@ -958,12 +958,12 @@ Which version do you want to be?
 
 ---
 
-## <span style="color: #0969DA">Your Game Plan</span>
+## $${\color{blue}Your \space Game \space Plan}$$
 
 
 Time to move from theory to action.
 
-### <span style="color: #0969DA">Step 1: See Where Your Time Actually Goes</span>
+### $${\color{blue}Step \space 1: \space See \space Where \space Your \space Time \space Actually \space Goes}$$
 
 **This Week:**
 
@@ -973,7 +973,7 @@ Use four columns: Time/Activity, Value Category, Energy Level, Output Created.
 
 **The Output:** Crystal-clear picture of where your time goes and what it produces.
 
-### <span style="color: #0969DA">Step 2: Find and Eliminate Your Biggest Time Leak</span>
+### $${\color{blue}Step \space 2: \space Find \space and \space Eliminate \space Your \space Biggest \space Time \space Leak}$$
 
 After seven days, your biggest time leak will be obvious.
 
@@ -987,7 +987,7 @@ Delete the app. Block the website. Change the environment.
 
 **The Output:** 5-15 hours per week freed up for high-leverage activities.
 
-### <span style="color: #0969DA">Step 3: Protect Your Golden Hours</span>
+### $${\color{blue}Step \space 3: \space Protect \space Your \space Golden \space Hours}$$
 
 Identify your highest-energy time window. Usually first 2-3 hours after waking.
 
@@ -1003,7 +1003,7 @@ Phone in another room. Door closed. 90-minute sprint.
 
 **The Output:** Daily progress on what actually matters most.
 
-### <span style="color: #0969DA">Step 4: Design Your Ideal Week</span>
+### $${\color{blue}Step \space 4: \space Design \space Your \space Ideal \space Week}$$
 
 Take 30 minutes this Sunday night.
 
@@ -1013,7 +1013,7 @@ Be honest about trade-offs. You can't do everything.
 
 **The Output:** Clear blueprint for how you want to invest your 50 discretionary hours.
 
-### <span style="color: #0969DA">Step 5: Practice Strategic No</span>
+### $${\color{blue}Step \space 5: \space Practice \space Strategic \space No}$$
 
 This week, say no to one commitment that doesn't serve your goals.
 
@@ -1028,10 +1028,10 @@ Be direct. Be kind. Be firm.
 
 ---
 
-## <span style="color: #0969DA">Practice Drills</span>
+## $${\color{blue}Practice \space Drills}$$
 
 
-### <span style="color: #0969DA">Drill 1: The Hour Value Calculator</span>
+### $${\color{blue}Drill \space 1: \space The \space Hour \space Value \space Calculator}$$
 
 For each activity you did today, calculate the return:
 
@@ -1044,7 +1044,7 @@ Example:
 
 Do this for a week. It changes how you see every time choice.
 
-### <span style="color: #0969DA">Drill 2: The Contrarian Question Challenge</span>
+### $${\color{blue}Drill \space 2: \space The \space Contrarian \space Question \space Challenge}$$
 
 Every Sunday night, answer these five questions:
 
@@ -1057,7 +1057,7 @@ Every Sunday night, answer these five questions:
 
 Write down your answers. Track patterns over time.
 
-### <span style="color: #0969DA">Drill 3: The 90-Minute Sprint</span>
+### $${\color{blue}Drill \space 3: \space The \space 90-Minute \space Sprint}$$
 
 Starting tomorrow, protect one 90-minute deep work block.
 
@@ -1071,7 +1071,7 @@ Track what you create in these blocks for a week.
 
 You'll be shocked at what you can accomplish with actual focus.
 
-### <span style="color: #0969DA">Weekly Check-In</span>
+### $${\color{blue}Weekly \space Check-In}$$
 
 Track your time transformation:
 
@@ -1090,7 +1090,7 @@ Track your time transformation:
 
 ---
 
-## <span style="color: #0969DA">Post-Game Review</span>
+## $${\color{blue}Post-Game \space Review}$$
 
 
 
@@ -1115,7 +1115,7 @@ Track your time transformation:
 
 5. **Small daily choices compound into massive life differences.** One hour per day of strategic time use creates a completely different life in five years.
 
-### <span style="color: #0969DA">Reflection Questions</span>
+### $${\color{blue}Reflection \space Questions}$$
 
 
 1. If you tracked your time for the last week honestly, what percentage went to zero-value activities?
@@ -1132,7 +1132,7 @@ Track your time transformation:
 
 5. What one commitment can you say no to this week to free up time for what actually matters?
 
-### <span style="color: #0969DA">The Output Mindset</span>
+### $${\color{blue}The \space Output \space Mindset}$$
 
 
 ---
@@ -1155,7 +1155,7 @@ Choose wisely.
 
 ---
 
-### <span style="color: #0969DA">Next Level</span>
+### $${\color{blue}Next \space Level}$$
 
 You've learned to invest time wisely. You've identified high-leverage activities.
 

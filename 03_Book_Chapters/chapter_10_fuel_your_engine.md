@@ -20,7 +20,7 @@
 
 ---
 
-## <span style="color: #0969DA">The 2pm Crash</span>
+## $${\color{blue}The \space 2pm \space Crash}$$
 
 
 It's Tuesday. 2:15pm. History class.
@@ -52,7 +52,7 @@ What if you've been trying to win with an engine running on garbage?
 
 ---
 
-## <span style="color: #0969DA">Your Body is the Engine</span>
+## $${\color{blue}Your \space Body \space is \space the \space Engine}$$
 
 
 Let's get something straight: your body isn't separate from your goals. It's not this thing you have to deal with while you chase what you want.
@@ -75,7 +75,7 @@ You wouldn't put Mountain Dew in your gas tank and expect your car to work. But 
 
 That's not how engines work.
 
-### <span style="color: #0969DA">The Three Fuel Systems</span>
+### $${\color{blue}The \space Three \space Fuel \space Systems}$$
 
 Everything comes down to three systems. Get these right, and you'll have more energy, focus, and physical capacity than 95% of people your age. Ignore them, and you'll always be running on fumes.
 
@@ -117,7 +117,7 @@ Sitting all day makes you tired. Moving makes you powerful.
 
 It's a performance cycle. Feed it, and you level up. Ignore it, and you break down.
 
-### <span style="color: #0969DA">The Empathy Framework</span>
+### $${\color{blue}The \space Empathy \space Framework}$$
 
 Microsoft CEO Satya Nadella talks about empathy as the ultimate leadership tool. But empathy doesn't just apply to understanding other people. It applies to understanding yourself—specifically, your body.
 
@@ -157,7 +157,7 @@ Elite performers have empathy for their bodies. They fuel intentionally. They sl
 
 Not because it's easy. Because it works.
 
-### <span style="color: #0969DA">Output Focus: What Are You Building?</span>
+### $${\color{blue}Output \space Focus: \space What \space Are \space You \space Building?}$$
 
 Let's reframe this the way we reframe everything in this book.
 
@@ -231,7 +231,7 @@ That's the output focus. That's how champions think.
 
 ---
 
-## <span style="color: #0969DA">The Fuel That Powers Performance</span>
+## $${\color{blue}The \space Fuel \space That \space Powers \space Performance}$$
 
 
 Alright, let's talk about food. Real talk, no BS.
@@ -242,7 +242,7 @@ Forget all of it.
 
 Here's what actually matters: the fuel you put in your body determines how you feel and perform. That's it. Not complicated. Not mysterious. Just chemistry.
 
-### <span style="color: #0969DA">What Actually Gives You Energy</span>
+### $${\color{blue}What \space Actually \space Gives \space You \space Energy}$$
 
 **Complex carbs** (whole grains, oats, brown rice, sweet potatoes): Slow, sustained energy release. No spike, no crash. Your brain runs on glucose—these provide it steadily.
 
@@ -254,7 +254,7 @@ Here's what actually matters: the fuel you put in your body determines how you f
 
 That's the good stuff. The fuel that makes your engine purr.
 
-### <span style="color: #0969DA">What Steals Your Energy</span>
+### $${\color{blue}What \space Steals \space Your \space Energy}$$
 
 **Sugar crashes** (candy, soda, most processed snacks): Massive spike in blood sugar. Your body panics, dumps insulin, overcorrects. Now your blood sugar is lower than when you started. You're exhausted, cranky, and craving more sugar. It's a trap.
 
@@ -268,7 +268,7 @@ Look, you don't need a nutrition degree. You need to understand the game: some f
 
 Choose accordingly.
 
-### <span style="color: #0969DA">The Performance Plate Framework</span>
+### $${\color{blue}The \space Performance \space Plate \space Framework}$$
 
 Here's your simple, practical, no-BS guide to eating for performance. No calorie counting. No meal prep insanity. Just the formula that works.
 
@@ -333,7 +333,7 @@ Here's your simple, practical, no-BS guide to eating for performance. No calorie
 
 > The Performance Plate isn't about restriction. It's about construction. You're not removing "bad" foods—you're adding fuel that makes you unstoppable. Build the foundation first. Everything else is bonus.
 
-### <span style="color: #0969DA">The Hydration Non-Negotiable</span>
+### $${\color{blue}The \space Hydration \space Non-Negotiable}$$
 
 
 ---
@@ -362,7 +362,7 @@ And here's the kicker: most people are chronically slightly dehydrated and don't
 
 **Simple rule**: If you feel thirsty, you're already dehydrated. Don't wait for thirst. Hydrate proactively.
 
-### <span style="color: #0969DA">What About "Bad" Foods?</span>
+### $${\color{blue}What \space About \space "Bad" \space Foods?}$$
 
 Real talk: you don't have to be perfect. You don't have to eat like a professional athlete. Pizza, burgers, ice cream, chips—none of these foods are evil.
 
@@ -393,7 +393,7 @@ That's sustainable. That's smart. That's the long game.
 
 ---
 
-## <span style="color: #0969DA">The Recovery That Changes Everything</span>
+## $${\color{blue}The \space Recovery \space That \space Changes \space Everything}$$
 
 
 Let's talk about the most underrated performance enhancer on the planet.
@@ -404,7 +404,7 @@ Sleep.
 
 And no, I'm not about to bore you with "sleep is important" platitudes. I'm about to show you why sleep is the ultimate competitive advantage—and why the people crushing it in every area of life treat it like the non-negotiable it is.
 
-### <span style="color: #0969DA">The Sleep Science That Actually Matters</span>
+### $${\color{blue}The \space Sleep \space Science \space That \space Actually \space Matters}$$
 
 Here's what happens when you sleep. Not metaphorically. Literally. In your brain and body.
 
@@ -433,7 +433,7 @@ Focus and attention crater. Can't concentrate in class. Can't lock in during gam
 
 Sleep isn't a luxury. It's a performance multiplier.
 
-### <span style="color: #0969DA">The Sleep Reality Check</span>
+### $${\color{blue}The \space Sleep \space Reality \space Check}$$
 
 
 > [!NOTE]
@@ -460,7 +460,7 @@ And here's the competitive reality: you're not competing against your tired self
 
 It's not even close.
 
-### <span style="color: #0969DA">The Sleep System</span>
+### $${\color{blue}The \space Sleep \space System}$$
 
 Forget everything complicated. Here's the system that actually works.
 
@@ -518,7 +518,7 @@ Put the phone in another room. Seriously. Not on airplane mode. Not face-down on
 
 > The athletes getting recruited? The students getting scholarships? The creators building massive followings? They're not superhuman. They're well-rested. They're performing at their actual capacity while everyone else is fighting exhaustion. Sleep is the cheat code hiding in plain sight.
 
-### <span style="color: #0969DA">The Nap Strategy (For Real)</span>
+### $${\color{blue}The \space Nap \space Strategy \space (For \space Real)}$$
 
 Strategic napping is a weapon if you use it right. Most people nap wrong and wake up feeling worse.
 
@@ -546,7 +546,7 @@ Elite performers nap strategically. LeBron James naps every day. Cristiano Ronal
 
 ---
 
-## <span style="color: #0969DA">Movement as Fuel</span>
+## $${\color{blue}Movement \space as \space Fuel}$$
 
 
 Here's a paradox that seems wrong but is absolutely true:
@@ -557,7 +557,7 @@ Sounds backwards, right? If you're tired, shouldn't you rest?
 
 Not exactly.
 
-### <span style="color: #0969DA">The Movement Paradox</span>
+### $${\color{blue}The \space Movement \space Paradox}$$
 
 **What seems true**:
 
@@ -574,7 +574,7 @@ Movement literally creates more mitochondria in your cells—the power plants th
 
 You're not spending energy. You're building your engine's capacity to produce it.
 
-### <span style="color: #0969DA">The Three Types of Movement</span>
+### $${\color{blue}The \space Three \space Types \space of \space Movement}$$
 
 You don't need to become a gym rat or a marathon runner. You just need to understand that your body was designed to move—and when you don't, everything suffers.
 
@@ -612,7 +612,7 @@ Whatever you enjoy: running, basketball, swimming, soccer, biking, dancing, mart
 
 **Why it works**: Cardio strengthens your heart and lungs. It increases your VO2 max—your body's ability to use oxygen. It floods your brain with endorphins and BDNF (brain-derived neurotrophic factor), which literally helps your brain grow and learn better.
 
-### <span style="color: #0969DA">The Minimum Effective Dose</span>
+### $${\color{blue}The \space Minimum \space Effective \space Dose}$$
 
 Look, if you do nothing else, do this:
 
@@ -630,7 +630,7 @@ Consistency matters more than intensity. Twenty minutes every single day beats o
 
 This is the floor. The baseline. The minimum to keep your engine from breaking down.
 
-### <span style="color: #0969DA">Movement for Mental Health</span>
+### $${\color{blue}Movement \space for \space Mental \space Health}$$
 
 Here's something the research is crystal clear on:
 
@@ -646,7 +646,7 @@ You're not just building a stronger body. You're building a better brain.
 
 Your brain is begging you to move. Listen to it.
 
-### <span style="color: #0969DA">Sustainable Performance: The Nadella Principle</span>
+### $${\color{blue}Sustainable \space Performance: \space The \space Nadella \space Principle}$$
 
 Satya Nadella's philosophy when he took over Microsoft: long-term health beats short-term hustle.
 
@@ -683,7 +683,7 @@ You're playing the long game. Build accordingly.
 
 ---
 
-## <span style="color: #0969DA">The Recovery Room Mindset</span>
+## $${\color{blue}The \space Recovery \space Room \space Mindset}$$
 
 
 Let's revisit the core principle of this entire book:
@@ -705,7 +705,7 @@ Physical discomfort = growth. But only if you recover.
 
 **Without recovery**: Stress + more stress = breakdown, not breakthrough.
 
-### <span style="color: #0969DA">The Performance Cycle</span>
+### $${\color{blue}The \space Performance \space Cycle}$$
 
 Every elite performer understands this cycle:
 
@@ -718,7 +718,7 @@ If you skip step 2, there's no adaptation. You're just accumulating damage. You'
 
 Recovery isn't weakness. It's strategy.
 
-### <span style="color: #0969DA">Active Recovery Strategies</span>
+### $${\color{blue}Active \space Recovery \space Strategies}$$
 
 Active recovery doesn't mean doing nothing. It means intelligent rest.
 
@@ -746,7 +746,7 @@ Not more screen time. That's not recovery—that's just different stimulation.
 
 Your brain needs actual rest. Time when it's not trying to achieve, perform, or optimize anything. Just... being.
 
-### <span style="color: #0969DA">The Weekly Recovery Plan</span>
+### $${\color{blue}The \space Weekly \space Recovery \space Plan}$$
 
 You can't go 100% seven days a week. Your body doesn't work that way. Build recovery into the plan from the start.
 
@@ -764,7 +764,7 @@ You can't go 100% seven days a week. Your body doesn't work that way. Build reco
 
 The principle: Strategic recovery makes high intensity sustainable. You're not being lazy. You're being smart.
 
-### <span style="color: #0969DA">Warning Signs You Need More Recovery</span>
+### $${\color{blue}Warning \space Signs \space You \space Need \space More \space Recovery}$$
 
 Your body gives you signals. Most people ignore them. Don't.
 
@@ -793,12 +793,12 @@ Rest isn't giving up. It's regrouping. Champions know the difference.
 
 ---
 
-## <span style="color: #0969DA">Building Your Fuel System</span>
+## $${\color{blue}Building \space Your \space Fuel \space System}$$
 
 
 Theory is useless without practice. Here's your step-by-step system to fuel your engine properly.
 
-### <span style="color: #0969DA">The 4-Week Fuel Plan</span>
+### $${\color{blue}The \space 4-Week \space Fuel \space Plan}$$
 
 #### Week 1: The Foundation (Awareness)
 
@@ -862,7 +862,7 @@ Keep tracking. Add this one change. Nothing else yet.
 
 **The output**: Sustained energy throughout day. Better mood. Better sleep quality. Physical capacity increasing.
 
-### <span style="color: #0969DA">The Daily Fuel Checklist</span>
+### $${\color{blue}The \space Daily \space Fuel \space Checklist}$$
 
 Copy this. Put it on your phone. Check off items daily.
 
@@ -888,7 +888,7 @@ Copy this. Put it on your phone. Check off items daily.
 
 **Output goal**: Consistent energy. Clear focus. Quality sleep. Wake up ready to dominate.
 
-### <span style="color: #0969DA">The 80/20 Application</span>
+### $${\color{blue}The \space 80/20 \space Application}$$
 
 This is how you make it sustainable for life.
 
@@ -910,7 +910,7 @@ You're not a robot. You're not a professional athlete with a personal chef and t
 
 Perfection isn't the goal. Consistency is.
 
-### <span style="color: #0969DA">The Empathy Framework (Nadella's Approach)</span>
+### $${\color{blue}The \space Empathy \space Framework \space (Nadella's \space Approach)}$$
 
 Every day, ask yourself with empathy:
 
@@ -957,7 +957,7 @@ Empathy means treating your body like your most important teammate. Because it i
 
 ---
 
-## <span style="color: #0969DA">The Long-Term Engine</span>
+## $${\color{blue}The \space Long-Term \space Engine}$$
 
 
 The habits you build now determine what your body is capable of for the next 70+ years.
@@ -966,7 +966,7 @@ Let that sink in.
 
 You're not fueling for this season. You're not even fueling for this year. You're building the engine that carries you through every challenge, every opportunity, every moment that matters for the rest of your life.
 
-### <span style="color: #0969DA">The Compound Effect of Fuel</span>
+### $${\color{blue}The \space Compound \space Effect \space of \space Fuel}$$
 
 **30 days of consistent fueling**:
 - Energy levels stabilize
@@ -995,7 +995,7 @@ You'll look back and barely recognize the person you were.
 
 You'll be 25, 30, 35 and performing like an elite athlete while your peers are already breaking down. That's the long game.
 
-### <span style="color: #0969DA">The Nadella Long-Term Perspective</span>
+### $${\color{blue}The \space Nadella \space Long-Term \space Perspective}$$
 
 Satya Nadella talks about "playing the infinite game." No finish line. Just continuous improvement.
 
@@ -1017,7 +1017,7 @@ The habits you create now echo forever.
 
 Taking care of your engine isn't optional if you want to keep driving.
 
-### <span style="color: #0969DA">The Weekly Challenge</span>
+### $${\color{blue}The \space Weekly \space Challenge}$$
 
 This week, commit to these five things:
 
@@ -1072,7 +1072,7 @@ You'll be shocked at the difference.
 
 ---
 
-## <span style="color: #0969DA">Post-Game Review</span>
+## $${\color{blue}Post-Game \space Review}$$
 
 
 
@@ -1096,7 +1096,7 @@ You'll be shocked at the difference.
 
 **7. You're playing the long game**. The habits you build now determine your capacity for the next 70+ years. Sustainable beats extreme. Consistency beats intensity.
 
-### <span style="color: #0969DA">Reflection Questions</span>
+### $${\color{blue}Reflection \space Questions}$$
 
 
 1. **What's one fuel habit you know is holding you back?** (Be honest. Is it skipping breakfast? Staying up until 2am? Never drinking water?)
@@ -1113,7 +1113,7 @@ You'll be shocked at the difference.
 
 5. **What's your biggest obstacle to fueling properly—and what's one small step you can take this week to overcome it?** (Not "I don't have time." What's really stopping you? And what's the smallest possible improvement you can make?)
 
-### <span style="color: #0969DA">The Output Mindset</span>
+### $${\color{blue}The \space Output \space Mindset}$$
 
 
 ---
@@ -1136,7 +1136,7 @@ You're not checking boxes. You're building an engine.
 
 ---
 
-## <span style="color: #0969DA">Closing Power Move</span>
+## $${\color{blue}Closing \space Power \space Move}$$
 
 
 Your body isn't separate from your dreams. It's the vehicle for achieving them.

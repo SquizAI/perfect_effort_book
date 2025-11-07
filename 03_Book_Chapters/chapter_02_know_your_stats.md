@@ -20,7 +20,7 @@
 
 ---
 
-## <span style="color: #0969DA">The Numbers Don't Lie (But You Probably Do)</span>
+## $${\color{blue}The \space Numbers \space Don't \space Lie \space (But \space You \space Probably \space Do)}$$
 
 
 It's 2 AM. Your friend just hit you with a screenshot. It's their K/D ratio in the game you both play. 2.4. Up from 1.8 last month.
@@ -46,7 +46,7 @@ Not your gaming stats. Not your social media followers.
 
 ---
 
-## <span style="color: #0969DA">The Truth Nobody Wants to Face</span>
+## $${\color{blue}The \space Truth \space Nobody \space Wants \space to \space Face}$$
 
 
 Here's what I know about you:
@@ -69,7 +69,7 @@ You're scientific about games but superstitious about life.
 
 You measure what doesn't matter and guess at what does.
 
-### <span style="color: #0969DA">Why We Avoid the Numbers</span>
+### $${\color{blue}Why \space We \space Avoid \space the \space Numbers}$$
 
 I get it. I know why you don't track your real stats.
 
@@ -96,7 +96,7 @@ Winners measure *because* they want to know what they'll find.
 
 ---
 
-## <span style="color: #0969DA">The Game You're Already Playing (With Invisible Stats)</span>
+## $${\color{blue}The \space Game \space You're \space Already \space Playing \space (With \space Invisible \space Stats)}$$
 
 
 Think about this:
@@ -125,7 +125,7 @@ Feelings are not facts.
 
 **Data is.**
 
-### <span style="color: #0969DA">The Jensen Huang Principle</span>
+### $${\color{blue}The \space Jensen \space Huang \space Principle}$$
 
 You know NVIDIA? The company that makes the graphics cards that power your gaming rig and basically every AI system on the planet?
 
@@ -164,7 +164,7 @@ Your life stats work the same way.
 
 ---
 
-## <span style="color: #0969DA">What Stats Actually Matter</span>
+## $${\color{blue}What \space Stats \space Actually \space Matter}$$
 
 
 Okay, so you're convinced you need to track something. But what?
@@ -177,7 +177,7 @@ They track *hours* instead of *results*.
 
 They track *vanity metrics* instead of *growth metrics*.
 
-### <span style="color: #0969DA">Input Metrics vs. Output Metrics</span>
+### $${\color{blue}Input \space Metrics \space vs. \space Output \space Metrics}$$
 
 Let me show you the difference:
 
@@ -212,7 +212,7 @@ Or you can study for 45 focused minutes, actively testing yourself, teaching the
 > *The game isn't about time spent. The game is about results achieved.*
 
 
-### <span style="color: #0969DA">The Five Core Stat Categories</span>
+### $${\color{blue}The \space Five \space Core \space Stat \space Categories}$$
 
 If you're going to track anything, track these five areas. They cover basically everything that matters:
 
@@ -316,7 +316,7 @@ Track it:
 
 ---
 
-## <span style="color: #0969DA">Building Your Personal Dashboard</span>
+## $${\color{blue}Building \space Your \space Personal \space Dashboard}$$
 
 
 Alright. You know *what* to track.
@@ -333,7 +333,7 @@ Because here's where most people overcomplicate things. They build massive sprea
 
 Your tracking system needs to be so easy that you'll actually do it. Not so perfect that you'll abandon it.
 
-### <span style="color: #0969DA">The Weekly Scorecard (Your New Best Friend)</span>
+### $${\color{blue}The \space Weekly \space Scorecard \space (Your \space New \space Best \space Friend)}$$
 
 Here's a system that actually works. I call it the Weekly Scorecard.
 
@@ -456,7 +456,7 @@ That's a specific, measurable, achievable target. And when you hit it? You've go
 
 ---
 
-## <span style="color: #0969DA">The Uncomfortable Truth About Self-Assessment</span>
+## $${\color{blue}The \space Uncomfortable \space Truth \space About \space Self-Assessment}$$
 
 
 Here's the part nobody wants to hear:
@@ -475,7 +475,7 @@ It's way more comfortable to believe you "studied a lot" than to test yourself a
 
 It's way less painful to think you're "getting better" than to track and see you've been stuck at the same level for six months.
 
-### <span style="color: #0969DA">The Power of Brutal Honesty</span>
+### $${\color{blue}The \space Power \space of \space Brutal \space Honesty}$$
 
 Let me tell you about a student I know. We'll call him Alex.
 
@@ -511,7 +511,7 @@ The *knowing*. The honest assessment. The real data.
 
 Because once you know where you actually are, you can do something about it.
 
-### <span style="color: #0969DA">Your Growth Mindset Reminder</span>
+### $${\color{blue}Your \space Growth \space Mindset \space Reminder}$$
 
 Quick interrupt for something critical:
 
@@ -543,14 +543,14 @@ Your life stats work the exact same way.
 
 ---
 
-## <span style="color: #0969DA">Advanced Stats: The 1% Edge</span>
+## $${\color{blue}Advanced \space Stats: \space The \space 1% \space Edge}$$
 
 
 Once you've got your basic stats down, you can start tracking the metrics that separate good from great.
 
 These are the stats elite performers obsess over. The marginal gains that compound into massive advantages.
 
-### <span style="color: #0969DA">The Consistency Score</span>
+### $${\color{blue}The \space Consistency \space Score}$$
 
 This is simple but powerful:
 
@@ -568,7 +568,7 @@ If your target is "do 20 minutes of deliberate practice daily" and you hit it 5 
 
 Track your consistency. Aim for 80% or higher. That's sustainable excellence.
 
-### <span style="color: #0969DA">The Recovery Rate</span>
+### $${\color{blue}The \space Recovery \space Rate}$$
 
 This is a game-changer that nobody talks about:
 
@@ -590,7 +590,7 @@ Start tracking: "Time from setback to recovery: __ hours/days."
 
 Watch that number go down over time. That's resilience building.
 
-### <span style="color: #0969DA">The Flow Zone Finder</span>
+### $${\color{blue}The \space Flow \space Zone \space Finder}$$
 
 
 ---
@@ -612,7 +612,7 @@ Start tracking this for your major tasks:
 
 Over time, you'll get really good at calibrating difficulty. You'll learn exactly what your brain needs to be in flow state – that place where you lose track of time and perform your best.
 
-### <span style="color: #0969DA">Output Per Hour</span>
+### $${\color{blue}Output \space Per \space Hour}$$
 
 This is the ultimate efficiency metric:
 
@@ -639,7 +639,7 @@ Track output per hour, and you'll start to see patterns. Then you can engineer p
 
 ---
 
-## <span style="color: #0969DA">Making Your Numbers Work FOR You (Not Against You)</span>
+## $${\color{blue}Making \space Your \space Numbers \space Work \space FOR \space You \space (Not \space Against \space You)}$$
 
 
 Here's the trap:
@@ -718,7 +718,7 @@ Simple.
 
 ---
 
-## <span style="color: #0969DA">The Stats Challenge: Finding Your Real Numbers</span>
+## $${\color{blue}The \space Stats \space Challenge: \space Finding \space Your \space Real \space Numbers}$$
 
 
 Alright. Theory is done. Time for action.
@@ -731,7 +731,7 @@ This week, you're going to do something most people are too scared to do:
 > *You're going to find out exactly where you really stand.*
 
 
-### <span style="color: #0969DA">The Challenge</span>
+### $${\color{blue}The \space Challenge}$$
 
 
 > [!NOTE]
@@ -820,7 +820,7 @@ That gap between where you are and where you want to be? That's not a problem.
 
 ---
 
-## <span style="color: #0969DA">The Comeback Story You're Writing</span>
+## $${\color{blue}The \space Comeback \space Story \space You're \space Writing}$$
 
 
 Here's what elite athletes understand that most people don't:
@@ -837,7 +837,7 @@ You can't improve your shooting percentage if you don't know what it is.
 
 You can't master material if you don't honestly assess what you know and what you don't.
 
-### <span style="color: #0969DA">The Film Room Mentality</span>
+### $${\color{blue}The \space Film \space Room \space Mentality}$$
 
 Professional athletes review game film. Especially when they lose.
 
@@ -924,7 +924,7 @@ Don't aim for 100% perfect weeks. Aim for 80% consistency, maintained long-term.
 
 ---
 
-## <span style="color: #0969DA">Reflection Questions</span>
+## $${\color{blue}Reflection \space Questions}$$
 
 
 
@@ -947,7 +947,7 @@ Don't aim for 100% perfect weeks. Aim for 80% consistency, maintained long-term.
 
 ---
 
-## <span style="color: #0969DA">The Output Mindset</span>
+## $${\color{blue}The \space Output \space Mindset}$$
 
 
 
@@ -970,7 +970,7 @@ Focus on who you're becoming, not just what your current numbers are.
 
 ---
 
-## <span style="color: #0969DA">Next Level</span>
+## $${\color{blue}Next \space Level}$$
 
 
 You know your current stats now. You know where you stand.

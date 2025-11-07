@@ -20,7 +20,7 @@
 
 ---
 
-## <span style="color: #0969DA">The Moment Everything Goes Blank</span>
+## $${\color{blue}The \space Moment \space Everything \space Goes \space Blank}$$
 
 
 Final exam. Worth 40% of your grade. The one you've been studying for all week.
@@ -64,12 +64,12 @@ That's what this chapter is about.
 
 ---
 
-## <span style="color: #0969DA">What Pressure Actually Does to Your Body</span>
+## $${\color{blue}What \space Pressure \space Actually \space Does \space to \space Your \space Body}$$
 
 
 Let's start with what's happening inside your body when pressure hits. Understanding this is the first step to controlling it.
 
-### <span style="color: #0969DA">Your Body's Pressure Response</span>
+### $${\color{blue}Your \space Body's \space Pressure \space Response}$$
 
 The moment you sense high stakes, your nervous system activates. Automatic. You can't turn it off. Here's what starts happening:
 
@@ -100,7 +100,7 @@ But when you're taking the SAT or shooting a free throw or giving a presentation
 > *And your body is doing the exact opposite.*
 
 
-### <span style="color: #0969DA">The Two Interpretations</span>
+### $${\color{blue}The \space Two \space Interpretations}$$
 
 Here's where it gets interesting. That physical response – the racing heart, the sweaty palms, the nervousness – happens to everyone. Elite performers feel it. Average performers feel it. Everyone feels it.
 
@@ -166,7 +166,7 @@ That's not talent. That's trained response under pressure.
 
 ---
 
-## <span style="color: #0969DA">You Don't Rise to the Occasion – You Fall to Your Level of Preparation</span>
+## $${\color{blue}You \space Don't \space Rise \space to \space the \space Occasion \space – \space You \space Fall \space to \space Your \space Level \space of \space Preparation}$$
 
 
 Here's a phrase you need to tattoo on your brain:
@@ -191,7 +191,7 @@ Why? Because no amount of pressure will make you suddenly good at something you'
 > *Pressure doesn't create ability. It reveals preparation.*
 
 
-### <span style="color: #0969DA">The Practice vs. Performance Gap</span>
+### $${\color{blue}The \space Practice \space vs. \space Performance \space Gap}$$
 
 Here's the uncomfortable truth most people don't want to hear:
 
@@ -248,7 +248,7 @@ Elite athletes don't make this mistake. Watch how they practice:
 - Make practice reps have consequences
 - **Build pressure-performance muscle**
 
-### <span style="color: #0969DA">The Harsh Reality Check</span>
+### $${\color{blue}The \space Harsh \space Reality \space Check}$$
 
 Let's do a quick audit. Think about your last high-pressure moment – big test, important game, crucial presentation, whatever.
 
@@ -275,7 +275,7 @@ And when game day arrived, your brain said, "This doesn't feel like what we prac
 
 ---
 
-## <span style="color: #0969DA">The 5-Step Pressure Protocol</span>
+## $${\color{blue}The \space 5-Step \space Pressure \space Protocol}$$
 
 
 Okay, so pressure is coming. It's unavoidable. The question is: Do you have a system for handling it?
@@ -288,7 +288,7 @@ Elite performers have a repeatable protocol they use every single time pressure 
 
 Here it is:
 
-### <span style="color: #0969DA">Step 1: BREATHE (Physical Reset)</span>
+### $${\color{blue}Step \space 1: \space BREATHE \space (Physical \space Reset)}$$
 
 When pressure hits, your breathing goes shallow and fast. That's your body trying to pump more oxygen for the "fight or flight" response.
 
@@ -317,7 +317,7 @@ Why this works:
 
 **You can do this before a test, before a game, before a presentation, before anything.** Fastest way to reset your physical state.
 
-### <span style="color: #0969DA">Step 2: REFRAME (Mental Reset)</span>
+### $${\color{blue}Step \space 2: \space REFRAME \space (Mental \space Reset)}$$
 
 
 ---
@@ -344,7 +344,7 @@ Specific reframes that work:
 
 **Your self-talk in pressure moments determines your performance.** Choose your words carefully.
 
-### <span style="color: #0969DA">Step 3: FOCUS (Attention Reset)</span>
+### $${\color{blue}Step \space 3: \space FOCUS \space (Attention \space Reset)}$$
 
 When pressure spikes, your mind wants to think about everything at once:
 
@@ -376,7 +376,7 @@ But: "I'm going to focus on my shooting form for this one shot."
 
 Elite performers never think about the outcome during performance. They think about the process. The outcome takes care of itself.
 
-### <span style="color: #0969DA">Step 4: TRUST (Execution Reset)</span>
+### $${\color{blue}Step \space 4: \space TRUST \space (Execution \space Reset)}$$
 
 This is where most people sabotage themselves.
 
@@ -427,14 +427,14 @@ Halfhearted action under pressure always fails. Your brain senses your doubt, an
 
 ---
 
-## <span style="color: #0969DA">Building Your Pre-Performance Checklist</span>
+## $${\color{blue}Building \space Your \space Pre-Performance \space Checklist}$$
 
 
 Elite performers don't just wing it when pressure arrives. They have a routine. A checklist. A system that prepares them mentally and physically for execution.
 
 Here's how to build yours:
 
-### <span style="color: #0969DA">30 Minutes Before Game Time</span>
+### $${\color{blue}30 \space Minutes \space Before \space Game \space Time}$$
 
 **Physical warm-up** (even for mental tasks):
 - Get your body moving. Walk. Stretch. Do jumping jacks.
@@ -449,7 +449,7 @@ Here's how to build yours:
 - Imagine the feeling of confidence. The smooth performance. The successful outcome.
 - Why: Research shows visualization activates the same brain regions as actual practice. You're literally rehearsing success.
 
-### <span style="color: #0969DA">5 Minutes Before</span>
+### $${\color{blue}5 \space Minutes \space Before}$$
 
 **Box breathing** (from Step 1):
 - 4 breaths, 16 counts each. Takes 90 seconds. Calms your system.
@@ -469,7 +469,7 @@ Here's how to build yours:
 - Not the whole game. Just the first play.
 - **Start strong, and momentum carries you.**
 
-### <span style="color: #0969DA">During Performance</span>
+### $${\color{blue}During \space Performance}$$
 
 **Trust your training**:
 - Execute the routine you practiced.
@@ -493,14 +493,14 @@ Here's how to build yours:
 
 ---
 
-## <span style="color: #0969DA">The Pressure Practice Progression</span>
+## $${\color{blue}The \space Pressure \space Practice \space Progression}$$
 
 
 You can't wait until game day to test your pressure performance. You need to practice being under pressure.
 
 Here's how to progressively build your pressure tolerance:
 
-### <span style="color: #0969DA">Week 1: Low-Stakes Pressure</span>
+### $${\color{blue}Week \space 1: \space Low-Stakes \space Pressure}$$
 
 
 > [!NOTE]
@@ -515,7 +515,7 @@ Here's how to progressively build your pressure tolerance:
 
 **Why start here**: Your nervous system needs to adapt to having someone watch. Start small. Build confidence.
 
-### <span style="color: #0969DA">Week 2: Medium-Stakes Pressure</span>
+### $${\color{blue}Week \space 2: \space Medium-Stakes \space Pressure}$$
 
 
 > [!NOTE]
@@ -535,7 +535,7 @@ Here's how to progressively build your pressure tolerance:
 
 - Give yourself 60% of the time you'd normally use. Force faster thinking.
 
-### <span style="color: #0969DA">Week 3: High-Stakes Pressure</span>
+### $${\color{blue}Week \space 3: \space High-Stakes \space Pressure}$$
 
 
 > [!NOTE]
@@ -550,7 +550,7 @@ Here's how to progressively build your pressure tolerance:
 
 **Why consequences matter**: Your brain needs to feel that "this matters" stress. Stakes create pressure. Pressure creates adaptation.
 
-### <span style="color: #0969DA">Week 4: Game-Day Simulation</span>
+### $${\color{blue}Week \space 4: \space Game-Day \space Simulation}$$
 
 
 > [!NOTE]
@@ -571,7 +571,7 @@ Here's how to progressively build your pressure tolerance:
 
 ---
 
-## <span style="color: #0969DA">The Clutch Mindset: Learning to Want Pressure</span>
+## $${\color{blue}The \space Clutch \space Mindset: \space Learning \space to \space Want \space Pressure}$$
 
 
 Some people hide from pressure. They hope someone else takes the final shot. They dread being called on in class. They avoid situations where they might fail publicly.
@@ -588,7 +588,7 @@ Not talent. Not natural ability.
 
 **Mindset.**
 
-### <span style="color: #0969DA">What Clutch Performers Think</span>
+### $${\color{blue}What \space Clutch \space Performers \space Think}$$
 
 
 > [!NOTE]
@@ -621,7 +621,7 @@ Not talent. Not natural ability.
 
 - Small wins build confidence. Previous success under pressure creates expectation of future success.
 
-### <span style="color: #0969DA">The Sam Altman Decision Framework</span>
+### $${\color{blue}The \space Sam \space Altman \space Decision \space Framework}$$
 
 When facing massive pressure, Sam Altman uses a simple framework. You can use it too:
 
@@ -649,14 +649,14 @@ When facing massive pressure, Sam Altman uses a simple framework. You can use it
 
 ---
 
-## <span style="color: #0969DA">The Film Room: Learning from Pressure Moments</span>
+## $${\color{blue}The \space Film \space Room: \space Learning \space from \space Pressure \space Moments}$$
 
 
 After every high-pressure performance – whether you crush it or choke – you need to do what elite athletes call "film room."
 
 You analyze the tape. You break down what happened. You learn.
 
-### <span style="color: #0969DA">Post-Performance Analysis (Do This Within 24 Hours)</span>
+### $${\color{blue}Post-Performance \space Analysis \space (Do \space This \space Within \space 24 \space Hours)}$$
 
 
 > [!NOTE]
@@ -706,7 +706,7 @@ You analyze the tape. You break down what happened. You learn.
 
 ---
 
-## <span style="color: #0969DA">When Pressure Breaks You: The Bounce-Back Protocol</span>
+## $${\color{blue}When \space Pressure \space Breaks \space You: \space The \space Bounce-Back \space Protocol}$$
 
 
 Let's be real: You're going to choke sometimes. Everyone does.
@@ -719,7 +719,7 @@ Kobe Bryant missed shots. Michael Jordan missed game-winners. Elite students fai
 > *The difference between average and elite isn't avoiding failure. It's bouncing back faster.*
 
 
-### <span style="color: #0969DA">If You Choked, Don't Do This:</span>
+### $${\color{blue}If \space You \space Choked, \space Don't \space Do \space This:}$$
 
 
 
@@ -763,7 +763,7 @@ Kobe Bryant missed shots. Michael Jordan missed game-winners. Elite students fai
 > [!WARNING]
 > ✅ **Retest soon**: Don't wait months to face pressure again. Seek out another pressure situation within days or weeks. You need to prove to yourself that you can handle it.
 
-### <span style="color: #0969DA">The Bounce-Back Timeline</span>
+### $${\color{blue}The \space Bounce-Back \space Timeline}$$
 
 
 > [!NOTE]
@@ -802,7 +802,7 @@ Kobe Bryant missed shots. Michael Jordan missed game-winners. Elite students fai
 - Learn from the result, whether success or failure.
 - **Repeat. Every pressure rep makes the next one easier.**
 
-### <span style="color: #0969DA">The Growth Through Pressure</span>
+### $${\color{blue}The \space Growth \space Through \space Pressure}$$
 
 Here's the reframe that changes everything:
 
@@ -837,7 +837,7 @@ The second person stays fragile. One high-pressure moment, and they shatter beca
 
 ---
 
-## <span style="color: #0969DA">The Long-Term Pressure Advantage</span>
+## $${\color{blue}The \space Long-Term \space Pressure \space Advantage}$$
 
 
 Here's something nobody tells you:
@@ -850,7 +850,7 @@ Here's something nobody tells you:
 
 Pressure adaptation is real. Your nervous system adjusts to repeated stress. What felt overwhelming in week 1 feels manageable in week 10.
 
-### <span style="color: #0969DA">The Pressure Adaptation Curve</span>
+### $${\color{blue}The \space Pressure \space Adaptation \space Curve}$$
 
 **First time**: Terrifying. Heart pounding. Mind racing. You probably choke.
 
@@ -869,7 +869,7 @@ Pressure adaptation is real. Your nervous system adjusts to repeated stress. Wha
 > *The people who seem "naturally clutch" aren't born different. They've just had more reps under pressure.*
 
 
-### <span style="color: #0969DA">Building Your Pressure Portfolio</span>
+### $${\color{blue}Building \space Your \space Pressure \space Portfolio}$$
 
 
 > [!NOTE]
@@ -899,7 +899,7 @@ You don't get to avoid pressure forever. Life will throw it at you – college a
 > *The question is: Will you be ready?*
 
 
-### <span style="color: #0969DA">The Altman Approach to Scaling Pressure</span>
+### $${\color{blue}The \space Altman \space Approach \space to \space Scaling \space Pressure}$$
 
 As your goals get bigger, the pressure gets bigger.
 
@@ -947,12 +947,12 @@ Sam Altman faces pressure most people can't imagine. Here's how he handles it:
 
 ---
 
-## <span style="color: #0969DA">Your Practice Drills</span>
+## $${\color{blue}Your \space Practice \space Drills}$$
 
 
 Alright, time to put this into action.
 
-### <span style="color: #0969DA">Drill 1: Master the 5-Step Pressure Protocol</span>
+### $${\color{blue}Drill \space 1: \space Master \space the \space 5-Step \space Pressure \space Protocol}$$
 
 
 > [!NOTE]
@@ -972,7 +972,7 @@ Alright, time to put this into action.
 - By day 7, box breathing becomes automatic.
 - You'll have data on what works and what needs adjusting.
 
-### <span style="color: #0969DA">Drill 2: Pressure Practice Progression</span>
+### $${\color{blue}Drill \space 2: \space Pressure \space Practice \space Progression}$$
 
 
 > [!NOTE]
@@ -1005,7 +1005,7 @@ Pick one skill you want to improve under pressure (free throws, presenting, test
 > *You should see: Initial drop in performance (pressure hits), then gradual improvement as your nervous system adapts.*
 
 
-### <span style="color: #0969DA">Drill 3: Build Your Pre-Performance Checklist</span>
+### $${\color{blue}Drill \space 3: \space Build \space Your \space Pre-Performance \space Checklist}$$
 
 
 > [!NOTE]
@@ -1043,7 +1043,7 @@ Pick one skill you want to improve under pressure (free throws, presenting, test
 
 Consistency builds calm. Your brain will start to recognize: "I've done this routine. I'm ready."
 
-### <span style="color: #0969DA">Weekly Check-In</span>
+### $${\color{blue}Weekly \space Check-In}$$
 
 At the end of each week, answer:
 
@@ -1061,7 +1061,7 @@ At the end of each week, answer:
 
 ---
 
-## <span style="color: #0969DA">The Uncomfortable Truth (Applied)</span>
+## $${\color{blue}The \space Uncomfortable \space Truth \space (Applied)}$$
 
 
 
@@ -1120,7 +1120,7 @@ Not because pressure gets easier. But because you get stronger.
 
 ---
 
-## <span style="color: #0969DA">Post-Game Review</span>
+## $${\color{blue}Post-Game \space Review}$$
 
 
 
@@ -1148,7 +1148,7 @@ Not because pressure gets easier. But because you get stronger.
 
 6. **Pressure adaptation is real**: The 100th pressure moment is easier than the 1st. Seek out pressure situations. Build your pressure portfolio. Volume creates mastery.
 
-### <span style="color: #0969DA">Reflection Questions</span>
+### $${\color{blue}Reflection \space Questions}$$
 
 
 1. **What's my current relationship with pressure?** Do I seek it or avoid it? Be honest.
@@ -1165,7 +1165,7 @@ Not because pressure gets easier. But because you get stronger.
 
 5. **Am I practicing under pressure conditions, or just under practice conditions?** How can I make my training more game-day realistic?
 
-### <span style="color: #0969DA">The Output Mindset</span>
+### $${\color{blue}The \space Output \space Mindset}$$
 
 
 ---
@@ -1208,7 +1208,7 @@ And it's available to you – if you're willing to practice it.
 
 ---
 
-### <span style="color: #0969DA">Next Level</span>
+### $${\color{blue}Next \space Level}$$
 
 You've learned how to perform when pressure hits. Now let's talk about the daily habits that make everything else possible.
 

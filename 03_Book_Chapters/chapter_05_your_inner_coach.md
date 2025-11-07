@@ -13,7 +13,7 @@
 
 ---
 
-## <span style="color: #0969DA">The Voice That Decides Everything</span>
+## $${\color{blue}The \space Voice \space That \space Decides \space Everything}$$
 
 
 Free throw line. Championship game. Down by one. Two seconds left.
@@ -43,7 +43,7 @@ You can do the same.
 
 ---
 
-## <span style="color: #0969DA">The Voice You Can't Escape</span>
+## $${\color{blue}The \space Voice \space You \space Can't \space Escape}$$
 
 
 Let's get real for a second: Your inner voice never shuts up.
@@ -67,7 +67,7 @@ The difference between people who succeed and people who don't often comes down 
 > *It's how you talk to yourself when the pressure's on.*
 
 
-### <span style="color: #0969DA">The Brian Chesky Test</span>
+### $${\color{blue}The \space Brian \space Chesky \space Test}$$
 
 In March 2020, Brian Chesky's company Airbnb lost 80% of its revenue in eight weeks. The entire travel industry collapsed overnight because of COVID-19. Years of work, billions of dollars, thousands of jobs – all hanging by a thread.
 
@@ -90,12 +90,12 @@ Your test isn't worth $30 billion. But the way you talk to yourself about it? Th
 
 ---
 
-## <span style="color: #0969DA">The Two Voices</span>
+## $${\color{blue}The \space Two \space Voices}$$
 
 
 Your inner voice runs in one of two modes. Let's call them what they are: **The Critic** and **The Coach**.
 
-### <span style="color: #0969DA">The Critic Says:</span>
+### $${\color{blue}The \space Critic \space Says:}$$
 
 
 - "I'm not good at this" (identity statement – you're labeling yourself)
@@ -106,7 +106,7 @@ Your inner voice runs in one of two modes. Let's call them what they are: **The 
 
 The critic deals in absolutes. Everything's permanent. Everything's personal. Everything's proof that you're not good enough.
 
-### <span style="color: #0969DA">The Coach Says:</span>
+### $${\color{blue}The \space Coach \space Says:}$$
 
 
 - "I'm not good at this YET" (temporary state – you're still learning)
@@ -123,7 +123,7 @@ The coach deals in progress. Everything's temporary. Everything's data. Everythi
 > *Same situation. Completely different self-talk. Completely different outcome.*
 
 
-### <span style="color: #0969DA">Uncomfortable Means You're Learning</span>
+### $${\color{blue}Uncomfortable \space Means \space You're \space Learning}$$
 
 
 ---
@@ -151,7 +151,7 @@ Elite athletes understand this instinctively. When Kobe Bryant talked about ment
 
 ---
 
-## <span style="color: #0969DA">Catching Your Critic in the Act</span>
+## $${\color{blue}Catching \space Your \space Critic \space in \space the \space Act}$$
 
 
 You can't change what you don't notice.
@@ -160,7 +160,7 @@ The first step isn't replacing your critic with your coach. It's catching your c
 
 So here's your first drill: **The Self-Talk Audit.**
 
-### <span style="color: #0969DA">This Week's Mission: Track Your Inner Voice</span>
+### $${\color{blue}This \space Week's \space Mission: \space Track \space Your \space Inner \space Voice}$$
 
 For the next seven days, pay attention to what your inner voice says when you face a challenge. Not what you wish it said. What it actually says.
 
@@ -205,7 +205,7 @@ Write it down. Get specific.
 
 The difference between winners and everyone else isn't that winners don't have an inner critic. It's that they've learned to catch it and replace it.
 
-### <span style="color: #0969DA">The Test That Shows Your Voice</span>
+### $${\color{blue}The \space Test \space That \space Shows \space Your \space Voice}$$
 
 Let's make this concrete. Imagine you're about to take a really hard test. You studied, but there's stuff you're still shaky on. You sit down. Open the test. First problem is confusing.
 
@@ -236,14 +236,14 @@ Guess which version leads to better performance?
 
 ---
 
-## <span style="color: #0969DA">Rewriting Your Inner Script</span>
+## $${\color{blue}Rewriting \space Your \space Inner \space Script}$$
 
 
 Now comes the fun part. Once you catch your critic, you can replace it.
 
 This isn't about "just being positive." This isn't toxic positivity where you pretend everything's perfect. This is about training your brain to process challenges the way elite performers do – as problems to solve, not proof that you're not good enough.
 
-### <span style="color: #0969DA">The 3-Step Reframe Process</span>
+### $${\color{blue}The \space 3-Step \space Reframe \space Process}$$
 
 **Step 1: NOTICE**
 
@@ -273,7 +273,7 @@ What would your coach say instead?
 
 Let's practice this with real examples.
 
-### <span style="color: #0969DA">Real-World Reframes</span>
+### $${\color{blue}Real-World \space Reframes}$$
 
 **Critic**: "I'm so stupid. I'll never understand this."
 
@@ -305,7 +305,7 @@ Let's practice this with real examples.
 
 **Coach**: "They're ahead of me right now. That's fine – they've probably been practicing longer. What can I learn from what they're doing? How can I close the gap?"
 
-### <span style="color: #0969DA">The Chesky Resilience Formula</span>
+### $${\color{blue}The \space Chesky \space Resilience \space Formula}$$
 
 Let's go back to Brian Chesky for a second. When Airbnb faced its biggest crisis, his inner coach did three things:
 
@@ -337,7 +337,7 @@ That's your inner coach.
 
 ---
 
-## <span style="color: #0969DA">Training Your Coach Daily</span>
+## $${\color{blue}Training \space Your \space Coach \space Daily}$$
 
 
 Here's the thing about your inner coach: It needs practice. Just like any skill.
@@ -346,7 +346,7 @@ If you only try to use your coach voice when you're already stressed and struggl
 
 But if you train your coach daily? Then when pressure hits, the coach shows up automatically.
 
-### <span style="color: #0969DA">Morning Mental Warm-Up (3 minutes)</span>
+### $${\color{blue}Morning \space Mental \space Warm-Up \space (3 \space minutes)}$$
 
 Before your day starts, before you check your phone, before you do anything else – prime your coach.
 
@@ -367,7 +367,7 @@ Before your day starts, before you check your phone, before you do anything else
 
 That's it. Three minutes. But those three minutes set your inner coach as the default voice for the day.
 
-### <span style="color: #0969DA">In-the-Moment Coaching</span>
+### $${\color{blue}In-the-Moment \space Coaching}$$
 
 When you hit a challenge during your day – and you will – here's the process:
 
@@ -387,7 +387,7 @@ Example: You're in class. Teacher calls on you. You don't know the answer. Your 
 
 With practice, this happens in seconds. Your brain learns the pattern.
 
-### <span style="color: #0969DA">Evening Reflection (5 minutes)</span>
+### $${\color{blue}Evening \space Reflection \space (5 \space minutes)}$$
 
 Before bed, review your day:
 
@@ -415,14 +415,14 @@ Before bed, review your day:
 
 ---
 
-## <span style="color: #0969DA">The Pressure Test</span>
+## $${\color{blue}The \space Pressure \space Test}$$
 
 
 Your inner coach's real test comes when pressure is highest.
 
 Anyone can use good self-talk when things are easy. The question is: What voice shows up when it matters most?
 
-### <span style="color: #0969DA">High-Pressure Self-Talk Strategies</span>
+### $${\color{blue}High-Pressure \space Self-Talk \space Strategies}$$
 
 
 > [!NOTE]
@@ -466,7 +466,7 @@ Not: "I'm so stupid." Not: "I knew I'd mess up." Not: "Now everything's ruined."
 
 Elite athletes have short memories for mistakes and long memories for lessons. Your inner coach helps you do the same.
 
-### <span style="color: #0969DA">The Uncomfortable Truth About Training</span>
+### $${\color{blue}The \space Uncomfortable \space Truth \space About \space Training}$$
 
 Here's what most people don't want to hear: **If you haven't trained your inner coach in practice, your critic will show up in performance.**
 
@@ -483,7 +483,7 @@ Which one are you making stronger?
 
 ---
 
-## <span style="color: #0969DA">Your Voice, Your Choice</span>
+## $${\color{blue}Your \space Voice, \space Your \space Choice}$$
 
 
 Let's bring this home.
@@ -512,7 +512,7 @@ Or you can train your coach – reminding you that growth is possible, challenge
 > *Same brain. Different voice. Completely different life.*
 
 
-### <span style="color: #0969DA">This Week's Challenge</span>
+### $${\color{blue}This \space Week's \space Challenge}$$
 
 Here's your mission:
 
@@ -537,7 +537,7 @@ You're not trying to be perfect. You're not trying to eliminate your critic fore
 
 Do that for one week and see what happens.
 
-### <span style="color: #0969DA">The Power of Choice</span>
+### $${\color{blue}The \space Power \space of \space Choice}$$
 
 Some people think champions are just born with confident inner voices. That elite athletes naturally talk to themselves in positive, productive ways.
 
@@ -568,7 +568,7 @@ That choice? That's where your power lives.
 
 ---
 
-## <span style="color: #0969DA">Post-Game Review</span>
+## $${\color{blue}Post-Game \space Review}$$
 
 
 
@@ -593,7 +593,7 @@ That choice? That's where your power lives.
 
 5. **Training is daily** – You can't just use your coach voice when pressure hits. You have to practice it every day so it becomes your default.
 
-### <span style="color: #0969DA">Reflection Questions</span>
+### $${\color{blue}Reflection \space Questions}$$
 
 
 1. What does your inner critic say most often? When does it show up loudest?
@@ -610,7 +610,7 @@ That choice? That's where your power lives.
 
 5. Who do you know that seems to have a strong inner coach? What do they do differently?
 
-### <span style="color: #0969DA">The Output Mindset</span>
+### $${\color{blue}The \space Output \space Mindset}$$
 
 
 ---
@@ -635,7 +635,7 @@ Elite performers know this. Now you do too.
 
 ---
 
-### <span style="color: #0969DA">Next Level</span>
+### $${\color{blue}Next \space Level}$$
 
 You've got your inner coach working for you now instead of against you. That's huge.
 

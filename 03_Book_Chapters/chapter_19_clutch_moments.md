@@ -22,7 +22,7 @@
 
 ---
 
-## <span style="color: #0969DA">The Two Free Throws</span>
+## $${\color{blue}The \space Two \space Free \space Throws}$$
 
 
 
@@ -136,7 +136,7 @@ You either prepare for big moments, or they eat you alive.
 
 ---
 
-## <span style="color: #0969DA">The Pressure Paradox</span>
+## $${\color{blue}The \space Pressure \space Paradox}$$
 
 
 
@@ -236,7 +236,7 @@ All of these are fixable.
 
 ---
 
-## <span style="color: #0969DA">The Clutch Performance System</span>
+## $${\color{blue}The \space Clutch \space Performance \space System}$$
 
 
 
@@ -252,7 +252,7 @@ If any variable equals zero, the whole thing fails.
 
 All three working together? That's when you deliver.
 
-### <span style="color: #0969DA">Component 1: PREPARATION (Before the Moment)</span>
+### $${\color{blue}Component \space 1: \space PREPARATION \space (Before \space the \space Moment)}$$
 
 In 2007, Netflix was primarily a DVD-by-mail service. Streaming existed, but it was clunky and most people didn't use it.
 
@@ -332,7 +332,7 @@ Routine removes uncertainty. Every variable you control is one less thing to thi
 
 > Hope is not a strategy. Preparation is. You can't control outcomes, but you can control how ready you are for the moment.
 
-### <span style="color: #0969DA">Component 2: COMPOSURE (During the Moment)</span>
+### $${\color{blue}Component \space 2: \space COMPOSURE \space (During \space the \space Moment)}$$
 
 Let's be honest about what happens physiologically when pressure hits.
 
@@ -404,7 +404,7 @@ Don't say: "I hope I don't choke."
 
 Approach language activates. Avoidance language paralyzes.
 
-### <span style="color: #0969DA">Component 3: EXECUTION (The Moment)</span>
+### $${\color{blue}Component \space 3: \space EXECUTION \space (The \space Moment)}$$
 
 Here's the paradox that trips people up:
 
@@ -488,7 +488,7 @@ Losing isn't the problem. Not learning from losing is.
 
 ---
 
-## <span style="color: #0969DA">The Output Focus</span>
+## $${\color{blue}The \space Output \space Focus}$$
 
 
 
@@ -555,7 +555,7 @@ Big moments go to people who can handle them. When you've got a reputation for b
 
 ---
 
-## <span style="color: #0969DA">Real-World Examples</span>
+## $${\color{blue}Real-World \space Examples}$$
 
 
 
@@ -718,11 +718,11 @@ Not because she was naturally confident. Not because she's a gifted public speak
 
 ---
 
-## <span style="color: #0969DA">Your Game Plan</span>
+## $${\color{blue}Your \space Game \space Plan}$$
 
 
 
-### <span style="color: #0969DA">Step 1: Identify Your High-Stakes Moments</span>
+### $${\color{blue}Step \space 1: \space Identify \space Your \space High-Stakes \space Moments}$$
 
 You can't prepare for pressure if you don't know where it's coming from.
 
@@ -762,7 +762,7 @@ Identify where YOU need clutch performance.
 
 **The Output**: Clear picture of where you need to develop clutch skills.
 
-### <span style="color: #0969DA">Step 2: Over-Prepare for Big Moments</span>
+### $${\color{blue}Step \space 2: \space Over-Prepare \space for \space Big \space Moments}$$
 
 The 10x Preparation Rule: Practice ten times more than you think you need to.
 
@@ -864,7 +864,7 @@ When the moment arrives, you're over-prepared. Not winging it.
 
 **The Output**: Confidence built on work, not wishful thinking.
 
-### <span style="color: #0969DA">Step 3: Build Your Pre-Performance Routine</span>
+### $${\color{blue}Step \space 3: \space Build \space Your \space Pre-Performance \space Routine}$$
 
 
 > [!NOTE]
@@ -955,7 +955,7 @@ Then trust it when stakes are high.
 
 **The Output**: A reliable system that works when pressure spikes.
 
-### <span style="color: #0969DA">Step 4: Manage the Moment (Execute Under Pressure)</span>
+### $${\color{blue}Step \space 4: \space Manage \space the \space Moment \space (Execute \space Under \space Pressure)}$$
 
 
 > [!NOTE]
@@ -1048,7 +1048,7 @@ If you feel yourself choking:
 
 **The Output**: You perform when it matters because you have a system.
 
-### <span style="color: #0969DA">Step 5: Learn from Clutch Failures</span>
+### $${\color{blue}Step \space 5: \space Learn \space from \space Clutch \space Failures}$$
 
 Here's the truth: You WILL blow clutch moments sometimes. Everyone does.
 
@@ -1136,7 +1136,7 @@ He never made that mistake again.
 
 **The Output**: Every clutch failure becomes preparation for the next clutch success.
 
-### <span style="color: #0969DA">Step 6: Seek Out Pressure (Become a Pressure Hunter)</span>
+### $${\color{blue}Step \space 6: \space Seek \space Out \space Pressure \space (Become \space a \space Pressure \space Hunter)}$$
 
 **The Counterintuitive Move**: Don't avoid pressure—actively seek it.
 
@@ -1194,11 +1194,11 @@ You can't simulate real pressure in your comfort zone.
 
 ---
 
-## <span style="color: #0969DA">Practice Drills</span>
+## $${\color{blue}Practice \space Drills}$$
 
 
 
-### <span style="color: #0969DA">Exercise 1: The Pressure Simulation Lab</span>
+### $${\color{blue}Exercise \space 1: \space The \space Pressure \space Simulation \space Lab}$$
 
 **Goal**: Create pressure in practice that matches or exceeds real moments.
 
@@ -1248,7 +1248,7 @@ You can't simulate real pressure in your comfort zone.
 
 **The Output**: When the real moment comes, you've been there before in practice.
 
-### <span style="color: #0969DA">Exercise 2: The Routine Builder</span>
+### $${\color{blue}Exercise \space 2: \space The \space Routine \space Builder}$$
 
 **Goal**: Create and practice your pre-performance routine.
 
@@ -1304,7 +1304,7 @@ Use routine before real clutch moments. Same routine, every time.
 
 **The Output**: A reliable routine you can trust when stakes are highest.
 
-### <span style="color: #0969DA">Exercise 3: The Clutch Film Study</span>
+### $${\color{blue}Exercise \space 3: \space The \space Clutch \space Film \space Study}$$
 
 **Goal**: Learn from clutch moments—yours and others'.
 
@@ -1360,7 +1360,7 @@ Watch three clutch performances in your domain:
 
 ---
 
-## <span style="color: #0969DA">Post-Game Review</span>
+## $${\color{blue}Post-Game \space Review}$$
 
 
 

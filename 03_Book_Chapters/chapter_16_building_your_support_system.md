@@ -31,7 +31,7 @@
 
 ---
 
-## <span style="color: #0969DA">The Breaking Point</span>
+## $${\color{blue}The \space Breaking \space Point}$$
 
 
 
@@ -167,7 +167,7 @@ And she's learned something that changed everything:
 
 ---
 
-## <span style="color: #0969DA">The Problem: The "I'll Handle It Alone" Trap</span>
+## $${\color{blue}The \space Problem: \space The \space "I'll \space Handle \space It \space Alone" \space Trap}$$
 
 
 
@@ -199,7 +199,7 @@ It's the loneliest game you can play.
 
 ---
 
-### <span style="color: #0969DA">What Happens When You Try to Win Alone</span>
+### $${\color{blue}What \space Happens \space When \space You \space Try \space to \space Win \space Alone}$$
 
 **Isolation**: Your problems feel bigger than they actually are. When you're inside your own head, everything gets magnified. That test you're stressing about? Feels impossible. That conflict with your friend? Feels permanent. That future you're worried about? Feels hopeless.
 
@@ -219,7 +219,7 @@ Support systems don't just catch you when you fall. They show you paths you didn
 
 ---
 
-### <span style="color: #0969DA">The Truth Nobody Tells You</span>
+### $${\color{blue}The \space Truth \space Nobody \space Tells \space You}$$
 
 Every person you think is crushing it alone? They're not.
 
@@ -254,7 +254,7 @@ They're smart enough to build their team before they need it. Strategic enough t
 
 ---
 
-## <span style="color: #0969DA">The Solution: Building Your Strategic Ohana</span>
+## $${\color{blue}The \space Solution: \space Building \space Your \space Strategic \space Ohana}$$
 
 
 
@@ -281,7 +281,7 @@ Let's build your Ohana. Your strategic support system. Your team.
 
 ---
 
-### <span style="color: #0969DA">What a Support System Actually IS</span>
+### $${\color{blue}What \space a \space Support \space System \space Actually \space IS}$$
 
 Not some vague "positive vibes" circle. Not people who just tell you what you want to hear.
 
@@ -311,7 +311,7 @@ A real support system is:
 
 ---
 
-### <span style="color: #0969DA">The Three Layers of Support</span>
+### $${\color{blue}The \space Three \space Layers \space of \space Support}$$
 
 Think of your support system like a championship team. Different positions, different roles, all essential.
 
@@ -387,7 +387,7 @@ You're not close with everyone here, but you share identity and values. There's 
 
 ---
 
-### <span style="color: #0969DA">The Strategic Vulnerability Playbook</span>
+### $${\color{blue}The \space Strategic \space Vulnerability \space Playbook}$$
 
 Here's where it gets real.
 
@@ -452,7 +452,7 @@ People want to help. They just need to know you need it.
 
 ---
 
-### <span style="color: #0969DA">Why This Works: The Science of Support</span>
+### $${\color{blue}Why \space This \space Works: \space The \space Science \space of \space Support}$$
 
 Let's get real about why support systems aren't just "nice to have." They're essential.
 
@@ -470,7 +470,7 @@ The people with strong support systems lived longer, stayed healthier, recovered
 
 ---
 
-### <span style="color: #0969DA">The Support System Multiplier Effect</span>
+### $${\color{blue}The \space Support \space System \space Multiplier \space Effect}$$
 
 Here's what happens when you build real support:
 
@@ -511,7 +511,7 @@ Here's what happens when you build real support:
 
 ---
 
-## <span style="color: #0969DA">Real Champions, Real Support Systems</span>
+## $${\color{blue}Real \space Champions, \space Real \space Support \space Systems}$$
 
 
 
@@ -519,7 +519,7 @@ Here's what happens when you build real support:
 
 Let's look at people who've proven this works.
 
-### <span style="color: #0969DA">Oprah Winfrey: The Power of Chosen Family</span>
+### $${\color{blue}Oprah \space Winfrey: \space The \space Power \space of \space Chosen \space Family}$$
 
 You know Oprah as one of the most successful people on the planet. Billionaire. Media mogul. Cultural icon.
 
@@ -547,7 +547,7 @@ She built her empire on top of a foundation of support.
 
 ---
 
-### <span style="color: #0969DA">Simone Biles: Vulnerability on the World's Biggest Stage</span>
+### $${\color{blue}Simone \space Biles: \space Vulnerability \space on \space the \space World's \space Biggest \space Stage}$$
 
 Tokyo Olympics, 2021.
 
@@ -589,7 +589,7 @@ But more importantly, she showed the entire world what strength actually looks l
 
 ---
 
-### <span style="color: #0969DA">Jordan: A Student Who Learned to Ask</span>
+### $${\color{blue}Jordan: \space A \space Student \space Who \space Learned \space to \space Ask}$$
 
 Jordan's not famous. He's a regular high school junior.
 
@@ -657,7 +657,7 @@ But he wasn't carrying it alone anymore.
 
 ---
 
-## <span style="color: #0969DA">Your Game Plan: Building Your Support System</span>
+## $${\color{blue}Your \space Game \space Plan: \space Building \space Your \space Support \space System}$$
 
 
 
@@ -667,7 +667,7 @@ Okay, enough theory. Let's build your actual support system.
 
 This isn't vague. This isn't someday. This is your strategic playbook for the next 30 days.
 
-### <span style="color: #0969DA">Step 1: Audit Your Current Support System</span>
+### $${\color{blue}Step \space 1: \space Audit \space Your \space Current \space Support \space System}$$
 
 Before you can build, you need to know what you're working with.
 
@@ -799,7 +799,7 @@ What groups give you a sense of identity and belonging?
 
 ---
 
-### <span style="color: #0969DA">Step 2: Identify Your Support Gaps</span>
+### $${\color{blue}Step \space 2: \space Identify \space Your \space Support \space Gaps}$$
 
 You can't build what you can't see. Let's find the gaps.
 
@@ -841,7 +841,7 @@ You can't build what you can't see. Let's find the gaps.
 
 ---
 
-### <span style="color: #0969DA">Step 3: Ask for Help (The Hardest and Most Important Step)</span>
+### $${\color{blue}Step \space 3: \space Ask \space for \space Help \space (The \space Hardest \space and \space Most \space Important \space Step)}$$
 
 This is where most people stop. They see the gaps. They know they need help. But asking feels impossible.
 
@@ -959,7 +959,7 @@ The right people will show up.
 
 ---
 
-### <span style="color: #0969DA">Step 4: Build Reciprocity (Be the Support You Want to Have)</span>
+### $${\color{blue}Step \space 4: \space Build \space Reciprocity \space (Be \space the \space Support \space You \space Want \space to \space Have)}$$
 
 Support systems work both ways.
 
@@ -1037,7 +1037,7 @@ You attract what you give.
 
 ---
 
-### <span style="color: #0969DA">Step 5: Maintain Your System (Don't Wait for Crisis)</span>
+### $${\color{blue}Step \space 5: \space Maintain \space Your \space System \space (Don't \space Wait \space for \space Crisis)}$$
 
 Here's what most people get wrong:
 
@@ -1139,7 +1139,7 @@ This isn't complicated. It's just intentional.
 
 ---
 
-## <span style="color: #0969DA">Practice Drills</span>
+## $${\color{blue}Practice \space Drills}$$
 
 
 
@@ -1149,7 +1149,7 @@ Okay, enough reading. Time to practice.
 
 These aren't optional. These are your assignments for the next week.
 
-### <span style="color: #0969DA">Drill 1: The Three-Layer Map (Complete This Week)</span>
+### $${\color{blue}Drill \space 1: \space The \space Three-Layer \space Map \space (Complete \space This \space Week)}$$
 
 
 > 💡 **Key Insight**
@@ -1203,7 +1203,7 @@ Then listen.
 
 ---
 
-### <span style="color: #0969DA">Drill 2: The Vulnerability Practice (Start Small)</span>
+### $${\color{blue}Drill \space 2: \space The \space Vulnerability \space Practice \space (Start \space Small)}$$
 
 
 > 💡 **Key Insight**
@@ -1256,7 +1256,7 @@ Asking for help is a skill. You build the skill with low-stakes practice so when
 
 ---
 
-### <span style="color: #0969DA">Drill 3: The Support Audit (Reflect on Last 30 Days)</span>
+### $${\color{blue}Drill \space 3: \space The \space Support \space Audit \space (Reflect \space on \space Last \space 30 \space Days)}$$
 
 
 > 💡 **Key Insight**
@@ -1327,7 +1327,7 @@ You can't change patterns you don't see. This creates awareness of how you're cu
 
 ---
 
-### <span style="color: #0969DA">Weekly Check-In</span>
+### $${\color{blue}Weekly \space Check-In}$$
 
 Track your progress over the next 7 days:
 
@@ -1364,7 +1364,7 @@ Track your progress over the next 7 days:
 
 ---
 
-## <span style="color: #0969DA">Post-Game Review</span>
+## $${\color{blue}Post-Game \space Review}$$
 
 
 
@@ -1435,7 +1435,7 @@ You need all three. Your Inner Circle is small and deep. Your Extended Network i
 
 ---
 
-### <span style="color: #0969DA">Reflection Questions</span>
+### $${\color{blue}Reflection \space Questions}$$
 
 Take a few minutes. Really think about these.
 
@@ -1523,7 +1523,7 @@ You're building the community that will rise with you.
 
 ---
 
-### <span style="color: #0969DA">Next Level</span>
+### $${\color{blue}Next \space Level}$$
 
 You've learned to manage your mindset (Part 1), master your habits (Part 2), perform under pressure (Part 3), and build your team (Part 4).
 

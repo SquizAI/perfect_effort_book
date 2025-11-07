@@ -1,13 +1,21 @@
 #!/usr/bin/env python3
 """
-Add blue color to section headers using HTML
+Remove old HTML span styling and add blue headers using LaTeX
 """
 
 from pathlib import Path
+import re
 
 CHAPTERS_DIR = Path(__file__).parent.parent / '03_Book_Chapters'
 
-def colorize_headers(content):
+def remove_old_styling(content):
+    """Remove HTML span tags from headers"""
+    # Remove <span style="color: #0969DA">text</span> from headers
+    content = re.sub(r'## <span style="color: #0969DA">(.*?)</span>', r'## \1', content)
+    content = re.sub(r'### <span style="color: #0969DA">(.*?)</span>', r'### \1', content)
+    return content
+
+def add_latex_blue_headers(content):
     """Add blue color to ## and ### headers using LaTeX math"""
 
     lines = content.split('\n')
@@ -33,33 +41,37 @@ def colorize_headers(content):
 
     return '\n'.join(result)
 
-def enhance_chapter(filepath):
-    """Add blue headers to chapter"""
-    
-    print(f"🔵 Adding blue headers to {filepath.name}...")
+def fix_chapter(filepath):
+    """Remove old styling and add LaTeX blue headers"""
+
+    print(f"🔧 Fixing {filepath.name}...")
 
     with open(filepath, 'r') as f:
         content = f.read()
 
-    content = colorize_headers(content)
+    # Remove old HTML span styling
+    content = remove_old_styling(content)
+
+    # Add LaTeX blue headers
+    content = add_latex_blue_headers(content)
 
     with open(filepath, 'w') as f:
         f.write(content)
 
-    print(f"✅ Enhanced {filepath.name}")
+    print(f"✅ Fixed {filepath.name}")
     return True
 
 def main():
     print("╔" + "="*60 + "╗")
-    print("║" + " "*18 + "Blue Header Tool" + " "*26 + "║")
+    print("║" + " "*15 + "Fix Blue Headers (LaTeX)" + " "*20 + "║")
     print("╚" + "="*60 + "╝\n")
 
     chapter_files = sorted(CHAPTERS_DIR.glob('chapter_*.md'))
 
     for filepath in chapter_files[:20]:
-        enhance_chapter(filepath)
+        fix_chapter(filepath)
 
-    print("\n✅ All chapter headers are now blue!")
+    print("\n✅ All chapter headers now use LaTeX blue formatting!")
 
 if __name__ == "__main__":
     main()

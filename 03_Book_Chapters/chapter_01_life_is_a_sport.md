@@ -13,7 +13,7 @@
 
 ---
 
-## <span style="color: #0969DA">The Whistle Just Blew</span>
+## $${\color{blue}The \space Whistle \space Just \space Blew}$$
 
 
 Picture this: You're standing at the free-throw line. Game tied. Three seconds left. The gym is silent except for your heartbeat pounding in your ears. Every practice session, every drill, every rep you've ever taken has led to this exact moment.
@@ -43,7 +43,7 @@ The only question is: Are you playing to win, or are you just showing up?
 
 ---
 
-## <span style="color: #0969DA">The Game Nobody Told You About</span>
+## $${\color{blue}The \space Game \space Nobody \space Told \space You \space About}$$
 
 
 Here's what nobody tells you when you're in middle school or high school: Life has rules. It has strategies. It has levels, stats, bosses, and ways to power up. Just like any sport. Just like any game you've ever played.
@@ -60,7 +60,7 @@ Not the kind that make things easy – the kind that make things make sense.
 > Because here's the uncomfortable truth: **You're already playing whether you know it or not.** Every day you wake up, the scoreboard is running. Every choice you make is a play. Every hour you spend is a rep. The question isn't whether you're in the game – the question is whether you're going to play like you mean it.
 
 
-### <span style="color: #0969DA">Why Sports Work (And Life Doesn't... Yet)</span>
+### $${\color{blue}Why \space Sports \space Work \space (And \space Life \space Doesn't... \space Yet)}$$
 
 Think about why sports feel so much more engaging than, say, studying for a history test:
 
@@ -118,7 +118,7 @@ Inputs are tasks. Outputs are results.
 
 Inputs make you feel productive. Outputs make you actually improve.
 
-### <span style="color: #0969DA">The Reframe</span>
+### $${\color{blue}The \space Reframe}$$
 
 This is the single most important shift you'll make in this entire book. Ready?
 
@@ -220,7 +220,7 @@ Yet somewhere along the way, we started avoiding friction. We started thinking t
 > *That's the biggest lie you've ever been told.*
 
 
-### <span style="color: #0969DA">Learning Friction is Your Superpower</span>
+### $${\color{blue}Learning \space Friction \space is \space Your \space Superpower}$$
 
 In sports and games, this concept is obvious. You don't level up by fighting enemies that are way too weak. You don't improve your vertical jump by practicing on a 6-foot hoop. You seek out challenges that push you just beyond your current ability.
 
@@ -242,7 +242,7 @@ So the next time you're struggling with something and you think, "This is too ha
 
 "This is uncomfortable, which means I'm learning. This friction is making me better. This is exactly where I need to be."
 
-### <span style="color: #0969DA">Why Failure Isn't Optional</span>
+### $${\color{blue}Why \space Failure \space Isn't \space Optional}$$
 
 Let me tell you something that might blow your mind:
 
@@ -331,7 +331,7 @@ The game isn't about massive, heroic efforts. The game is about showing up every
 
 ---
 
-## <span style="color: #0969DA">Know Your Position: The Stat Sheet Exercise</span>
+## $${\color{blue}Know \space Your \space Position: \space The \space Stat \space Sheet \space Exercise}$$
 
 
 Alright, enough theory. Time for your first real play.
@@ -342,7 +342,7 @@ You're about to do the same thing for your life.
 
 Grab a piece of paper (or your phone, I'm not your parent). Answer these questions as honestly as you can:
 
-### <span style="color: #0969DA">Your Current Stats</span>
+### $${\color{blue}Your \space Current \space Stats}$$
 
 
 > [!NOTE]
@@ -410,7 +410,7 @@ Examples:
 - Making an impact that outlasts me
 - Mastering a craft to the highest level possible
 
-### <span style="color: #0969DA">Why This Matters</span>
+### $${\color{blue}Why \space This \space Matters}$$
 
 You can't improve what you don't measure. You can't win a game if you don't know the score.
 
@@ -427,7 +427,7 @@ That's the game. That's how you win.
 
 ---
 
-## <span style="color: #0969DA">Your First Play: The One-Week Challenge</span>
+## $${\color{blue}Your \space First \space Play: \space The \space One-Week \space Challenge}$$
 
 
 Okay. You understand the game now. You know the rules. You've assessed your stats.
@@ -478,7 +478,7 @@ If the answer to that last question is yes, congratulations.
 
 ---
 
-## <span style="color: #0969DA">The Uncomfortable Truth (One More Time)</span>
+## $${\color{blue}The \space Uncomfortable \space Truth \space (One \space More \space Time)}$$
 
 
 I'm going to leave you with the same truth I gave you at the start:
@@ -500,7 +500,7 @@ You're playing to win.
 
 ---
 
-## <span style="color: #0969DA">Key Principle</span>
+## $${\color{blue}Key \space Principle}$$
 
 
 
@@ -520,7 +520,7 @@ The only question is: Are you playing like you mean it?
 
 ---
 
-## <span style="color: #0969DA">Next Play</span>
+## $${\color{blue}Next \space Play}$$
 
 
 Now that you know it's a game... do you know your stats?

@@ -22,7 +22,7 @@
 
 ---
 
-## <span style="color: #0969DA">The Ten-Year Reunion</span>
+## $${\color{blue}The \space Ten-Year \space Reunion}$$
 
 
 
@@ -106,7 +106,7 @@ Let's talk about how to win a game that actually matters.
 
 ---
 
-## <span style="color: #0969DA">The Problem: The Short-Term Thinking Epidemic</span>
+## $${\color{blue}The \space Problem: \space The \space Short-Term \space Thinking \space Epidemic}$$
 
 
 
@@ -122,7 +122,7 @@ The result? Everyone's playing checkers when life is chess.
 
 ---
 
-### <span style="color: #0969DA">What Happens When You Only Play the Short Game</span>
+### $${\color{blue}What \space Happens \space When \space You \space Only \space Play \space the \space Short \space Game}$$
 
 
 > [!NOTE]
@@ -168,7 +168,7 @@ Impressive on the outside, hollow on the inside. People congratulate you on achi
 
 ---
 
-### <span style="color: #0969DA">The Common Short-Term Traps</span>
+### $${\color{blue}The \space Common \space Short-Term \space Traps}$$
 
 You'll face these decisions soon if you haven't already:
 
@@ -184,7 +184,7 @@ You'll face these decisions soon if you haven't already:
 
 ---
 
-### <span style="color: #0969DA">The Math Is Simple</span>
+### $${\color{blue}The \space Math \space Is \space Simple}$$
 
 **Short game thinking**: Optimize for the next six months. Win battles. Lose the war.
 
@@ -204,13 +204,13 @@ Which game are you playing?
 
 ---
 
-## <span style="color: #0969DA">The Solution: Values-Driven Long-Term Vision</span>
+## $${\color{blue}The \space Solution: \space Values-Driven \space Long-Term \space Vision}$$
 
 
 
 Let's get clear on what the long game actually is—and what it isn't.
 
-### <span style="color: #0969DA">What the Long Game IS</span>
+### $${\color{blue}What \space the \space Long \space Game \space IS}$$
 
 **Defining YOUR definition of success.** Not your parents'. Not society's. Not Instagram's. Yours. What does success actually mean to you? What does a life well-lived look like through your eyes?
 
@@ -224,7 +224,7 @@ Let's get clear on what the long game actually is—and what it isn't.
 
 ---
 
-### <span style="color: #0969DA">What the Long Game ISN'T</span>
+### $${\color{blue}What \space the \space Long \space Game \space ISN'T}$$
 
 Let's clear up some misconceptions.
 
@@ -246,7 +246,7 @@ The long game is about having a compass (your values), not a detailed map. The c
 
 ---
 
-### <span style="color: #0969DA">The Angela Ahrendts Principles</span>
+### $${\color{blue}The \space Angela \space Ahrendts \space Principles}$$
 
 Angela Ahrendts built one of the most successful careers in business—CEO of Burberry, Senior VP of Retail at Apple—but she did it on her own terms. She's the perfect model for the long game.
 
@@ -325,7 +325,7 @@ The second question matters. But the first question is what creates legacy.
 
 ---
 
-### <span style="color: #0969DA">Why This Works: The Research</span>
+### $${\color{blue}Why \space This \space Works: \space The \space Research}$$
 
 This isn't just philosophy. It's backed by decades of research.
 
@@ -341,7 +341,7 @@ This isn't just philosophy. It's backed by decades of research.
 
 ---
 
-### <span style="color: #0969DA">The Long Game Multiplier</span>
+### $${\color{blue}The \space Long \space Game \space Multiplier}$$
 
 Here's what happens when you play the long game:
 
@@ -365,7 +365,7 @@ Small aligned decisions compound over time into an extraordinary life.
 
 ---
 
-## <span style="color: #0969DA">The Output: What You'll Build</span>
+## $${\color{blue}The \space Output: \space What \space You'll \space Build}$$
 
 
 
@@ -399,7 +399,7 @@ That's the output of the long game.
 
 ---
 
-## <span style="color: #0969DA">Real-World Examples</span>
+## $${\color{blue}Real-World \space Examples}$$
 
 
 
@@ -525,13 +525,13 @@ Every decision is a chance to choose alignment over impression.
 
 ---
 
-## <span style="color: #0969DA">Your Game Plan</span>
+## $${\color{blue}Your \space Game \space Plan}$$
 
 
 
 Enough theory. Let's build your long game strategy.
 
-### <span style="color: #0969DA">Step 1: Define Your Core Values (Build Your Compass)</span>
+### $${\color{blue}Step \space 1: \space Define \space Your \space Core \space Values \space (Build \space Your \space Compass)}$$
 
 Your values are your decision-making filter for the next thirty years.
 
@@ -623,7 +623,7 @@ If no, you're building someone else's life.
 
 ---
 
-### <span style="color: #0969DA">Step 2: Conduct Your Life Audit (Build Self-Awareness)</span>
+### $${\color{blue}Step \space 2: \space Conduct \space Your \space Life \space Audit \space (Build \space Self-Awareness)}$$
 
 Most people avoid this step. It's uncomfortable. It requires honesty.
 
@@ -671,7 +671,7 @@ This isn't about guilt. It's about awareness. You can't build the life you want 
 
 ---
 
-### <span style="color: #0969DA">Step 3: Build Your 10-Year Vision (Create Your North Star)</span>
+### $${\color{blue}Step \space 3: \space Build \space Your \space 10-Year \space Vision \space (Create \space Your \space North \space Star)}$$
 
 This isn't a rigid plan. Life changes. You'll change. New opportunities emerge.
 
@@ -741,7 +741,7 @@ That clarity is priceless.
 
 ---
 
-### <span style="color: #0969DA">Step 4: The Long Game Decision Framework (Make Aligned Choices)</span>
+### $${\color{blue}Step \space 4: \space The \space Long \space Game \space Decision \space Framework \space (Make \space Aligned \space Choices)}$$
 
 You have your values. You have your vision. Now you need a system for making decisions that serve the long game.
 
@@ -886,7 +886,7 @@ That's how you build a championship life one decision at a time.
 
 ---
 
-### <span style="color: #0969DA">Step 5: Sustain Excellence Over Decades (Avoid Burnout)</span>
+### $${\color{blue}Step \space 5: \space Sustain \space Excellence \space Over \space Decades \space (Avoid \space Burnout)}$$
 
 The long game requires sustainable pace. You can't sprint for thirty years.
 
@@ -1003,7 +1003,7 @@ You're building a life that compounds for forty years.
 
 ---
 
-### <span style="color: #0969DA">Step 6: Build Your Legacy (Impact That Lasts)</span>
+### $${\color{blue}Step \space 6: \space Build \space Your \space Legacy \space (Impact \space That \space Lasts)}$$
 
 Your legacy isn't your achievements. It's your impact on people.
 
@@ -1116,13 +1116,13 @@ That's the long game.
 
 ---
 
-## <span style="color: #0969DA">Practice Drills</span>
+## $${\color{blue}Practice \space Drills}$$
 
 
 
 You've got the framework. Now let's practice.
 
-### <span style="color: #0969DA">Exercise 1: The Values Deep Dive</span>
+### $${\color{blue}Exercise \space 1: \space The \space Values \space Deep \space Dive}$$
 
 **Week 1 Challenge**: Define and test your core values.
 
@@ -1143,7 +1143,7 @@ You've got the framework. Now let's practice.
 
 ---
 
-### <span style="color: #0969DA">Exercise 2: The Life Alignment Audit</span>
+### $${\color{blue}Exercise \space 2: \space The \space Life \space Alignment \space Audit}$$
 
 **Week 2 Challenge**: Assess current alignment.
 
@@ -1163,7 +1163,7 @@ Track it. See if the alignment improves.
 
 ---
 
-### <span style="color: #0969DA">Exercise 3: The 10-Year Vision Letter</span>
+### $${\color{blue}Exercise \space 3: \space The \space 10-Year \space Vision \space Letter}$$
 
 **Week 3 Challenge**: Write a letter from your future self.
 
@@ -1190,7 +1190,7 @@ Track it. See if the alignment improves.
 
 ---
 
-### <span style="color: #0969DA">Exercise 4: The Decision Filter Practice</span>
+### $${\color{blue}Exercise \space 4: \space The \space Decision \space Filter \space Practice}$$
 
 **Week 4 Challenge**: Apply the five-filter framework to real decisions.
 
@@ -1231,13 +1231,13 @@ Build the muscle. Get comfortable filtering decisions through your values.
 
 ---
 
-## <span style="color: #0969DA">Post-Game Review</span>
+## $${\color{blue}Post-Game \space Review}$$
 
 
 
 You've made it to the final chapter. Let's tie it all together.
 
-### <span style="color: #0969DA">Reflection Questions</span>
+### $${\color{blue}Reflection \space Questions}$$
 
 These aren't gentle questions. They're designed to make you think.
 
@@ -1321,7 +1321,7 @@ Let's distill this chapter into the essentials:
 
 ---
 
-## <span style="color: #0969DA">The "Perfect Effort" Philosophy - One Page Summary</span>
+## $${\color{blue}The \space "Perfect \space Effort" \space Philosophy \space - \space One \space Page \space Summary}$$
 
 
 
@@ -1341,7 +1341,7 @@ Perfect Effort isn't about being perfect. It's about alignment.
 
 ---
 
-### <span style="color: #0969DA">The Core Principles (Chapters 1-20 in One Page)</span>
+### $${\color{blue}The \space Core \space Principles \space (Chapters \space 1-20 \space in \space One \space Page)}$$
 
 
 > [!NOTE]
@@ -1404,7 +1404,7 @@ Perfect Effort isn't about being perfect. It's about alignment.
 
 ---
 
-### <span style="color: #0969DA">The Perfect Effort Question</span>
+### $${\color{blue}The \space Perfect \space Effort \space Question}$$
 
 Before any decision, ask:
 
@@ -1415,7 +1415,7 @@ If no, walk away, no matter how impressive it looks.
 
 ---
 
-### <span style="color: #0969DA">Your Championship Life</span>
+### $${\color{blue}Your \space Championship \space Life}$$
 
 You have one life. One opportunity to build something you're proud of.
 
@@ -1443,7 +1443,7 @@ Proud because it's authentically yours. Proud because you played the game with i
 
 ---
 
-## <span style="color: #0969DA">The Final Challenge: Your Perfect Effort Commitment</span>
+## $${\color{blue}The \space Final \space Challenge: \space Your \space Perfect \space Effort \space Commitment}$$
 
 
 
@@ -1459,7 +1459,7 @@ So here's the challenge:
 
 ---
 
-### <span style="color: #0969DA">Your Perfect Effort Commitment</span>
+### $${\color{blue}Your \space Perfect \space Effort \space Commitment}$$
 
 > I commit to building a life aligned with my values:
 >
@@ -1490,7 +1490,7 @@ So here's the challenge:
 
 ---
 
-## <span style="color: #0969DA">A Letter From Your Coach</span>
+## $${\color{blue}A \space Letter \space From \space Your \space Coach}$$
 
 
 

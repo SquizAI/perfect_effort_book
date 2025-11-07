@@ -22,7 +22,7 @@
 
 ---
 
-## <span style="color: #0969DA">The Two Athletes</span>
+## $${\color{blue}The \space Two \space Athletes}$$
 
 
 
@@ -80,7 +80,7 @@ Let's talk about how to find your position and dominate it.
 
 ---
 
-## <span style="color: #0969DA">The Problem: The "Good at Everything" Trap</span>
+## $${\color{blue}The \space Problem: \space The \space "Good \space at \space Everything" \space Trap}$$
 
 
 
@@ -124,7 +124,7 @@ In business, they call it "differentiation strategy." You don't win by being the
 
 The pattern is clear across fields: specialists dominate. The well-rounded get replaced.
 
-### <span style="color: #0969DA">The Solution: Own Your Position</span>
+### $${\color{blue}The \space Solution: \space Own \space Your \space Position}$$
 
 Whitney Wolfe Herd built a $13 billion company by refusing to play someone else's game.
 
@@ -194,7 +194,7 @@ Where's your unfair advantage? What could you be in the top 10% at with focused 
 
 Notice: we're not asking "where can I be average at everything?" We're asking "where can I be exceptional at my thing?"
 
-### <span style="color: #0969DA">Reframe: Strengths vs. Weaknesses</span>
+### $${\color{blue}Reframe: \space Strengths \space vs. \space Weaknesses}$$
 
 Here's the old model most people follow:
 
@@ -230,7 +230,7 @@ Fix the weakness enough that it doesn't block you. Then get back to building you
 
 > Well-rounded sounds safe. But in the real world, specialists win. Companies hire experts, not generalists. Audiences follow people who are the best at their thing, not pretty good at several things. Be spike-shaped—deep expertise in your area—not flat across everything.
 
-### <span style="color: #0969DA">Why This Works</span>
+### $${\color{blue}Why \space This \space Works}$$
 
 The research is clear on this.
 
@@ -250,7 +250,7 @@ She turned being female in tech—often seen as a disadvantage in Silicon Valley
 
 The result? A company worth $13 billion. She became the youngest woman to take a company public as CEO. All because she played her position instead of trying to be someone else.
 
-### <span style="color: #0969DA">The Output You'll Create</span>
+### $${\color{blue}The \space Output \space You'll \space Create}$$
 
 When you play your position, here's what you gain:
 
@@ -319,7 +319,7 @@ The world doesn't need another version of someone else. It needs the first versi
 
 ---
 
-## <span style="color: #0969DA">Real-World Examples</span>
+## $${\color{blue}Real-World \space Examples}$$
 
 
 
@@ -427,11 +427,11 @@ Accepted to dream school. Now leading multiple student organizations in college.
 
 ---
 
-## <span style="color: #0969DA">Your Game Plan</span>
+## $${\color{blue}Your \space Game \space Plan}$$
 
 
 
-### <span style="color: #0969DA">Step 1: Discover Your Unique Strengths</span>
+### $${\color{blue}Step \space 1: \space Discover \space Your \space Unique \space Strengths}$$
 
 You can't play your position if you don't know what it is.
 
@@ -522,7 +522,7 @@ Strengths typically fall into four categories:
 
 Most people have one or two primary categories. That's your starting position.
 
-### <span style="color: #0969DA">Step 2: Find Your Competitive Advantage</span>
+### $${\color{blue}Step \space 2: \space Find \space Your \space Competitive \space Advantage}$$
 
 Now we're getting specific. Draw three overlapping circles:
 
@@ -575,7 +575,7 @@ _________________________________________________________________
 
 **The Output:** You now have a clear position statement. This is your lane. This is what you build on.
 
-### <span style="color: #0969DA">Step 3: Stop Competing Where You Can't Win</span>
+### $${\color{blue}Step \space 3: \space Stop \space Competing \space Where \space You \space Can't \space Win}$$
 
 This step is hard. But necessary.
 
@@ -654,7 +654,7 @@ If Jordan had done this sophomore year, the story would have ended differently.
 
 > Letting go isn't weakness. It's strategy. The best players in any sport know their role. They don't try to do everything. They do their thing at an elite level. That's how teams win championships.
 
-### <span style="color: #0969DA">Step 4: Double Down on Your Strengths</span>
+### $${\color{blue}Step \space 4: \space Double \space Down \space on \space Your \space Strengths}$$
 
 Now that you know your position and you've freed up energy, it's time to go all in.
 
@@ -750,7 +750,7 @@ I will stack my strength with _______________________________ (complementary ski
 
 **The Output:** A clear path from "good" to "exceptional" in your position. This is how you become irreplaceable.
 
-### <span style="color: #0969DA">Step 5: Rewrite the Rules</span>
+### $${\color{blue}Step \space 5: \space Rewrite \space the \space Rules}$$
 
 This is the Whitney Wolfe Herd move. If you don't like the game, change it.
 
@@ -853,7 +853,7 @@ Whitney didn't hide the fact that Bumble was different. She made it the main fea
 
 **The Output:** You're no longer playing someone else's game. You're winning at yours.
 
-### <span style="color: #0969DA">Step 6: Turn Differences Into Advantages</span>
+### $${\color{blue}Step \space 6: \space Turn \space Differences \space Into \space Advantages}$$
 
 Your "weaknesses" or "differences" might be your greatest competitive edge.
 
@@ -922,11 +922,11 @@ Your difference? It's not holding you back. It's your edge. Own it.
 
 ---
 
-## <span style="color: #0969DA">Practice Drills</span>
+## $${\color{blue}Practice \space Drills}$$
 
 
 
-### <span style="color: #0969DA">Exercise 1: The Strengths Finder Survey</span>
+### $${\color{blue}Exercise \space 1: \space The \space Strengths \space Finder \space Survey}$$
 
 **Week 1 Challenge:** Ask five people who know you well this question:
 
@@ -950,7 +950,7 @@ What patterns emerge? Are you surprised by anything? Do they see strengths in yo
 
 **Action:** Write your position statement based on this feedback. This is your lane.
 
-### <span style="color: #0969DA">Exercise 2: The Comparison Detox</span>
+### $${\color{blue}Exercise \space 2: \space The \space Comparison \space Detox}$$
 
 **Week 2 Challenge:** For seven days, track every time you compare yourself to someone else.
 
@@ -974,7 +974,7 @@ How many comparisons were in areas that AREN'T your position? What would happen 
 
 **Action:** Pick ONE comparison trap to consciously release this month. When you notice yourself falling into it, redirect: "That's not my game. I'm playing a different position."
 
-### <span style="color: #0969DA">Exercise 3: The Position Showcase</span>
+### $${\color{blue}Exercise \space 3: \space The \space Position \space Showcase}$$
 
 **Week 3 Challenge:** Create something tangible that showcases your unique position.
 
@@ -1003,7 +1003,7 @@ Success looks like: _______________________________
 
 Visibility matters. Showcase your position publicly.
 
-### <span style="color: #0969DA">Exercise 4: The Rule Rewrite Experiment</span>
+### $${\color{blue}Exercise \space 4: \space The \space Rule \space Rewrite \space Experiment}$$
 
 **Week 4 Challenge:** Identify one "rule" or "norm" that doesn't work for you, and run a 30-day experiment with an alternative.
 
@@ -1048,11 +1048,11 @@ Don't just complain about rules that don't fit you. Test alternatives. Be the pe
 
 ---
 
-## <span style="color: #0969DA">Post-Game Review</span>
+## $${\color{blue}Post-Game \space Review}$$
 
 
 
-### <span style="color: #0969DA">Reflection Questions</span>
+### $${\color{blue}Reflection \space Questions}$$
 
 
 
@@ -1132,7 +1132,7 @@ The world doesn't need another version of someone else. It needs the first versi
 
 When you know your position, decisions get easier. You know what's your game and what's not. You know where to invest time and where to pull back.
 
-### <span style="color: #0969DA">Your Position Statement</span>
+### $${\color{blue}Your \space Position \space Statement}$$
 
 Take a minute and write this clearly. This is your north star:
 
@@ -1140,7 +1140,7 @@ Take a minute and write this clearly. This is your north star:
 
 Pin this somewhere you'll see it daily. This is your lane. Own it.
 
-### <span style="color: #0969DA">Next Level Preview</span>
+### $${\color{blue}Next \space Level \space Preview}$$
 
 You've found your position (Chapter 18). You know what makes you unique. You know what lane you're competing in.
 

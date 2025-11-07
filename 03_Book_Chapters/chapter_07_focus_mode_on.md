@@ -20,7 +20,7 @@
 
 ---
 
-## <span style="color: #0969DA">45 Minutes. Zero Progress.</span>
+## $${\color{blue}45 \space Minutes. \space Zero \space Progress.}$$
 
 
 You sit down to study. Notebook open. Textbook ready. You're about to crush this.
@@ -60,7 +60,7 @@ Unless you learn what elite performers already know: **In a world designed to st
 
 ---
 
-## <span style="color: #0969DA">The Game You Didn't Know You're Playing</span>
+## $${\color{blue}The \space Game \space You \space Didn't \space Know \space You're \space Playing}$$
 
 
 Let's talk about the real game being played right now.
@@ -89,7 +89,7 @@ Let's talk about the real game being played right now.
 
 Here's what you're up against:
 
-### <span style="color: #0969DA">The Attention Economy</span>
+### $${\color{blue}The \space Attention \space Economy}$$
 
 Every app on your phone employs teams of PhDs whose entire job is to make that app more addictive. Psychologists. Neuroscientists. Data scientists. Behavioral economists.
 
@@ -107,7 +107,7 @@ Who do you think has the advantage right now?
 
 Every time you pick up your phone "just to check real quick," you're going up against millions of dollars of research into how to trap your attention.
 
-### <span style="color: #0969DA">How They Win (And Why You Keep Losing)</span>
+### $${\color{blue}How \space They \space Win \space (And \space Why \space You \space Keep \space Losing)}$$
 
 The algorithms use your own brain against you. Here's how:
 
@@ -146,7 +146,7 @@ The algorithms use your own brain against you. Here's how:
 - Actually fragmenting your attention into useless pieces
 - Every buzz, every banner, every sound – pulling you away from anything that requires sustained focus
 
-### <span style="color: #0969DA">What It's Actually Costing You</span>
+### $${\color{blue}What \space It's \space Actually \space Costing \space You}$$
 
 Most people think distraction just wastes time. Like, "Oh well, I spent 30 minutes on TikTok instead of studying. I'll just stay up later."
 
@@ -198,7 +198,7 @@ While you're scrolling, someone else is practicing. While you're checking notifi
 
 Every moment you give to distraction is a moment someone else is using to get better.
 
-### <span style="color: #0969DA">The Output Reframe</span>
+### $${\color{blue}The \space Output \space Reframe}$$
 
 Let's get real about what we're actually measuring:
 
@@ -235,7 +235,7 @@ One person *feels* productive. The other person *is* productive.
 
 ---
 
-## <span style="color: #0969DA">What Deep Focus Actually Looks Like</span>
+## $${\color{blue}What \space Deep \space Focus \space Actually \space Looks \space Like}$$
 
 
 Let's talk about someone who's mastered this: Andrej Karpathy.
@@ -244,7 +244,7 @@ If you don't know the name, here's the quick version: He's one of the world's le
 
 Basically, someone who's working on problems so complex that most people's brains would melt trying to understand them.
 
-### <span style="color: #0969DA">The Karpathy Approach</span>
+### $${\color{blue}The \space Karpathy \space Approach}$$
 
 When Karpathy tackles a complex AI problem, here's what his work session looks like:
 
@@ -272,7 +272,7 @@ The result? Hours spent, minimal output.
 > *Here's what Karpathy understands that most people don't: Your brain is like a computer. It has limited RAM. Every time you switch tasks, you're dumping that RAM and reloading. It's expensive.*
 
 
-### <span style="color: #0969DA">The Two Types of Work</span>
+### $${\color{blue}The \space Two \space Types \space of \space Work}$$
 
 Think of your work as falling into two categories:
 
@@ -298,7 +298,7 @@ Most people spend their entire day doing shallow work and wonder why they're not
 
 Elite performers protect blocks of time for deep work like their life depends on it. Because their results depend on it.
 
-### <span style="color: #0969DA">The Uncomfortable Part</span>
+### $${\color{blue}The \space Uncomfortable \space Part}$$
 
 Deep focus is uncomfortable.
 
@@ -327,12 +327,12 @@ The people who win aren't the ones who don't feel the pull of distraction. They'
 
 ---
 
-## <span style="color: #0969DA">How Your Brain Actually Works (The Technical Part)</span>
+## $${\color{blue}How \space Your \space Brain \space Actually \space Works \space (The \space Technical \space Part)}$$
 
 
 Let's get into how attention actually functions. Understanding this will change how you approach everything.
 
-### <span style="color: #0969DA">Your Mental RAM</span>
+### $${\color{blue}Your \space Mental \space RAM}$$
 
 Think of your brain's working memory like the RAM in your phone or computer. It can only hold so much at once.
 
@@ -361,7 +361,7 @@ When you check your phone mid-problem, your brain dumps all that. When you retur
 > *This is why "just checking real quick" destroys productivity.*
 
 
-### <span style="color: #0969DA">The Context Switching Cost</span>
+### $${\color{blue}The \space Context \space Switching \space Cost}$$
 
 Research shows that every time you switch tasks, your brain needs approximately **23 minutes** to regain full focus.
 
@@ -375,7 +375,7 @@ Reply to a text? Another 23 minutes.
 
 Most people do this 10+ times per hour and wonder why they can't focus.
 
-### <span style="color: #0969DA">Flow State Science (Callback to Chapter 4)</span>
+### $${\color{blue}Flow \space State \space Science \space (Callback \space to \space Chapter \space 4)}$$
 
 
 ---
@@ -406,7 +406,7 @@ Think about that. You have access to a state that makes you 5 times more product
 
 But you'll never experience it if you can't go 15 minutes without checking your phone.
 
-### <span style="color: #0969DA">The Focus Muscle</span>
+### $${\color{blue}The \space Focus \space Muscle}$$
 
 Focus isn't something you have or don't have. It's not a personality trait. It's a skill.
 
@@ -432,14 +432,14 @@ The good news? You can build it back. But like any muscle, it takes deliberate p
 
 ---
 
-## <span style="color: #0969DA">Building Your Focus System</span>
+## $${\color{blue}Building \space Your \space Focus \space System}$$
 
 
 You can't rely on willpower to resist distraction. Willpower is a muscle that gets tired. By the end of the day, it's depleted.
 
 Elite performers don't use willpower to focus. They engineer environments where focus is the default state.
 
-### <span style="color: #0969DA">Step 1: Design Your Focus Environment</span>
+### $${\color{blue}Step \space 1: \space Design \space Your \space Focus \space Environment}$$
 
 Before you start any deep work session, set up your environment to make focus easy and distraction hard.
 
@@ -515,7 +515,7 @@ Example ritual:
 
 After doing this routine 10-20 times, your brain will recognize the pattern. "Oh, it's focus time." It'll be easier to enter the state because you've conditioned the trigger.
 
-### <span style="color: #0969DA">Step 2: The Focus Block Templates</span>
+### $${\color{blue}Step \space 2: \space The \space Focus \space Block \space Templates}$$
 
 Not all focus sessions are created equal. Choose based on your current focus capacity and the task type.
 
@@ -628,7 +628,7 @@ Not all focus sessions are created equal. Choose based on your current focus cap
 - Distractions resisted: Count them
 - Flow state reached: Yes / No / Partial
 
-### <span style="color: #0969DA">Step 3: The Progressive Training Program</span>
+### $${\color{blue}Step \space 3: \space The \space Progressive \space Training \space Program}$$
 
 You can't jump straight to 90-minute deep work sessions if you've spent years checking your phone every 3 minutes. Build gradually.
 
@@ -682,7 +682,7 @@ You can't jump straight to 90-minute deep work sessions if you've spent years ch
 
 Distractions will come. They always do. The difference between people who maintain focus and people who don't isn't that one group doesn't get distracted – it's that one group has a system for handling distractions when they appear.
 
-### <span style="color: #0969DA">The If-Then Defense Plan</span>
+### $${\color{blue}The \space If-Then \space Defense \space Plan}$$
 
 Pre-decide how you'll respond to specific distractions. When the moment comes, you won't have to think. You'll just execute your pre-planned response.
 
@@ -746,7 +746,7 @@ Pre-decide how you'll respond to specific distractions. When the moment comes, y
 
 Create your own if-then plans. The more specific, the better.
 
-### <span style="color: #0969DA">The "Later List"</span>
+### $${\color{blue}The \space "Later \space List"}$$
 
 This simple tool will save you from one of the biggest focus killers: intrusive thoughts.
 
@@ -770,7 +770,7 @@ Your brain keeps nagging you about random tasks because it's afraid you'll forge
 
 The thought loses its power. You can refocus.
 
-### <span style="color: #0969DA">The Urge Surfing Technique</span>
+### $${\color{blue}The \space Urge \space Surfing \space Technique}$$
 
 Borrowed from addiction psychology (because phone/social media addiction is real), this technique helps you handle cravings without giving in.
 
@@ -821,12 +821,12 @@ Eventually, the pull gets quieter.
 
 ---
 
-## <span style="color: #0969DA">Focus in the Real World</span>
+## $${\color{blue}Focus \space in \space the \space Real \space World}$$
 
 
 You can't live in a soundproof room with your phone in a different building. Life is messy. People interrupt. School is chaotic. So how do you maintain focus when your environment isn't perfect?
 
-### <span style="color: #0969DA">Context-Specific Focus Strategies</span>
+### $${\color{blue}Context-Specific \space Focus \space Strategies}$$
 
 **In Class:**
 - Phone in locker or backpack (not in your pocket – too easy to reach)
@@ -866,7 +866,7 @@ You can't live in a soundproof room with your phone in a different building. Lif
 - Airplane mode
 - Single task only (resist the urge to "research" mid-creation)
 
-### <span style="color: #0969DA">The Recovery Principle</span>
+### $${\color{blue}The \space Recovery \space Principle}$$
 
 Here's what most people get wrong: They think focus is about willpower and grinding.
 
@@ -910,12 +910,12 @@ Schedule your recovery like you schedule your focus blocks. Both matter.
 
 ---
 
-## <span style="color: #0969DA">The Competitive Advantage</span>
+## $${\color{blue}The \space Competitive \space Advantage}$$
 
 
 Let's zoom out and talk about why this matters more than almost anything else in this book.
 
-### <span style="color: #0969DA">The New Advantage</span>
+### $${\color{blue}The \space New \space Advantage}$$
 
 We live in the most distracted era in human history.
 
@@ -937,7 +937,7 @@ You (after training focus):
 
 **The result?** You don't just win. You win by so much it's not even close.
 
-### <span style="color: #0969DA">Why This Works</span>
+### $${\color{blue}Why \space This \space Works}$$
 
 Think about it from a purely competitive standpoint.
 
@@ -980,7 +980,7 @@ The gap becomes massive.
 > *Not because you worked harder. Because you worked focused.*
 
 
-### <span style="color: #0969DA">Your Weekly Challenge</span>
+### $${\color{blue}Your \space Weekly \space Challenge}$$
 
 Here's your mission this week:
 
@@ -1025,7 +1025,7 @@ Here's your mission this week:
 
 Do this every day for 7 days. Track everything.
 
-### <span style="color: #0969DA">The Long Game</span>
+### $${\color{blue}The \space Long \space Game}$$
 
 Here's what happens when you commit to daily focus practice:
 
@@ -1048,7 +1048,7 @@ Here's what happens when you commit to daily focus practice:
 > *All from choosing where your attention goes.*
 
 
-### <span style="color: #0969DA">The Apps Don't Care</span>
+### $${\color{blue}The \space Apps \space Don't \space Care}$$
 
 Here's the final truth you need to understand:
 
@@ -1083,7 +1083,7 @@ Each choice seems small. But they compound.
 
 ---
 
-## <span style="color: #0969DA">Coach's Corner: The Focus Mindset</span>
+## $${\color{blue}Coach's \space Corner: \space The \space Focus \space Mindset}$$
 
 
 
@@ -1111,7 +1111,7 @@ Each choice seems small. But they compound.
 
 ---
 
-## <span style="color: #0969DA">Post-Game Review</span>
+## $${\color{blue}Post-Game \space Review}$$
 
 
 
@@ -1136,7 +1136,7 @@ Each choice seems small. But they compound.
 
 5. **The focus advantage compounds** – Small daily choices about where to direct attention create massive long-term results.
 
-### <span style="color: #0969DA">Reflection Questions</span>
+### $${\color{blue}Reflection \space Questions}$$
 
 
 1. What's your biggest focus killer? (Be honest – probably your phone, right?)
@@ -1153,7 +1153,7 @@ Each choice seems small. But they compound.
 
 5. What's one focus block you'll commit to tomorrow? What's the specific output goal?
 
-### <span style="color: #0969DA">The Output Mindset</span>
+### $${\color{blue}The \space Output \space Mindset}$$
 
 **Don't think:** "I need to stop checking my phone so much"
 
@@ -1171,7 +1171,7 @@ Focus on who you're becoming, not just what you're doing.
 
 ---
 
-### <span style="color: #0969DA">Next Level</span>
+### $${\color{blue}Next \space Level}$$
 
 You've learned to focus. You've built the capacity for deep work. You can enter flow states on demand.
 
@@ -1190,7 +1190,7 @@ That's when mental game becomes everything.
 
 ---
 
-## <span style="color: #0969DA">Your Focus Arsenal</span>
+## $${\color{blue}Your \space Focus \space Arsenal}$$
 
 
 

@@ -20,7 +20,7 @@
 
 ---
 
-## <span style="color: #0969DA">Two Players. Same Gym. Different Futures.</span>
+## $${\color{blue}Two \space Players. \space Same \space Gym. \space Different \space Futures.}$$
 
 
 Picture this: Two basketball players walk into the same gym at the same time. Both stay for exactly one hour. Both shoot 100 free throws.
@@ -56,7 +56,7 @@ Welcome to deliberate practice – the cheat code to mastering anything faster.
 
 ---
 
-## <span style="color: #0969DA">The 10,000 Hour Lie</span>
+## $${\color{blue}The \space 10,000 \space Hour \space Lie}$$
 
 
 You've heard it before. Maybe from a teacher. Maybe from a motivational poster. Definitely from someone who read a Malcolm Gladwell book and missed the point:
@@ -69,7 +69,7 @@ Except it's not true.
 
 Or rather, it's true the same way "eating food makes you healthy" is true. Technically accurate. Completely misleading.
 
-### <span style="color: #0969DA">What the Research Actually Says</span>
+### $${\color{blue}What \space the \space Research \space Actually \space Says}$$
 
 The 10,000-hour rule came from researcher Anders Ericsson's studies of elite performers. But here's what Gladwell left out:
 
@@ -99,7 +99,7 @@ Or think about that kid in your class who's been playing guitar for 5 years but 
 > *Why? Because they're doing repetition, not practice.*
 
 
-### <span style="color: #0969DA">Repetition vs. Deliberate Practice</span>
+### $${\color{blue}Repetition \space vs. \space Deliberate \space Practice}$$
 
 Let's break this down because understanding this difference is worth more than a thousand hours of mindless grinding.
 
@@ -162,7 +162,7 @@ One feels like practice. The other IS practice.
 
 ---
 
-## <span style="color: #0969DA">First Principles: Breaking Skills Down to Basics</span>
+## $${\color{blue}First \space Principles: \space Breaking \space Skills \space Down \space to \space Basics}$$
 
 
 Before you can practice effectively, you need to understand what you're actually practicing.
@@ -175,7 +175,7 @@ This is where most people fail. They practice "getting better at math" or "impro
 > Enter **first principles thinking** – breaking complex skills down to their fundamental building blocks.
 
 
-### <span style="color: #0969DA">What is First Principles Thinking?</span>
+### $${\color{blue}What \space is \space First \space Principles \space Thinking?}$$
 
 Instead of accepting "that's how it's done," you strip away assumptions and break things down to their fundamental components.
 
@@ -193,7 +193,7 @@ Here's how Elon Musk used it with SpaceX:
 
 You can apply the exact same thinking to learning anything.
 
-### <span style="color: #0969DA">Applying First Principles to Practice</span>
+### $${\color{blue}Applying \space First \space Principles \space to \space Practice}$$
 
 **Traditional approach:** "I need to get better at math."
 
@@ -212,7 +212,7 @@ Okay... how? What does that even mean? Where do you start?
 
 Let's make this practical with an example everyone can visualize:
 
-### <span style="color: #0969DA">Breaking Down a Free Throw (The Right Way)</span>
+### $${\color{blue}Breaking \space Down \space a \space Free \space Throw \space (The \space Right \space Way)}$$
 
 **Don't practice:** "I'm going to shoot 100 free throws."
 
@@ -257,7 +257,7 @@ That's repetition. That's Player A from our opening story.
 
 Result: You just improved more from 80 focused shots than most people improve from 500 mindless ones.
 
-### <span style="color: #0969DA">The Uncomfortable Reality</span>
+### $${\color{blue}The \space Uncomfortable \space Reality}$$
 
 Breaking things down to fundamentals feels slow. It feels boring. It feels like you're going backward instead of forward.
 
@@ -289,14 +289,14 @@ Elite performers do the opposite. They seek out the discomfort. They find their 
 
 ---
 
-## <span style="color: #0969DA">The Deliberate Practice Framework</span>
+## $${\color{blue}The \space Deliberate \space Practice \space Framework}$$
 
 
 Alright. You understand what deliberate practice is. You know why it works.
 
 Now let's get specific. Here's the exact system elite performers use to improve faster than everyone else.
 
-### <span style="color: #0969DA">Element 1: Specific Goals for Each Session</span>
+### $${\color{blue}Element \space 1: \space Specific \space Goals \space for \space Each \space Session}$$
 
 Vague practice produces vague results.
 
@@ -339,7 +339,7 @@ More examples:
 
 See how much more actionable those are?
 
-### <span style="color: #0969DA">Element 2: Immediate Feedback</span>
+### $${\color{blue}Element \space 2: \space Immediate \space Feedback}$$
 
 Here's a fact that will change how you practice everything:
 
@@ -395,7 +395,7 @@ That's like playing a video game where you don't find out if you died until next
 
 The pattern: **Find a way to know RIGHT AWAY if you did it right or wrong.**
 
-### <span style="color: #0969DA">Element 3: Operating at the Edge of Your Ability</span>
+### $${\color{blue}Element \space 3: \space Operating \space at \space the \space Edge \space of \space Your \space Ability}$$
 
 
 ---
@@ -456,7 +456,7 @@ Move to equations with variables on both sides. That's your 4% challenge.
 > *The rule: If you're not failing at least 20-30% of the time in practice, you're not practicing hard enough.*
 
 
-### <span style="color: #0969DA">Element 4: Massive Repetition on Weak Points</span>
+### $${\color{blue}Element \space 4: \space Massive \space Repetition \space on \space Weak \space Points}$$
 
 This is where deliberate practice gets really uncomfortable.
 
@@ -513,7 +513,7 @@ This is how you go from good to elite.
 
 > Most people avoid their weaknesses their entire lives. That's why most people never reach their potential. Elite performers hunt for weaknesses like they're treasure – because they are. Every weakness you identify is a clear path to improvement. Every weakness you fix makes you unstoppable in a new way.
 
-### <span style="color: #0969DA">Element 5: Intense Focus (No Multitasking)</span>
+### $${\color{blue}Element \space 5: \space Intense \space Focus \space (No \space Multitasking)}$$
 
 Last element. This one's simple but non-negotiable.
 
@@ -579,14 +579,14 @@ Real practice is hard. Real practice is mentally exhausting.
 
 ---
 
-## <span style="color: #0969DA">The Practice Session Template</span>
+## $${\color{blue}The \space Practice \space Session \space Template}$$
 
 
 Alright. You've got the five elements. Now let's put them together into a system you can use today.
 
 Here's the exact template elite performers use for every practice session:
 
-### <span style="color: #0969DA">Before Practice</span>
+### $${\color{blue}Before \space Practice}$$
 
 
 > [!NOTE]
@@ -628,7 +628,7 @@ Be specific and measurable:
 
 Write these down. Seriously. Don't just think about them.
 
-### <span style="color: #0969DA">During Practice</span>
+### $${\color{blue}During \space Practice}$$
 
 
 > [!NOTE]
@@ -676,7 +676,7 @@ If your goal was 8/10 and you got 6/10, you're not done.
 
 If you only have 20 minutes and you don't hit your target, that's fine – but now you know exactly what to work on next time.
 
-### <span style="color: #0969DA">After Practice</span>
+### $${\color{blue}After \space Practice}$$
 
 
 > [!NOTE]
@@ -752,7 +752,7 @@ See how much more effective that is than "study math for an hour"?
 
 ---
 
-## <span style="color: #0969DA">The Failure Factory: Why Practice Should Feel Terrible</span>
+## $${\color{blue}The \space Failure \space Factory: \space Why \space Practice \space Should \space Feel \space Terrible}$$
 
 
 Let's talk about something nobody wants to admit:
@@ -767,7 +767,7 @@ Like, genuinely uncomfortable. Sometimes frustrating. Often discouraging.
 
 And that's exactly how it's supposed to feel.
 
-### <span style="color: #0969DA">Why Deliberate Practice Feels Terrible</span>
+### $${\color{blue}Why \space Deliberate \space Practice \space Feels \space Terrible}$$
 
 Think about what you're actually doing:
 
@@ -795,7 +795,7 @@ One feels better in the moment. The other makes you better.
 > *You have to choose.*
 
 
-### <span style="color: #0969DA">The Three Zones</span>
+### $${\color{blue}The \space Three \space Zones}$$
 
 Here's a model that makes this crystal clear:
 
@@ -826,7 +826,7 @@ Here's a model that makes this crystal clear:
 
 And the growth zone is, by definition, uncomfortable.
 
-### <span style="color: #0969DA">Reframing Failure in Practice</span>
+### $${\color{blue}Reframing \space Failure \space in \space Practice}$$
 
 Here's the shift that separates elite performers from everyone else:
 
@@ -865,7 +865,7 @@ You thought "Okay, lean less next time" or "Turn the handlebars earlier."
 > *Same thing here. Just apply it to everything.*
 
 
-### <span style="color: #0969DA">Practice vs. Performance: Know the Difference</span>
+### $${\color{blue}Practice \space vs. \space Performance: \space Know \space the \space Difference}$$
 
 This is huge. Listen up.
 
@@ -900,7 +900,7 @@ If you're not failing regularly in practice, you're not practicing hard enough.
 
 ---
 
-## <span style="color: #0969DA">The Feedback Loop: Faster Input, Faster Growth</span>
+## $${\color{blue}The \space Feedback \space Loop: \space Faster \space Input, \space Faster \space Growth}$$
 
 
 Let's get nerdy for a second about why feedback timing matters so much.
@@ -911,7 +911,7 @@ Let's get nerdy for a second about why feedback timing matters so much.
 > *The Feedback Speed Hierarchy (Ranked by Effectiveness):*
 
 
-### <span style="color: #0969DA">Immediate > Delayed</span>
+### $${\color{blue}Immediate \space > \space Delayed}$$
 
 
 > [!NOTE]
@@ -938,7 +938,7 @@ Let's get nerdy for a second about why feedback timing matters so much.
 - Don't wait for the game – track your stats in practice
 - Don't wait for the grade – self-test throughout studying
 
-### <span style="color: #0969DA">Specific > General</span>
+### $${\color{blue}Specific \space > \space General}$$
 
 
 > [!NOTE]
@@ -962,7 +962,7 @@ Specific feedback tells you exactly what to fix. General feedback is useless.
 
 **The fix:** Always ask "what specifically needs to improve?"
 
-### <span style="color: #0969DA">Objective > Subjective</span>
+### $${\color{blue}Objective \space > \space Subjective}$$
 
 
 > [!NOTE]
@@ -986,7 +986,7 @@ Objective feedback gives you data. Subjective feedback gives you feelings.
 
 **The fix:** Track numbers, not impressions.
 
-### <span style="color: #0969DA">Creating Your Own Feedback Systems</span>
+### $${\color{blue}Creating \space Your \space Own \space Feedback \space Systems}$$
 
 You don't need a coach or expensive equipment. You need to be strategic.
 
@@ -1024,7 +1024,7 @@ You don't need a coach or expensive equipment. You need to be strategic.
 
 **The pattern:** Find ANY way to know if you're doing it right, and find out as fast as possible.
 
-### <span style="color: #0969DA">The Uncomfortable Truth About Feedback</span>
+### $${\color{blue}The \space Uncomfortable \space Truth \space About \space Feedback}$$
 
 Real feedback tells you what you're doing wrong.
 
@@ -1045,14 +1045,14 @@ Choose accordingly.
 
 ---
 
-## <span style="color: #0969DA">Building Your Practice System: The 30-Day Skill Sprint</span>
+## $${\color{blue}Building \space Your \space Practice \space System: \space The \space 30-Day \space Skill \space Sprint}$$
 
 
 Enough theory. Time to put this into action.
 
 Here's a framework you can use starting this week to dramatically improve at anything.
 
-### <span style="color: #0969DA">The 30-Day Skill Sprint</span>
+### $${\color{blue}The \space 30-Day \space Skill \space Sprint}$$
 
 
 > [!NOTE]
@@ -1081,7 +1081,7 @@ Examples:
 
 **The structure:**
 
-### <span style="color: #0969DA">Week 1: Baseline Assessment + Identify Weak Link</span>
+### $${\color{blue}Week \space 1: \space Baseline \space Assessment \space + \space Identify \space Weak \space Link}$$
 
 
 > [!NOTE]
@@ -1115,7 +1115,7 @@ Example:
 - Video every 10 shots to check elbow placement
 - By day 7: Elbow position consistent 85% of shots (vs. 50% day 1)
 
-### <span style="color: #0969DA">Week 2: Drill Fundamental #2</span>
+### $${\color{blue}Week \space 2: \space Drill \space Fundamental \space #2}$$
 
 
 > [!NOTE]
@@ -1132,7 +1132,7 @@ Example (Free Throws):
 - Film from side angle, watch hand position
 - By day 14: Consistent follow-through 90% of shots
 
-### <span style="color: #0969DA">Week 3: Drill Fundamental #3</span>
+### $${\color{blue}Week \space 3: \space Drill \space Fundamental \space #3}$$
 
 
 > [!NOTE]
@@ -1150,7 +1150,7 @@ Example (Free Throws):
 - Build automaticity
 - By day 21: Routine is automatic
 
-### <span style="color: #0969DA">Week 4: Integration + Reassessment</span>
+### $${\color{blue}Week \space 4: \space Integration \space + \space Reassessment}$$
 
 
 > [!NOTE]
@@ -1178,7 +1178,7 @@ Example (Free Throws):
 - Document specific improvements
 - Identify next weak link for month 2
 
-### <span style="color: #0969DA">The Rules of the Sprint</span>
+### $${\color{blue}The \space Rules \space of \space the \space Sprint}$$
 
 
 > [!NOTE]
@@ -1226,7 +1226,7 @@ If something isn't working after 3-4 sessions, change your approach. Be scientif
 
 Your brain consolidates learning during rest. Don't skip the off day.
 
-### <span style="color: #0969DA">What to Expect</span>
+### $${\color{blue}What \space to \space Expect}$$
 
 **Week 1:** Feels awkward, improvements are small, motivation is high
 
@@ -1243,7 +1243,7 @@ Your brain consolidates learning during rest. Don't skip the off day.
 
 ---
 
-## <span style="color: #0969DA">From Practice to Performance</span>
+## $${\color{blue}From \space Practice \space to \space Performance}$$
 
 
 The goal of practice isn't to practice forever.
@@ -1252,7 +1252,7 @@ The goal is to perform when it matters.
 
 So let's talk about the difference between practice mode and performance mode.
 
-### <span style="color: #0969DA">Practice Mindset vs. Performance Mindset</span>
+### $${\color{blue}Practice \space Mindset \space vs. \space Performance \space Mindset}$$
 
 
 > [!NOTE]
@@ -1280,7 +1280,7 @@ So let's talk about the difference between practice mode and performance mode.
 
 Both are essential. But you have to know when to use which one.
 
-### <span style="color: #0969DA">When to Switch Modes</span>
+### $${\color{blue}When \space to \space Switch \space Modes}$$
 
 
 > [!NOTE]
@@ -1325,7 +1325,7 @@ Then when it's time to perform, trust your training and execute.
 
 ---
 
-## <span style="color: #0969DA">The Compound Effect of Deliberate Practice</span>
+## $${\color{blue}The \space Compound \space Effect \space of \space Deliberate \space Practice}$$
 
 
 
@@ -1368,7 +1368,7 @@ Compound interest does the rest.
 
 ---
 
-## <span style="color: #0969DA">Your First Deliberate Practice Session</span>
+## $${\color{blue}Your \space First \space Deliberate \space Practice \space Session}$$
 
 
 Alright. You've got the blueprint. You understand the system.
@@ -1436,7 +1436,7 @@ How different did that feel? How much more did you improve?
 
 ---
 
-## <span style="color: #0969DA">The Truth About Practice</span>
+## $${\color{blue}The \space Truth \space About \space Practice}$$
 
 
 Most people never reach their potential.
@@ -1492,7 +1492,7 @@ Practice like a pro. Improve like you mean it.
 
 ---
 
-## <span style="color: #0969DA">Post-Game Review</span>
+## $${\color{blue}Post-Game \space Review}$$
 
 
 
@@ -1521,7 +1521,7 @@ Practice like a pro. Improve like you mean it.
 
 5. **Track everything:** You can't improve what you don't measure. Objective data beats subjective feelings.
 
-### <span style="color: #0969DA">Reflection Questions</span>
+### $${\color{blue}Reflection \space Questions}$$
 
 
 1. What skill have you been practicing for years without really improving? What would deliberate practice look like for that skill?
@@ -1538,7 +1538,7 @@ Practice like a pro. Improve like you mean it.
 
 5. What would a 30-day skill sprint look like for you? What skill would you choose?
 
-### <span style="color: #0969DA">The Output Mindset</span>
+### $${\color{blue}The \space Output \space Mindset}$$
 
 
 ---
@@ -1553,7 +1553,7 @@ Every deliberate practice session is a vote for the elite performer you're build
 
 ---
 
-### <span style="color: #0969DA">Next Level</span>
+### $${\color{blue}Next \space Level}$$
 
 You know how to practice now. You've got the framework for improvement.
 

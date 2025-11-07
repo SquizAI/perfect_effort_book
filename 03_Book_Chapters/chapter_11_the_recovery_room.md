@@ -20,7 +20,7 @@
 
 ---
 
-## <span style="color: #0969DA">The Collapse</span>
+## $${\color{blue}The \space Collapse}$$
 
 
 Sarah had the perfect resume.
@@ -54,7 +54,7 @@ Let's talk about the most underrated performance enhancer in existence: strategi
 
 ---
 
-## <span style="color: #0969DA">The Burnout Reality</span>
+## $${\color{blue}The \space Burnout \space Reality}$$
 
 
 Let's get real about what burnout actually is.
@@ -63,7 +63,7 @@ It's not just "being tired." It's not "having a bad week." It's your body and mi
 
 Your phone battery dies when you drain it without charging. Your body does the same thing. Except instead of going to 0%, it forces a shutdown. And the recovery time is way longer than plugging in for an hour.
 
-### <span style="color: #0969DA">What Burnout Actually Looks Like</span>
+### $${\color{blue}What \space Burnout \space Actually \space Looks \space Like}$$
 
 
 > [!NOTE]
@@ -96,7 +96,7 @@ Your phone battery dies when you drain it without charging. Your body does the s
 
 Sound dramatic? It is. Because burnout is serious.
 
-### <span style="color: #0969DA">The Trap Nobody Warns You About</span>
+### $${\color{blue}The \space Trap \space Nobody \space Warns \space You \space About}$$
 
 Here's how it happens:
 
@@ -114,13 +114,13 @@ Long term? Complete breakdown.
 
 **The cruel irony**: The harder you push without recovery, the worse you perform. You're working more to achieve less. It's like trying to drive a car out of gas by pressing the pedal harder. Doesn't matter how hard you press. The tank is empty.
 
-### <span style="color: #0969DA">The Research Reality</span>
+### $${\color{blue}The \space Research \space Reality}$$
 
 **Overtraining syndrome in athletes** can take six months to two years to fully recover from. Six months to two years. Some athletes never get back to their previous level. It's career-ending for people who don't recognize it early.
 
 **Academic burnout** works the same way. Students who study longer hours without proper recovery actually perform worse. Their grades drop. Their memory gets fuzzy. Information doesn't stick. Some drop out not because they can't do the work, but because they burned out trying.
 
-### <span style="color: #0969DA">The Output Reframe</span>
+### $${\color{blue}The \space Output \space Reframe}$$
 
 Here's where we flip the script.
 
@@ -143,7 +143,7 @@ Recovery isn't what you do when you're too weak to work. Recovery is what enable
 
 ---
 
-## <span style="color: #0969DA">How Growth Actually Happens</span>
+## $${\color{blue}How \space Growth \space Actually \space Happens}$$
 
 
 You need to understand something that changes everything: you don't actually improve during the work. You improve during recovery.
@@ -166,7 +166,7 @@ You need to understand something that changes everything: you don't actually imp
 > *You don't develop skills during practice alone. You develop them when your nervous system adapts during downtime.*
 
 
-### <span style="color: #0969DA">The Athletic Truth</span>
+### $${\color{blue}The \space Athletic \space Truth}$$
 
 When you lift weights, you're literally tearing muscle fibers. The workout creates tiny damage.
 
@@ -176,7 +176,7 @@ That's adaptation.
 
 No recovery? No adaptation. Just more damage. Eventually, injury.
 
-### <span style="color: #0969DA">The Academic Parallel</span>
+### $${\color{blue}The \space Academic \space Parallel}$$
 
 When you study, you're exposing your brain to new information. That creates opportunity for learning.
 
@@ -186,7 +186,7 @@ Cramming without sleep? Poor retention. You might pass the test but forget every
 
 Spaced practice plus quality sleep? Strong retention. The information actually sticks.
 
-### <span style="color: #0969DA">The Recovery-Performance Cycle</span>
+### $${\color{blue}The \space Recovery-Performance \space Cycle}$$
 
 
 > [!NOTE]
@@ -216,7 +216,7 @@ That's how you actually get better. It's a cycle. Leave out recovery and the cyc
 
 Which pattern are you in?
 
-### <span style="color: #0969DA">Sleep: The Ultimate Performance Enhancer</span>
+### $${\color{blue}Sleep: \space The \space Ultimate \space Performance \space Enhancer}$$
 
 Let's talk about the most powerful performance tool you have: sleep.
 
@@ -258,7 +258,7 @@ Sleep isn't downtime. Sleep is when your body and brain do their most important 
 
 The best in the world prioritize sleep. That's not a coincidence. That's strategy.
 
-### <span style="color: #0969DA">The Uncomfortable Truth Applied</span>
+### $${\color{blue}The \space Uncomfortable \space Truth \space Applied}$$
 
 
 ---
@@ -278,14 +278,14 @@ Elite performers have learned to be comfortable with the discomfort of rest. The
 
 ---
 
-## <span style="color: #0969DA">The Netflix Approach to Sustainable Performance</span>
+## $${\color{blue}The \space Netflix \space Approach \space to \space Sustainable \space Performance}$$
 
 
 Reed Hastings built Netflix into one of the most successful companies in the world. But here's what's interesting: Netflix culture isn't about hustle 24/7. It's about sustainable high performance.
 
 Hastings figured out something most people miss: burnout helps no one. Not you, not your team, not your mission.
 
-### <span style="color: #0969DA">The Netflix Culture Philosophy</span>
+### $${\color{blue}The \space Netflix \space Culture \space Philosophy}$$
 
 Hastings created policies that seem radical but are actually just smart:
 
@@ -321,7 +321,7 @@ They don't care if you worked 60 hours this week. They care about what you accom
 
 They don't celebrate people who work all night. They celebrate people who produce excellent results sustainably.
 
-### <span style="color: #0969DA">Why This Approach Wins</span>
+### $${\color{blue}Why \space This \space Approach \space Wins}$$
 
 Think about it like this:
 
@@ -347,7 +347,7 @@ Think about it like this:
 
 Which one actually wins over time?
 
-### <span style="color: #0969DA">The Hastings Decision-Making Framework</span>
+### $${\color{blue}The \space Hastings \space Decision-Making \space Framework}$$
 
 When deciding whether to push harder or recover, most people ask the wrong question.
 
@@ -377,7 +377,7 @@ See the difference? The second question forces long-term thinking.
 - Ask: "Will two more hours of exhausted practice help me perform better in the next game and throughout the season?"
 - Answer: No. Sloppy practice builds bad habits. Rest and come back sharp.
 
-### <span style="color: #0969DA">The Culture You're Creating</span>
+### $${\color{blue}The \space Culture \space You're \space Creating}$$
 
 Hastings understood something that applies to your life right now:
 
@@ -416,18 +416,18 @@ Which culture do you want to create?
 
 ---
 
-## <span style="color: #0969DA">The Recovery Protocol System</span>
+## $${\color{blue}The \space Recovery \space Protocol \space System}$$
 
 
 Recovery isn't just "take a break when you feel like it." It's a system. A skill you can learn and practice.
 
 Here's your framework for building recovery into your life in a way that actually enhances performance.
 
-### <span style="color: #0969DA">The Three Types of Recovery</span>
+### $${\color{blue}The \space Three \space Types \space of \space Recovery}$$
 
 You need all three. Leave one out and your system breaks down.
 
-### <span style="color: #0969DA">1. Micro-Recovery (Throughout the Day)</span>
+### $${\color{blue}1. \space Micro-Recovery \space (Throughout \space the \space Day)}$$
 
 **What it is:** Brief moments of rest between intense efforts.
 
@@ -443,7 +443,7 @@ Think of it like a basketball game. You don't play all 40 minutes without breaks
 
 **The science:** Your prefrontal cortex - the part handling focus, decision-making, and self-control - burns energy fast. Micro-recoveries give it time to replenish so you can focus hard again.
 
-### <span style="color: #0969DA">2. Daily Recovery (Every Single Day)</span>
+### $${\color{blue}2. \space Daily \space Recovery \space (Every \space Single \space Day)}$$
 
 **What it is:** Structured downtime and quality sleep every day.
 
@@ -457,7 +457,7 @@ Think of it like a basketball game. You don't play all 40 minutes without breaks
 
 **The science:** Sleep deprivation is cumulative. You can't "catch up" on weekends. Your brain needs consistent daily recovery to consolidate memories, regulate emotions, and maintain cognitive function.
 
-### <span style="color: #0969DA">3. Weekly Recovery (Once Per Week Minimum)</span>
+### $${\color{blue}3. \space Weekly \space Recovery \space (Once \space Per \space Week \space Minimum)}$$
 
 **What it is:** A full day of significantly reduced intensity.
 
@@ -476,7 +476,7 @@ Think of it like a basketball game. You don't play all 40 minutes without breaks
 
 > Rest days aren't days off. They're when adaptation happens. The athlete who trains 5 days a week with proper recovery will outperform the athlete who trains 7 days a week without it. Same applies to your academic and mental performance.
 
-### <span style="color: #0969DA">The Sleep Optimization System</span>
+### $${\color{blue}The \space Sleep \space Optimization \space System}$$
 
 Let's get specific about the single most important recovery tool: sleep.
 
@@ -523,7 +523,7 @@ Let's get specific about the single most important recovery tool: sleep.
 
 Implement these phases in order. Master one before adding the next.
 
-### <span style="color: #0969DA">The Active Recovery Methods</span>
+### $${\color{blue}The \space Active \space Recovery \space Methods}$$
 
 Not all rest is lying on the couch. Active recovery can actually speed up your adaptation.
 
@@ -547,7 +547,7 @@ Not all rest is lying on the couch. Active recovery can actually speed up your a
 
 **Why this works:** Engages your mind in low-stakes, restorative ways. Reduces cortisol (stress hormone), increases well-being, processes emotions.
 
-### <span style="color: #0969DA">Sample Weekly Recovery Day</span>
+### $${\color{blue}Sample \space Weekly \space Recovery \space Day}$$
 
 
 > [!NOTE]
@@ -579,12 +579,12 @@ Not all rest is lying on the couch. Active recovery can actually speed up your a
 
 ---
 
-## <span style="color: #0969DA">The Balance Framework</span>
+## $${\color{blue}The \space Balance \space Framework}$$
 
 
 Let's talk about balance. But first, what balance isn't.
 
-### <span style="color: #0969DA">What Balance Isn't</span>
+### $${\color{blue}What \space Balance \space Isn't}$$
 
 **The myth:** "Spend equal time on school, sports, social life, family, hobbies, rest, etc."
 
@@ -596,7 +596,7 @@ Let's talk about balance. But first, what balance isn't.
 > **The reality:** Balance is dynamic, seasonal, and strategic. It changes based on what matters most right now.
 
 
-### <span style="color: #0969DA">The Netflix Approach to Balance</span>
+### $${\color{blue}The \space Netflix \space Approach \space to \space Balance}$$
 
 Hastings figured out that high performers don't balance everything equally. They get clear on priorities and go deep on what matters.
 
@@ -629,7 +629,7 @@ Hastings figured out that high performers don't balance everything equally. They
 
 Balance isn't about doing everything. It's about doing the right things really well.
 
-### <span style="color: #0969DA">The Energy Audit</span>
+### $${\color{blue}The \space Energy \space Audit}$$
 
 This week, track your energy. Not your time. Your energy.
 
@@ -667,7 +667,7 @@ This week, track your energy. Not your time. Your energy.
 
 You can't eliminate all drains. But you can reduce them and make sure you're protecting your restorers.
 
-### <span style="color: #0969DA">The Hastings "No" System</span>
+### $${\color{blue}The \space Hastings \space "No" \space System}$$
 
 To maintain balance and avoid burnout, you need to get good at saying no. Strategically.
 
@@ -695,7 +695,7 @@ To maintain balance and avoid burnout, you need to get good at saying no. Strate
 
 You're not saying "I'm too lazy." You're saying "I'm focused on what matters most."
 
-### <span style="color: #0969DA">The Overcommitment Recovery Plan</span>
+### $${\color{blue}The \space Overcommitment \space Recovery \space Plan}$$
 
 If you're reading this and thinking "I'm already overcommitted and burned out," here's your recovery plan:
 
@@ -746,7 +746,7 @@ This might mean quitting some things. That's okay. Better to do fewer things rea
 
 ---
 
-## <span style="color: #0969DA">When Rest Feels Wrong</span>
+## $${\color{blue}When \space Rest \space Feels \space Wrong}$$
 
 
 Let's address the biggest barrier to recovery: the guilt.
@@ -755,7 +755,7 @@ You know you need rest. You understand the science. But when you're actually res
 
 That feeling is real. Let's deal with it.
 
-### <span style="color: #0969DA">The Guilt Complex</span>
+### $${\color{blue}The \space Guilt \space Complex}$$
 
 
 > [!NOTE]
@@ -779,7 +779,7 @@ That feeling is real. Let's deal with it.
 - You're actually falling behind if you DON'T rest (performance declines)
 - True productivity requires recovery periods
 
-### <span style="color: #0969DA">The Comparison Trap</span>
+### $${\color{blue}The \space Comparison \space Trap}$$
 
 
 > [!NOTE]
@@ -810,7 +810,7 @@ That feeling is real. Let's deal with it.
 
 Social media rewards the appearance of constant hustle. Real life rewards sustainable excellence. Those are different things.
 
-### <span style="color: #0969DA">The FOMO Recovery</span>
+### $${\color{blue}The \space FOMO \space Recovery}$$
 
 Fear of Missing Out prevents recovery:
 
@@ -831,7 +831,7 @@ You're not missing out. You're choosing your output over immediate gratification
 
 The sustainable performer knows: you can't do everything. You can do important things really well.
 
-### <span style="color: #0969DA">The Hastings Long-Term Mindset</span>
+### $${\color{blue}The \space Hastings \space Long-Term \space Mindset}$$
 
 **Short-term thinking:** "If I rest, I'll fall behind this week."
 
@@ -841,7 +841,7 @@ Netflix optimizes for sustained performance over years, not unsustainable sprint
 
 Apply that thinking to your life. You're playing a long game. Act like it.
 
-### <span style="color: #0969DA">Permission to Rest</span>
+### $${\color{blue}Permission \space to \space Rest}$$
 
 You don't need anyone's permission to rest. But if you do, here it is:
 
@@ -888,7 +888,7 @@ Own it.
 
 ---
 
-## <span style="color: #0969DA">Real-World Recovery Masters</span>
+## $${\color{blue}Real-World \space Recovery \space Masters}$$
 
 
 Let's look at people who prove this works.
@@ -1001,12 +1001,12 @@ Let's look at people who prove this works.
 
 ---
 
-## <span style="color: #0969DA">Your Recovery Game Plan</span>
+## $${\color{blue}Your \space Recovery \space Game \space Plan}$$
 
 
 Enough theory. Here's your actionable system for building recovery into your life starting today.
 
-### <span style="color: #0969DA">Step 1: Sleep Optimization (Start Tonight)</span>
+### $${\color{blue}Step \space 1: \space Sleep \space Optimization \space (Start \space Tonight)}$$
 
 **This week's mission:** Build your sleep foundation.
 
@@ -1018,7 +1018,7 @@ Enough theory. Here's your actionable system for building recovery into your lif
 
 **The output:** Consistent energy, better memory, sharper focus, enhanced performance across everything you do.
 
-### <span style="color: #0969DA">Step 2: Build Micro-Recovery Habits (Start Tomorrow)</span>
+### $${\color{blue}Step \space 2: \space Build \space Micro-Recovery \space Habits \space (Start \space Tomorrow)}$$
 
 **This week's mission:** Reset your focus throughout the day.
 
@@ -1030,7 +1030,7 @@ Enough theory. Here's your actionable system for building recovery into your lif
 
 **The output:** Sustained high-quality focus for hours instead of diminishing returns after 45 minutes.
 
-### <span style="color: #0969DA">Step 3: Schedule Your Weekly Recovery Day (This Week)</span>
+### $${\color{blue}Step \space 3: \space Schedule \space Your \space Weekly \space Recovery \space Day \space (This \space Week)}$$
 
 **This week's mission:** Give your nervous system a full reset.
 
@@ -1042,7 +1042,7 @@ Enough theory. Here's your actionable system for building recovery into your lif
 
 **The output:** A body and mind that can perform at high levels all week because they got the recovery they needed.
 
-### <span style="color: #0969DA">Step 4: Energy Audit (This Week)</span>
+### $${\color{blue}Step \space 4: \space Energy \space Audit \space (This \space Week)}$$
 
 **This week's mission:** Understand what's draining you and what's restoring you.
 
@@ -1054,7 +1054,7 @@ Enough theory. Here's your actionable system for building recovery into your lif
 
 **The output:** A life structured around sustainable high performance instead of constant energy depletion.
 
-### <span style="color: #0969DA">Step 5: Practice Strategic "No" (This Month)</span>
+### $${\color{blue}Step \space 5: \space Practice \space Strategic \space "No" \space (This \space Month)}$$
 
 **This month's mission:** Protect your capacity and priorities.
 
@@ -1065,7 +1065,7 @@ Enough theory. Here's your actionable system for building recovery into your lif
 
 **The output:** A schedule that supports your most important goals instead of spreading you thin across everything.
 
-### <span style="color: #0969DA">The Weekly Challenge</span>
+### $${\color{blue}The \space Weekly \space Challenge}$$
 
 
 > [!NOTE]
@@ -1089,7 +1089,7 @@ You already know the answer. Now prove it to yourself.
 
 ---
 
-## <span style="color: #0969DA">Post-Game Review</span>
+## $${\color{blue}Post-Game \space Review}$$
 
 
 
@@ -1114,7 +1114,7 @@ You already know the answer. Now prove it to yourself.
 
 5. **Balance is strategic, not equal.** You can't do everything. Pick 2-3 priorities and go deep. Protect recovery time as fiercely as you protect training time.
 
-### <span style="color: #0969DA">Reflection Questions</span>
+### $${\color{blue}Reflection \space Questions}$$
 
 
 1. What's your current relationship with rest? Do you see it as weakness or strategy?
@@ -1131,7 +1131,7 @@ You already know the answer. Now prove it to yourself.
 
 5. What would it take for you to be comfortable with the discomfort of rest?
 
-### <span style="color: #0969DA">The Output Mindset</span>
+### $${\color{blue}The \space Output \space Mindset}$$
 
 Don't think: "I should take a break."
 
@@ -1153,7 +1153,7 @@ Focus on who you're becoming: a sustainable high performer who understands that 
 
 ---
 
-### <span style="color: #0969DA">Next Level</span>
+### $${\color{blue}Next \space Level}$$
 
 You've learned to recover strategically. You've learned to optimize for sustainable performance. You understand that rest is what enables excellence.
 

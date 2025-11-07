@@ -20,7 +20,7 @@
 
 ---
 
-## <span style="color: #0969DA">The Gap That Changes Everything</span>
+## $${\color{blue}The \space Gap \space That \space Changes \space Everything}$$
 
 
 Picture two basketball players. Same height. Same school. Same coach. Same starting skill level.
@@ -56,7 +56,7 @@ And almost nobody has the patience to find out.
 
 ---
 
-## <span style="color: #0969DA">The Compound Curve Reality</span>
+## $${\color{blue}The \space Compound \space Curve \space Reality}$$
 
 
 You know that feeling when you've been working hard on something for weeks and it feels like nothing's changing?
@@ -67,7 +67,7 @@ Right before everything explodes.
 
 Let me show you what compound growth actually looks like. Not the Instagram version. The real version.
 
-### <span style="color: #0969DA">The Timeline Nobody Talks About</span>
+### $${\color{blue}The \space Timeline \space Nobody \space Talks \space About}$$
 
 
 > [!NOTE]
@@ -127,7 +127,7 @@ People who haven't seen you in six months are shocked. "What happened to you?" t
 
 Nothing happened. Everything happened. You just stayed consistent while the compound curve did its thing.
 
-### <span style="color: #0969DA">Why Almost Nobody Makes It</span>
+### $${\color{blue}Why \space Almost \space Nobody \space Makes \space It}$$
 
 The problem isn't that compound growth doesn't work. The problem is we expect linear results.
 
@@ -150,7 +150,7 @@ They just stayed in the game long enough for the curve to go vertical.
 
 ---
 
-## <span style="color: #0969DA">The 1% Rule That Changes Everything</span>
+## $${\color{blue}The \space 1% \space Rule \space That \space Changes \space Everything}$$
 
 
 Here's what Dave Brailsford did to British cycling. And it's one of the most insane turnarounds in sports history.
@@ -163,7 +163,7 @@ Brailsford became performance director and introduced one concept: improve every
 
 Not revolutionary changes. Not complete overhauls. One percent.
 
-### <span style="color: #0969DA">What They Actually Improved</span>
+### $${\color{blue}What \space They \space Actually \space Improved}$$
 
 They didn't just improve cycling. They improved EVERYTHING around cycling:
 
@@ -187,7 +187,7 @@ Tour de France: They went from never winning to complete domination. Multiple ye
 
 None of it was one big change. All of it was tiny changes compounding.
 
-### <span style="color: #0969DA">Why 1% Improvements Actually Work</span>
+### $${\color{blue}Why \space 1% \space Improvements \space Actually \space Work}$$
 
 
 > [!NOTE]
@@ -223,7 +223,7 @@ You can actually track 1% improvements. They give you feedback. They build confi
 
 Trying to "get way better" is vague and discouraging. Adding 5 perfect-form reps to your workout? That's 1%. That's specific. That's doable. That's proof you're moving forward.
 
-### <span style="color: #0969DA">The Aggregation of Marginal Gains in Your Life</span>
+### $${\color{blue}The \space Aggregation \space of \space Marginal \space Gains \space in \space Your \space Life}$$
 
 Let's make this real for you.
 
@@ -262,7 +262,7 @@ None of those is dramatic. All of them together compound into performance that l
 
 But it's not talent. It's the aggregation of marginal gains.
 
-### <span style="color: #0969DA">The Output vs. Task Reframe</span>
+### $${\color{blue}The \space Output \space vs. \space Task \space Reframe}$$
 
 Here's the trap most people fall into with improvement:
 
@@ -297,7 +297,7 @@ Focus on the output. The 1% improvements take care of themselves.
 
 ---
 
-## <span style="color: #0969DA">The Patience Problem (And Why You'll Win Because of It)</span>
+## $${\color{blue}The \space Patience \space Problem \space (And \space Why \space You'll \space Win \space Because \space of \space It)}$$
 
 
 Let's be real about something: patience feels impossible right now.
@@ -306,7 +306,7 @@ Not because you're weak. Not because you lack discipline.
 
 Because the entire world is designed to destroy your ability to be patient.
 
-### <span style="color: #0969DA">Your Brain vs. Modern Life</span>
+### $${\color{blue}Your \space Brain \space vs. \space Modern \space Life}$$
 
 Your brain evolved to survive immediate threats. See danger? React now. Find food? Eat now. The cavemen who thought "I'll deal with that tiger eventually" didn't make it.
 
@@ -332,7 +332,7 @@ And here's the opportunity: almost nobody can be patient anymore.
 
 Which means patience is the ultimate competitive advantage.
 
-### <span style="color: #0969DA">The Marshmallow Test 2.0</span>
+### $${\color{blue}The \space Marshmallow \space Test \space 2.0}$$
 
 Stanford did this famous study in the 1970s. They put a marshmallow in front of a kid and said: "You can eat it now, or wait 15 minutes and get two marshmallows."
 
@@ -354,7 +354,7 @@ Can you delay gratification today for exponential returns later?
 
 That's not a willpower test. That's a life outcomes test.
 
-### <span style="color: #0969DA">The Uncomfortable Truth About Patience</span>
+### $${\color{blue}The \space Uncomfortable \space Truth \space About \space Patience}$$
 
 "The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life."
 
@@ -377,14 +377,14 @@ And they show up anyway.
 
 ---
 
-## <span style="color: #0969DA">The Marc Andreessen Decades Framework</span>
+## $${\color{blue}The \space Marc \space Andreessen \space Decades \space Framework}$$
 
 
 Marc Andreessen built Netscape at 22. Sold it for billions. Then became one of the most successful tech investors in history.
 
 His approach? Think in decades, not days.
 
-### <span style="color: #0969DA">How He Thinks About Building Valuable Things</span>
+### $${\color{blue}How \space He \space Thinks \space About \space Building \space Valuable \space Things}$$
 
 
 > [!NOTE]
@@ -426,7 +426,7 @@ Suddenly you're everywhere. Suddenly you're the best. Suddenly everyone wants to
 
 The secret? You stayed patient for eight years while everyone else quit at year two.
 
-### <span style="color: #0969DA">Applied to Your Life Right Now</span>
+### $${\color{blue}Applied \space to \space Your \space Life \space Right \space Now}$$
 
 Stop asking: "How good can I get in one year?"
 
@@ -452,7 +452,7 @@ But nobody sees year ten. They only see year one. And they quit because year one
 
 Because everyone else already quit.
 
-### <span style="color: #0969DA">Why This Changes Your Game</span>
+### $${\color{blue}Why \space This \space Changes \space Your \space Game}$$
 
 Life is a sport where patience is the ultimate performance enhancer.
 
@@ -475,14 +475,14 @@ Patience is your cheat code.
 
 ---
 
-## <span style="color: #0969DA">Building Your Patience System</span>
+## $${\color{blue}Building \space Your \space Patience \space System}$$
 
 
 You can't just "be more patient." That's like telling yourself to "be taller." Patience isn't willpower - it's a system.
 
 Here's how to build it.
 
-### <span style="color: #0969DA">System 1: Focus on Daily Input, Not Total Output</span>
+### $${\color{blue}System \space 1: \space Focus \space on \space Daily \space Input, \space Not \space Total \space Output}$$
 
 **The trap:**
 
@@ -504,7 +504,7 @@ You can't always control the outcome. You can ALWAYS control today's input.
 
 So track the input. Let the outcome take care of itself.
 
-### <span style="color: #0969DA">System 2: Celebrate Consistency, Not Results</span>
+### $${\color{blue}System \space 2: \space Celebrate \space Consistency, \space Not \space Results}$$
 
 
 > [!NOTE]
@@ -534,7 +534,7 @@ Consistency is 100% in your control. And consistency is what triggers compound g
 
 Celebrate the streak. The outcome becomes inevitable.
 
-### <span style="color: #0969DA">System 3: Make Progress Visible</span>
+### $${\color{blue}System \space 3: \space Make \space Progress \space Visible}$$
 
 The problem with compound growth? The daily changes are too small to see.
 
@@ -556,7 +556,7 @@ Day to day? Nothing visible.
 
 This gives your brain the proof it needs to stay patient. The compound IS working. Here's the evidence.
 
-### <span style="color: #0969DA">System 4: Trust the Plateau</span>
+### $${\color{blue}System \space 4: \space Trust \space the \space Plateau}$$
 
 You're going to hit plateaus. Long stretches where you feel stuck. Where improvement seems to stop.
 
@@ -593,14 +593,14 @@ The plateau isn't the end. It's the last phase before the explosion.
 
 ---
 
-## <span style="color: #0969DA">The Compound Tracking System</span>
+## $${\color{blue}The \space Compound \space Tracking \space System}$$
 
 
 You can't improve what you don't measure.
 
 Here's exactly how to track compound growth and stay motivated through the invisible phases.
 
-### <span style="color: #0969DA">The Daily 1% Tracker</span>
+### $${\color{blue}The \space Daily \space 1% \space Tracker}$$
 
 Design your tracker around INPUTS (what you control), not OUTCOMES (what you hope for).
 
@@ -654,7 +654,7 @@ Design your tracker around INPUTS (what you control), not OUTCOMES (what you hop
 
 Inputs compound into outcomes. Track the inputs.
 
-### <span style="color: #0969DA">The Compound Journal Method</span>
+### $${\color{blue}The \space Compound \space Journal \space Method}$$
 
 This takes 2 minutes a day and changes everything.
 
@@ -698,7 +698,7 @@ Compare to last month. This is where compound becomes visible:
 
 The journal doesn't just track progress. It proves the compound is working when your brain wants to quit.
 
-### <span style="color: #0969DA">The 30-60-90 Snapshot Method</span>
+### $${\color{blue}The \space 30-60-90 \space Snapshot \space Method}$$
 
 Make the invisible visible.
 
@@ -728,7 +728,7 @@ But put Day 1 next to Day 90? The difference is shocking.
 
 This gives you proof when patience gets hard. "Look how far I've come. The compound is working. Keep going."
 
-### <span style="color: #0969DA">The Streak Calendar</span>
+### $${\color{blue}The \space Streak \space Calendar}$$
 
 Visual motivation for your consistency.
 
@@ -757,7 +757,7 @@ Consistency compounds into identity.
 
 ---
 
-## <span style="color: #0969DA">When Compound Feels Broken</span>
+## $${\color{blue}When \space Compound \space Feels \space Broken}$$
 
 
 It's going to happen.
@@ -766,7 +766,7 @@ You're going to hit a wall where you've been doing everything right and it feels
 
 This is the moment that separates champions from everyone else.
 
-### <span style="color: #0969DA">The "Nothing is Happening" Phase (It Will Hit You)</span>
+### $${\color{blue}The \space "Nothing \space is \space Happening" \space Phase \space (It \space Will \space Hit \space You)}$$
 
 **Week 4:**
 
@@ -792,7 +792,7 @@ Everyone feels this. Everyone doubts. Everyone questions.
 
 The people who make it don't avoid this phase. They expect it. They trust it. They push through it.
 
-### <span style="color: #0969DA">The Plateau Survival Strategies</span>
+### $${\color{blue}The \space Plateau \space Survival \space Strategies}$$
 
 
 > [!NOTE]
@@ -875,7 +875,7 @@ Is the person you'll become worth the wait?
 
 If yes, keep going.
 
-### <span style="color: #0969DA">The Marc Andreessen "Decades Not Days" Mindset</span>
+### $${\color{blue}The \space Marc \space Andreessen \space "Decades \space Not \space Days" \space Mindset}$$
 
 Here's what Andreessen knows that most people don't:
 
@@ -895,7 +895,7 @@ Outlasting people is easier than outperforming them.
 
 Patience is the filter that separates pretenders from champions.
 
-### <span style="color: #0969DA">The Compound Identity Shift</span>
+### $${\color{blue}The \space Compound \space Identity \space Shift}$$
 
 Here's what happens when you stay consistent:
 
@@ -922,7 +922,7 @@ That's when compound becomes unstoppable. Because now you're not relying on moti
 
 ---
 
-## <span style="color: #0969DA">Real-World Compound Proof</span>
+## $${\color{blue}Real-World \space Compound \space Proof}$$
 
 
 Theory is great. Let's see how compound actually plays out in the real world.
@@ -1105,14 +1105,14 @@ Compound effects multiply when you stack skills. 1% daily in three areas creates
 
 ---
 
-## <span style="color: #0969DA">Your Compound Game Plan</span>
+## $${\color{blue}Your \space Compound \space Game \space Plan}$$
 
 
 Time to make this real for your life.
 
 Everything you've read is useless if you don't implement it. Here's your system for starting today.
 
-### <span style="color: #0969DA">Step 1: Choose Your Compound Area (Build Exponential Results)</span>
+### $${\color{blue}Step \space 1: \space Choose \space Your \space Compound \space Area \space (Build \space Exponential \space Results)}$$
 
 Be ruthlessly specific. Vague goals create vague results.
 
@@ -1142,7 +1142,7 @@ Pick ONE primary area. You can compound multiple things, but pick one that matte
 
 "I'm building exponential results in: _________________________________"
 
-### <span style="color: #0969DA">Step 2: Define Your Daily 1% (Master Your Craft)</span>
+### $${\color{blue}Step \space 2: \space Define \space Your \space Daily \space 1% \space (Master \space Your \space Craft)}$$
 
 What does 1% improvement actually look like in your area?
 
@@ -1192,7 +1192,7 @@ It has to be specific. It has to be measurable. It has to be small enough that y
 
 "My daily 1% improvement is: _________________________________"
 
-### <span style="color: #0969DA">Step 3: Build Your Tracking System (Stay Patient Through the Invisible Phase)</span>
+### $${\color{blue}Step \space 3: \space Build \space Your \space Tracking \space System \space (Stay \space Patient \space Through \space the \space Invisible \space Phase)}$$
 
 Set this up TODAY. Not tomorrow. Today.
 
@@ -1241,7 +1241,7 @@ Set a reminder for 30 days from now to do it again. And again at 60 days. And 90
 
 This is how you make invisible progress visible.
 
-### <span style="color: #0969DA">Step 4: Create Your Patience Mantra (Dominate Long-Term)</span>
+### $${\color{blue}Step \space 4: \space Create \space Your \space Patience \space Mantra \space (Dominate \space Long-Term)}$$
 
 Write this down. Put it somewhere you'll see daily. Read it every morning.
 
@@ -1265,7 +1265,7 @@ I will show up today and let the curve do its work."
 
 When compound feels slow, read this. Then do today's 1%.
 
-### <span style="color: #0969DA">Step 5: Start Your 7-Day Compound Challenge (Prove It Works)</span>
+### $${\color{blue}Step \space 5: \space Start \space Your \space 7-Day \space Compound \space Challenge \space (Prove \space It \space Works)}$$
 
 This week is your proof of concept.
 
@@ -1297,7 +1297,7 @@ That's how you get 37x better.
 
 ---
 
-## <span style="color: #0969DA">Post-Game Review</span>
+## $${\color{blue}Post-Game \space Review}$$
 
 
 
@@ -1322,7 +1322,7 @@ That's how you get 37x better.
 
 5. **Compound requires proof systems**: Journal + streak calendar + 30-day snapshots = evidence that compound is working when your brain wants to quit.
 
-### <span style="color: #0969DA">Reflection Questions</span>
+### $${\color{blue}Reflection \space Questions}$$
 
 
 1. What's one area of your life where you've been looking for a shortcut instead of trusting compound growth?
@@ -1339,7 +1339,7 @@ That's how you get 37x better.
 
 5. Are you willing to do the boring, consistent work during the flat part of the curve? Why or why not?
 
-### <span style="color: #0969DA">The Output Mindset</span>
+### $${\color{blue}The \space Output \space Mindset}$$
 
 
 ---
@@ -1360,7 +1360,7 @@ The secret? You stayed consistent while they quit looking for faster ways.
 
 ---
 
-### <span style="color: #0969DA">Next Level</span>
+### $${\color{blue}Next \space Level}$$
 
 You've learned the power of compound growth. You know that 1% daily improvements create 37x results.
 
