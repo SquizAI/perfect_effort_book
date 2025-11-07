@@ -94,7 +94,7 @@ Growth happens outside<br/>your comfort zone
 <a href="03_Book_Chapters/chapter_06_losing_is_learning.md">Read Chapter →</a>
 </td>
 <td width="25%" align="center">
-<img src="images/generated/chapters_informative/chapter_07_Focus_Mode:_On.png" width="200"/><br/>
+<img src="images/generated/chapters_informative/chapter_07_Focus_Mode_On.png" width="200"/><br/>
 <b>7. Focus Mode: On</b><br/>
 <a href="03_Book_Chapters/chapter_07_focus_mode_on.md">Read Chapter →</a>
 </td>
@@ -138,18 +138,54 @@ Growth happens outside<br/>your comfort zone
 </tr>
 </table>
 
-### Part 4: Team Play (Relationships) • Coming Soon
+### Part 4: Team Play (Relationships)
 
-**Chapter 14:** Choose Your Teammates
-**Chapter 15:** The Mentor Advantage
-**Chapter 16:** Building Your Support System
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="images/generated/chapters_informative/chapter_14_Choose_Your_Teammates.png" width="200"/><br/>
+<b>14. Choose Your Teammates</b><br/>
+<a href="03_Book_Chapters/chapter_14_choose_your_teammates.md">Read Chapter →</a>
+</td>
+<td width="33%" align="center">
+<img src="images/generated/chapters_informative/chapter_15_The_Mentor_Advantage.png" width="200"/><br/>
+<b>15. The Mentor Advantage</b><br/>
+<a href="03_Book_Chapters/chapter_15_the_mentor_advantage.md">Read Chapter →</a>
+</td>
+<td width="33%" align="center">
+<img src="images/generated/chapters_informative/chapter_16_Building_Your_Support_System.png" width="200"/><br/>
+<b>16. Building Your Support System</b><br/>
+<a href="03_Book_Chapters/chapter_16_building_your_support_system.md">Read Chapter →</a>
+</td>
+</tr>
+</table>
 
-### Part 5: Championship Level (Excellence) • Coming Soon
+### Part 5: Championship Level (Excellence)
 
-**Chapter 17:** Level Up Your Skills
-**Chapter 18:** Play Your Position
-**Chapter 19:** Clutch Moments
-**Chapter 20:** The Long Game
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="images/generated/chapters_informative/chapter_17_Level_Up_Your_Skills.png" width="200"/><br/>
+<b>17. Level Up Your Skills</b><br/>
+<em>Coming Soon</em>
+</td>
+<td width="25%" align="center">
+<img src="images/generated/chapters_informative/chapter_18_Play_Your_Position.png" width="200"/><br/>
+<b>18. Play Your Position</b><br/>
+<em>Coming Soon</em>
+</td>
+<td width="25%" align="center">
+<img src="images/generated/chapters_informative/chapter_19_Clutch_Moments.png" width="200"/><br/>
+<b>19. Clutch Moments</b><br/>
+<em>Coming Soon</em>
+</td>
+<td width="25%" align="center">
+<img src="images/generated/chapters_informative/chapter_20_The_Long_Game.png" width="200"/><br/>
+<b>20. The Long Game</b><br/>
+<em>Coming Soon</em>
+</td>
+</tr>
+</table>
 
 </div>
 

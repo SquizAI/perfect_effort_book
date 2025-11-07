@@ -7,7 +7,59 @@
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+
+---
+
+</div>
+
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_10_Fuel_Your_Engine.png" alt="Chapter 10: Fuel Your Engine" width="600"/>
+
+
+> [!IMPORTANT]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+
+---
+
+</div>
+
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_10_Fuel_Your_Engine.png" alt="Chapter 10: Fuel Your Engine" width="600"/>
+
+
+> [!IMPORTANT]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
 
 
@@ -17,11 +69,75 @@
 
 > [!NOTE]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **💡 Key Insight**
 > **Core Concept**: Your body is the engine that powers everything you want to achieve.
 > [!NOTE]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **💡 Key Insight**
 > **The Output**: Consistent energy, razor-sharp focus, and a body built to dominate for the next 70 years.
@@ -31,7 +147,15 @@
 
 ---
 
+
+---
+
+
+---
+
 ## The 2pm Crash
+
+
 
 
 It's Tuesday. 2:15pm. History class.
@@ -63,7 +187,15 @@ What if you've been trying to win with an engine running on garbage?
 
 ---
 
+
+---
+
+
+---
+
 ## Your Body is the Engine
+
+
 
 
 Let's get something straight: your body isn't separate from your goals. It's not this thing you have to deal with while you chase what you want.
@@ -93,7 +225,25 @@ Everything comes down to three systems. Get these right, and you'll have more en
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **1. Nutrition (What You Put In)**
 
 
@@ -106,7 +256,25 @@ One fuels you. The other crashes you.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **2. Sleep (When You Recover)**
 
 
@@ -119,7 +287,25 @@ You can't upgrade your operating system while it's running. You need to shut dow
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **3. Movement (How You Maintain)**
 
 
@@ -146,7 +332,25 @@ Sleep, nutrition, and recovery aren't weakness. They're strategic advantages.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Here's what empathy for your body looks like:**
 
 
@@ -161,7 +365,25 @@ You respect that your body is the platform for everything you want to achieve. T
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **The opposite of empathy is ignoring the signals:**
 
 
@@ -178,17 +400,29 @@ Not because it's easy. Because it works.
 Let's reframe this the way we reframe everything in this book.
 
 
+
+
 ❌ **Task-focused thinking**: "I need to eat healthy."
+
+
 
 ✅ **Output-focused thinking**: "I need consistent energy from 7am to 10pm so I can dominate my day."
 
 
+
+
 ❌ **Task-focused thinking**: "I should get 8 hours of sleep."
+
+
 
 ✅ **Output-focused thinking**: "I need to wake up with mental clarity and physical energy so I'm ready to perform."
 
 
+
+
 ❌ **Task-focused thinking**: "I have to work out."
+
+
 
 ✅ **Output-focused thinking**: "I'm building a body that's strong, fast, and doesn't break down when it matters."
 
@@ -211,7 +445,15 @@ That's the output focus. That's how champions think.
 
 ---
 
+
+---
+
+
+---
+
 ## The Fuel That Powers Performance
+
+
 
 
 Alright, let's talk about food. Real talk, no BS.
@@ -312,13 +554,37 @@ Here's your simple, practical, no-BS guide to eating for performance. No calorie
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Coach's Corner:**
 
 
 > The Performance Plate isn't about restriction. It's about construction. You're not removing "bad" foods—you're adding fuel that makes you unstoppable. Build the foundation first. Everything else is bonus.
 
 ### The Hydration Non-Negotiable
+
+
+---
+
+
+---
 
 
 ---
@@ -378,7 +644,15 @@ That's sustainable. That's smart. That's the long game.
 
 ---
 
+
+---
+
+
+---
+
 ## The Recovery That Changes Everything
+
+
 
 
 Let's talk about the most underrated performance enhancer on the planet.
@@ -392,6 +666,12 @@ And no, I'm not about to bore you with "sleep is important" platitudes. I'm abou
 ### The Sleep Science That Actually Matters
 
 Here's what happens when you sleep. Not metaphorically. Literally. In your brain and body.
+
+
+---
+
+
+---
 
 
 ---
@@ -423,7 +703,25 @@ Sleep isn't a luxury. It's a performance multiplier.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **How much sleep you actually need:**
 
 
@@ -441,7 +739,25 @@ And here's the competitive reality: you're not competing against your tired self
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **The person running at 100% capacity or the person running at 60%?**
 
 
@@ -504,7 +820,25 @@ Put the phone in another room. Seriously. Not on airplane mode. Not face-down on
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Coach's Corner:**
 
 
@@ -538,7 +872,15 @@ Elite performers nap strategically. LeBron James naps every day. Cristiano Ronal
 
 ---
 
+
+---
+
+
+---
+
 ## Movement as Fuel
+
+
 
 
 Here's a paradox that seems wrong but is absolutely true:
@@ -611,7 +953,25 @@ Look, if you do nothing else, do this:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **20 minutes of movement per day.**
 
 
@@ -654,7 +1014,25 @@ Physical well-being equals mental well-being equals better performance. It's not
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Apply this to your life:**
 
 
@@ -677,7 +1055,15 @@ You're playing the long game. Build accordingly.
 
 ---
 
+
+---
+
+
+---
+
 ## The Recovery Room Mindset
+
+
 
 
 Let's revisit the core principle of this entire book:
@@ -685,7 +1071,25 @@ Let's revisit the core principle of this entire book:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **"The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life."**
 
 
@@ -748,7 +1152,25 @@ You can't go 100% seven days a week. Your body doesn't work that way. Build reco
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Sample Week Structure:**
 
 
@@ -783,7 +1205,25 @@ Rest isn't giving up. It's regrouping. Champions know the difference.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Coach's Corner:**
 
 
@@ -794,7 +1234,15 @@ Rest isn't giving up. It's regrouping. Champions know the difference.
 
 ---
 
+
+---
+
+
+---
+
 ## Building Your Fuel System
+
+
 
 
 Theory is useless without practice. Here's your step-by-step system to fuel your engine properly.
@@ -810,6 +1258,8 @@ Theory is useless without practice. Here's your step-by-step system to fuel your
 **The output**: Understanding your baseline patterns. Where are you actually starting from?
 
 Use your phone notes or a journal. Write down:
+
+
 
 - What you ate and when
 - Energy levels (1-10 scale) at different times of day
@@ -869,11 +1319,15 @@ Copy this. Put it on your phone. Check off items daily.
 
 #### Morning:
 
+
+
 - [ ] 16oz water within 30 minutes of waking
 - [ ] Performance breakfast (protein + carb + fruit/veggie)
 - [ ] 15-20 minutes of movement (even just a walk)
 
 #### Throughout Day:
+
+
 
 - [ ] Sipping water consistently (aim for clear or light yellow urine)
 - [ ] Performance lunch (protein + veggies + carb)
@@ -881,6 +1335,8 @@ Copy this. Put it on your phone. Check off items daily.
 - [ ] No caffeine after 2pm
 
 #### Evening:
+
+
 
 - [ ] Performance dinner (protein + veggies + moderate carb)
 - [ ] Light movement (walk after dinner if possible)
@@ -918,7 +1374,25 @@ Every day, ask yourself with empathy:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **"What does my body actually need right now?"**
 
 
@@ -927,7 +1401,25 @@ Not what you feel like. What you need. There's a difference.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **"Am I fueling for performance or just out of habit/boredom?"**
 
 
@@ -936,7 +1428,25 @@ Are you eating because you're hungry and need energy? Or because it's there?
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **"Am I getting enough sleep to learn and grow?"**
 
 
@@ -945,7 +1455,25 @@ Not "can I function." Can I perform at my best?
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **"Am I moving my body enough to feel good?"**
 
 
@@ -962,7 +1490,15 @@ Empathy means treating your body like your most important teammate. Because it i
 
 ---
 
+
+---
+
+
+---
+
 ## The Long-Term Engine
+
+
 
 
 The habits you build now determine what your body is capable of for the next 70+ years.
@@ -1011,19 +1547,73 @@ Not crash diets. Not extreme programs that burn you out. Not six-week challenges
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Sustainable habits that compound.**
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Empathy for your body's real needs.**
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Long-term thinking that pays dividends for decades.**
 
 
@@ -1044,7 +1634,25 @@ Write it down. Be honest. No judgment—just awareness.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **2. Implement ONE performance meal per day**
 
 
@@ -1053,7 +1661,25 @@ Start with breakfast. Protein + carb + fruit/veggie.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **3. Add 30oz more water than you currently drink**
 
 
@@ -1062,7 +1688,25 @@ Fill up a water bottle. Refill it. Finish it again.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **4. Go to bed 30 minutes earlier than usual**
 
 
@@ -1071,7 +1715,25 @@ Set an alarm for your bedtime, not just your wake-up.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **5. Add 15 minutes of movement daily**
 
 
@@ -1092,8 +1754,22 @@ You'll be shocked at the difference.
 
 ---
 
+
+---
+
+
+---
+
 ## Post-Game Review
 
+
+
+
+
+---
+
+
+---
 
 
 ---
@@ -1117,16 +1793,26 @@ You'll be shocked at the difference.
 ### Reflection Questions
 
 
+
+
 1. **What's one fuel habit you know is holding you back?** (Be honest. Is it skipping breakfast? Staying up until 2am? Never drinking water?)
+
+
 
 
 2. **What output do you want to achieve in the next 30 days that requires better fuel?** (Better grades? Athletic performance? More energy? Improved mood?)
 
 
+
+
 3. **If you treated your body like the high-performance engine it is, what would you change immediately?** (What's the one thing you know you should do but aren't doing?)
 
 
+
+
 4. **How does your energy, focus, and mood change when you're well-fueled vs. running on empty?** (Think about specific examples. What patterns do you notice?)
+
+
 
 
 5. **What's your biggest obstacle to fueling properly—and what's one small step you can take this week to overcome it?** (Not "I don't have time." What's really stopping you? And what's the smallest possible improvement you can make?)
@@ -1136,9 +1822,17 @@ You'll be shocked at the difference.
 
 ---
 
+
+---
+
+
+---
+
 Remember: Don't think about "eating healthy" or "getting enough sleep" or "working out."
 
 Think about:
+
+
 
 - **Having consistent energy to dominate every day**
 - **Building mental clarity that makes everything easier**
@@ -1154,7 +1848,15 @@ You're not checking boxes. You're building an engine.
 
 ---
 
+
+---
+
+
+---
+
 ## Closing Power Move
+
+
 
 
 Your body isn't separate from your dreams. It's the vehicle for achieving them.
@@ -1191,14 +1893,50 @@ That's not luck. That's fuel.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Fuel your engine like your future depends on it.**
 
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Because it does.**
 
 
@@ -1211,24 +1949,54 @@ That's not luck. That's fuel.
 **Your Action Items This Week**:
 
 
+
+
 1. **Track your current fuel patterns for 3 days** - Food, water, sleep, movement. Just awareness.
+
+
 
 
 2. **Implement one Performance Plate meal daily** - Start with breakfast. Protein + carb + fruit/veggie.
 
 
+
+
 3. **Add 30oz of water per day** - Carry a water bottle. Refill it. Finish it.
+
+
 
 
 4. **Set a consistent bedtime and create your 60-minute wind-down routine** - Same time every night. No screens.
 
 
+
+
 5. **Add 15-20 minutes of movement daily** - Walk, workout, sport. Anything. Just move.
+
+
 
 
 6. **Journal: How does better fuel change your performance?** - Energy, focus, mood, physical capability. Track the difference.
 
 One week. Six commitments. Your engine will thank you.
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 9 - Morning Warm-Up](chapter_09_morning_warm_up.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 11 - The Recovery Room ➡️](chapter_11_the_recovery_room.md)
+
+</div>
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 9 - Morning Warm-Up](chapter_09_morning_warm_up.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 11 - The Recovery Room ➡️](chapter_11_the_recovery_room.md)
+
+</div>
 
 
 ---

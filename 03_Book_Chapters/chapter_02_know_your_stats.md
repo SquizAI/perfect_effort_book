@@ -7,7 +7,59 @@
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+
+---
+
+</div>
+
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_02_Know_Your_Stats.png" alt="Chapter 2: Know Your Stats" width="600"/>
+
+
+> [!IMPORTANT]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+
+---
+
+</div>
+
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_02_Know_Your_Stats.png" alt="Chapter 2: Know Your Stats" width="600"/>
+
+
+> [!IMPORTANT]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
 
 
@@ -17,11 +69,75 @@
 
 > [!NOTE]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **💡 Key Insight**
 > **Core Concept**: You can't improve what you don't measure. Winners track their stats religiously – not to judge themselves, but to level up strategically.
 > [!NOTE]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **💡 Key Insight**
 > **The Output**: Build a system that shows you exactly where you are, where you're going, and how fast you're getting there.
@@ -31,7 +147,15 @@
 
 ---
 
+
+---
+
+
+---
+
 ## The Numbers Don't Lie (But You Probably Do)
+
+
 
 
 It's 2 AM. Your friend just hit you with a screenshot. It's their K/D ratio in the game you both play. 2.4. Up from 1.8 last month.
@@ -49,7 +173,25 @@ Not your gaming stats. Not your social media followers.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Your real-life stats.**
 
 
@@ -58,7 +200,15 @@ Not your gaming stats. Not your social media followers.
 
 ---
 
+
+---
+
+
+---
+
 ## The Truth Nobody Wants to Face
+
+
 
 
 Here's what I know about you:
@@ -78,7 +228,25 @@ Your progress toward your goals? "Uh... I'm working on it?"
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **See the problem?**
 
 
@@ -99,7 +267,25 @@ When you say "I'm getting better at this," you can believe whatever you want. Wh
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **But here's what you need to understand:**
 
 
@@ -114,7 +300,15 @@ Winners measure *because* they want to know what they'll find.
 
 ---
 
+
+---
+
+
+---
+
 ## The Game You're Already Playing (With Invisible Stats)
+
+
 
 
 Think about this:
@@ -130,7 +324,25 @@ You'd quit that game immediately. It would feel random, frustrating, impossible 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **That's how most people play life.**
 
 
@@ -145,7 +357,25 @@ Feelings are not facts.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Data is.**
 
 
@@ -158,7 +388,25 @@ Their CEO, Jensen Huang, has a saying that drives the entire company:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **"In God we trust. All others bring data."**
 
 
@@ -173,7 +421,25 @@ But here's the critical thing Jensen understands that most people miss:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Metrics are tools, not judgments.**
 
 
@@ -190,7 +456,15 @@ Your life stats work the same way.
 
 ---
 
+
+---
+
+
+---
+
 ## What Stats Actually Matter
+
+
 
 
 Okay, so you're convinced you need to track something. But what?
@@ -231,7 +505,25 @@ Or you can study for 45 focused minutes, actively testing yourself, teaching the
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **The game isn't about time spent. The game is about results achieved.**
 
 
@@ -242,13 +534,33 @@ If you're going to track anything, track these five areas. They cover basically 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **1. Skills: What Can You Do Now That You Couldn't Do Before?**
 
 
 This is all about capabilities. Tangible, demonstrable skills.
 
 Examples:
+
+
 
 - Problems you can solve without help
 - Physical movements you've mastered
@@ -257,6 +569,8 @@ Examples:
 
 Track it like this:
 
+
+
 - "This week, I learned how to [specific skill]"
 - "My performance on [skill] improved from [baseline] to [current level]"
 - "I can now do [thing] that I couldn't do last week"
@@ -264,7 +578,25 @@ Track it like this:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **2. Knowledge: What Do You Understand at a Deep Level?**
 
 
@@ -276,6 +608,8 @@ The test: Can you explain it to someone else without notes? Can you apply it to 
 
 Track it like this:
 
+
+
 - "Topics I moved from 'confused' to 'confident': __"
 - "Concepts I can teach to someone else: __"
 - "Questions I can now answer that I couldn't answer last week: __"
@@ -283,7 +617,25 @@ Track it like this:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **3. Physical: How's Your Body Actually Performing?**
 
 
@@ -293,6 +645,8 @@ But most people track the wrong physical metrics. They track "workouts completed
 
 Track what matters:
 
+
+
 - **Sleep quality**: Did you actually feel rested? (Not just hours in bed)
 - **Energy levels**: How many hours of the day did you feel energized vs. drained?
 - **Physical capability**: Can you do things your body couldn't do before?
@@ -301,7 +655,25 @@ Track what matters:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **4. Mental: How's Your Focus, Stress, and Emotional State?**
 
 
@@ -311,6 +683,8 @@ Because you can have all the time in the world, all the resources, all the oppor
 
 Track it:
 
+
+
 - **Focus duration**: How long can you stay locked in without distraction?
 - **Stress levels**: Are you operating in productive stress or destructive stress?
 - **Confidence**: Do you feel more capable than last week?
@@ -319,7 +693,25 @@ Track it:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **5. Relationships: Quality of Key Connections**
 
 
@@ -328,13 +720,33 @@ Not how many followers you have. Not how many people know your name.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **How many people would show up if you actually needed them?**
 
 
 Quality over quantity. Always.
 
 Track it:
+
+
 
 - **Real conversations**: How many genuine, meaningful interactions did you have?
 - **Value provided**: How many times did you help someone else this week?
@@ -345,7 +757,15 @@ Track it:
 
 ---
 
+
+---
+
+
+---
+
 ## Building Your Personal Dashboard
+
+
 
 
 Alright. You know *what* to track.
@@ -357,7 +777,25 @@ Because here's where most people overcomplicate things. They build massive sprea
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Simple beats complex. Every time.**
 
 
@@ -380,15 +818,53 @@ Here's what it looks like:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **WEEKLY SCORECARD - Week of [Date]**
 
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **SKILLS & KNOWLEDGE**
+
+
 
 - Concepts I moved from "confused" to "confident": __
 - Practice problems solved correctly (no help): __/20
@@ -397,8 +873,28 @@ Here's what it looks like:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **PHYSICAL PERFORMANCE**
+
+
 
 - Nights I got quality sleep (felt rested): __/7
 - Days I felt genuinely energized: __/7
@@ -407,8 +903,28 @@ Here's what it looks like:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **MENTAL GAME**
+
+
 
 - Deep focus sessions (45+ min, zero distractions): __
 - Times I caught distraction and refocused: __
@@ -417,8 +933,28 @@ Here's what it looks like:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **RELATIONSHIPS**
+
+
 
 - Real conversations (not just texting): __
 - Times I helped someone else: __
@@ -427,7 +963,25 @@ Here's what it looks like:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **OUTPUT THIS WEEK**
 
 
@@ -439,7 +993,25 @@ What did I actually *produce* or *achieve*?
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **GROWTH EDGE**
 
 
@@ -450,7 +1022,25 @@ What felt uncomfortable this week? (That's where I grew)
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **NEXT WEEK'S TARGETS**
 
 
@@ -466,7 +1056,25 @@ What specific outputs am I aiming for?
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Step 1: Every Sunday, Fill It Out**
 
 
@@ -475,7 +1083,25 @@ What specific outputs am I aiming for?
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Step 2: Look for Trends**
 
 
@@ -484,7 +1110,25 @@ Are you improving week over week? Are certain areas consistently strong? Are cer
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Step 3: Adjust Your Game Plan**
 
 
@@ -495,7 +1139,25 @@ If your "physical energy" stat is 2/7 days, that's not failure. That's your body
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Step 4: Set Specific Targets**
 
 
@@ -512,7 +1174,15 @@ That's a specific, measurable, achievable target. And when you hit it? You've go
 
 ---
 
+
+---
+
+
+---
+
 ## The Uncomfortable Truth About Self-Assessment
+
+
 
 
 Here's the part nobody wants to hear:
@@ -520,7 +1190,25 @@ Here's the part nobody wants to hear:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Most people lie to themselves about their stats.**
 
 
@@ -547,7 +1235,25 @@ That number hit like a truck. Because Alex had been lying to himself for months.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **And you know what?**
 
 
@@ -560,7 +1266,25 @@ Three months later, same test. 87%.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **That's the power of measurement.**
 
 
@@ -585,6 +1309,12 @@ Same data. Completely different meaning.
 
 ---
 
+
+---
+
+
+---
+
 Remember: Your stats are not a verdict on your potential. They're a snapshot of your current level.
 
 A gamer at level 15 doesn't think "I'm not a level 50 person." They think "Cool, now I know I need to get to level 16."
@@ -594,7 +1324,25 @@ Your life stats work the exact same way.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **The stat that matters most isn't your current level. It's your rate of improvement.**
 
 
@@ -603,7 +1351,15 @@ Your life stats work the exact same way.
 
 ---
 
+
+---
+
+
+---
+
 ## Advanced Stats: The 1% Edge
+
+
 
 
 Once you've got your basic stats down, you can start tracking the metrics that separate good from great.
@@ -617,7 +1373,25 @@ This is simple but powerful:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **What percentage of days did you hit your target?**
 
 
@@ -636,7 +1410,25 @@ This is a game-changer that nobody talks about:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **How fast do you bounce back from setbacks?**
 
 
@@ -657,6 +1449,12 @@ Watch that number go down over time. That's resilience building.
 
 ---
 
+
+---
+
+
+---
+
 Remember from Chapter 1: The sweet spot for learning is when challenge exceeds skill by about 4%.
 
 Too easy = boredom. Too hard = anxiety. Just right = flow.
@@ -666,8 +1464,28 @@ Start tracking this for your major tasks:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **After each study session, practice, or focus work:**
+
+
 
 - Was this task in my flow zone? (Challenging but doable) Yes / No
 - If no: Was it too easy or too hard?
@@ -682,11 +1500,31 @@ This is the ultimate efficiency metric:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Not just hours worked – what did you actually produce?**
 
 
 Example:
+
+
 
 - Monday: 2 hours studying, mastered 3 concepts
 - Tuesday: 2 hours studying, mastered 1 concept
@@ -703,7 +1541,15 @@ Track output per hour, and you'll start to see patterns. Then you can engineer p
 
 ---
 
+
+---
+
+
+---
+
 ## Making Your Numbers Work FOR You (Not Against You)
+
+
 
 
 Here's the trap:
@@ -719,7 +1565,25 @@ Your follower count becomes more important than real relationships.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **This is what Jensen Huang warns about:**
 
 
@@ -732,7 +1596,25 @@ Metrics are tools. Feedback loops. Not destinations.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **1. Track the Right Things**
 
 
@@ -745,7 +1627,25 @@ Hours studied = input metric. Material mastered = output metric.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **2. Review, Don't Obsess**
 
 
@@ -756,7 +1656,25 @@ Check your stats once a week. Make adjustments. Then *play the game* without con
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **3. Focus on Trends, Not Single Data Points**
 
 
@@ -766,6 +1684,36 @@ One great performance doesn't prove mastery. Consistent improvement over a month
 
 
 > [!IMPORTANT]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+
+---
+
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+
+---
+
 > [!NOTE]
 > 💡 **Key Insight**
 > **4. Remember Your Why**
@@ -782,7 +1730,15 @@ Simple.
 
 ---
 
+
+---
+
+
+---
+
 ## The Stats Challenge: Finding Your Real Numbers
+
+
 
 
 Alright. Theory is done. Time for action.
@@ -792,7 +1748,25 @@ This week, you're going to do something most people are too scared to do:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **You're going to find out exactly where you really stand.**
 
 
@@ -801,13 +1775,33 @@ This week, you're going to do something most people are too scared to do:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Step 1: Pick ONE Area to Measure**
 
 
 Don't try to track everything. Pick the area that matters most right now.
 
 Maybe it's:
+
+
 
 - Academic performance in one subject
 - A physical skill you're developing
@@ -817,13 +1811,33 @@ Maybe it's:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Step 2: Create Your Baseline**
 
 
 Test yourself honestly. No cheating. No "I kinda know this so I'll give myself credit."
 
 Examples:
+
+
 
 - "Take 20 practice problems. How many can I solve without looking at notes?"
 - "Attempt this skill 20 times. How many successful executions?"
@@ -834,7 +1848,25 @@ Record the number. That's your baseline.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Step 3: Track for 7 Days**
 
 
@@ -847,13 +1879,33 @@ Not your effort. Your *results*.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Step 4: Review on Day 7**
 
 
 Pull out your scorecard. Look at the data.
 
 Ask yourself:
+
+
 
 - Did my stats improve from Day 1 to Day 7?
 - What patterns do I notice?
@@ -863,7 +1915,25 @@ Ask yourself:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Step 5: That Gap is Your Roadmap**
 
 
@@ -874,7 +1944,25 @@ You're going to see numbers that might make you uncomfortable. Maybe your stats 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Good.**
 
 
@@ -887,8 +1975,32 @@ That gap between where you are and where you want to be? That's not a problem.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **That's your game plan.**
+
+
+---
+
+
+---
 
 
 ---
@@ -899,12 +2011,32 @@ That gap between where you are and where you want to be? That's not a problem.
 ## The Comeback Story You're Writing
 
 
+
+
 Here's what elite athletes understand that most people don't:
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Every great comeback story starts with honest assessment.**
 
 
@@ -925,7 +2057,25 @@ It's uncomfortable. Nobody likes watching themselves fail.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **But that's exactly where improvement comes from.**
 
 
@@ -940,7 +2090,25 @@ You're finding the moments where you fell short so you can fix them.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **That's what winners do.**
 
 
@@ -953,13 +2121,39 @@ And then they go back out and play.
 
 ---
 
+
+---
+
+
+---
+
 ## Key Takeaways
+
+
 
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **1. You Can't Improve What You Don't Measure**
 
 
@@ -968,7 +2162,25 @@ Feelings lie. Numbers tell the truth. Elite performers in any field track their 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **2. Track Outputs, Not Inputs**
 
 
@@ -977,7 +2189,25 @@ Hours spent don't matter. Results achieved do. Focus on what you can do now that
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **3. Metrics Are Tools, Not Judgments**
 
 
@@ -986,7 +2216,25 @@ Your stats aren't telling you you're a failure. They're providing feedback so yo
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **4. Brutal Honesty > Comfortable Lies**
 
 
@@ -995,7 +2243,25 @@ Self-assessment is uncomfortable. Do it anyway. The gap between where you are an
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **5. Consistency Beats Perfection**
 
 
@@ -1006,20 +2272,38 @@ Don't aim for 100% perfect weeks. Aim for 80% consistency, maintained long-term.
 
 ---
 
+
+---
+
+
+---
+
 ## Reflection Questions
+
+
+
+
 
 
 
 1. **What stat have you been avoiding measuring?** (That's probably the one you most need to track)
 
 
+
+
 2. **If you honestly assessed your current level in your most important area, what would the number be?** (1-10 scale)
+
+
 
 
 3. **What's one metric you're tracking that doesn't actually matter?** (Stop measuring it)
 
 
+
+
 4. **What would a 1% improvement look like in your top-priority area this week?** (Be specific)
+
+
 
 
 5. **How will you know if you're actually getting better?** (What metric proves it?)
@@ -1029,8 +2313,22 @@ Don't aim for 100% perfect weeks. Aim for 80% consistency, maintained long-term.
 
 ---
 
+
+---
+
+
+---
+
 ## The Output Mindset
 
+
+
+
+
+---
+
+
+---
 
 
 ---
@@ -1052,7 +2350,15 @@ Focus on who you're becoming, not just what your current numbers are.
 
 ---
 
+
+---
+
+
+---
+
 ## Next Level
+
+
 
 
 You know your current stats now. You know where you stand.
@@ -1064,7 +2370,25 @@ Are you chasing numbers that actually matter to you? Or are you optimizing for s
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Next up: Chapter 3 – The Scoreboard That Matters**
 
 
@@ -1075,11 +2399,23 @@ Time to figure out what game you're actually playing.
 
 ---
 
+
+---
+
+
+---
+
 ## Action Items
 
 
 
+
+
+
+
 ✅ **This Week**:
+
+
 
 1. Pick ONE area to measure honestly
 2. Create your baseline (test yourself, no lying)
@@ -1090,11 +2426,35 @@ Time to figure out what game you're actually playing.
 
 ---
 
+
+---
+
+
+---
+
 **Remember**: The numbers might make you uncomfortable. That means they're telling you the truth.
 
 The game has a scoreboard.
 
 Let's find out what it says.
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 1 - Life is a Sport](chapter_01_life_is_a_sport.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 3 - The Scoreboard That Matters ➡️](chapter_03_the_scoreboard_that_matters.md)
+
+</div>
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 1 - Life is a Sport](chapter_01_life_is_a_sport.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 3 - The Scoreboard That Matters ➡️](chapter_03_the_scoreboard_that_matters.md)
+
+</div>
 
 
 ---

@@ -7,7 +7,59 @@
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+
+---
+
+</div>
+
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_07_Focus_Mode:_On.png" alt="Chapter 7: Focus Mode: On" width="600"/>
+
+
+> [!IMPORTANT]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+
+---
+
+</div>
+
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_07_Focus_Mode:_On.png" alt="Chapter 7: Focus Mode: On" width="600"/>
+
+
+> [!IMPORTANT]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
 
 
@@ -17,11 +69,75 @@
 
 > [!NOTE]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **💡 Key Insight**
 > **Core Concept**: Your attention is your most valuable resource. Where you focus determines what you build.
 > [!NOTE]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **💡 Key Insight**
 > **The Output**: Master deep focus so you can accomplish in 90 minutes what takes others all day – and actually enjoy the process.
@@ -31,7 +147,15 @@
 
 ---
 
+
+---
+
+
+---
+
 ## 45 Minutes. Zero Progress.
+
+
 
 
 You sit down to study. Notebook open. Textbook ready. You're about to crush this.
@@ -57,7 +181,25 @@ But here's the kicker – you *feel* like you've been working. You've been sitti
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Here's the uncomfortable truth: You just traded 45 minutes of your life for absolutely nothing.**
 
 
@@ -72,7 +214,15 @@ Unless you learn what elite performers already know: **In a world designed to st
 
 ---
 
+
+---
+
+
+---
+
 ## The Game You Didn't Know You're Playing
+
+
 
 
 Let's talk about the real game being played right now.
@@ -80,8 +230,28 @@ Let's talk about the real game being played right now.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **You think the game is:**
+
+
 
 - School
 - Sports
@@ -92,8 +262,28 @@ Let's talk about the real game being played right now.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **The actual game is:**
+
+
 
 - Billion-dollar algorithms fighting for every second of your attention
 - Apps optimized to keep you scrolling
@@ -165,16 +355,58 @@ That's not how it works.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **What distraction actually steals from you:**
 
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **1. Flow State Access**
 
+
+
+---
+
+
+---
 
 Remember Chapter 4? That zone where you're completely locked in, time disappears, and you perform at your absolute best?
 
@@ -185,7 +417,25 @@ Research shows it takes 10-15 minutes of uninterrupted focus just to enter flow.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **2. Deep Learning Capacity**
 
 
@@ -196,7 +446,25 @@ You can read the same page five times while distracted and retain less than read
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **3. Skill Mastery Potential**
 
 
@@ -205,7 +473,25 @@ Deliberate practice (Chapter 4) requires intense, focused attention on exactly w
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **4. Competitive Edge**
 
 
@@ -218,7 +504,11 @@ Every moment you give to distraction is a moment someone else is using to get be
 Let's get real about what we're actually measuring:
 
 
+
+
 ❌ **Task-Focused**: "I studied for 3 hours"
+
+
 
 - Phone nearby
 - Interrupted constantly
@@ -227,7 +517,11 @@ Let's get real about what we're actually measuring:
 - Zero retention
 
 
+
+
 ✅ **Output-Focused**: "I mastered 20 practice problems in 90 focused minutes"
+
+
 
 - Phone in different room
 - Zero interruptions
@@ -246,7 +540,15 @@ One person *feels* productive. The other person *is* productive.
 
 ---
 
+
+---
+
+
+---
+
 ## What Deep Focus Actually Looks Like
+
+
 
 
 Let's talk about someone who's mastered this: Andrej Karpathy.
@@ -260,6 +562,8 @@ Basically, someone who's working on problems so complex that most people's brain
 When Karpathy tackles a complex AI problem, here's what his work session looks like:
 
 
+
+
 - **3-5 hour uninterrupted blocks**
 - **Single task focus** – no multitasking
 - **Zero distractions** – phone off, notifications off, door closed
@@ -269,6 +573,8 @@ When Karpathy tackles a complex AI problem, here's what his work session looks l
 The result? Breakthrough work in AI that changed the field.
 
 Compare that to the average approach:
+
+
 
 - 15-minute chunks between distractions
 - Multitasking (phone + music + social media + work)
@@ -316,7 +622,25 @@ That resistance? That uncomfortable feeling of wanting to escape?
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **That's not a problem. That's the signal you're doing it right.**
 
 
@@ -327,7 +651,25 @@ The people who win aren't the ones who don't feel the pull of distraction. They'
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **"The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life."**
 
 
@@ -336,7 +678,15 @@ The people who win aren't the ones who don't feel the pull of distraction. They'
 
 ---
 
+
+---
+
+
+---
+
 ## How Your Brain Actually Works (The Technical Part)
+
+
 
 
 Let's get into how attention actually functions. Understanding this will change how you approach everything.
@@ -348,8 +698,28 @@ Think of your brain's working memory like the RAM in your phone or computer. It 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Working Memory Capacity:**
+
+
 
 - Can hold approximately 4 items simultaneously
 - Gets overloaded easily
@@ -357,6 +727,8 @@ Think of your brain's working memory like the RAM in your phone or computer. It 
 - Every time you switch tasks, you dump and reload
 
 When you're fully focused on math homework, your working memory is loaded with:
+
+
 
 - The current problem
 - The relevant formulas
@@ -368,7 +740,25 @@ When you check your phone mid-problem, your brain dumps all that. When you retur
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **This is why "just checking real quick" destroys productivity.**
 
 
@@ -391,13 +781,39 @@ Most people do this 10+ times per hour and wonder why they can't focus.
 
 ---
 
+
+---
+
+
+---
+
 Remember flow state? That optimal performance zone where you're completely locked in?
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Flow Requires:**
+
+
 
 - Clear goals (you know exactly what you're trying to accomplish)
 - Immediate feedback (you know right away if you're on track)
@@ -407,8 +823,28 @@ Remember flow state? That optimal performance zone where you're completely locke
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Flow Delivers:**
+
+
 
 - 500% productivity increase (McKinsey 10-year study of executives)
 - 240-500% faster learning (Department of Defense research)
@@ -417,8 +853,28 @@ Remember flow state? That optimal performance zone where you're completely locke
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Distraction Destroys Flow:**
+
+
 
 - One notification can kick you out of flow instantly
 - Takes 10-15 minutes to re-enter
@@ -434,6 +890,8 @@ Focus isn't something you have or don't have. It's not a personality trait. It's
 
 Just like any muscle:
 
+
+
 - Gets stronger with practice
 - Gets weaker without use
 - Needs recovery time
@@ -446,7 +904,25 @@ The good news? You can build it back. But like any muscle, it takes deliberate p
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **That discomfort is growth.**
 
 
@@ -455,7 +931,15 @@ The good news? You can build it back. But like any muscle, it takes deliberate p
 
 ---
 
+
+---
+
+
+---
+
 ## Building Your Focus System
+
+
 
 
 You can't rely on willpower to resist distraction. Willpower is a muscle that gets tired. By the end of the day, it's depleted.
@@ -469,14 +953,50 @@ Before you start any deep work session, set up your environment to make focus ea
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Remove Distractions (Playing Defense)**
 
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Phone**: Not on silent. Not face-down. Not in your pocket. **In another room.**
 
 
@@ -497,7 +1017,25 @@ Put it in another room. Close the door.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Set Up for Success (Playing Offense)**
 
 
@@ -514,7 +1052,25 @@ Clear output goal. You'll know when you've hit it.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Create an Activation Ritual**
 
 
@@ -523,8 +1079,28 @@ Your brain loves patterns. Use that.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Consistent Elements:**
+
+
 
 - Same location if possible
 - Same music (or same no-music)
@@ -532,6 +1108,8 @@ Your brain loves patterns. Use that.
 - Same pre-focus routine
 
 Example ritual:
+
+
 
 1. Put phone in other room
 2. Close all unnecessary tabs
@@ -552,8 +1130,28 @@ Not all focus sessions are created equal. Choose based on your current focus cap
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Best for:**
+
+
 
 - Building focus stamina (if you're just starting)
 - Tasks you're building tolerance for
@@ -563,8 +1161,28 @@ Not all focus sessions are created equal. Choose based on your current focus cap
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **The Template:**
+
+
 
 
 
@@ -576,12 +1194,16 @@ Not all focus sessions are created equal. Choose based on your current focus cap
    - Write output goal: "Complete 5 algebra problems with full understanding"
 
 
+
+
 2. **Sprint** (25 minutes)
 
    - Single task only
    - No checking anything
    - Full attention on output
    - If distraction urge hits: notice it, then refocus
+
+
 
 
 3. **Break** (5 minutes)
@@ -593,6 +1215,8 @@ Not all focus sessions are created equal. Choose based on your current focus cap
    - NO screens (this is critical)
 
 
+
+
 4. **Repeat**
 
    - Start next sprint
@@ -601,8 +1225,28 @@ Not all focus sessions are created equal. Choose based on your current focus cap
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Track Your Progress:**
+
+
 
 - Sprint 1: ✓ Completed / Struggled / Failed
 - Sprint 2: ✓ Completed / Struggled / Failed
@@ -616,8 +1260,28 @@ Not all focus sessions are created equal. Choose based on your current focus cap
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Best for:**
+
+
 
 - Complex problems that need sustained thinking
 - Creative work (writing, coding, designing)
@@ -627,8 +1291,28 @@ Not all focus sessions are created equal. Choose based on your current focus cap
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **The Template:**
+
+
 
 
 
@@ -641,6 +1325,8 @@ Not all focus sessions are created equal. Choose based on your current focus cap
    - Write output goal: "Draft complete essay outline with supporting evidence for each point"
 
 
+
+
 2. **Deep Work** (90 minutes)
 
    - One task only
@@ -650,6 +1336,8 @@ Not all focus sessions are created equal. Choose based on your current focus cap
    - Complete focus on output
 
 
+
+
 3. **Recovery** (15-20 minutes)
 
    - Walk outside if possible
@@ -657,6 +1345,8 @@ Not all focus sessions are created equal. Choose based on your current focus cap
    - Real rest
    - NO screens whatsoever
    - Let your brain decompress
+
+
 
 
 4. **Assessment**
@@ -670,8 +1360,28 @@ Not all focus sessions are created equal. Choose based on your current focus cap
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Track Your Progress:**
+
+
 
 - Focus maintained: Full 90 min / 60+ min / 30-60 min / <30 min
 - Output achieved: 100% / 75% / 50% / <50%
@@ -685,8 +1395,28 @@ You can't jump straight to 90-minute deep work sessions if you've spent years ch
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Week 1: Foundation**
+
+
 
 - Four 25-minute focus blocks per day
 - Track completion rate
@@ -696,8 +1426,28 @@ You can't jump straight to 90-minute deep work sessions if you've spent years ch
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Week 2: Expansion**
+
+
 
 - Four 45-minute focus blocks per day
 - Notice the increased stamina
@@ -707,8 +1457,28 @@ You can't jump straight to 90-minute deep work sessions if you've spent years ch
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Week 3: Depth**
+
+
 
 - Two 60-minute focus blocks per day
 - You're approaching flow state territory
@@ -718,8 +1488,28 @@ You can't jump straight to 90-minute deep work sessions if you've spent years ch
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Week 4: Mastery**
+
+
 
 - One to two 90-minute deep dives per day
 - You've built serious focus capacity
@@ -729,8 +1519,28 @@ You can't jump straight to 90-minute deep work sessions if you've spent years ch
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **What to Measure:**
+
+
 
 - Number of successful focus blocks completed
 - Distractions resisted (tally marks for each time you wanted to check phone but didn't)
@@ -742,7 +1552,15 @@ You can't jump straight to 90-minute deep work sessions if you've spent years ch
 
 ---
 
+
+---
+
+
+---
+
 ## The Distraction Defense System
+
+
 
 
 Distractions will come. They always do. The difference between people who maintain focus and people who don't isn't that one group doesn't get distracted – it's that one group has a system for handling distractions when they appear.
@@ -754,14 +1572,50 @@ Pre-decide how you'll respond to specific distractions. When the moment comes, y
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **If-Then Templates:**
 
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **If phone buzzes:**
 
 
@@ -770,7 +1624,25 @@ Pre-decide how you'll respond to specific distractions. When the moment comes, y
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **If I think of something I need to do:**
 
 
@@ -779,7 +1651,25 @@ Pre-decide how you'll respond to specific distractions. When the moment comes, y
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **If I feel the urge to check social media:**
 
 
@@ -788,7 +1678,25 @@ Pre-decide how you'll respond to specific distractions. When the moment comes, y
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **If someone interrupts me:**
 
 
@@ -797,7 +1705,25 @@ Pre-decide how you'll respond to specific distractions. When the moment comes, y
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **If I'm genuinely stuck on the problem:**
 
 
@@ -806,7 +1732,25 @@ Pre-decide how you'll respond to specific distractions. When the moment comes, y
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **If I'm feeling frustrated or overwhelmed:**
 
 
@@ -815,7 +1759,25 @@ Pre-decide how you'll respond to specific distractions. When the moment comes, y
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **If my mind wanders:**
 
 
@@ -832,15 +1794,53 @@ You're deep in focus. Suddenly your brain says: "Oh! I need to text Jamie about 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Don't fight these thoughts. Capture them.**
 
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **The System:**
+
+
 
 - Keep a notepad or paper next to you during focus blocks
 - When a thought pops up, write it down in 3-5 words
@@ -850,7 +1850,25 @@ You're deep in focus. Suddenly your brain says: "Oh! I need to text Jamie about 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Why this works:**
 
 
@@ -865,7 +1883,25 @@ Borrowed from addiction psychology (because phone/social media addiction is real
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **When you get the urge to check your phone or scroll:**
 
 
@@ -875,8 +1911,28 @@ Borrowed from addiction psychology (because phone/social media addiction is real
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **2. Label it**
+
+
 
 - "This is the craving for distraction"
 - Naming it gives you power over it
@@ -884,8 +1940,28 @@ Borrowed from addiction psychology (because phone/social media addiction is real
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **3. Feel it physically**
+
+
 
 - Where do you feel it in your body?
 - Chest? Hands? Mind?
@@ -894,8 +1970,28 @@ Borrowed from addiction psychology (because phone/social media addiction is real
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **4. Watch it peak and pass**
+
+
 
 - Urges aren't constant. They rise, peak, and fall
 - Usually takes 60-90 seconds
@@ -904,8 +2000,28 @@ Borrowed from addiction psychology (because phone/social media addiction is real
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **5. Return to focus**
+
+
 
 - The urge passed. You're still here. You won.
 
@@ -918,7 +2034,15 @@ Eventually, the pull gets quieter.
 
 ---
 
+
+---
+
+
+---
+
 ## Focus in the Real World
+
+
 
 
 You can't live in a soundproof room with your phone in a different building. Life is messy. People interrupt. School is chaotic. So how do you maintain focus when your environment isn't perfect?
@@ -928,8 +2052,28 @@ You can't live in a soundproof room with your phone in a different building. Lif
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **In Class:**
+
+
 
 - Phone in locker or backpack (not in your pocket – too easy to reach)
 - Sit in front (fewer distractions in your visual field)
@@ -940,8 +2084,28 @@ You can't live in a soundproof room with your phone in a different building. Lif
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **During Homework/Study:**
+
+
 
 - Dedicated focus zone (same spot every time reduces decision fatigue)
 - Focus blocks with clear output goals (not time-based)
@@ -952,8 +2116,28 @@ You can't live in a soundproof room with your phone in a different building. Lif
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **In Social Situations:**
+
+
 
 - Put phone away (be present = massive social skill advantage)
 - Practice being okay with "boredom" (builds focus muscle)
@@ -963,8 +2147,28 @@ You can't live in a soundproof room with your phone in a different building. Lif
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **During Creative Work:**
+
+
 
 - Longest uninterrupted blocks you can manage (90-120 minutes)
 - Work during your lowest-distraction time of day
@@ -978,7 +2182,25 @@ Here's what most people get wrong: They think focus is about willpower and grind
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Wrong.**
 
 
@@ -987,15 +2209,53 @@ Focus capacity is like a muscle. After intense use, it needs real recovery.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **After deep focus blocks, your brain needs to actually rest.**
 
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Good Recovery:**
+
+
 
 - Walk (preferably outside)
 - Exercise
@@ -1008,8 +2268,28 @@ Focus capacity is like a muscle. After intense use, it needs real recovery.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Bad "Recovery" (Doesn't Actually Restore Mental Energy):**
+
+
 
 - Scrolling social media
 - Watching random videos
@@ -1027,7 +2307,15 @@ Schedule your recovery like you schedule your focus blocks. Both matter.
 
 ---
 
+
+---
+
+
+---
+
 ## The Competitive Advantage
+
+
 
 
 Let's zoom out and talk about why this matters more than almost anything else in this book.
@@ -1038,6 +2326,8 @@ We live in the most distracted era in human history.
 
 Most people:
 
+
+
 - Can't focus for more than a few minutes
 - Constantly check their phones
 - Multitask everything
@@ -1045,6 +2335,8 @@ Most people:
 - Compete at the same level as everyone else
 
 You (after training focus):
+
+
 
 - Can focus for 60-90 minutes without interruption
 - Protect your attention deliberately
@@ -1061,15 +2353,53 @@ Think about it from a purely competitive standpoint.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Scenario: Study for Test**
 
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Average Student:**
+
+
 
 - Studies 4 hours
 - Phone nearby
@@ -1081,8 +2411,28 @@ Think about it from a purely competitive standpoint.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **You (After Building Focus):**
+
+
 
 - Study 90 minutes
 - Phone in other room
@@ -1101,7 +2451,25 @@ The gap becomes massive.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Not because you worked harder. Because you worked focused.**
 
 
@@ -1114,8 +2482,28 @@ Here's your mission this week:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **2. Remove ALL distractions**
+
+
 
 - Phone in different room
 - Close unnecessary tabs
@@ -1125,8 +2513,28 @@ Here's your mission this week:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **3. Set specific output goal**
+
+
 
 - Not "study for 25 minutes"
 - Instead: "Master 5 practice problems with full understanding"
@@ -1134,8 +2542,28 @@ Here's your mission this week:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **4. Track completion**
+
+
 
 - Did you complete your focus block?
 - How many distractions did you resist?
@@ -1145,8 +2573,28 @@ Here's your mission this week:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **5. Journal quick notes**
+
+
 
 - What was hard about it?
 - What was surprising?
@@ -1161,8 +2609,28 @@ Here's what happens when you commit to daily focus practice:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **30 Days:**
+
+
 
 - Your focus stamina dramatically increases
 - Distractions lose their power over you
@@ -1173,8 +2641,28 @@ Here's what happens when you commit to daily focus practice:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **1 Year:**
+
+
 
 - You've mastered skills that most people never even start
 - You've built things most people only think about building
@@ -1184,7 +2672,25 @@ Here's what happens when you commit to daily focus practice:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **All from choosing where your attention goes.**
 
 
@@ -1201,7 +2707,25 @@ The distractions don't care about your potential.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **But you can.**
 
 
@@ -1220,8 +2744,32 @@ Each choice seems small. But they compound.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **In 5 years, you'll be exactly where your attention took you.**
+
+
+---
+
+
+---
 
 
 ---
@@ -1232,10 +2780,60 @@ Each choice seems small. But they compound.
 ## Coach's Corner: The Focus Mindset
 
 
+
+
+> [!NOTE]
+> [!NOTE]
 > [!NOTE]
 > [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+
+---
+
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+
+---
+
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 
 ---
 
@@ -1245,8 +2843,56 @@ Each choice seems small. But they compound.
 >
 > [!NOTE]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+
+---
+
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+
+---
+
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 
 ---
 
@@ -1256,8 +2902,56 @@ Each choice seems small. But they compound.
 >
 > [!NOTE]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+
+---
+
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+
+---
+
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 
 ---
 
@@ -1267,8 +2961,56 @@ Each choice seems small. But they compound.
 >
 > [!NOTE]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+
+---
+
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+
+---
+
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 
 ---
 
@@ -1281,8 +3023,22 @@ Each choice seems small. But they compound.
 
 ---
 
+
+---
+
+
+---
+
 ## Post-Game Review
 
+
+
+
+
+---
+
+
+---
 
 
 ---
@@ -1290,16 +3046,26 @@ Each choice seems small. But they compound.
 ### Key Takeaways
 
 
+
+
 1. **Attention is your most valuable resource** – Where you focus determines what you build. The algorithms are designed to steal it. Your job is to protect it.
+
+
 
 
 2. **Context switching kills productivity** – Every interruption costs 23 minutes of focus. "Just checking real quick" destroys your ability to do deep work.
 
 
+
+
 3. **Focus is a trainable skill** – Not a personality trait. Like a muscle, it gets stronger with practice and weaker without use.
 
 
+
+
 4. **Environment design beats willpower** – Elite performers engineer focus-friendly environments rather than relying on self-control.
+
+
 
 
 5. **The focus advantage compounds** – Small daily choices about where to direct attention create massive long-term results.
@@ -1307,16 +3073,26 @@ Each choice seems small. But they compound.
 ### Reflection Questions
 
 
+
+
 1. What's your biggest focus killer? (Be honest – probably your phone, right?)
+
+
 
 
 2. If you could accomplish 5X more in the same amount of time (which research shows is possible in flow states), what would you build?
 
 
+
+
 3. What's the real cost of your distraction habit? (Not just time – think about skills not learned, goals not reached, the version of yourself you're not becoming)
 
 
+
+
 4. When was the last time you experienced 90 uninterrupted minutes of deep focus? (If you can't remember, that's your answer right there)
+
+
 
 
 5. What's one focus block you'll commit to tomorrow? What's the specific output goal?
@@ -1350,8 +3126,32 @@ That's when mental game becomes everything.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **(Chapter 8: The Pressure is a Privilege)**
+
+
+---
+
+
+---
 
 
 ---
@@ -1363,17 +3163,57 @@ That's when mental game becomes everything.
 
 
 
+
+
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **This Week's Practice Drills:**
 
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Drill 1: The Daily Focus Block**
+
+
 
 - One 25-minute focus block per day
 - Phone in different room
@@ -1383,8 +3223,28 @@ That's when mental game becomes everything.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Drill 2: Urge Surfing Practice**
+
+
 
 - When you feel the urge to check your phone, don't
 - Notice → Label → Feel → Watch it pass → Refocus
@@ -1394,8 +3254,28 @@ That's when mental game becomes everything.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Drill 3: The Later List**
+
+
 
 - Keep paper next to you during focus blocks
 - Write down intrusive thoughts
@@ -1406,11 +3286,31 @@ That's when mental game becomes everything.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Weekly Check-In:**
 
 
 Track your progress:
+
+
 
 - [ ] Day 1: Complete one 25-minute focus block
 - [ ] Day 3: Complete one 25-minute focus block + Successfully surf 3 urges
@@ -1420,11 +3320,35 @@ Track your progress:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Pro Tip:**
 
 
 > Start ridiculously small. One 25-minute block is infinitely better than zero. Don't try to go from constantly distracted to 90-minute deep work overnight. Build the capacity gradually. Trust the process. The focus muscle strengthens faster than you think.
+
+---
+
+
+---
+
 
 ---
 
@@ -1436,9 +3360,45 @@ Track your progress:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Where will your attention take you?**
 
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 6 - Losing is Learning](chapter_06_losing_is_learning.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 8 - The Pressure Test ➡️](chapter_08_the_pressure_test.md)
+
+</div>
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 6 - Losing is Learning](chapter_06_losing_is_learning.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 8 - The Pressure Test ➡️](chapter_08_the_pressure_test.md)
+
+</div>
 
 
 ---

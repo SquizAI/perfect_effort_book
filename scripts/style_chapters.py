@@ -98,8 +98,29 @@ CHAPTERS = {
         "file": "chapter_13_the_compound_effect.md",
         "title": "The Compound Effect",
         "image": "../images/generated/chapters_informative/chapter_13_The_Compound_Effect.png",
-        "next": None,
+        "next": 14,
         "prev": 12
+    },
+    14: {
+        "file": "chapter_14_choose_your_teammates.md",
+        "title": "Choose Your Teammates",
+        "image": "../images/generated/chapters_informative/chapter_14_Choose_Your_Teammates.png",
+        "next": 15,
+        "prev": 13
+    },
+    15: {
+        "file": "chapter_15_the_mentor_advantage.md",
+        "title": "The Mentor Advantage",
+        "image": "../images/generated/chapters_informative/chapter_15_The_Mentor_Advantage.png",
+        "next": 16,
+        "prev": 14
+    },
+    16: {
+        "file": "chapter_16_building_your_support_system.md",
+        "title": "Building Your Support System",
+        "image": "../images/generated/chapters_informative/chapter_16_Building_Your_Support_System.png",
+        "next": None,
+        "prev": 15
     }
 }
 
@@ -212,7 +233,7 @@ def main():
     success = 0
     failed = 0
 
-    for chapter_num in range(1, 14):
+    for chapter_num in range(1, 17):
         if style_chapter(chapter_num):
             success += 1
         else:

@@ -7,7 +7,59 @@
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+
+---
+
+</div>
+
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_12_Time_is_Your_Currency.png" alt="Chapter 12: Time is Your Currency" width="600"/>
+
+
+> [!IMPORTANT]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+
+---
+
+</div>
+
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_12_Time_is_Your_Currency.png" alt="Chapter 12: Time is Your Currency" width="600"/>
+
+
+> [!IMPORTANT]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
 
 
@@ -17,11 +69,75 @@
 
 > [!NOTE]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **💡 Key Insight**
 > **Core Concept**: Time is your only non-renewable resource. You can't make more. You can only decide what you're willing to trade it for.
 > [!NOTE]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **💡 Key Insight**
 > **The Output**: Master your time to create leverage, freedom, and options that compound for years.
@@ -31,10 +147,24 @@
 
 ---
 
+
+---
+
+
+---
+
 ## Sunday Night, 10:47pm
 
 
+
+
 You're lying in bed scrolling through your phone.
+
+
+---
+
+
+---
 
 
 ---
@@ -46,6 +176,12 @@ Breakfast. Some YouTube. TikTok scrolling. Games. Friends. A little homework. Ne
 Now it's Sunday night and you're trying to figure out where 48 hours went.
 
 What do you have to show for it? What did you build? What did you learn? What got better?
+
+
+---
+
+
+---
 
 
 ---
@@ -65,7 +201,15 @@ And you're spending it like you're rich when you're actually broke.
 
 ---
 
+
+---
+
+
+---
+
 ## The Time Poverty Crisis
+
+
 
 
 You think you have plenty of time. You're young. Your whole life is ahead of you.
@@ -85,8 +229,28 @@ Wrong.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Here's what those 65 years actually look like in hours:**
+
+
 
 
 
@@ -98,7 +262,25 @@ Wrong.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **That's it. That's your entire life in hours.**
 
 
@@ -113,8 +295,28 @@ Let's track a typical day. Not what you think you do. What you actually do.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **The Math:**
+
+
 
 - School: 7 hours (required)
 - Sleep: 8 hours (required)
@@ -124,6 +326,8 @@ Let's track a typical day. Not what you think you do. What you actually do.
 Seven and a half hours. That's what you control.
 
 Now track what happens to those 7.5 hours:
+
+
 
 - Social media scrolling: 3 hours
 - Gaming/Netflix: 2 hours
@@ -140,7 +344,25 @@ That's not a good trade.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Coach's Corner:**
 
 
@@ -188,7 +410,15 @@ Same hour. Completely different returns.
 
 ---
 
+
+---
+
+
+---
+
 ## The Contrarian Time Choice
+
+
 
 
 Here's a question most people never ask: "What important truth do very few people agree with you on?"
@@ -200,11 +430,31 @@ Let's apply that to time.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **What should you be doing with your time that almost no one your age is doing?**
 
 
 Think about it. Most teenagers spend their time the same way:
+
+
 
 - Optimizing for social approval
 - Doing what everyone else does
@@ -221,7 +471,25 @@ What if you made different choices?
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Mistake #1: Treating All Hours as Equal**
 
 
@@ -238,7 +506,25 @@ Stop counting hours. Start counting what you get back.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Mistake #2: Following the Crowd**
 
 
@@ -253,7 +539,25 @@ In five years, which skill will have more career leverage?
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Mistake #3: Optimizing for Busy**
 
 
@@ -268,7 +572,25 @@ Depth beats breadth. Mastery beats dabbling. Every time.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Mistake #4: Avoiding the Uncomfortable Choice**
 
 
@@ -285,7 +607,25 @@ To invest time in skills that won't pay off for years.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life.**
 
 
@@ -296,6 +636,8 @@ By 25, they're ten years ahead of everyone who played it safe.
 ### The Weekly Contrarian Questions
 
 Ask yourself every Sunday night:
+
+
 
 
 1. What is everyone in my peer group doing with their time?
@@ -315,7 +657,15 @@ The stuff that will matter? You're probably avoiding it because it's hard and no
 
 ---
 
+
+---
+
+
+---
+
 ## The 7-Day Time Audit
+
+
 
 
 You can't fix what you can't see.
@@ -331,8 +681,28 @@ For the next seven days, track every single hour.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Create a simple note on your phone with four columns:**
+
+
 
 
 1. **Time & Activity** (what you did each hour)
@@ -351,11 +721,31 @@ After seven days, add up your hours by category.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Your discretionary time (about 50 hours per week) breaks down like this:**
 
 
 Time by Category:
+
+
 
 - Zero-value hours: ___
 - Low-value hours: ___
@@ -367,7 +757,25 @@ Most people discover they spent 40 hours on zero/low-value activities and 10 hou
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **80% of time creating 20% of value.**
 
 
@@ -376,7 +784,25 @@ The goal? Flip it.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Coach's Corner:**
 
 
@@ -416,7 +842,25 @@ Your brain has peak performance windows. You need to know yours.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Digital Black Holes:**
 
 
@@ -431,7 +875,25 @@ The "just five minutes" of gaming. Now the afternoon's gone.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Fake Productivity:**
 
 
@@ -446,7 +908,25 @@ Research spirals with zero output at the end.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Social Obligation Time:**
 
 
@@ -461,7 +941,25 @@ Drama spirals that suck hours and give nothing back.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Decision Fatigue Time:**
 
 
@@ -478,7 +976,15 @@ Context switching between tasks constantly.
 
 ---
 
+
+---
+
+
+---
+
 ## The Leverage Hierarchy
+
+
 
 
 Some activities give you 1x return. You put in an hour, you get an hour of value.
@@ -552,16 +1058,26 @@ Same 24 hours. Completely different trajectories.
 Before you commit time to anything, run it through these five questions:
 
 
+
+
 1. **Does this compound?** Will it be worth more in the future than it is right now?
+
+
 
 
 2. **Does this create leverage?** Can I use this skill or output repeatedly?
 
 
+
+
 3. **Is this the highest-value use of this hour?** What am I saying no to by saying yes to this?
 
 
+
+
 4. **Am I doing this because it matters or because everyone else is?** Am I following the crowd or making a contrarian bet?
+
+
 
 
 5. **Will future me thank current me?** In five years, will I be glad I spent this hour this way?
@@ -571,7 +1087,25 @@ If you can't answer yes to at least three of these, you're probably wasting time
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Coach's Corner:**
 
 
@@ -582,7 +1116,15 @@ If you can't answer yes to at least three of these, you're probably wasting time
 
 ---
 
+
+---
+
+
+---
+
 ## The Art of Strategic No
+
+
 
 
 Your time is the scarcest resource you have.
@@ -660,8 +1202,28 @@ So what should you say yes to?
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Say yes to:**
+
+
 
 - Opportunities that compound (skills that build on skills)
 - Activities aligned with your 5-year goals
@@ -671,8 +1233,28 @@ So what should you say yes to?
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Say no to:**
+
+
 
 - Recurring commitments that don't compound
 - Opportunities that "look good" but don't move your goals
@@ -686,7 +1268,25 @@ You can't have everything. But you can consciously choose what you're trading.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Trade 1: Social Time vs. Skill Time**
 
 
@@ -699,7 +1299,25 @@ FOMO today. Optionality tomorrow.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Trade 2: Breadth vs. Depth**
 
 
@@ -712,7 +1330,25 @@ Looking "well-rounded" vs. being exceptional in reality.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Trade 3: Approval vs. Progress**
 
 
@@ -729,7 +1365,25 @@ These trades are uncomfortable. That's the point.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Uncomfortable choices at 15 create comfortable lives at 25.**
 
 
@@ -742,7 +1396,15 @@ Which do you want?
 
 ---
 
+
+---
+
+
+---
+
 ## Your High-Leverage Time Blocks
+
+
 
 
 You can't just think about time differently. You have to structure your days differently.
@@ -774,7 +1436,25 @@ Strategic learning.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Focused but flexible.**
 
 
@@ -789,7 +1469,25 @@ Routine maintenance tasks.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Lower leverage, still valuable.**
 
 
@@ -804,7 +1502,25 @@ System building for future efficiency.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Don't force it if you're exhausted. Rest is productive too.**
 
 
@@ -819,7 +1535,25 @@ Actual rest that sets up your next morning.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **This determines how good tomorrow's morning block will be.**
 
 
@@ -830,8 +1564,28 @@ Every day, protect one 90-minute block of deep work.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **The rules:**
+
+
 
 - One task only. No switching.
 - Zero distractions. Phone in another room.
@@ -857,8 +1611,28 @@ Here's how to invest them:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Contrarian allocation:**
+
+
 
 - 15 hours: Deep skill development (elite-level deliberate practice)
 - 10 hours: Building and creating (projects, portfolio, tangible outputs)
@@ -870,15 +1644,53 @@ Here's how to invest them:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Total: 50 hours of high-leverage time.**
 
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **vs. Conventional allocation:**
+
+
 
 - 20 hours: Social media and scrolling
 - 15 hours: Gaming and Netflix
@@ -888,7 +1700,25 @@ Here's how to invest them:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Total: 50 hours that produce almost nothing.**
 
 
@@ -901,6 +1731,8 @@ In five years? Completely different lives.
 Once a month, run this check-in:
 
 
+
+
 1. Complete another 7-day time audit
 2. Compare it to your ideal week template
 3. Identify your biggest current time leak
@@ -908,6 +1740,8 @@ Once a month, run this check-in:
 5. Add one new high-leverage time block
 
 Once a quarter, go deeper:
+
+
 
 
 1. What did I actually build or create this quarter?
@@ -925,7 +1759,15 @@ Because it's easy to slip back into old patterns without realizing it.
 
 ---
 
+
+---
+
+
+---
+
 ## The Compound Time Effect
+
+
 
 
 Small daily choices about time don't create small results.
@@ -949,7 +1791,25 @@ And the earlier you start, the more extreme those results become.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Same starting point. Same 10 years. Completely different lives.**
 
 
@@ -964,6 +1824,8 @@ What if you invested just one extra hour per day in high-leverage activities?
 Let's do the math:
 
 
+
+
 - **Daily:** 1 hour ahead
 - **Weekly:** 7 hours ahead
 - **Monthly:** 30 hours ahead (full extra week of leverage)
@@ -973,6 +1835,8 @@ Let's do the math:
 But it's not linear. It's exponential.
 
 Because:
+
+
 
 - Skills build on skills
 - Networks connect to networks
@@ -994,7 +1858,25 @@ Try this exercise. It's uncomfortable.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Imagine two versions of yourself five years from now.**
 
 
@@ -1015,7 +1897,25 @@ Try this exercise. It's uncomfortable.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **The gap between these two versions?**
 
 
@@ -1030,7 +1930,15 @@ Which version do you want to be?
 
 ---
 
+
+---
+
+
+---
+
 ## Your Game Plan
+
+
 
 
 Time to move from theory to action.
@@ -1040,7 +1948,25 @@ Time to move from theory to action.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **This Week:**
 
 
@@ -1059,7 +1985,25 @@ That thing you do for hours that creates zero value.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **This Week:**
 
 
@@ -1076,7 +2020,25 @@ Identify your highest-energy time window. Usually first 2-3 hours after waking.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Starting Tomorrow:**
 
 
@@ -1111,7 +2073,15 @@ Be direct. Be kind. Be firm.
 
 ---
 
+
+---
+
+
+---
+
 ## Practice Drills
+
+
 
 
 ### Drill 1: The Hour Value Calculator
@@ -1122,6 +2092,8 @@ For each activity you did today, calculate the return:
 
 Example:
 
+
+
 - 1 hour scrolling: $0 in 1 month, $0 in 1 year, $0 in 5 years
 - 1 hour learning to code: $0 in 1 month, $1,000 in 1 year, $50,000+ in 5 years
 
@@ -1130,6 +2102,8 @@ Do this for a week. It changes how you see every time choice.
 ### Drill 2: The Contrarian Question Challenge
 
 Every Sunday night, answer these five questions:
+
+
 
 
 1. What is everyone my age doing with their time?
@@ -1147,8 +2121,28 @@ Starting tomorrow, protect one 90-minute deep work block.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Your only goals:**
+
+
 
 
 1. One task only
@@ -1164,6 +2158,8 @@ You'll be shocked at what you can accomplish with actual focus.
 Track your time transformation:
 
 
+
+
 - [ ] **Day 1:** Complete first time audit entry
 - [ ] **Day 3:** Identify biggest time leak
 - [ ] **Day 5:** One full week of 90-minute blocks
@@ -1172,7 +2168,25 @@ Track your time transformation:
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Pro Tip:**
 
 
@@ -1183,8 +2197,22 @@ Track your time transformation:
 
 ---
 
+
+---
+
+
+---
+
 ## Post-Game Review
 
+
+
+
+
+---
+
+
+---
 
 
 ---
@@ -1192,16 +2220,26 @@ Track your time transformation:
 ### Key Takeaways
 
 
+
+
 1. **Time is your only non-renewable resource.** You can't make more. You can only invest it wisely or waste it. Every hour spent is gone forever.
+
+
 
 
 2. **Not all hours are equal.** Some create 1x value. Some create 100x value. Focus on high-leverage activities that compound, not busywork that vanishes.
 
 
+
+
 3. **Learning to say no is the highest-leverage skill.** Good opportunities are the enemy of great ones. Use the 90% rule. Protect your time ruthlessly.
 
 
+
+
 4. **Contrarian choices create exponential results.** Everyone follows the crowd. Winners make uncomfortable bets on high-leverage skills others ignore.
+
+
 
 
 5. **Small daily choices compound into massive life differences.** One hour per day of strategic time use creates a completely different life in five years.
@@ -1209,21 +2247,37 @@ Track your time transformation:
 ### Reflection Questions
 
 
+
+
 1. If you tracked your time for the last week honestly, what percentage went to zero-value activities?
+
+
 
 
 2. What's one thing almost no one your age is doing with their time that could create massive leverage in 5-10 years?
 
 
+
+
 3. What's your biggest time leak right now? The honest answer, not the one that sounds good.
+
+
 
 
 4. What would Version B of you (five years from now) tell current you about how to spend today?
 
 
+
+
 5. What one commitment can you say no to this week to free up time for what actually matters?
 
 ### The Output Mindset
+
+
+---
+
+
+---
 
 
 ---
@@ -1261,113 +2315,437 @@ The game is just getting started.
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Every hour you spend is an investment.**
 
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Some investments return nothing.**
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Some investments return 1x.**
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **The best investments return 100x, 1000x, 10,000x.**
 
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **You can't make more time.**
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **You can only decide what you're willing to trade it for.**
 
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **The crowd trades time for entertainment, distraction, approval.**
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Contrarians trade time for skills, leverage, freedom.**
 
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **In five years, you'll be rich or you'll be broke.**
 
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Not money-rich. Time-rich.**
 
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **You'll either have leverage, options, and freedom...**
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **Or you'll still be trading hours for dollars, stuck in the same place.**
 
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **The choice is happening right now.**
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **With this hour.**
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **And the next one.**
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **And the next one.**
 
 
 
 > [!IMPORTANT]
 > [!NOTE]
+> [!NOTE]
+> [!NOTE]
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
+> **💡 Key Insight**
+> [!NOTE]
+> [!NOTE]
+> [!NOTE]
+> 💡 **Key Insight**
+> 💡 **Key Insight**
+> **💡 Key Insight**
 > **What are you buying with your time?**
 
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 11 - The Recovery Room](chapter_11_the_recovery_room.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 13 - The Compound Effect ➡️](chapter_13_the_compound_effect.md)
+
+</div>
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 11 - The Recovery Room](chapter_11_the_recovery_room.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 13 - The Compound Effect ➡️](chapter_13_the_compound_effect.md)
+
+</div>
 
 
 ---

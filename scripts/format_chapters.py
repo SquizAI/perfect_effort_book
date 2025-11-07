@@ -151,7 +151,7 @@ def main():
     chapter_files = sorted(CHAPTERS_DIR.glob('chapter_*.md'))
 
     success = 0
-    for filepath in chapter_files[:13]:  # Only chapters 1-13
+    for filepath in chapter_files[:16]:  # Chapters 1-16
         if format_chapter_file(filepath):
             success += 1
 
