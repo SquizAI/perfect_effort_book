@@ -1137,7 +1137,9 @@ Move.
 
 ---
 
-### Key Takeaways
+
+> [!TIP]
+> ### Key Takeaways
 
 
 1. **Your morning creates momentum for everything that follows.** Win the morning, win the day. Lose the morning, spend all day playing catch-up.

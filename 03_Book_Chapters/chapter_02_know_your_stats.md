@@ -335,7 +335,9 @@ What specific outputs am I aiming for?
 
 ---
 
-### How to Use Your Scorecard
+
+> [!IMPORTANT]
+> ### How to Use Your Scorecard
 
 **Step 1: Every Sunday, Fill It Out**
 
@@ -536,7 +538,9 @@ The moment the numbers become the goal, you've lost sight of what actually matte
 
 Metrics are tools. Feedback loops. Not destinations.
 
-### How to Keep Stats in Perspective
+
+> [!IMPORTANT]
+> ### How to Keep Stats in Perspective
 
 **1. Track the Right Things**
 
@@ -690,7 +694,9 @@ And then they go back out and play.
 
 ---
 
-## Key Takeaways
+
+> [!TIP]
+> ## Key Takeaways
 
 
 **1. You Can't Improve What You Don't Measure**
@@ -782,11 +788,15 @@ Time to figure out what game you're actually playing.
 
 ---
 
-## Action Items
+
+> [!IMPORTANT]
+> ## Action Items
 
 
 
-✅ **This Week**:
+
+> [!WARNING]
+> ✅ **This Week**:
 
 1. Pick ONE area to measure honestly
 2. Create your baseline (test yourself, no lying)

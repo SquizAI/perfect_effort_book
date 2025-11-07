@@ -167,7 +167,9 @@ Every moment you give to distraction is a moment someone else is using to get be
 Let's get real about what we're actually measuring:
 
 
-❌ **Task-Focused**: "I studied for 3 hours"
+
+> [!WARNING]
+> ❌ **Task-Focused**: "I studied for 3 hours"
 
 - Phone nearby
 - Interrupted constantly
@@ -176,7 +178,9 @@ Let's get real about what we're actually measuring:
 - Zero retention
 
 
-✅ **Output-Focused**: "I mastered 20 practice problems in 90 focused minutes"
+
+> [!WARNING]
+> ✅ **Output-Focused**: "I mastered 20 practice problems in 90 focused minutes"
 
 - Phone in different room
 - Zero interruptions
@@ -571,7 +575,9 @@ You can't jump straight to 90-minute deep work sessions if you've spent years ch
 
 ---
 
-## The Distraction Defense System
+
+> [!IMPORTANT]
+> ## The Distraction Defense System
 
 
 Distractions will come. They always do. The difference between people who maintain focus and people who don't isn't that one group doesn't get distracted – it's that one group has a system for handling distractions when they appear.
@@ -907,7 +913,9 @@ Each choice seems small. But they compound.
 
 ---
 
-### Key Takeaways
+
+> [!TIP]
+> ### Key Takeaways
 
 
 1. **Attention is your most valuable resource** – Where you focus determines what you build. The algorithms are designed to steal it. Your job is to protect it.

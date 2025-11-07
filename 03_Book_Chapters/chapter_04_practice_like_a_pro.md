@@ -251,12 +251,16 @@ Vague practice produces vague results.
 Elite practice requires laser-focused targets.
 
 
-❌ **Bad:** "I'm going to practice piano for an hour."
+
+> [!WARNING]
+> ❌ **Bad:** "I'm going to practice piano for an hour."
 
 What are you actually going to improve? What does success look like? How will you know if the hour was effective?
 
 
-✅ **Good:** "I'm going to master the left-hand arpeggio in measures 12-16 of this piece until I can play it flawlessly at tempo 5 times in a row."
+
+> [!WARNING]
+> ✅ **Good:** "I'm going to master the left-hand arpeggio in measures 12-16 of this piece until I can play it flawlessly at tempo 5 times in a row."
 
 Now you have a target. Now you have a finish line. Now you know exactly what you're trying to accomplish.
 
@@ -642,10 +646,14 @@ And the growth zone is, by definition, uncomfortable.
 Here's the shift that separates elite performers from everyone else:
 
 
-❌ **Fixed mindset:** "I messed up again. I suck at this. Maybe I'm just not talented."
+
+> [!WARNING]
+> ❌ **Fixed mindset:** "I messed up again. I suck at this. Maybe I'm just not talented."
 
 
-✅ **Growth mindset:** "I messed up again. That's data showing me exactly what to adjust. One more rep closer to mastery."
+
+> [!WARNING]
+> ✅ **Growth mindset:** "I messed up again. That's data showing me exactly what to adjust. One more rep closer to mastery."
 
 Every failure in practice is:
 
@@ -1138,7 +1146,9 @@ Practice like a pro. Improve like you mean it.
 
 ---
 
-### Key Takeaways
+
+> [!TIP]
+> ### Key Takeaways
 
 
 1. **The 10,000-hour rule is misleading:** It's not about time, it's about the quality of practice. Deliberate practice beats mindless repetition every single time.

@@ -231,7 +231,9 @@ But it's not talent. It's the aggregation of marginal gains.
 Here's the trap most people fall into with improvement:
 
 
-❌ **Task-focused thinking:**
+
+> [!WARNING]
+> ❌ **Task-focused thinking:**
 
 - "I need to practice more"
 - "I should study harder"
@@ -240,7 +242,9 @@ Here's the trap most people fall into with improvement:
 Those are inputs. They're vague. They don't tell you what you're building toward.
 
 
-✅ **Output-focused thinking:**
+
+> [!WARNING]
+> ✅ **Output-focused thinking:**
 
 - "Build game-changing skills through 1% daily improvements"
 - "Master the material so well that tests feel easy"
@@ -969,13 +973,17 @@ Everything you've read is useless if you don't implement it. Here's your system 
 Be ruthlessly specific. Vague goals create vague results.
 
 
-**❌ Too vague:**
+
+> [!WARNING]
+> **❌ Too vague:**
 - "Get better at school"
 - "Get in shape"
 - "Be more productive"
 
 
-**✅ Specific compound area (output-focused):**
+
+> [!WARNING]
+> **✅ Specific compound area (output-focused):**
 - "Master calculus through 1% daily improvements in problem-solving"
 - "Build explosive power that dominates on the court"
 - "Become fluent in Spanish through daily 1% vocabulary gains"
@@ -1111,7 +1119,9 @@ That's how you get 37x better.
 
 ---
 
-### Key Takeaways
+
+> [!TIP]
+> ### Key Takeaways
 
 
 1. **Small actions compound exponentially**: 1% better daily = 37x better in a year. Not linear growth. Exponential growth.
@@ -1191,7 +1201,9 @@ Next chapter: **Choose Your Team** - Because the compound effect works both ways
 
 ---
 
-## Your Compound Action Items
+
+> [!IMPORTANT]
+> ## Your Compound Action Items
 
 
 Don't just read this. DO this.

@@ -142,19 +142,31 @@ Not because it's easy. Because it works.
 Let's reframe this the way we reframe everything in this book.
 
 
-❌ **Task-focused thinking**: "I need to eat healthy."
 
-✅ **Output-focused thinking**: "I need consistent energy from 7am to 10pm so I can dominate my day."
-
-
-❌ **Task-focused thinking**: "I should get 8 hours of sleep."
-
-✅ **Output-focused thinking**: "I need to wake up with mental clarity and physical energy so I'm ready to perform."
+> [!WARNING]
+> ❌ **Task-focused thinking**: "I need to eat healthy."
 
 
-❌ **Task-focused thinking**: "I have to work out."
+> [!WARNING]
+> ✅ **Output-focused thinking**: "I need consistent energy from 7am to 10pm so I can dominate my day."
 
-✅ **Output-focused thinking**: "I'm building a body that's strong, fast, and doesn't break down when it matters."
+
+
+> [!WARNING]
+> ❌ **Task-focused thinking**: "I should get 8 hours of sleep."
+
+
+> [!WARNING]
+> ✅ **Output-focused thinking**: "I need to wake up with mental clarity and physical energy so I'm ready to perform."
+
+
+
+> [!WARNING]
+> ❌ **Task-focused thinking**: "I have to work out."
+
+
+> [!WARNING]
+> ✅ **Output-focused thinking**: "I'm building a body that's strong, fast, and doesn't break down when it matters."
 
 See the difference? One feels like a chore. The other feels like power.
 
@@ -962,7 +974,9 @@ You'll be shocked at the difference.
 
 ---
 
-### Key Takeaways
+
+> [!TIP]
+> ### Key Takeaways
 
 **1. Your body is the engine for everything you want to achieve**. Premium fuel = peak performance. Garbage fuel = you're done before you start. Choose wisely.
 

@@ -739,7 +739,9 @@ This test reminds you that character beats achievement.
 
 ---
 
-#### Real-Life Application Examples
+
+> [!NOTE]
+> #**📖 Real-Life Application Examples**
 
 Let's see how this works with actual decisions you'll face.
 
@@ -959,7 +961,9 @@ Are you building something worth emulating?
 
 ---
 
-#### The Legacy Action Plan
+
+> [!IMPORTANT]
+> #### The Legacy Action Plan
 
 **This Year:**
 - Mentor 1-2 people (Chapter 15 callback). Share what you're learning.
@@ -1155,7 +1159,9 @@ Write down your answers. Be honest.
 
 ---
 
-### Key Takeaways
+
+> [!TIP]
+> ### Key Takeaways
 
 Let's distill this chapter into the essentials:
 

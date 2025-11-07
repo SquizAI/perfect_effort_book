@@ -672,7 +672,9 @@ Ask yourself:
 
 **The Output**: You're not just good at one thing. You're uniquely great at a combination of things.
 
-### Step 6: Learn How to Learn (The Meta-Skill)
+
+> [!IMPORTANT]
+> ### Step 6: Learn How to Learn (The Meta-Skill)
 
 The ultimate skill. Getting better at getting better.
 
@@ -852,7 +854,9 @@ The output: Deeper mastery through teaching plus practice helping others (leader
 
 ---
 
-### Key Takeaways
+
+> [!TIP]
+> ### Key Takeaways
 
 **Skills compound over time**. Small daily improvements become mastery. You're not building for today. You're building for five years from now.
 

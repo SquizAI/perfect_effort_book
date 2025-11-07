@@ -79,7 +79,10 @@ But here's the secret: Once you understand the real rules, you can redesign the 
 
 ---
 
-## Rule #1: Output > Input (Results Beat Hours)
+
+> [!IMPORTANT]
+> ## Rule #1: Output > Input (Results Beat Hours)
+>
 
 
 Let me ask you something: What matters more?
@@ -108,22 +111,34 @@ Inputs make you feel productive. Outputs make you actually improve.
 This is the single most important shift you'll make in this entire book. Ready?
 
 
-❌ **Task-Focused Thinking**: "I need to study for 2 hours tonight."
+
+> [!WARNING]
+> ❌ **Task-Focused Thinking**: "I need to study for 2 hours tonight."
 
 
-✅ **Output-Focused Thinking**: "I need to master this material so well that the test feels easy."
+
+> [!WARNING]
+> ✅ **Output-Focused Thinking**: "I need to master this material so well that the test feels easy."
 
 
-❌ **Task-Focused**: "Go to basketball practice."
+
+> [!WARNING]
+> ❌ **Task-Focused**: "Go to basketball practice."
 
 
-✅ **Output-Focused**: "Get so good at my weak-hand layups that defenders can't predict which side I'll attack from."
+
+> [!WARNING]
+> ✅ **Output-Focused**: "Get so good at my weak-hand layups that defenders can't predict which side I'll attack from."
 
 
-❌ **Task-Focused**: "Do my homework."
+
+> [!WARNING]
+> ❌ **Task-Focused**: "Do my homework."
 
 
-✅ **Output-Focused**: "Understand this concept well enough to teach it to someone else."
+
+> [!WARNING]
+> ✅ **Output-Focused**: "Understand this concept well enough to teach it to someone else."
 
 The difference is everything. One mindset has you checking boxes. The other has you leveling up.
 
@@ -134,7 +149,10 @@ And here's the kicker: **The output-focused mindset is way more fun.** Because y
 
 ---
 
-## Rule #2: Discomfort = Growth (The Friction Principle)
+
+> [!IMPORTANT]
+> ## Rule #2: Discomfort = Growth (The Friction Principle)
+>
 
 
 Pop quiz: When do you learn the most?
@@ -214,7 +232,10 @@ The only difference between someone who's "successful" and someone who's "not th
 
 ---
 
-## Rule #3: The Scoreboard is Internal (Preview)
+
+> [!IMPORTANT]
+> ## Rule #3: The Scoreboard is Internal (Preview)
+>
 
 
 Quick question: Who decides if you're winning?
@@ -238,7 +259,10 @@ And that's a game you can actually win.
 
 ---
 
-## Rule #4: Compound Interest Applies to Everything
+
+> [!IMPORTANT]
+> ## Rule #4: Compound Interest Applies to Everything
+>
 
 
 Here's a math lesson that actually matters:
@@ -433,11 +457,15 @@ You can't improve what you don't measure. Time to get scientific about your life
 
 ---
 
-## Action Items
+
+> [!IMPORTANT]
+> ## Action Items
 
 
 
-✅ **This Week**: Complete your stat sheet. Pick ONE area to treat like sports practice. Track outputs, not inputs. Report back to yourself: Did you level up?
+
+> [!WARNING]
+> ✅ **This Week**: Complete your stat sheet. Pick ONE area to treat like sports practice. Track outputs, not inputs. Report back to yourself: Did you level up?
 
 The game has begun.
 

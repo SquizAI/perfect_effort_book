@@ -963,7 +963,9 @@ You can't just take. You have to give.
 
 The question isn't just "Who's there for me?" It's also "Who am I there for?"
 
-#### How to Be a Great Support Person
+
+> [!IMPORTANT]
+> #### How to Be a Great Support Person
 
 
 > 💡 **Key Insight**
@@ -1378,7 +1380,9 @@ Let's lock in what matters.
 
 ---
 
-### Key Takeaways
+
+> [!TIP]
+> ### Key Takeaways
 
 
 > 💡 **Key Insight**
@@ -1490,7 +1494,9 @@ _______________________________________________________________
 
 ---
 
-### Remember: The Output Mindset
+
+> [!TIP]
+> ### Remember: The Output Mindset
 
 Don't think: "I need to ask more people for help" (task-focused).
 

@@ -672,7 +672,9 @@ You're not focused on this week's score. You're focused on who you're becoming o
 
 ---
 
-### Key Takeaways
+
+> [!TIP]
+> ### Key Takeaways
 
 
 1. **Failure isn't the opposite of success – it's the admission price.** Every elite performer has failed more times than average people have tried. The difference is they learned from it.

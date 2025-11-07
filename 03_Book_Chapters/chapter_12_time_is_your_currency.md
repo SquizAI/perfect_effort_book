@@ -330,7 +330,9 @@ Your brain has peak performance windows. You need to know yours.
 - Social recovery time when needed
 - **Fine occasionally. Devastating as your default.**
 
-### Common Time Leaks (And How to Plug Them)
+
+> [!IMPORTANT]
+> ### Common Time Leaks (And How to Plug Them)
 
 **Digital Black Holes:**
 
@@ -515,7 +517,9 @@ You only have so many hours. Fill them with "pretty good" and you never have roo
 
 Seven clubs at 70% commitment? Less valuable than one thing at 95%.
 
-### How to Actually Say No
+
+> [!IMPORTANT]
+> ### How to Actually Say No
 
 **To Friends** (Social pressure):
 
@@ -968,7 +972,9 @@ Track your time transformation:
 
 ---
 
-### Key Takeaways
+
+> [!TIP]
+> ### Key Takeaways
 
 
 1. **Time is your only non-renewable resource.** You can't make more. You can only invest it wisely or waste it. Every hour spent is gone forever.

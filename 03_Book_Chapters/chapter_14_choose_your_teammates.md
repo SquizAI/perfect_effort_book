@@ -661,7 +661,9 @@ The first no is the hardest. The second is easier. By the third, you'll realize 
 
 ---
 
-### Key Takeaways
+
+> [!TIP]
+> ### Key Takeaways
 
 
 

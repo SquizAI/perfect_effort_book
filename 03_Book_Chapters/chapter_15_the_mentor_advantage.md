@@ -432,7 +432,9 @@ The sooner you learn to be comfortable asking for help, the sooner you'll win. T
 
 ---
 
-## Real-World Examples: Mentors in Action
+
+> [!IMPORTANT]
+> ## Real-World Examples: Mentors in Action
 
 
 
@@ -649,7 +651,9 @@ That's the mentor advantage. Not magic. Just someone who's been there showing yo
 
 ---
 
-## Your Game Plan: How to Find and Keep Great Mentors
+
+> [!IMPORTANT]
+> ## Your Game Plan: How to Find and Keep Great Mentors
 
 
 
@@ -1072,7 +1076,9 @@ Steve Jobs did the work. Eric Schmidt did the work. That's why Campbell kept sho
 
 ---
 
-## Practice Drills: Put This Into Action
+
+> [!IMPORTANT]
+> ## Practice Drills: Put This Into Action
 
 
 
@@ -1219,7 +1225,9 @@ Track your mentor-finding progress:
 
 ---
 
-### Key Takeaways
+
+> [!TIP]
+> ### Key Takeaways
 
 
 

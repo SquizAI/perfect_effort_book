@@ -328,7 +328,9 @@ If you've studied the material, don't panic and change your test-taking strategy
 
 The time to experiment is in practice. The time to trust is in performance.
 
-### Step 5: COMMIT (Full Action)
+
+> [!IMPORTANT]
+> ### Step 5: COMMIT (Full Action)
 
 The final step is simple but crucial: **Commit fully to the action.**
 
@@ -576,27 +578,41 @@ Kobe Bryant missed shots. Michael Jordan missed game-winners. Elite students fai
 ### If You Choked, Don't Do This:
 
 
-❌ **Catastrophize**: "I always choke." "I can't handle pressure." "I'm just not clutch."
+
+> [!WARNING]
+> ❌ **Catastrophize**: "I always choke." "I can't handle pressure." "I'm just not clutch."
 
 
-❌ **Avoid pressure going forward**: Hiding from pressure doesn't build pressure tolerance. It destroys it.
+
+> [!WARNING]
+> ❌ **Avoid pressure going forward**: Hiding from pressure doesn't build pressure tolerance. It destroys it.
 
 
-❌ **Make it your identity**: "I'm not a clutch performer" becomes a self-fulfilling prophecy.
+
+> [!WARNING]
+> ❌ **Make it your identity**: "I'm not a clutch performer" becomes a self-fulfilling prophecy.
 
 ### If You Choked, Do This Instead:
 
 
-✅ **Objective analysis**: What specifically went wrong? Not "I suck under pressure." But "I forgot to breathe and my mind spiraled to outcome thinking."
+
+> [!WARNING]
+> ✅ **Objective analysis**: What specifically went wrong? Not "I suck under pressure." But "I forgot to breathe and my mind spiraled to outcome thinking."
 
 
-✅ **Identify the gap**: Was this a training issue (didn't prepare enough) or an execution issue (prepared but didn't execute the routine)?
+
+> [!WARNING]
+> ✅ **Identify the gap**: Was this a training issue (didn't prepare enough) or an execution issue (prepared but didn't execute the routine)?
 
 
-✅ **Adjust training**: Whatever went wrong, practice that specific scenario this week. Choked on time pressure? Practice with shorter time limits. Choked when people were watching? Practice with an audience.
+
+> [!WARNING]
+> ✅ **Adjust training**: Whatever went wrong, practice that specific scenario this week. Choked on time pressure? Practice with shorter time limits. Choked when people were watching? Practice with an audience.
 
 
-✅ **Retest soon**: Don't wait months to face pressure again. Seek out another pressure situation within days or weeks. You need to prove to yourself that you can handle it.
+
+> [!WARNING]
+> ✅ **Retest soon**: Don't wait months to face pressure again. Seek out another pressure situation within days or weeks. You need to prove to yourself that you can handle it.
 
 ### The Bounce-Back Timeline
 
@@ -853,7 +869,9 @@ Not because pressure gets easier. But because you get stronger.
 
 ---
 
-### Key Takeaways
+
+> [!TIP]
+> ### Key Takeaways
 
 
 1. **Pressure reveals preparation**: You don't rise to the occasion. You fall to your level of preparation. Train for pressure deliberately, not accidentally.

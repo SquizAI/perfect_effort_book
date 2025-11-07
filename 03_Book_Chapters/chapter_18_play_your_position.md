@@ -912,7 +912,9 @@ Don't just complain about rules that don't fit you. Test alternatives. Be the pe
 
 ---
 
-### Key Takeaways
+
+> [!TIP]
+> ### Key Takeaways
 
 **1. You Don't Have to Be Best at Everything**
 

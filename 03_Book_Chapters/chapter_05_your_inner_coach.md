@@ -522,7 +522,9 @@ That choice? That's where your power lives.
 
 ---
 
-### Key Takeaways
+
+> [!TIP]
+> ### Key Takeaways
 
 
 1. **Your inner voice is always talking** – The question isn't whether you have an inner voice, but whether it's coaching you or criticizing you.

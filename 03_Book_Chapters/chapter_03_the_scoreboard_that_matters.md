@@ -732,7 +732,9 @@ And dominate.
 
 ---
 
-### Key Takeaways
+
+> [!TIP]
+> ### Key Takeaways
 
 
 1. **Two Scoreboards Exist**: External (what others think) and Internal (what you know about yourself). One you can never control. One you completely control.
@@ -798,11 +800,15 @@ The scoreboard is set. Now let's dominate it.
 
 ---
 
-## Action Items
+
+> [!IMPORTANT]
+> ## Action Items
 
 
 
-✅ **This Week**:
+
+> [!WARNING]
+> ✅ **This Week**:
 
 
 1. Complete your Internal Scorecard (values, definition of winning, private metrics, non-negotiables)

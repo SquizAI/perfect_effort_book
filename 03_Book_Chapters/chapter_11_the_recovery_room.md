@@ -883,7 +883,9 @@ You already know the answer. Now prove it to yourself.
 
 ---
 
-### Key Takeaways
+
+> [!TIP]
+> ### Key Takeaways
 
 
 1. **Recovery isn't weakness - it's when growth happens.** You don't get stronger during the workout. You get stronger during recovery. Your body and brain need rest to adapt and improve.
