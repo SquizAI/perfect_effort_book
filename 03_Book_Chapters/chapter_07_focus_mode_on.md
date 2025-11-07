@@ -43,7 +43,11 @@ Pages read: Zero. Problems solved: Zero. Material learned: Zero.
 
 But here's the kicker – you *feel* like you've been working. You've been sitting there for 45 minutes. You're tired. You tell yourself you tried.
 
-**Here's the uncomfortable truth: You just traded 45 minutes of your life for absolutely nothing.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Here's the uncomfortable truth: You just traded 45 minutes of your life for absolutely nothing.*
+
 
 Not learning. Not progress. Not even real rest or entertainment. Just... scattered distraction and a growing pile of work you still need to do.
 
@@ -61,14 +65,22 @@ Unless you learn what elite performers already know: **In a world designed to st
 
 Let's talk about the real game being played right now.
 
-**You think the game is:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *You think the game is:*
+
 - School
 - Sports
 - Building skills
 - Achieving your goals
 - Living your life
 
-**The actual game is:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The actual game is:*
+
 - Billion-dollar algorithms fighting for every second of your attention
 - Apps optimized to keep you scrolling
 - Notifications designed to interrupt you
@@ -87,7 +99,11 @@ Your mission? Actually accomplish something with your life.
 
 Who do you think has the advantage right now?
 
-Here's the truth: **You're not weak. You're not lazy. You're not broken.** You're playing against systems specifically engineered to hijack your attention. Apps that know your psychology better than you do. Algorithms that learn exactly what keeps you scrolling.
+
+> [!NOTE]
+> **🎯 Core Principle**
+> Here's the truth: **You're not weak. You're not lazy. You're not broken.** You're playing against systems specifically engineered to hijack your attention. Apps that know your psychology better than you do. Algorithms that learn exactly what keeps you scrolling.
+
 
 Every time you pick up your phone "just to check real quick," you're going up against millions of dollars of research into how to trap your attention.
 
@@ -136,9 +152,17 @@ Most people think distraction just wastes time. Like, "Oh well, I spent 30 minut
 
 That's not how it works.
 
-**What distraction actually steals from you:**
 
-**1. Flow State Access**
+> [!NOTE]
+> **💭 Key Insight**
+> *What distraction actually steals from you:*
+
+
+
+> [!NOTE]
+> **💭 Key Insight**
+> *1. Flow State Access*
+
 
 Remember Chapter 4? That zone where you're completely locked in, time disappears, and you perform at your absolute best?
 
@@ -146,17 +170,29 @@ You can't enter flow if you're interrupted every 5 minutes. Flow requires sustai
 
 Research shows it takes 10-15 minutes of uninterrupted focus just to enter flow. Most people never experience it because they never give themselves 10 uninterrupted minutes.
 
-**2. Deep Learning Capacity**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *2. Deep Learning Capacity*
+
 
 Surface-level scrolling doesn't build real understanding. When you're constantly switching between tasks, your brain never encodes information into long-term memory.
 
 You can read the same page five times while distracted and retain less than reading it once with full focus.
 
-**3. Skill Mastery Potential**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *3. Skill Mastery Potential*
+
 
 Deliberate practice (Chapter 4) requires intense, focused attention on exactly where you're weak. Can't do that with your phone buzzing every 90 seconds.
 
-**4. Competitive Edge**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *4. Competitive Edge*
+
 
 While you're scrolling, someone else is practicing. While you're checking notifications, someone else is learning. While you're distracted, someone else is building skills that'll make them impossible to compete with.
 
@@ -230,7 +266,11 @@ Compare that to the average approach:
 
 The result? Hours spent, minimal output.
 
-**Here's what Karpathy understands that most people don't: Your brain is like a computer. It has limited RAM. Every time you switch tasks, you're dumping that RAM and reloading. It's expensive.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Here's what Karpathy understands that most people don't: Your brain is like a computer. It has limited RAM. Every time you switch tasks, you're dumping that RAM and reloading. It's expensive.*
+
 
 ### The Two Types of Work
 
@@ -266,13 +306,21 @@ Your brain is going to tell you to check your phone. To take a break. To see wha
 
 That resistance? That uncomfortable feeling of wanting to escape?
 
-**That's not a problem. That's the signal you're doing it right.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *That's not a problem. That's the signal you're doing it right.*
+
 
 Resisting distraction is mental friction. And just like physical friction builds muscle, mental friction builds focus capacity.
 
 The people who win aren't the ones who don't feel the pull of distraction. They're the ones who feel it and stay focused anyway.
 
-**"The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life."**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *"The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life."*
+
 
 ---
 
@@ -288,7 +336,11 @@ Let's get into how attention actually functions. Understanding this will change 
 
 Think of your brain's working memory like the RAM in your phone or computer. It can only hold so much at once.
 
-**Working Memory Capacity:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Working Memory Capacity:*
+
 - Can hold approximately 4 items simultaneously
 - Gets overloaded easily
 - Requires time to load new information
@@ -303,7 +355,11 @@ When you're fully focused on math homework, your working memory is loaded with:
 
 When you check your phone mid-problem, your brain dumps all that. When you return to the math, your brain has to reload everything. That reload takes mental energy and time.
 
-**This is why "just checking real quick" destroys productivity.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *This is why "just checking real quick" destroys productivity.*
+
 
 ### The Context Switching Cost
 
@@ -337,7 +393,11 @@ Remember flow state? That optimal performance zone where you're completely locke
 - 240-500% faster learning (Department of Defense research)
 - Peak performance that feels effortless despite being hard work
 
-**Distraction Destroys Flow:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Distraction Destroys Flow:*
+
 - One notification can kick you out of flow instantly
 - Takes 10-15 minutes to re-enter
 - Most people never enter flow because they never protect 15 uninterrupted minutes
@@ -361,7 +421,11 @@ The problem? Most people never train it. They've spent years scrolling, multitas
 
 The good news? You can build it back. But like any muscle, it takes deliberate practice. And yes, it's uncomfortable at first.
 
-**That discomfort is growth.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *That discomfort is growth.*
+
 
 ---
 
@@ -379,9 +443,17 @@ Elite performers don't use willpower to focus. They engineer environments where 
 
 Before you start any deep work session, set up your environment to make focus easy and distraction hard.
 
-**Remove Distractions (Playing Defense)**
 
-**Phone**: Not on silent. Not face-down. Not in your pocket. **In another room.**
+> [!NOTE]
+> **💭 Key Insight**
+> *Remove Distractions (Playing Defense)*
+
+
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Phone**: Not on silent. Not face-down. Not in your pocket. **In another room.*
+
 
 This is non-negotiable. The mere presence of your phone – even if it's off – reduces your cognitive capacity. Research proves this. Having your phone in the same room makes you measurably dumber.
 
@@ -397,7 +469,11 @@ Put it in another room. Close the door.
 
 **Physical Space**: Clean desk. Good lighting. Comfortable temperature. You're removing any excuse your brain might use to escape the work.
 
-**Set Up for Success (Playing Offense)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Set Up for Success (Playing Offense)*
+
 
 **Define the Output**: Not "study for 90 minutes." That's task-focused. Instead: "Master solving quadratic equations well enough to do them without checking my notes."
 
@@ -409,11 +485,19 @@ Clear output goal. You'll know when you've hit it.
 
 **Water Nearby**: Staying hydrated is essential. But more importantly, you're not giving yourself an excuse to leave your focus zone.
 
-**Create an Activation Ritual**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Create an Activation Ritual*
+
 
 Your brain loves patterns. Use that.
 
-**Consistent Elements:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Consistent Elements:*
+
 - Same location if possible
 - Same music (or same no-music)
 - Same time of day when you can
@@ -476,7 +560,11 @@ Not all focus sessions are created equal. Choose based on your current focus cap
    - Start next sprint
    - Track: How many sprints can you complete?
 
-**Track Your Progress:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Track Your Progress:*
+
 - Sprint 1: ✓ Completed / Struggled / Failed
 - Sprint 2: ✓ Completed / Struggled / Failed
 - Sprint 3: ✓ Completed / Struggled / Failed
@@ -530,7 +618,11 @@ Not all focus sessions are created equal. Choose based on your current focus cap
 
 **Maximum**: One to two deep dives per day (these are mentally exhausting)
 
-**Track Your Progress:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Track Your Progress:*
+
 - Focus maintained: Full 90 min / 60+ min / 30-60 min / <30 min
 - Output achieved: 100% / 75% / 50% / <50%
 - Distractions resisted: Count them
@@ -540,13 +632,21 @@ Not all focus sessions are created equal. Choose based on your current focus cap
 
 You can't jump straight to 90-minute deep work sessions if you've spent years checking your phone every 3 minutes. Build gradually.
 
-**Week 1: Foundation**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Week 1: Foundation*
+
 - Four 25-minute focus blocks per day
 - Track completion rate
 - Note what distractions you successfully resisted
 - Celebrate small wins
 
-**Week 2: Expansion**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Week 2: Expansion*
+
 - Four 45-minute focus blocks per day
 - Notice the increased stamina
 - Track quality of output
@@ -586,33 +686,61 @@ Distractions will come. They always do. The difference between people who mainta
 
 Pre-decide how you'll respond to specific distractions. When the moment comes, you won't have to think. You'll just execute your pre-planned response.
 
-**If-Then Templates:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *If-Then Templates:*
+
 
 **If phone buzzes:**
 
 → Then I acknowledge it happened and refocus immediately without checking
 
-**If I think of something I need to do:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *If I think of something I need to do:*
+
 
 → Then I write it on my "later list" and immediately return to the task
 
-**If I feel the urge to check social media:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *If I feel the urge to check social media:*
+
 
 → Then I notice the craving, label it ("there's that distraction urge"), and refocus on my output goal
 
-**If someone interrupts me:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *If someone interrupts me:*
+
 
 → Then I politely say "I'm in focus mode for [X] more minutes, can we talk after that?"
 
-**If I'm genuinely stuck on the problem:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *If I'm genuinely stuck on the problem:*
+
 
 → Then I take a 5-minute deliberate break (walk, stretch, think), not a scroll break
 
-**If I'm feeling frustrated or overwhelmed:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *If I'm feeling frustrated or overwhelmed:*
+
 
 → Then I close my eyes, take three deep breaths, and remind myself why this output matters
 
-**If my mind wanders:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *If my mind wanders:*
+
 
 → Then I notice without judging, and gently bring attention back (like meditation)
 
@@ -624,7 +752,11 @@ This simple tool will save you from one of the biggest focus killers: intrusive 
 
 You're deep in focus. Suddenly your brain says: "Oh! I need to text Jamie about the project. Also, did I lock my locker? And I should check if that package arrived. And—"
 
-**Don't fight these thoughts. Capture them.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Don't fight these thoughts. Capture them.*
+
 
 **The System:**
 - Keep a notepad or paper next to you during focus blocks
@@ -642,7 +774,11 @@ The thought loses its power. You can refocus.
 
 Borrowed from addiction psychology (because phone/social media addiction is real), this technique helps you handle cravings without giving in.
 
-**When you get the urge to check your phone or scroll:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *When you get the urge to check your phone or scroll:*
+
 
 **1. Notice the urge** (don't act on it)
 - "Oh, there's that familiar pull"
@@ -651,17 +787,29 @@ Borrowed from addiction psychology (because phone/social media addiction is real
 - "This is the craving for distraction"
 - Naming it gives you power over it
 
-**3. Feel it physically**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *3. Feel it physically*
+
 - Where do you feel it in your body?
 - Chest? Hands? Mind?
 - What does the sensation actually feel like?
 
-**4. Watch it peak and pass**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *4. Watch it peak and pass*
+
 - Urges aren't constant. They rise, peak, and fall
 - Usually takes 60-90 seconds
 - If you don't feed the urge, it fades
 
-**5. Return to focus**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *5. Return to focus*
+
 - The urge passed. You're still here. You won.
 
 The more you practice urge surfing, the weaker the urges become. Your brain learns: "Oh, we don't actually need to check the phone every time we feel that pull."
@@ -687,20 +835,32 @@ You can't live in a soundproof room with your phone in a different building. Lif
 - If allowed, noise-canceling headphones during independent work
 - Treat each class period as a focus block
 
-**During Homework/Study:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *During Homework/Study:*
+
 - Dedicated focus zone (same spot every time reduces decision fatigue)
 - Focus blocks with clear output goals (not time-based)
 - Phone in different room (seriously)
 - Tell family your focus hours ("I'm unavailable 7-9pm for deep work")
 - Schedule breaks (don't just take them randomly)
 
-**In Social Situations:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *In Social Situations:*
+
 - Put phone away (be present = massive social skill advantage)
 - Practice being okay with "boredom" (builds focus muscle)
 - Notice how much more you actually connect when fully present
 - This is focus training disguised as hanging out
 
-**During Creative Work:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *During Creative Work:*
+
 - Longest uninterrupted blocks you can manage (90-120 minutes)
 - Work during your lowest-distraction time of day
 - Airplane mode
@@ -714,7 +874,11 @@ Here's what most people get wrong: They think focus is about willpower and grind
 
 Focus capacity is like a muscle. After intense use, it needs real recovery.
 
-**After deep focus blocks, your brain needs to actually rest.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *After deep focus blocks, your brain needs to actually rest.*
+
 
 **Good Recovery:**
 - Walk (preferably outside)
@@ -725,7 +889,11 @@ Focus capacity is like a muscle. After intense use, it needs real recovery.
 - Creative play
 - Physical activity
 
-**Bad "Recovery" (Doesn't Actually Restore Mental Energy):**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Bad "Recovery" (Doesn't Actually Restore Mental Energy):*
+
 - Scrolling social media
 - Watching random videos
 - More screen time
@@ -773,7 +941,11 @@ You (after training focus):
 
 Think about it from a purely competitive standpoint.
 
-**Scenario: Study for Test**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Scenario: Study for Test*
+
 
 **Average Student:**
 - Studies 4 hours
@@ -783,7 +955,11 @@ Think about it from a purely competitive standpoint.
 - Feels exhausted
 - Still anxious about the test
 
-**You (After Building Focus):**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *You (After Building Focus):*
+
 - Study 90 minutes
 - Phone in other room
 - Zero interruptions
@@ -798,7 +974,11 @@ Multiply that advantage across every test, every practice session, every skill y
 
 The gap becomes massive.
 
-**Not because you worked harder. Because you worked focused.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Not because you worked harder. Because you worked focused.*
+
 
 ### Your Weekly Challenge
 
@@ -806,23 +986,39 @@ Here's your mission this week:
 
 **1. Pick ONE focus block per day** (start with 25 minutes)
 
-**2. Remove ALL distractions**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *2. Remove ALL distractions*
+
 - Phone in different room
 - Close unnecessary tabs
 - Turn off notifications
 - Tell people you're unavailable
 
-**3. Set specific output goal**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *3. Set specific output goal*
+
 - Not "study for 25 minutes"
 - Instead: "Master 5 practice problems with full understanding"
 
-**4. Track completion**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *4. Track completion*
+
 - Did you complete your focus block?
 - How many distractions did you resist?
 - What did you accomplish?
 - How did it compare to distracted work?
 
-**5. Journal quick notes**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *5. Journal quick notes*
+
 - What was hard about it?
 - What was surprising?
 - How did your output compare to your usual work?
@@ -846,7 +1042,11 @@ Here's what happens when you commit to daily focus practice:
 - You've developed a competitive advantage that's almost impossible for others to catch
 - You've become the person who gets asked "How are you so productive?"
 
-**All from choosing where your attention goes.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *All from choosing where your attention goes.*
+
 
 ### The Apps Don't Care
 
@@ -872,7 +1072,11 @@ Check phone or stay focused? Scroll or study? Distraction or output?
 
 Each choice seems small. But they compound.
 
-**In 5 years, you'll be exactly where your attention took you.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *In 5 years, you'll be exactly where your attention took you.*
+
 
 ---
 
@@ -975,7 +1179,11 @@ But what happens when the pressure is crushing? When the stakes are highest? Whe
 
 That's when mental game becomes everything.
 
-**(Chapter 8: The Pressure is a Privilege)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *(Chapter 8: The Pressure is a Privilege)*
+
 
 ---
 
@@ -985,21 +1193,37 @@ That's when mental game becomes everything.
 ## Your Focus Arsenal
 
 
-**This Week's Practice Drills:**
 
-**Drill 1: The Daily Focus Block**
+> [!NOTE]
+> **💭 Key Insight**
+> *This Week's Practice Drills:*
+
+
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Drill 1: The Daily Focus Block*
+
 - One 25-minute focus block per day
 - Phone in different room
 - Clear output goal (not time-based)
 - Track: Completion rate, distractions resisted, output quality
 
-**Drill 2: Urge Surfing Practice**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Drill 2: Urge Surfing Practice*
+
 - When you feel the urge to check your phone, don't
 - Notice → Label → Feel → Watch it pass → Refocus
 - Track: How many urges did you successfully surf?
 - Notice: Do the urges get weaker over time?
 
-**Drill 3: The Later List**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Drill 3: The Later List*
+
 - Keep paper next to you during focus blocks
 - Write down intrusive thoughts
 - Immediately refocus
@@ -1026,7 +1250,11 @@ Track your progress:
 
 **Remember:** In a world where everyone is distracted, the ability to focus deeply is your unfair advantage. Every moment of focus is a vote for the future you're building.
 
-**Where will your attention take you?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Where will your attention take you?*
+
 
 
 ---

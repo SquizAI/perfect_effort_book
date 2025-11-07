@@ -30,7 +30,11 @@ But then Monday morning hits, and you drag yourself to first period like you're 
 
 What if I told you that's because nobody ever taught you the truth?
 
-**Your life is already a game. You're already playing. The whistle already blew.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Your life is already a game. You're already playing. The whistle already blew.*
+
 
 The only question is: Are you playing to win, or are you just showing up?
 
@@ -50,7 +54,11 @@ But you? You're about to get the cheat codes.
 
 Not the kind that make things easy – the kind that make things make sense.
 
-Because here's the uncomfortable truth: **You're already playing whether you know it or not.** Every day you wake up, the scoreboard is running. Every choice you make is a play. Every hour you spend is a rep. The question isn't whether you're in the game – the question is whether you're going to play like you mean it.
+
+> [!NOTE]
+> **🎯 Core Principle**
+> Because here's the uncomfortable truth: **You're already playing whether you know it or not.** Every day you wake up, the scoreboard is running. Every choice you make is a play. Every hour you spend is a rep. The question isn't whether you're in the game – the question is whether you're going to play like you mean it.
+
 
 ### Why Sports Work (And Life Doesn't... Yet)
 
@@ -94,7 +102,11 @@ Let me ask you something: What matters more?
 
 If you answered the second option every time, congratulations – you already understand the first rule of the game.
 
-**Output matters more than input.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Output matters more than input.*
+
 
 Most people focus on inputs: "I studied for 2 hours." "I practiced for 30 minutes." "I went to the gym."
 
@@ -113,32 +125,53 @@ This is the single most important shift you'll make in this entire book. Ready?
 
 
 > [!WARNING]
-> ❌ **Task-Focused Thinking**: "I need to study for 2 hours tonight."
+
+> [!WARNING]
+> <table>
+> <tr>
+> <th>❌ Avoid This</th>
+> <th>✅ Do This Instead</th>
+> </tr>
+> <tr>
+> <td>Task-Focused Thinking "I need to study for 2 hours tonight."</td>
+> <td>Output-Focused Thinking "I need to master this material so well that the test feels easy."</td>
+> </tr>
+> </table>
+
 
 
 
 > [!WARNING]
-> ✅ **Output-Focused Thinking**: "I need to master this material so well that the test feels easy."
+
+> [!WARNING]
+> <table>
+> <tr>
+> <th>❌ Avoid This</th>
+> <th>✅ Do This Instead</th>
+> </tr>
+> <tr>
+> <td>Task-Focused "Go to basketball practice."</td>
+> <td>Output-Focused "Get so good at my weak-hand layups that defenders can't predict which side I'll attack from."</td>
+> </tr>
+> </table>
+
 
 
 
 > [!WARNING]
-> ❌ **Task-Focused**: "Go to basketball practice."
-
-
 
 > [!WARNING]
-> ✅ **Output-Focused**: "Get so good at my weak-hand layups that defenders can't predict which side I'll attack from."
+> <table>
+> <tr>
+> <th>❌ Avoid This</th>
+> <th>✅ Do This Instead</th>
+> </tr>
+> <tr>
+> <td>Task-Focused "Do my homework."</td>
+> <td>Output-Focused "Understand this concept well enough to teach it to someone else."</td>
+> </tr>
+> </table>
 
-
-
-> [!WARNING]
-> ❌ **Task-Focused**: "Do my homework."
-
-
-
-> [!WARNING]
-> ✅ **Output-Focused**: "Understand this concept well enough to teach it to someone else."
 
 The difference is everything. One mindset has you checking boxes. The other has you leveling up.
 
@@ -164,7 +197,11 @@ If you picked A, I've got bad news: you're lying to yourself.
 
 If you picked B, you just unlocked one of life's most powerful secrets.
 
-**The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life. When you are uncomfortable, that means you are learning.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life. When you are uncomfortable, that means you are learning.*
+
 
 Think about it:
 
@@ -177,7 +214,11 @@ Every single skill you have – from walking to reading to playing your favorite
 
 Yet somewhere along the way, we started avoiding friction. We started thinking that if something feels hard, we must not be "good at it." We started quitting the moment things got uncomfortable.
 
-**That's the biggest lie you've ever been told.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *That's the biggest lie you've ever been told.*
+
 
 ### Learning Friction is Your Superpower
 
@@ -205,7 +246,11 @@ So the next time you're struggling with something and you think, "This is too ha
 
 Let me tell you something that might blow your mind:
 
-**Failure is always, always on the path to success.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Failure is always, always on the path to success.*
+
 
 Not sometimes. Not "if you're unlucky." Always.
 
@@ -299,7 +344,11 @@ Grab a piece of paper (or your phone, I'm not your parent). Answer these questio
 
 ### Your Current Stats
 
-**1. What are you naturally good at?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *1. What are you naturally good at?*
+
 
 (Not what you think you *should* be good at – what actually comes easier for you than most people?)
 
@@ -312,7 +361,11 @@ Examples:
 - Coming up with creative solutions
 - Staying calm under pressure
 
-**2. What feels hard right now?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *2. What feels hard right now?*
+
 
 (This isn't bad news – this is your growth edge. This is where the game is challenging you.)
 
@@ -324,7 +377,11 @@ Examples:
 - Dealing with setbacks without giving up
 - Asking for help when you need it
 
-**3. What do you actually care about?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *3. What do you actually care about?*
+
 
 (Not what you're "supposed" to care about – what genuinely fires you up?)
 
@@ -337,7 +394,11 @@ Examples:
 - Being recognized as the best at something
 - Making people's lives better
 
-**4. What does winning look like for YOU?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *4. What does winning look like for YOU?*
+
 
 (Not your parents' definition. Not society's definition. Yours.)
 
@@ -375,7 +436,11 @@ Now it's time to actually play.
 
 Here's your challenge for this week:
 
-**Pick ONE area of your life to treat like sports practice.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Pick ONE area of your life to treat like sports practice.*
+
 
 Not three areas. Not "everything." One.
 
@@ -402,7 +467,11 @@ At the end of the week, ask yourself:
 
 If the answer to that last question is yes, congratulations.
 
-**You just won the game.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *You just won the game.*
+
 
 ---
 
@@ -414,7 +483,11 @@ If the answer to that last question is yes, congratulations.
 
 I'm going to leave you with the same truth I gave you at the start:
 
-**The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life. When you are uncomfortable, that means you are learning.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life. When you are uncomfortable, that means you are learning.*
+
 
 Every morning, the whistle blows. Game day. Every single day.
 
@@ -430,7 +503,11 @@ You're playing to win.
 ## Key Principle
 
 
-**Life is a sport. The better you play, the more you win.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Life is a sport. The better you play, the more you win.*
+
 
 You wouldn't show up to a basketball game without practicing. You wouldn't play a video game without learning the controls. So why would you show up to life without a game plan?
 
@@ -448,7 +525,11 @@ The only question is: Are you playing like you mean it?
 
 Now that you know it's a game... do you know your stats?
 
-**Next up: Chapter 2 – Know Your Stats**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Next up: Chapter 2 – Know Your Stats*
+
 
 You can't improve what you don't measure. Time to get scientific about your life.
 

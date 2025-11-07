@@ -35,7 +35,11 @@ Now answer me this: When was the last time you checked YOUR stats?
 
 Not your gaming stats. Not your social media followers.
 
-**Your real-life stats.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Your real-life stats.*
+
 
 ---
 
@@ -75,7 +79,11 @@ When you say "I studied a lot," you can feel productive without proving anything
 
 When you say "I'm getting better at this," you can believe whatever you want. When you measure and see you've plateaued for three months? That's uncomfortable truth.
 
-**But here's what you need to understand:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *But here's what you need to understand:*
+
 
 That discomfort you're avoiding? That's the feeling of growth staring you in the face. That's exactly the friction we talked about in Chapter 1. That's your brain recognizing there's a gap between where you are and where you want to be.
 
@@ -101,7 +109,11 @@ Now imagine playing that same game with all the stats hidden. You can't see your
 
 You'd quit that game immediately. It would feel random, frustrating, impossible to improve.
 
-**That's how most people play life.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *That's how most people play life.*
+
 
 They're in the game. They're making moves. But they have no idea if those moves are working because they never check the scoreboard.
 
@@ -119,7 +131,11 @@ You know NVIDIA? The company that makes the graphics cards that power your gamin
 
 Their CEO, Jensen Huang, has a saying that drives the entire company:
 
-**"In God we trust. All others bring data."**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *"In God we trust. All others bring data."*
+
 
 Not opinions. Not feelings. Not "I think this is working."
 
@@ -129,7 +145,11 @@ Because data reveals truth that feelings hide.
 
 But here's the critical thing Jensen understands that most people miss:
 
-**Metrics are tools, not judgments.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Metrics are tools, not judgments.*
+
 
 Your stats aren't telling you you're a failure. They're showing you exactly where to focus your effort next. The numbers serve *you* – they're a feedback loop for getting better.
 
@@ -176,19 +196,31 @@ Input metrics measure effort. Output metrics measure results.
 
 Input metrics let you lie to yourself. Output metrics force you to tell the truth.
 
-And here's the uncomfortable reality: **You can put in massive input and get zero output.**
+
+> [!NOTE]
+> **🎯 Core Principle**
+> And here's the uncomfortable reality: **You can put in massive input and get zero output.**
+
 
 You can "study" for 5 hours while scrolling your phone, daydreaming, and rereading the same page over and over. Input: 5 hours. Output: basically nothing learned.
 
 Or you can study for 45 focused minutes, actively testing yourself, teaching the concepts to someone else. Input: 45 minutes. Output: material mastered.
 
-**The game isn't about time spent. The game is about results achieved.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The game isn't about time spent. The game is about results achieved.*
+
 
 ### The Five Core Stat Categories
 
 If you're going to track anything, track these five areas. They cover basically everything that matters:
 
-**1. Skills: What Can You Do Now That You Couldn't Do Before?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *1. Skills: What Can You Do Now That You Couldn't Do Before?*
+
 
 This is all about capabilities. Tangible, demonstrable skills.
 
@@ -205,7 +237,11 @@ Track it like this:
 - "My performance on [skill] improved from [baseline] to [current level]"
 - "I can now do [thing] that I couldn't do last week"
 
-**2. Knowledge: What Do You Understand at a Deep Level?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *2. Knowledge: What Do You Understand at a Deep Level?*
+
 
 Not what you've read. Not what you've heard about.
 
@@ -219,7 +255,11 @@ Track it like this:
 - "Concepts I can teach to someone else: __"
 - "Questions I can now answer that I couldn't answer last week: __"
 
-**3. Physical: How's Your Body Actually Performing?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *3. Physical: How's Your Body Actually Performing?*
+
 
 Your body is your primary tool for everything you do. If it's not performing well, nothing else works.
 
@@ -232,7 +272,11 @@ Track what matters:
 - **Physical capability**: Can you do things your body couldn't do before?
 - **Recovery**: How fast do you bounce back from physical or mental exertion?
 
-**4. Mental: How's Your Focus, Stress, and Emotional State?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *4. Mental: How's Your Focus, Stress, and Emotional State?*
+
 
 This is the stat most people completely ignore. But it's often the most important.
 
@@ -245,11 +289,19 @@ Track it:
 - **Confidence**: Do you feel more capable than last week?
 - **Mental recovery**: How fast do you bounce back from setbacks?
 
-**5. Relationships: Quality of Key Connections**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *5. Relationships: Quality of Key Connections*
+
 
 Not how many followers you have. Not how many people know your name.
 
-**How many people would show up if you actually needed them?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *How many people would show up if you actually needed them?*
+
 
 Quality over quantity. Always.
 
@@ -273,7 +325,11 @@ Now let's talk *how* to track it.
 
 Because here's where most people overcomplicate things. They build massive spreadsheets with 47 metrics and color-coded graphs and... they quit after three days because it's exhausting.
 
-**Simple beats complex. Every time.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Simple beats complex. Every time.*
+
 
 Your tracking system needs to be so easy that you'll actually do it. Not so perfect that you'll abandon it.
 
@@ -291,14 +347,26 @@ Here's what it looks like:
 
 ---
 
-**WEEKLY SCORECARD - Week of [Date]**
 
-**SKILLS & KNOWLEDGE**
+> [!NOTE]
+> **💭 Key Insight**
+> *WEEKLY SCORECARD - Week of [Date]*
+
+
+
+> [!NOTE]
+> **💭 Key Insight**
+> *SKILLS & KNOWLEDGE*
+
 - Concepts I moved from "confused" to "confident": __
 - Practice problems solved correctly (no help): __/20
 - New skills I can demonstrate: __
 
-**PHYSICAL PERFORMANCE**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *PHYSICAL PERFORMANCE*
+
 - Nights I got quality sleep (felt rested): __/7
 - Days I felt genuinely energized: __/7
 - Physical capability milestone: __
@@ -326,7 +394,11 @@ What felt uncomfortable this week? (That's where I grew)
 -
 -
 
-**NEXT WEEK'S TARGETS**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *NEXT WEEK'S TARGETS*
+
 
 What specific outputs am I aiming for?
 -
@@ -339,21 +411,37 @@ What specific outputs am I aiming for?
 > [!IMPORTANT]
 > ### How to Use Your Scorecard
 
-**Step 1: Every Sunday, Fill It Out**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 1: Every Sunday, Fill It Out*
+
 
 10 minutes. Be honest. Don't judge yourself – just record the data.
 
-**Step 2: Look for Trends**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 2: Look for Trends*
+
 
 Are you improving week over week? Are certain areas consistently strong? Are certain areas consistently weak?
 
-**Step 3: Adjust Your Game Plan**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 3: Adjust Your Game Plan*
+
 
 If your "deep focus sessions" stat is consistently 0-1 per week, that's not a judgment. That's *data* telling you where to focus your effort.
 
 If your "physical energy" stat is 2/7 days, that's not failure. That's your body giving you feedback that something needs to change.
 
-**Step 4: Set Specific Targets**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 4: Set Specific Targets*
+
 
 Not vague goals. Specific, measurable targets based on your current stats.
 
@@ -373,7 +461,11 @@ That's a specific, measurable, achievable target. And when you hit it? You've go
 
 Here's the part nobody wants to hear:
 
-**Most people lie to themselves about their stats.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Most people lie to themselves about their stats.*
+
 
 Not because they're dishonest. Because self-assessment is uncomfortable.
 
@@ -395,7 +487,11 @@ Alex got 35%.
 
 That number hit like a truck. Because Alex had been lying to himself for months. He'd been confusing "doing the work" with "learning the material."
 
-**And you know what?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *And you know what?*
+
 
 That 35% was the best thing that ever happened to him.
 
@@ -403,7 +499,11 @@ Because now he knew the truth. Now he knew exactly where he stood. Now he had a 
 
 Three months later, same test. 87%.
 
-**That's the power of measurement.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *That's the power of measurement.*
+
 
 Not the 35%. Not the 87%.
 
@@ -432,7 +532,11 @@ A gamer at level 15 doesn't think "I'm not a level 50 person." They think "Cool,
 
 Your life stats work the exact same way.
 
-**The stat that matters most isn't your current level. It's your rate of improvement.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The stat that matters most isn't your current level. It's your rate of improvement.*
+
 
 ---
 
@@ -450,7 +554,11 @@ These are the stats elite performers obsess over. The marginal gains that compou
 
 This is simple but powerful:
 
-**What percentage of days did you hit your target?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *What percentage of days did you hit your target?*
+
 
 Not "did you have a perfect week?" Just "what's your hit rate?"
 
@@ -464,7 +572,11 @@ Track your consistency. Aim for 80% or higher. That's sustainable excellence.
 
 This is a game-changer that nobody talks about:
 
-**How fast do you bounce back from setbacks?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *How fast do you bounce back from setbacks?*
+
 
 Did you bomb a test? How many days until you were back to productive work?
 
@@ -489,7 +601,11 @@ Too easy = boredom. Too hard = anxiety. Just right = flow.
 
 Start tracking this for your major tasks:
 
-**After each study session, practice, or focus work:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *After each study session, practice, or focus work:*
+
 - Was this task in my flow zone? (Challenging but doable) Yes / No
 - If no: Was it too easy or too hard?
 - Adjustment for next time: __
@@ -500,7 +616,11 @@ Over time, you'll get really good at calibrating difficulty. You'll learn exactl
 
 This is the ultimate efficiency metric:
 
-**Not just hours worked – what did you actually produce?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Not just hours worked – what did you actually produce?*
+
 
 Example:
 
@@ -532,7 +652,11 @@ Your grade point average becomes more important than actually learning.
 
 Your follower count becomes more important than real relationships.
 
-**This is what Jensen Huang warns about:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *This is what Jensen Huang warns about:*
+
 
 The moment the numbers become the goal, you've lost sight of what actually matters.
 
@@ -542,7 +666,11 @@ Metrics are tools. Feedback loops. Not destinations.
 > [!IMPORTANT]
 > ### How to Keep Stats in Perspective
 
-**1. Track the Right Things**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *1. Track the Right Things*
+
 
 Always ask: "Is this metric measuring what I actually care about?"
 
@@ -550,13 +678,21 @@ Followers = vanity metric. Real friendships = meaningful metric.
 
 Hours studied = input metric. Material mastered = output metric.
 
-**2. Review, Don't Obsess**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *2. Review, Don't Obsess*
+
 
 Weekly review is perfect. Daily tracking can become obsessive. Hourly checking is destructive.
 
 Check your stats once a week. Make adjustments. Then *play the game* without constantly looking at the scoreboard.
 
-**3. Focus on Trends, Not Single Data Points**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *3. Focus on Trends, Not Single Data Points*
+
 
 One bad week doesn't mean anything. Three weeks trending down? That's data.
 
@@ -565,7 +701,11 @@ One great performance doesn't prove mastery. Consistent improvement over a month
 
 ---
 
-**4. Remember Your Why**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *4. Remember Your Why*
+
 
 Your stats exist to serve your goals, not the other way around.
 
@@ -585,11 +725,19 @@ Alright. Theory is done. Time for action.
 
 This week, you're going to do something most people are too scared to do:
 
-**You're going to find out exactly where you really stand.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *You're going to find out exactly where you really stand.*
+
 
 ### The Challenge
 
-**Step 1: Pick ONE Area to Measure**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 1: Pick ONE Area to Measure*
+
 
 Don't try to track everything. Pick the area that matters most right now.
 
@@ -600,7 +748,11 @@ Maybe it's:
 - Your mental focus and energy
 - A creative project you're working on
 
-**Step 2: Create Your Baseline**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 2: Create Your Baseline*
+
 
 Test yourself honestly. No cheating. No "I kinda know this so I'll give myself credit."
 
@@ -612,7 +764,11 @@ Examples:
 
 Record the number. That's your baseline.
 
-**Step 3: Track for 7 Days**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 3: Track for 7 Days*
+
 
 Every day this week, record your stats in this area.
 
@@ -620,7 +776,11 @@ Not your hours. Your *outputs*.
 
 Not your effort. Your *results*.
 
-**Step 4: Review on Day 7**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 4: Review on Day 7*
+
 
 Pull out your scorecard. Look at the data.
 
@@ -631,7 +791,11 @@ Ask yourself:
 - What felt uncomfortable? (That's where you grew)
 - What's the gap between where I am and where I want to be?
 
-**Step 5: That Gap is Your Roadmap**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 5: That Gap is Your Roadmap*
+
 
 This is the moment of truth.
 
@@ -645,7 +809,11 @@ And once you know reality, you can change it.
 
 That gap between where you are and where you want to be? That's not a problem.
 
-**That's your game plan.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *That's your game plan.*
+
 
 ---
 
@@ -657,7 +825,11 @@ That gap between where you are and where you want to be? That's not a problem.
 
 Here's what elite athletes understand that most people don't:
 
-**Every great comeback story starts with honest assessment.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Every great comeback story starts with honest assessment.*
+
 
 You can't come back from 20 points down if you don't know the score.
 
@@ -673,7 +845,11 @@ They watch every mistake. Every missed opportunity. Every moment they could've d
 
 It's uncomfortable. Nobody likes watching themselves fail.
 
-**But that's exactly where improvement comes from.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *But that's exactly where improvement comes from.*
+
 
 Your weekly scorecard is your film room.
 
@@ -683,7 +859,11 @@ You're finding the moments where you were great so you can replicate them.
 
 You're finding the moments where you fell short so you can fix them.
 
-**That's what winners do.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *That's what winners do.*
+
 
 They don't avoid the numbers. They study the numbers. They learn from the numbers. They use the numbers to level up.
 
@@ -699,23 +879,43 @@ And then they go back out and play.
 > ## Key Takeaways
 
 
-**1. You Can't Improve What You Don't Measure**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *1. You Can't Improve What You Don't Measure*
+
 
 Feelings lie. Numbers tell the truth. Elite performers in any field track their stats religiously – not to judge themselves, but to improve strategically.
 
-**2. Track Outputs, Not Inputs**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *2. Track Outputs, Not Inputs*
+
 
 Hours spent don't matter. Results achieved do. Focus on what you can do now that you couldn't do before. That's the only stat that proves growth.
 
-**3. Metrics Are Tools, Not Judgments**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *3. Metrics Are Tools, Not Judgments*
+
 
 Your stats aren't telling you you're a failure. They're providing feedback so you can refine your approach. The numbers serve you – they're not the goal.
 
-**4. Brutal Honesty > Comfortable Lies**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *4. Brutal Honesty > Comfortable Lies*
+
 
 Self-assessment is uncomfortable. Do it anyway. The gap between where you are and where you want to be isn't a problem – it's your roadmap.
 
-**5. Consistency Beats Perfection**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *5. Consistency Beats Perfection*
+
 
 Don't aim for 100% perfect weeks. Aim for 80% consistency, maintained long-term. That's how compound growth works.
 
@@ -779,7 +979,11 @@ But whose scoreboard are you playing for?
 
 Are you chasing numbers that actually matter to you? Or are you optimizing for someone else's definition of success?
 
-**Next up: Chapter 3 – The Scoreboard That Matters**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Next up: Chapter 3 – The Scoreboard That Matters*
+
 
 Time to figure out what game you're actually playing.
 

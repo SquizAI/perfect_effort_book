@@ -113,11 +113,19 @@ Start your day with wins, and more wins follow. Start with discipline, and disci
 
 Start your day behind, stressed, and reactive? That pattern continues. All day long.
 
-**Here's the spiral when you lose your morning:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Here's the spiral when you lose your morning:*
+
 
 Wake up late → Rush → Skip breakfast → Forget something → Stress increases → Bad mood → Worse decisions → Day keeps getting worse.
 
-**Here's the spiral when you own your morning:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Here's the spiral when you own your morning:*
+
 
 Wake up with time → Calm start → Workout done → Priorities clear → Confidence builds → Better decisions → Day keeps getting better.
 
@@ -165,7 +173,11 @@ Think about the iPhone for a second. When you hold one, it feels inevitable. Lik
 
 Ive's philosophy was simple: every detail should serve a purpose. Remove everything that doesn't matter. Make the experience so clear that it feels natural.
 
-**Applied to your morning, that means:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Applied to your morning, that means:*
+
 
 
 - Every action should serve your goals
@@ -182,7 +194,11 @@ You're not trying to build the most complex morning routine in the world. You're
 
 Before you add anything to your morning routine, ask these three questions:
 
-**1. "What's the output?"**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *1. "What's the output?"*
+
 
 Don't think about "I'll meditate for 10 minutes." Think about "I'll arrive at school calm and focused instead of stressed and scattered."
 
@@ -190,7 +206,11 @@ See the difference? One is a task. One is an outcome.
 
 Frame everything as what you'll achieve or become, not what you have to do.
 
-**2. "Is this essential?"**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *2. "Is this essential?"*
+
 
 If removing something from your morning wouldn't impact your goals, cut it.
 
@@ -198,7 +218,11 @@ Your morning isn't a productivity Olympics. It's not about doing the most things
 
 Every element should earn its place.
 
-**3. "Can I sustain this?"**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *3. "Can I sustain this?"*
+
 
 A perfect morning routine you do twice doesn't change anything. A simple morning routine you do 300 times changes your life.
 
@@ -214,7 +238,11 @@ Here's where Ive's philosophy gets really interesting. He didn't just ask what t
 
 "It's not about adding more," he said. "It's about removing everything except what's essential."
 
-**What to remove from your morning:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *What to remove from your morning:*
+
 
 
 - Phone scrolling first thing (immediately gives away your attention)
@@ -223,7 +251,11 @@ Here's where Ive's philosophy gets really interesting. He didn't just ask what t
 - News and social media (fills your mind with other people's agendas)
 - Rushed chaos (removes the control that makes mornings valuable)
 
-**What you gain by removing those things:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *What you gain by removing those things:*
+
 
 
 - Time for what actually matters
@@ -244,7 +276,11 @@ When Ive created a product, he didn't wing it. He didn't just throw things toget
 
 You should do the same with your morning.
 
-**Here's the design process:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Here's the design process:*
+
 
 **Step 1: Define the output.** How do you want to feel? What do you want done?
 
@@ -354,7 +390,11 @@ But every effective morning routine has the same four core elements.
 
 ### The Four Core Elements
 
-**Element 1: ACTIVATION (Physical Wake-Up)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Element 1: ACTIVATION (Physical Wake-Up)*
+
 
 **Purpose:** Transition from sleep mode to actually awake.
 
@@ -368,7 +408,11 @@ It doesn't need to be extreme. You don't need to jump into an ice bath. You just
 
 ---
 
-**Element 2: INTENTION (Mental Clarity)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Element 2: INTENTION (Mental Clarity)*
+
 
 **Purpose:** Set direction for the day. Get clear on what matters.
 
@@ -384,7 +428,11 @@ Answer those, and you've already separated from 95% of people who just react all
 
 ---
 
-**Element 3: MOVEMENT (Physical Readiness)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Element 3: MOVEMENT (Physical Readiness)*
+
 
 **Purpose:** Burn nervous energy, build discipline, get your body ready.
 
@@ -398,7 +446,11 @@ Plus, getting your workout done early means nothing can derail it later. No "I'm
 
 ---
 
-**Element 4: PREPARATION (Tactical Setup)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Element 4: PREPARATION (Tactical Setup)*
+
 
 **Purpose:** Handle the logistics so nothing gets forgotten or rushed.
 
@@ -412,7 +464,11 @@ Seems basic, right? But how many times have you gotten to school and realized yo
 
 ---
 
-**You need all four elements. The specifics depend on you.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *You need all four elements. The specifics depend on you.*
+
 
 Some people need 10 minutes of movement and 30 minutes of intention. Some people need the opposite. That's fine. But if you're missing an entire element, your morning system has a hole in it.
 
@@ -424,7 +480,11 @@ If you're starting from zero, don't try to build the perfect 90-minute routine o
 
 Start here. The MVM. Minimum Viable Morning.
 
-**Total time: 30 minutes**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Total time: 30 minutes*
+
 
 **5 minutes - Activation:** Cold water on face, make your bed, get dressed.
 
@@ -451,7 +511,11 @@ The MVM gives you all four elements. It's simple enough that you can actually do
 
 Once the MVM feels easy, here's the next level.
 
-**Total time: 60-75 minutes**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Total time: 60-75 minutes*
+
 
 **5 minutes - Activation:** Water, make bed, quick stretch.
 
@@ -477,7 +541,11 @@ Because you have.
 
 Here's the framework for building YOUR morning routine.
 
-**Step 1: Define Your Outputs**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 1: Define Your Outputs*
+
 
 
 - How do I want to FEEL when I start my day? (Calm? Energized? Confident? Ready?)
@@ -488,7 +556,11 @@ Answer those questions first. Everything else flows from that.
 
 ---
 
-**Step 2: Work Backward From Your Wake-Up Time**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 2: Work Backward From Your Wake-Up Time*
+
 
 When do you NEED to leave for school or practice or work?
 
@@ -502,7 +574,11 @@ Simple math. Non-negotiable time.
 
 ---
 
-**Step 3: Map Your Four Elements**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 3: Map Your Four Elements*
+
 
 For each element, choose your specific actions:
 
@@ -518,7 +594,11 @@ Vague plans create vague results.
 
 ---
 
-**Step 4: Prototype for One Week**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 4: Prototype for One Week*
+
 
 Test your design. See what actually works.
 
@@ -530,7 +610,11 @@ This is the iteration phase. You're allowed to refine.
 
 ---
 
-**Step 5: Lock It In**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 5: Lock It In*
+
 
 Once you've found what works, make it non-negotiable.
 
@@ -544,7 +628,11 @@ Consistency is what creates the transformation.
 
 Here's where Ive's design thinking really shows up. Make the right behavior the easiest behavior.
 
-**The night before:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The night before:*
+
 
 
 - Lay out your workout clothes (zero decisions tomorrow morning)
@@ -553,7 +641,11 @@ Here's where Ive's design thinking really shows up. Make the right behavior the 
 - Set alarm and put phone across the room (you have to get up to turn it off)
 - Go to bed on time (you can't win mornings if you're exhausted)
 
-**Morning environment:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Morning environment:*
+
 
 
 - Clothes are visible immediately (visual cue to get dressed)
@@ -606,7 +698,11 @@ What you do in these five seconds determines everything that follows.
 
 Mel Robbins, a motivational speaker who studied habit formation, created something called the 5-Second Rule. It's stupid simple. And it works.
 
-**Here's the technique:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Here's the technique:*
+
 
 Alarm rings.
 
@@ -751,7 +847,11 @@ Here's the truth: Elite athletes don't take weekends off from being elite. Your 
 
 Weekends are when you separate from the pack.
 
-**Weekend strategy:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Weekend strategy:*
+
 
 
 - Same alarm, maybe 30 to 60 minutes later if you want (not three hours)
@@ -765,15 +865,27 @@ Weekends are when you separate from the pack.
 
 Make it harder to quit than to continue.
 
-**Option 1: Public Commitment**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Option 1: Public Commitment*
+
 
 Tell people you're doing this. Post your streak. Check in with a friend who's doing the same thing. External accountability works.
 
-**Option 2: Physical Tracking**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Option 2: Physical Tracking*
+
 
 Calendar X's. Don't break the chain. Habit tracker apps like Streaks or Way of Life. Journal logging. Something visible that you'd hate to break.
 
-**Option 3: Consequence Design**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Option 3: Consequence Design*
+
 
 If you don't do your morning routine, you lose something. Maybe no phone that evening. Maybe you owe your friend five bucks. Make it real enough to matter.
 
@@ -799,7 +911,11 @@ It's okay. Elite performers aren't perfect. They're just better at bouncing back
 
 **Do adjust the system.** Was it sleep? Alarm placement? Routine too long? Fix the friction point.
 
-**Do start again tomorrow.** One miss doesn't erase 10 good days. The 48-hour rule: get back on track within two days.
+
+> [!NOTE]
+> **🎯 Core Principle**
+> **Do start again tomorrow.** One miss doesn't erase 10 good days. The 48-hour rule: get back on track within two days.
+
 
 ---
 
@@ -841,7 +957,11 @@ While everyone else was sleeping, he was in the gym. First workout from 4:30am t
 
 Five NBA championships. Two Olympic gold medals. A reputation as the most disciplined player in the league. He became unstoppable because he outworked everyone in the hours nobody saw.
 
-**What you can learn:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *What you can learn:*
+
 
 Your morning creates separation from your competition. What you do when nobody's watching matters more than what you do when everyone's looking. Discipline compounds over years.
 
@@ -863,7 +983,11 @@ She worked out from 4:30am to 5:30am. Every single day. Non-negotiable.
 
 She handled one of the most demanding jobs in the world without burning out. She stayed physically and mentally strong under constant pressure. She modeled discipline for her daughters. She controlled the one hour she could control.
 
-**What you can learn:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *What you can learn:*
+
 
 Your morning is yours. Before demands hit, before people need things from you, you get to decide how you spend that time. Physical movement builds mental strength. Consistency matters more than intensity.
 
@@ -873,15 +997,27 @@ Your morning is yours. Before demands hit, before people need things from you, y
 
 This one's about someone like you. High school senior. Not a professional athlete or celebrity. Just a regular student who changed the game.
 
-**Before the morning routine:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Before the morning routine:*
+
 
 Waking up 10 minutes before leaving. No time for breakfast or exercise. Always forgetting something. Getting to school stressed. GPA: 3.2. Constantly behind.
 
-**After implementing a 60-minute morning routine:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *After implementing a 60-minute morning routine:*
+
 
 Alarm at 6:00am. Gave himself 90 minutes before leaving. 30-minute workout. 20 minutes for breakfast and reviewing notes. 10 minutes to prep and pack.
 
-**Results after six months:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Results after six months:*
+
 
 GPA jumped to 3.7. Same kid. Better preparation. Made varsity because he got stronger from daily training. Got recruited for college because consistency built skill. Felt confident instead of anxious.
 
@@ -905,13 +1041,21 @@ Now you build your system. Here's the step-by-step playbook to design, launch, a
 
 ### Week 1: Design Phase
 
-**Monday-Tuesday: Data Collection**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Monday-Tuesday: Data Collection*
+
 
 Track your current mornings. What time do you wake up? What time do you need to leave? Where does your morning time currently go? What's stealing your attention? Phone? Snooze? Chaos?
 
 Be honest. You can't fix what you don't measure.
 
-**Wednesday-Thursday: Output Definition**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Wednesday-Thursday: Output Definition*
+
 
 Answer these questions:
 
@@ -921,7 +1065,11 @@ Answer these questions:
 
 Write it down. This is your north star.
 
-**Friday-Sunday: Routine Design**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Friday-Sunday: Routine Design*
+
 
 Map your Four Elements. Activation, Intention, Movement, Preparation. What specific actions for each?
 
@@ -965,11 +1113,19 @@ Losing motivation? Review your output goals. Remember why this matters.
 
 Your mission: Make it automatic.
 
-**Refinement questions:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Refinement questions:*
+
 
 What parts of the routine feel natural now? What still feels forced? What's your biggest friction point? What output are you actually seeing?
 
-**Lock-in checklist:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Lock-in checklist:*
+
 
 
 - [ ] Same alarm time daily (including weekends)
@@ -1001,7 +1157,11 @@ Print this. Put it where you'll see it.
 
 ---
 
-**MY MORNING SYSTEM**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *MY MORNING SYSTEM*
+
 
 **Alarm Time:** _____ (non-negotiable)
 
@@ -1175,15 +1335,27 @@ Move.
 
 ### Practice Drills This Week
 
-**Drill 1: The Alarm Test**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Drill 1: The Alarm Test*
+
 
 Set your alarm 10 minutes earlier than usual. Practice the 5-4-3-2-1-MOVE technique. Feet hit the floor. No negotiation. Do this seven days straight.
 
-**Drill 2: The MVM (Minimum Viable Morning)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Drill 2: The MVM (Minimum Viable Morning)*
+
 
 30-minute routine this week. Activation, Movement, Preparation, Intention. All four elements. Done beats perfect. Build from here once it's consistent.
 
-**Drill 3: The Environment Design**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Drill 3: The Environment Design*
+
 
 Tonight, lay out tomorrow's clothes. Put your phone across the room. Prep breakfast if possible. Pack your bag. Go to bed on time. See how much smoother your morning flows when you remove the friction.
 
@@ -1195,7 +1367,11 @@ Next up: **Chapter 10: Fuel Your Engine** - How to eat, sleep, and recover like 
 
 ---
 
-**The morning is yours. What are you going to build with it?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The morning is yours. What are you going to build with it?*
+
 
 
 ---

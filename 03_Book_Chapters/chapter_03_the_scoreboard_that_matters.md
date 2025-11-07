@@ -40,7 +40,11 @@ And just like that, the feeling flips. Now you're not winning anymore. Now you'r
 
 Sound familiar?
 
-Here's the brutal truth: **You just played a game you can never win.**
+
+> [!NOTE]
+> **🎯 Core Principle**
+> Here's the brutal truth: **You just played a game you can never win.**
+
 
 No matter how many likes you get, there's always someone with more. No matter how impressive your stats look, someone else's look better. No matter how hard you chase external validation, the finish line keeps moving.
 
@@ -58,7 +62,11 @@ Because you're playing on the wrong scoreboard.
 
 Let me ask you something. Really think about this.
 
-**Would you rather BE great, or just LOOK great?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Would you rather BE great, or just LOOK great?*
+
 
 Not a trick question. Seriously. If you could only pick one:
 
@@ -98,7 +106,11 @@ Then reality hits:
 
 The external scoreboard is a slot machine. Sometimes you win, sometimes you lose, and you never know which it'll be. So you keep pulling the lever. Keep chasing validation. Keep hoping this next win will finally make you feel good enough.
 
-**But it never does.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *But it never does.*
+
 
 Because the external scoreboard is infinite. There's always someone with better stats. Always someone doing more impressive things. Always a higher level you haven't reached yet.
 
@@ -110,7 +122,11 @@ That's not a game. That's a trap.
 
 Now here's the beautiful thing about the internal scorecard:
 
-**It's the only game where winning is actually possible.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *It's the only game where winning is actually possible.*
+
 
 Because you set the rules. You define success. You decide what matters. You judge your own performance.
 
@@ -178,7 +194,11 @@ Maybe you don't care about having tons of followers. Maybe you'd rather have 3 f
 
 Maybe "success" for you doesn't look like a high-paying corporate job. Maybe it looks like freedom to work on things you care about, or time with people you love, or mastery of a craft that fulfills you.
 
-**But you'll never know what YOUR scoreboard looks like if you never stop to actually design it.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *But you'll never know what YOUR scoreboard looks like if you never stop to actually design it.*
+
 
 Most people spend their entire lives crushing someone else's game. Getting straight A's in subjects they don't care about. Chasing careers that look impressive but make them miserable. Building a life that looks great on paper but feels empty in reality.
 
@@ -190,7 +210,11 @@ Because they were playing the wrong game the entire time.
 
 Warren Buffett said something that changed how I think about this forever:
 
-**"When you're living for external approval, you're giving everyone else control of your self-worth."**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *"When you're living for external approval, you're giving everyone else control of your self-worth."*
+
 
 Think about that. Every time you make a decision based on what will impress others, you're letting them write the rules of your game. You're letting them decide if you're winning or losing.
 
@@ -198,7 +222,11 @@ That's not freedom. That's a prison.
 
 And here's the uncomfortable part: Choosing your own scoreboard means disappointing some people. It means your parents might not understand your choices. It means your peers might judge you. It means society might tell you you're doing it wrong.
 
-**But that discomfort is the price of freedom.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *But that discomfort is the price of freedom.*
+
 
 The sooner you learn to be comfortable with being uncomfortable—with choosing your path even when others don't get it—the sooner you'll actually start winning the game that matters.
 
@@ -249,7 +277,11 @@ Not the default version. YOUR version.
 
 Here's what this looks like in practice:
 
-**Internal Scorecard Examples:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Internal Scorecard Examples:*
+
 - "I win when I learn something that changes how I see the world"
 - "I win when I push through discomfort and come out stronger"
 - "I win when I create something I'm genuinely proud of"
@@ -257,7 +289,11 @@ Here's what this looks like in practice:
 - "I win when I'm improving faster than I was last month"
 - "I win when I keep my word to myself even when nobody's watching"
 
-**External Scorecard Examples (What We're Moving AWAY From):**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *External Scorecard Examples (What We're Moving AWAY From):*
+
 - "I win when I have more followers than my peers"
 - "I win when people think I'm successful"
 - "I win when I meet everyone's expectations"
@@ -315,7 +351,11 @@ The scoreboard becomes internal. And that's when you become unstoppable.
 
 Here's an exercise that'll change everything:
 
-**Create a list of achievements that would make you proud EVEN IF nobody else ever knew about them.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Create a list of achievements that would make you proud EVEN IF nobody else ever knew about them.*
+
 
 Seriously. Grab your phone or a piece of paper right now. List 5-10 things you could accomplish that would make you feel like you won, even if you could never tell anyone.
 
@@ -339,7 +379,11 @@ If the only reason you'd feel proud is because others would be impressed, that's
 
 Here's how you know if you're living by your internal scorecard:
 
-**"If nobody ever knew I did this, would I still feel proud?"**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *"If nobody ever knew I did this, would I still feel proud?"*
+
 
 
 - If yes → Internal scorecard is leading (you're winning the right game)
@@ -370,7 +414,11 @@ We have to talk about this. Because if there's one thing that's completely hijac
 
 And I'm not going to preach at you about "phones bad" or "kids these days." I'm just going to tell you the truth:
 
-**Social media platforms are literally engineered to replace your internal scorecard with an external one.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Social media platforms are literally engineered to replace your internal scorecard with an external one.*
+
 
 That's not conspiracy theory. That's how they're designed.
 
@@ -438,7 +486,11 @@ External scorecard says Creator A. They've got better stats. More impressive num
 
 Internal scorecard says Creator B. They're building something they care about. They're becoming someone they're proud of. They're playing their own game.
 
-**Which game do you want to play?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Which game do you want to play?*
+
 
 ---
 
@@ -456,7 +508,11 @@ Because it will conflict. Constantly.
 
 Your parents might not understand why you're choosing a different path than they wanted for you. Your peers might judge you for not doing what everyone else is doing. Society might tell you you're making a mistake. Social media might make you feel like you're "behind."
 
-**This discomfort is the price of freedom.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *This discomfort is the price of freedom.*
+
 
 The sooner you get comfortable being uncomfortable—with choosing your path even when others don't get it—the sooner you'll actually win the game that matters.
 
@@ -464,7 +520,11 @@ The sooner you get comfortable being uncomfortable—with choosing your path eve
 
 Before making any big decision, ask yourself:
 
-**"Am I doing this because it moves MY scorecard forward? Or am I doing this because I want others to think well of me?"**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *"Am I doing this because it moves MY scorecard forward? Or am I doing this because I want others to think well of me?"*
+
 
 Be brutally honest.
 
@@ -476,13 +536,21 @@ Let's run through some real scenarios:
 
 ### Scenario 1: College Choice
 
-**External Scorecard:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *External Scorecard:*
+
 - Pick the most prestigious name-brand school that accepted you
 - Choose it because of how it sounds when you tell people
 - Go into debt for the brand
 - Study what's "impressive" even if you hate it
 
-**Internal Scorecard:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Internal Scorecard:*
+
 - Pick the school with the best program for YOUR goals
 - Choose it because it actually serves what you want to learn
 - Consider cost vs. value for YOUR path
@@ -492,13 +560,21 @@ The prestigious school might look better on LinkedIn. But if you spend 4 years m
 
 ### Scenario 2: Weekend Plans
 
-**External Scorecard:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *External Scorecard:*
+
 - Go to the party everyone's going to
 - Post about it to avoid FOMO
 - Spend the whole time on your phone making sure it looks like you're having fun
 - Feel anxious the whole time because you're not really enjoying it
 
-**Internal Scorecard:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Internal Scorecard:*
+
 - Work on the project you actually care about
 - Spend time on something that makes you better
 - Miss the party, feel the FOMO, but wake up Sunday having made real progress
@@ -508,13 +584,21 @@ The party looks better on Instagram. But which choice makes you proud when you'r
 
 ### Scenario 3: Social Media Posts
 
-**External Scorecard:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *External Scorecard:*
+
 - Carefully curate your "perfect life" highlight reel
 - Post what you think will get engagement
 - Delete posts that don't perform well
 - Feel anxious about maintaining the image
 
-**Internal Scorecard:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Internal Scorecard:*
+
 - Share things you're genuinely excited about
 - Post what represents who you actually are
 - Keep things up regardless of likes because you're proud of them
@@ -530,7 +614,11 @@ And that's the whole point. You're trading other people's approval for your own.
 
 It's uncomfortable. Your brain will scream at you that you're making a mistake. That you should care what people think. That you're "falling behind."
 
-**That discomfort means you're doing it right.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *That discomfort means you're doing it right.*
+
 
 Because choosing your own scoreboard requires courage. It requires going against the current. It requires being comfortable with being uncomfortable.
 
@@ -564,7 +652,11 @@ Suddenly you're not learning for mastery anymore. You're learning for grades. Yo
 
 Ask yourself regularly:
 
-**"If nobody ever knew I did this, would I still feel proud?"**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *"If nobody ever knew I did this, would I still feel proud?"*
+
 
 
 - If yes → Your internal scorecard is still leading. The external validation is just a bonus. You're good.
@@ -590,13 +682,21 @@ If the answer is no, you're playing the wrong game.
 
 Let's bring this home.
 
-**This is your life. You get to decide what winning means.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *This is your life. You get to decide what winning means.*
+
 
 Not your parents. Not your teachers. Not your followers. Not society's default settings.
 
 You.
 
-And here's the beautiful, terrifying, freeing truth: **Once you choose your own scoreboard, you're responsible for it.**
+
+> [!NOTE]
+> **🎯 Core Principle**
+> And here's the beautiful, terrifying, freeing truth: **Once you choose your own scoreboard, you're responsible for it.**
+
 
 You can't blame anyone else if you don't like the game you're playing. Because you chose it.
 
@@ -606,7 +706,11 @@ But that's also why it's the only game worth playing. Because when you win on yo
 
 This week, do these two things:
 
-**1. Identify one thing you're doing purely for external validation that doesn't serve your internal scorecard.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *1. Identify one thing you're doing purely for external validation that doesn't serve your internal scorecard.*
+
 
 Maybe it's:
 
@@ -615,7 +719,11 @@ Maybe it's:
 - A friendship you're maintaining because of social status instead of genuine connection
 - A goal you're chasing because it's what you're "supposed" to want
 
-**2. Identify one thing you've been avoiding because it doesn't look impressive but aligns with what you actually value.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *2. Identify one thing you've been avoiding because it doesn't look impressive but aligns with what you actually value.*
+
 
 Maybe it's:
 
@@ -630,25 +738,41 @@ This week. Not "someday." This week.
 
 It's going to feel uncomfortable. People might not understand. Your brain will tell you you're making a mistake.
 
-**That discomfort is growth. That's the feeling of taking your life back.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *That discomfort is growth. That's the feeling of taking your life back.*
+
 
 ### Build Your Actual Internal Scorecard
 
 Get out a piece of paper or open a note on your phone. Answer these for real:
 
-**My Core Values (Pick 3-5):**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *My Core Values (Pick 3-5):*
+
 
 What matters most to me?
 
 Examples: Mastery, freedom, impact, relationships, creativity, security, achievement, growth, adventure, authenticity
 
-**My Definition of Winning (Be Specific):**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *My Definition of Winning (Be Specific):*
+
 
 What does success look like for ME?
 
 Not the default version. Not what sounds good. What actually makes me feel like I'm winning?
 
-**My Private Victory Metrics (What I'll Track That Nobody Else Sees):**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *My Private Victory Metrics (What I'll Track That Nobody Else Sees):*
+
 
 How will I know I'm winning MY game?
 
@@ -660,7 +784,11 @@ Examples:
 - Moments I kept my word to myself
 - Days I pushed through discomfort to grow
 
-**My Non-Negotiables (Standards I'll Keep Even If Nobody's Watching):**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *My Non-Negotiables (Standards I'll Keep Even If Nobody's Watching):*
+
 
 What lines won't I cross? What standards won't I lower?
 
@@ -687,9 +815,17 @@ This is your game now.
 
 Warren Buffett put it perfectly:
 
-**"You can spend your life trying to impress people who don't care, or you can spend your life becoming someone you're proud of."**
 
-**Only one of those games is winnable.**
+> [!NOTE]
+> **💭 Key Insight**
+> *"You can spend your life trying to impress people who don't care, or you can spend your life becoming someone you're proud of."*
+
+
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Only one of those games is winnable.*
+
 
 The external game—the one where you chase likes, status, approval, and external metrics—is infinite. There's always someone ahead of you. Always someone with better stats. Always another level you haven't reached.
 
@@ -697,7 +833,11 @@ You can never win that game. Because the scoreboard never stops moving.
 
 But the internal game? The one where you define success on your own terms, live by your own values, and become the person YOU respect?
 
-**That's a game you can dominate.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *That's a game you can dominate.*
+
 
 Because you set the rules. You keep the score. You decide what winning looks like.
 
@@ -789,7 +929,11 @@ Now that you've defined YOUR scoreboard... how do you actually score points on i
 
 How do you get better at the game YOU chose to play?
 
-**Next up: Chapter 4 – Practice Like a Pro**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Next up: Chapter 4 – Practice Like a Pro*
+
 
 You can't improve without deliberate practice. Time to learn how the best in the world actually get better—and how you can use the same playbook.
 

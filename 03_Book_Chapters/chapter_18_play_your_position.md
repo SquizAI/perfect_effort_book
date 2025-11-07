@@ -100,7 +100,11 @@ You spread yourself thin across ten different areas. You become mediocre at many
 
 You're exhausting yourself trying to compete on everyone else's terms. And in the process, you completely miss your actual competitive advantage.
 
-**The Comparison Trap**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The Comparison Trap*
+
 
 Social media makes this worse. You scroll through your feed and see everyone's highlight reel at their best thing.
 
@@ -134,7 +138,11 @@ She built Bumble on a simple principle: "Don't compete where you can't win. Crea
 
 That's what playing your position means.
 
-**Here's how it works:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Here's how it works:*
+
 
 
 
@@ -150,21 +158,37 @@ In football, you don't ask your kicker to throw touchdowns. You don't ask your q
 
 Life works the same way.
 
-**Ask yourself three questions:**
 
-**1. What am I naturally good at?**
+> [!NOTE]
+> **💭 Key Insight**
+> *Ask yourself three questions:*
+
+
+
+> [!NOTE]
+> **💭 Key Insight**
+> *1. What am I naturally good at?*
+
 
 Not what you think you should be good at. What actually feels easy to you but hard for others?
 
 What do people come to you for help with? What activities make you lose track of time because you're so engaged?
 
-**2. What makes me different?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *2. What makes me different?*
+
 
 What's your unusual combination of skills or interests? What perspective do you have that others don't? What would you do differently if you were in charge?
 
 Your differences aren't weaknesses. They're your competitive advantage.
 
-**3. Where can I be exceptional instead of mediocre?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *3. Where can I be exceptional instead of mediocre?*
+
 
 Where's your unfair advantage? What could you be in the top 10% at with focused effort? What's the smallest niche where you could dominate?
 
@@ -186,7 +210,11 @@ Result? You become exceptional at your thing. You delegate, partner, or use tool
 
 This isn't giving up. This is strategy.
 
-**The 80/20 Rule of Personal Development:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The 80/20 Rule of Personal Development:*
+
 
 80% of your growth comes from building strengths. 20% comes from fixing critical weaknesses—only the ones that actually block you from progress.
 
@@ -226,23 +254,43 @@ The result? A company worth $13 billion. She became the youngest woman to take a
 
 When you play your position, here's what you gain:
 
-**Clarity on Your Value**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Clarity on Your Value*
+
 
 You stop guessing what makes you special. You know exactly what you bring to the table.
 
-**Competitive Advantage**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Competitive Advantage*
+
 
 You stand out instead of blending in. When everyone else is fighting for space in a crowded lane, you've got your own lane.
 
-**Higher Performance**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Higher Performance*
+
 
 Excellence in your lane beats mediocrity everywhere. It's math. 10/10 in one area creates more value than 5/10 in ten areas.
 
-**Authentic Confidence**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Authentic Confidence*
+
 
 Not fake confidence based on pretending to be someone you're not. Real confidence based on genuine strengths.
 
-**Strategic Energy Use**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Strategic Energy Use*
+
 
 You stop wasting effort where you can't win. You pour everything into where you can dominate.
 
@@ -389,7 +437,11 @@ You can't play your position if you don't know what it is.
 
 Time for radical honesty. Answer these questions:
 
-**1. What feels easy to you but hard for others?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *1. What feels easy to you but hard for others?*
+
 
 Think about activities where you think "Why is everyone struggling with this?" Things people regularly ask you for help with.
 
@@ -397,7 +449,11 @@ Maybe you can explain complex concepts simply. Maybe you notice details others m
 
 Write it down: _______________________________
 
-**2. What makes you lose track of time?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *2. What makes you lose track of time?*
+
 
 When you're in flow state, hours feel like minutes. What are you doing when that happens?
 
@@ -405,7 +461,11 @@ Not what you think you should enjoy. What actually pulls you in so deep that you
 
 Write it down: _______________________________
 
-**3. What do you do better than most people you know?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *3. What do you do better than most people you know?*
+
 
 Not world-class yet. Just top 20% among your peers. Where do you have natural talent plus developed skill?
 
@@ -413,7 +473,11 @@ Be specific. "I'm good with people" is too vague. "I can make strangers feel com
 
 Write it down: _______________________________
 
-**4. What would your friends say you're great at?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *4. What would your friends say you're great at?*
+
 
 This matters because we're often blind to our own strengths. Ask five people: "What's one thing I'm uniquely good at?"
 
@@ -421,7 +485,11 @@ Their answers will reveal patterns you might miss.
 
 Write it down: _______________________________
 
-**5. What's your unusual combination?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *5. What's your unusual combination?*
+
 
 Most people are good at A or B. What are you good at that's A AND B?
 
@@ -436,7 +504,11 @@ Write it down: _______________________________
 
 **The Output:** You now have a list of 3-5 potential strengths to build on.
 
-**The StrengthsFinder Framework (Simplified):**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The StrengthsFinder Framework (Simplified):*
+
 
 Strengths typically fall into four categories:
 
@@ -462,7 +534,11 @@ Now we're getting specific. Draw three overlapping circles:
 
 Your position is where all three circles overlap.
 
-**Example - Alex the Connector:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Example - Alex the Connector:*
+
 
 
 
@@ -521,7 +597,11 @@ For each area, ask three questions:
 - Does competing here energize me or drain me? (Energize/Drain)
 - Can I be top 10% here with focused effort? (Yes/No/Unlikely)
 
-**If the answer is "No / Drain / Unlikely" → Strategic Retreat**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *If the answer is "No / Drain / Unlikely" → Strategic Retreat*
+
 
 Let's be clear about what strategic retreat means:
 
@@ -529,7 +609,11 @@ It's not quitting. It's redeploying energy.
 It's not giving up. It's strategy.
 It's not accepting defeat. It's choosing your battles.
 
-**Here's what you do:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Here's what you do:*
+
 
 
 
@@ -543,13 +627,21 @@ It's not accepting defeat. It's choosing your battles.
 
 3. **Stop measuring yourself** against people playing different games. Their game isn't your game.
 
-**Example - Jordan vs. Casey (the basketball players):**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Example - Jordan vs. Casey (the basketball players):*
+
 
 Jordan's strategic retreat would have been: Stop trying to be the top scorer (not the natural strength). Pour that energy into becoming an elite passer and defender (natural strengths). Stop measuring success by points scored (someone else's game) and start measuring it by assists and defensive stops (Jordan's actual position).
 
 If Jordan had done this sophomore year, the story would have ended differently.
 
-**Your Strategic Retreats:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Your Strategic Retreats:*
+
 
 | Area to Pull Back From | Why It's Not My Position | Where I'll Pour Energy |
 |------------------------|-------------------------|----------------------------|
@@ -572,13 +664,25 @@ Top 10%. Then top 5%. Then top 1% among your peers.
 
 Excellence creates opportunities that don't exist for the merely competent.
 
-**The 10,000 Rep Principle:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The 10,000 Rep Principle:*
+
 
 You need volume. Deliberate, focused repetition in your strength area.
 
-**Here's how to build dominance:**
 
-**1. Get Deliberate Practice**
+> [!NOTE]
+> **💭 Key Insight**
+> *Here's how to build dominance:*
+
+
+
+> [!NOTE]
+> **💭 Key Insight**
+> *1. Get Deliberate Practice*
+
 
 This isn't mindless repetition. This is structured improvement with feedback.
 
@@ -604,7 +708,11 @@ Example: If you're great at explaining concepts, start a YouTube channel or blog
 
 Visibility matters. Being great in private doesn't create opportunities.
 
-**4. Stack Your Strengths**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *4. Stack Your Strengths*
+
 
 Combine your strengths into unique combinations. That's where the real magic happens.
 
@@ -614,7 +722,11 @@ Combine your strengths into unique combinations. That's where the real magic hap
 
 Find the intersection. Build there.
 
-**Your Dominance Plan:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Your Dominance Plan:*
+
 
 **My Position:** _______________________________
 
@@ -646,7 +758,11 @@ Most people accept the rules they're given. They compete within existing structu
 
 Winners create new games where their strengths ARE the rules.
 
-**When to Rewrite Rules:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *When to Rewrite Rules:*
+
 
 
 
@@ -655,9 +771,17 @@ Winners create new games where their strengths ARE the rules.
 - You see a need that current rules don't address
 - Your unique perspective reveals a better way
 
-**How to Rewrite Rules:**
 
-**1. Identify the Broken Rule**
+> [!NOTE]
+> **💭 Key Insight**
+> *How to Rewrite Rules:*
+
+
+
+> [!NOTE]
+> **💭 Key Insight**
+> *1. Identify the Broken Rule*
+
 
 What rule or norm doesn't make sense? What would you change if you were in charge?
 
@@ -665,7 +789,11 @@ Whitney's version: "Why do men always message first on dating apps? That creates
 
 That was the broken rule. Most people accepted it. She didn't.
 
-**2. Design Your Alternative**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *2. Design Your Alternative*
+
 
 What would a game look like that values YOUR strengths? What rules would make your position the winning position?
 
@@ -673,7 +801,11 @@ Whitney's alternative: "Women message first. This creates safety, respect, and p
 
 That was the new rule. It flipped the entire dynamic.
 
-**3. Test Your New Game**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *3. Test Your New Game*
+
 
 Start small. Don't bet everything on an untested idea.
 
@@ -681,13 +813,21 @@ Run an experiment. Find others who resonate with your rules. Get feedback. Itera
 
 Whitney tested Bumble with a small group first. Refined the concept. Then scaled it.
 
-**4. Own It Publicly**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *4. Own It Publicly*
+
 
 Share why you're playing differently. Invite others to join your game. Build community around your new rules.
 
 Whitney didn't hide the fact that Bumble was different. She made it the main feature. "Women make the first move" became the brand.
 
-**Examples of Rule Rewriting:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Examples of Rule Rewriting:*
+
 
 | Traditional Rule | New Rule | Result |
 |-----------------|----------|---------|
@@ -695,7 +835,11 @@ Whitney didn't hide the fact that Bumble was different. She made it the main fea
 | "Most goals = Best player" | "Makes everyone better = Best player" | Player focuses on assists and defensive leadership, becomes team captain |
 | "Follow career path" | "Create your own role" | Entrepreneur builds position that didn't exist before |
 
-**Your Rule Rewrite:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Your Rule Rewrite:*
+
 
 **Broken rule I'm tired of:** _______________________________
 
@@ -719,7 +863,11 @@ That's exactly wrong.
 
 Your differences are often your superpowers in disguise.
 
-**The Difference Inventory:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The Difference Inventory:*
+
 
 List three things about you that are different from most of your peers:
 
@@ -736,7 +884,11 @@ For each one, ask:
 - How could this actually be an advantage?
 - What can I do BECAUSE of this difference that others can't?
 
-**Examples of Flipping Differences:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Examples of Flipping Differences:*
+
 
 | Difference | Seen as "Disadvantage" | Flipped to Advantage |
 |------------|----------------------|---------------------|
@@ -788,7 +940,11 @@ Your difference? It's not holding you back. It's your edge. Own it.
 | 4. _____________ | ________________________ | |
 | 5. _____________ | ________________________ | |
 
-**After you collect all five answers:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *After you collect all five answers:*
+
 
 What patterns emerge? Are you surprised by anything? Do they see strengths in you that you've been ignoring or downplaying?
 
@@ -808,7 +964,11 @@ What patterns emerge? Are you surprised by anything? Do they see strengths in yo
 | Sat | _____________ | ____________ | _______________ | ___ |
 | Sun | _____________ | ____________ | _______________ | ___ |
 
-**End of Week Reflection:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *End of Week Reflection:*
+
 
 How many comparisons were in areas that AREN'T your position? What would happen if you just stopped comparing yourself in those areas?
 
@@ -825,7 +985,11 @@ How many comparisons were in areas that AREN'T your position? What would happen 
 - Enter a competition in your strength area
 - Teach a workshop or create tutorial content about your thing
 
-**Your Showcase Plan:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Your Showcase Plan:*
+
 
 What I'll create: _______________________________
 
@@ -849,7 +1013,11 @@ Visibility matters. Showcase your position publicly.
 
 **Why it doesn't work for me:** _______________________________
 
-**My alternative rule:** _______________________________
+
+> [!NOTE]
+> **🎯 Core Principle**
+> **My alternative rule:** _______________________________
+
 
 **Small experiment to test it:** _______________________________
 
@@ -916,27 +1084,51 @@ Don't just complain about rules that don't fit you. Test alternatives. Be the pe
 > [!TIP]
 > ### Key Takeaways
 
-**1. You Don't Have to Be Best at Everything**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *1. You Don't Have to Be Best at Everything*
+
 
 Be exceptional at YOUR thing. That creates more value than being mediocre at ten things.
 
-**2. Your Differences Are Your Competitive Advantage**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *2. Your Differences Are Your Competitive Advantage*
+
 
 What makes you "different" or "weird" is what makes you valuable. Don't hide it. Build on it.
 
-**3. Stop Competing Where You Can't Win**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *3. Stop Competing Where You Can't Win*
+
 
 Strategic retreat isn't quitting. It's choosing your battles. Create your own lane instead of fighting for space in someone else's.
 
-**4. The World Needs YOU, Not Another Copy**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *4. The World Needs YOU, Not Another Copy*
+
 
 The world doesn't need another version of someone else. It needs the first version of you.
 
-**5. Build Strengths, Manage Weaknesses**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *5. Build Strengths, Manage Weaknesses*
+
 
 80% of your energy should go into building strengths. 20% into managing critical weaknesses. Not the other way around.
 
-**6. Playing Your Position Creates Clarity**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *6. Playing Your Position Creates Clarity*
+
 
 When you know your position, decisions get easier. You know what's your game and what's not. You know where to invest time and where to pull back.
 

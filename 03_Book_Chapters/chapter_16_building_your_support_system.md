@@ -181,7 +181,11 @@ And you? You're struggling. Stressed. Overwhelmed. Barely keeping your head abov
 
 So you think: "Everyone else can handle this. What's wrong with me?"
 
-Here's the truth: **Everyone else is struggling too.** They're just not showing it.
+
+> [!NOTE]
+> **🎯 Core Principle**
+> Here's the truth: **Everyone else is struggling too.** They're just not showing it.
+
 
 We've created a culture where admitting you need help feels like admitting you're failing.
 

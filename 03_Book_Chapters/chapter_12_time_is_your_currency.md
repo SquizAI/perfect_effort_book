@@ -71,7 +71,11 @@ Sounds like forever, right?
 
 Wrong.
 
-**Here's what those 65 years actually look like in hours:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Here's what those 65 years actually look like in hours:*
+
 
 
 - Total hours left: ~560,000
@@ -79,7 +83,11 @@ Wrong.
 - Remove school and work (40 hours/week for 50 years): ~273,000 hours left
 - Remove eating, hygiene, commuting (~3 hours/day): ~233,000 hours left
 
-**That's it. That's your entire life in hours.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *That's it. That's your entire life in hours.*
+
 
 233,000 hours to become everything you want to become. To build everything you want to build. To do everything that matters.
 
@@ -166,7 +174,11 @@ That's from investor Peter Thiel. He made billions by thinking differently than 
 
 Let's apply that to time.
 
-**What should you be doing with your time that almost no one your age is doing?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *What should you be doing with your time that almost no one your age is doing?*
+
 
 Think about it. Most teenagers spend their time the same way:
 
@@ -182,7 +194,11 @@ What if you made different choices?
 
 ### The Four Contrarian Time Mistakes
 
-**Mistake #1: Treating All Hours as Equal**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Mistake #1: Treating All Hours as Equal*
+
 
 Conventional thinking: "I need to put in the hours."
 
@@ -194,7 +210,11 @@ Which creates more value? The single hour with massive leverage.
 
 Stop counting hours. Start counting what you get back.
 
-**Mistake #2: Following the Crowd**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Mistake #2: Following the Crowd*
+
 
 Conventional: Do what everyone else does to "keep options open."
 
@@ -204,7 +224,11 @@ Example: Everyone in your school takes Spanish. But who's learning to code? Who'
 
 In five years, which skill will have more career leverage?
 
-**Mistake #3: Optimizing for Busy**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Mistake #3: Optimizing for Busy*
+
 
 Conventional: Pack your schedule with seven clubs and five sports to look well-rounded.
 
@@ -214,7 +238,11 @@ What's more valuable: vice president of three clubs you barely care about, or el
 
 Depth beats breadth. Mastery beats dabbling. Every time.
 
-**Mistake #4: Avoiding the Uncomfortable Choice**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Mistake #4: Avoiding the Uncomfortable Choice*
+
 
 Conventional: "I'll figure it out later. Keep my options open."
 
@@ -226,7 +254,11 @@ Saying no to social approval. Saying no to what everyone else is doing. Saying n
 
 To invest time in skills that won't pay off for years.
 
-**The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life.*
+
 
 The winners? They made that uncomfortable choice at 15.
 
@@ -267,7 +299,11 @@ Let's find out.
 
 For the next seven days, track every single hour.
 
-**Create a simple note on your phone with four columns:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Create a simple note on your phone with four columns:*
+
 
 1. **Time & Activity** (what you did each hour)
 2. **Value Category** (zero/low/medium/high)
@@ -282,7 +318,11 @@ By the end of the week, you'll have 168 hours of data.
 
 After seven days, add up your hours by category.
 
-**Your discretionary time (about 50 hours per week) breaks down like this:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Your discretionary time (about 50 hours per week) breaks down like this:*
+
 
 Time by Category:
 
@@ -293,7 +333,11 @@ Time by Category:
 
 Most people discover they spent 40 hours on zero/low-value activities and 10 hours on medium/high-value activities.
 
-**80% of time creating 20% of value.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *80% of time creating 20% of value.*
+
 
 The goal? Flip it.
 
@@ -334,7 +378,11 @@ Your brain has peak performance windows. You need to know yours.
 > [!IMPORTANT]
 > ### Common Time Leaks (And How to Plug Them)
 
-**Digital Black Holes:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Digital Black Holes:*
+
 
 The "quick check" of Instagram. Now it's 45 minutes later.
 
@@ -344,7 +392,11 @@ The "just five minutes" of gaming. Now the afternoon's gone.
 
 **The fix:** Phone in a different room during work time. App time limits with no override option. Cold turkey on your biggest time sink.
 
-**Fake Productivity:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Fake Productivity:*
+
 
 Organizing your notes instead of studying from them.
 
@@ -354,7 +406,11 @@ Research spirals with zero output at the end.
 
 **The fix:** Set output goals, not time goals. "Master these three concepts" beats "study for two hours."
 
-**Social Obligation Time:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Social Obligation Time:*
+
 
 Hanging out when you don't want to because you feel obligated.
 
@@ -364,7 +420,11 @@ Drama spirals that suck hours and give nothing back.
 
 **The fix:** Ruthless boundaries. Strategic friendships. Quality over quantity.
 
-**Decision Fatigue Time:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Decision Fatigue Time:*
+
 
 Spending 20 minutes deciding what to work on instead of just working.
 
@@ -571,7 +631,11 @@ So what should you say yes to?
 
 You can't have everything. But you can consciously choose what you're trading.
 
-**Trade 1: Social Time vs. Skill Time**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Trade 1: Social Time vs. Skill Time*
+
 
 Less hanging out just to hang out. More deep practice.
 
@@ -579,7 +643,11 @@ Smaller friend group. Deeper relationships.
 
 FOMO today. Optionality tomorrow.
 
-**Trade 2: Breadth vs. Depth**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Trade 2: Breadth vs. Depth*
+
 
 Fewer activities. Elite-level performance.
 
@@ -587,7 +655,11 @@ Less resume padding. More actual mastery.
 
 Looking "well-rounded" vs. being exceptional in reality.
 
-**Trade 3: Approval vs. Progress**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Trade 3: Approval vs. Progress*
+
 
 Stop doing things to look impressive.
 
@@ -599,7 +671,11 @@ Long-term: you're miles ahead while they're still trying to impress everyone.
 
 These trades are uncomfortable. That's the point.
 
-**Uncomfortable choices at 15 create comfortable lives at 25.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Uncomfortable choices at 15 create comfortable lives at 25.*
+
 
 Comfortable choices at 15 create uncomfortable lives at 25.
 
@@ -639,7 +715,11 @@ Homework and schoolwork (when you're still focused).
 
 Strategic learning.
 
-**Focused but flexible.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Focused but flexible.*
+
 
 **Afternoon Block** (Energy dip):
 
@@ -649,7 +729,11 @@ Batch all communication into one window.
 
 Routine maintenance tasks.
 
-**Lower leverage, still valuable.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Lower leverage, still valuable.*
+
 
 **Evening Block** (If energy available):
 
@@ -659,7 +743,11 @@ Light skill practice.
 
 System building for future efficiency.
 
-**Don't force it if you're exhausted. Rest is productive too.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Don't force it if you're exhausted. Rest is productive too.*
+
 
 **Recovery Block** (Before bed):
 
@@ -669,7 +757,11 @@ Reading, journaling, planning tomorrow.
 
 Actual rest that sets up your next morning.
 
-**This determines how good tomorrow's morning block will be.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *This determines how good tomorrow's morning block will be.*
+
 
 ### The 90-Minute Sprint
 
@@ -697,7 +789,11 @@ You have about 50 discretionary hours per week.
 
 Here's how to invest them:
 
-**Contrarian allocation:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Contrarian allocation:*
+
 - 15 hours: Deep skill development (elite-level deliberate practice)
 - 10 hours: Building and creating (projects, portfolio, tangible outputs)
 - 8 hours: Strategic learning (books, courses, mentorship)
@@ -705,15 +801,27 @@ Here's how to invest them:
 - 5 hours: Strategic relationships (people who push you forward)
 - 5 hours: True recovery (rest, reflection, recharge)
 
-**Total: 50 hours of high-leverage time.**
 
-**vs. Conventional allocation:**
+> [!NOTE]
+> **💭 Key Insight**
+> *Total: 50 hours of high-leverage time.*
+
+
+
+> [!NOTE]
+> **💭 Key Insight**
+> *vs. Conventional allocation:*
+
 - 20 hours: Social media and scrolling
 - 15 hours: Gaming and Netflix
 - 10 hours: Hanging out with no purpose
 - 5 hours: Drama and low-value social time
 
-**Total: 50 hours that produce almost nothing.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Total: 50 hours that produce almost nothing.*
+
 
 Same amount of time.
 
@@ -769,7 +877,11 @@ And the earlier you start, the more extreme those results become.
 - Age 25: Elite skills. Portfolio of work. Network of high-achievers. Options everywhere.
 - Age 35: Top of their field. Financial freedom. Designing their life.
 
-**Same starting point. Same 10 years. Completely different lives.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Same starting point. Same 10 years. Completely different lives.*
+
 
 What made the difference?
 
@@ -809,7 +921,11 @@ With different rules.
 
 Try this exercise. It's uncomfortable.
 
-**Imagine two versions of yourself five years from now.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Imagine two versions of yourself five years from now.*
+
 
 **Version A** (if your current time use continues):
 - What have you mastered?
@@ -825,7 +941,11 @@ Try this exercise. It's uncomfortable.
 - Who could you connect with?
 - What leverage could you develop?
 
-**The gap between these two versions?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The gap between these two versions?*
+
 
 That's the cost of your current time choices.
 
@@ -871,7 +991,11 @@ Delete the app. Block the website. Change the environment.
 
 Identify your highest-energy time window. Usually first 2-3 hours after waking.
 
-**Starting Tomorrow:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Starting Tomorrow:*
+
 
 Block this time for your single highest-leverage activity.
 
@@ -1043,31 +1167,67 @@ The game is just getting started.
 
 ---
 
-**Every hour you spend is an investment.**
 
-**Some investments return nothing.**
+> [!NOTE]
+> **💭 Key Insight**
+> *Every hour you spend is an investment.*
+
+
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Some investments return nothing.*
+
 **Some investments return 1x.**
 **The best investments return 100x, 1000x, 10,000x.**
 
-**You can't make more time.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *You can't make more time.*
+
 **You can only decide what you're willing to trade it for.**
 
-**The crowd trades time for entertainment, distraction, approval.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The crowd trades time for entertainment, distraction, approval.*
+
 **Contrarians trade time for skills, leverage, freedom.**
 
-**In five years, you'll be rich or you'll be broke.**
 
-**Not money-rich. Time-rich.**
+> [!NOTE]
+> **💭 Key Insight**
+> *In five years, you'll be rich or you'll be broke.*
 
-**You'll either have leverage, options, and freedom...**
+
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Not money-rich. Time-rich.*
+
+
+
+> [!NOTE]
+> **💭 Key Insight**
+> *You'll either have leverage, options, and freedom...*
+
 **Or you'll still be trading hours for dollars, stuck in the same place.**
 
-**The choice is happening right now.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The choice is happening right now.*
+
 **With this hour.**
 **And the next one.**
 **And the next one.**
 
-**What are you buying with your time?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *What are you buying with your time?*
+
 
 
 ---

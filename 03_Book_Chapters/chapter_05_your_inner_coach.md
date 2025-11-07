@@ -61,7 +61,11 @@ Sound familiar?
 
 The difference between people who succeed and people who don't often comes down to what that voice says when things get hard. Not talent. Not luck. Not even how much you practice.
 
-**It's how you talk to yourself when the pressure's on.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *It's how you talk to yourself when the pressure's on.*
+
 
 ### The Brian Chesky Test
 
@@ -113,14 +117,22 @@ The critic deals in absolutes. Everything's permanent. Everything's personal. Ev
 
 The coach deals in progress. Everything's temporary. Everything's data. Everything's an opportunity to improve.
 
-**Same situation. Completely different self-talk. Completely different outcome.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Same situation. Completely different self-talk. Completely different outcome.*
+
 
 ### Uncomfortable Means You're Learning
 
 
 ---
 
-Remember the core principle: **"The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life."**
+
+> [!NOTE]
+> **🎯 Core Principle**
+> Remember the core principle: **"The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life."**
+
 
 Your inner coach makes that possible. When something's hard and your brain wants to quit, the coach reminds you: "This discomfort means my brain is changing. New connections are forming. I'm getting better."
 
@@ -154,7 +166,11 @@ For the next seven days, pay attention to what your inner voice says when you fa
 
 Write it down. Get specific.
 
-**Common Critic Patterns:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Common Critic Patterns:*
+
 
 
 1. **Catastrophizing**: "This is a disaster. Everything's ruined."
@@ -181,7 +197,11 @@ Write it down. Get specific.
 
    - Example: Before even trying → "There's no point. I'll just mess it up anyway."
 
-Sound familiar? That's the critic. And here's the uncomfortable truth: **We all have it.**
+
+> [!NOTE]
+> **🎯 Core Principle**
+> Sound familiar? That's the critic. And here's the uncomfortable truth: **We all have it.**
+
 
 The difference between winners and everyone else isn't that winners don't have an inner critic. It's that they've learned to catch it and replace it.
 
@@ -189,13 +209,21 @@ The difference between winners and everyone else isn't that winners don't have a
 
 Let's make this concrete. Imagine you're about to take a really hard test. You studied, but there's stuff you're still shaky on. You sit down. Open the test. First problem is confusing.
 
-**The Critic's Version:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The Critic's Version:*
+
 
 "Oh no. I don't get this. I'm going to fail. I'm terrible at this subject. Everyone else probably gets it. Why am I so stupid? I knew I should have studied more. This is a disaster. The teacher's going to think I'm an idiot. My parents are going to be so disappointed. I'm never going to get into a good college. My life is over."
 
 (Yes, your brain can spiral that fast. Mine does too.)
 
-**The Coach's Version:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The Coach's Version:*
+
 
 "Okay, this first problem is tough. That's fine – tests usually start with the hardest stuff. I'll skip it and come back. Let me find the problems I know how to solve and build confidence. I studied the key concepts. I can figure this out. One problem at a time."
 
@@ -225,7 +253,11 @@ Catch the critic in the act. Name it.
 
 Just recognizing it takes away half its power. You're not your thoughts. You're the one observing your thoughts. Big difference.
 
-**Step 2: CHALLENGE**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 2: CHALLENGE*
+
 
 Ask: Is this actually true? Is this helpful?
 
@@ -392,7 +424,11 @@ Anyone can use good self-talk when things are easy. The question is: What voice 
 
 ### High-Pressure Self-Talk Strategies
 
-**Before Performance:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Before Performance:*
+
 
 
 - "I've prepared for this. Trust my training."
@@ -404,7 +440,11 @@ Not: "I have to be perfect." Not: "Everyone's watching." Not: "What if I mess up
 
 Just simple, process-focused reminders that keep you in the moment.
 
-**During Performance:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *During Performance:*
+
 
 
 - "Breathe. Refocus."
@@ -452,7 +492,11 @@ You didn't choose your initial inner voice. It got programmed by your early expe
 
 You didn't have control over that.
 
-**But now? Now you do.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *But now? Now you do.*
+
 
 You can't control what happens to you. You can't control whether you make the team, ace the test, win the game, get into your dream school.
 
@@ -462,7 +506,11 @@ You can keep letting your critic run the show – telling you you're not good en
 
 Or you can train your coach – reminding you that growth is possible, challenges are opportunities, mistakes are data, discomfort means progress.
 
-**Same brain. Different voice. Completely different life.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Same brain. Different voice. Completely different life.*
+
 
 ### This Week's Challenge
 
@@ -505,7 +553,11 @@ That's a trained skill. Not luck.
 
 You can train the same skill.
 
-**Your inner voice is either your greatest coach or your worst enemy. You get to choose which one wins.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Your inner voice is either your greatest coach or your worst enemy. You get to choose which one wins.*
+
 
 The critic will always be there. It's part of being human. But you can choose whether you listen to it – or whether you let your coach talk back.
 
@@ -573,7 +625,11 @@ The critic focuses on problems. The coach focuses on solutions.
 
 The critic sees discomfort as a reason to quit. The coach sees discomfort as a sign you're growing.
 
-**You're not working on self-talk for self-talk's sake. You're training your inner coach because it directly impacts your performance, your resilience, and your results.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *You're not working on self-talk for self-talk's sake. You're training your inner coach because it directly impacts your performance, your resilience, and your results.*
+
 
 Elite performers know this. Now you do too.
 

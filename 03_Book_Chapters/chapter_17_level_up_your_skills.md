@@ -434,7 +434,11 @@ Start strategically.
 
 Ask yourself three questions.
 
-**1. What skill matters most for my current goal?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *1. What skill matters most for my current goal?*
+
 
 If you're a student, maybe it's learning how to learn. Critical thinking. Communication.
 
@@ -442,13 +446,21 @@ If you're an athlete, it's sport-specific fundamentals. The basics of your game.
 
 If you're an artist, it's core technique in your medium. The foundational skills that everything else builds on.
 
-**2. What fundamental skill unlocks multiple advanced skills?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *2. What fundamental skill unlocks multiple advanced skills?*
+
 
 Some skills are force multipliers. Writing unlocks essays, emails, storytelling, persuasion, teaching. Math foundations unlock physics, computer science, economics, engineering. Public speaking unlocks leadership, teaching, influence, sales.
 
 These are leverage points. Skills that open doors to everything else.
 
-**3. What am I genuinely curious about?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *3. What am I genuinely curious about?*
+
 
 This matters more than people think. Curiosity-driven learning sticks. You'll put in the hours because you want to, not because you have to. Forced learning plateaus when it gets hard.
 
@@ -567,7 +579,11 @@ A system that makes improvement automatic. Built into your routine. Not dependen
 
 Four elements.
 
-**1. Consistent Schedule (Regularity beats intensity)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *1. Consistent Schedule (Regularity beats intensity)*
+
 
 Thirty minutes daily beats five hours once a week. Your brain learns through spaced repetition, not cramming.
 
@@ -580,7 +596,11 @@ Example schedule:
 - Tuesday/Thursday: Skill B (30 min)
 - Saturday: Reflection and planning (15 min)
 
-**2. Feedback Loop (You need to know if you're improving)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *2. Feedback Loop (You need to know if you're improving)*
+
 
 Track progress weekly. Use metrics when possible. Numbers don't lie.
 
@@ -594,7 +614,11 @@ Progress tracking examples:
 - Athletics: Stats (shooting percentage, sprint times, reps)
 - School: Test scores, grades, time to complete assignments
 
-**3. Difficulty Progression (Always push your edge)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *3. Difficulty Progression (Always push your edge)*
+
 
 As soon as something becomes easy, increase difficulty. This is how you grow. By staying uncomfortable.
 
@@ -607,7 +631,11 @@ Progression examples:
 - Athletics: Body weight → Added weight → Increased reps and speed
 - Writing: Short paragraphs → Essays → Articles → Creative work
 
-**4. Reflection Ritual (Learn from what you're learning)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *4. Reflection Ritual (Learn from what you're learning)*
+
 
 Weekly: What improved? What didn't? What will I adjust?
 
@@ -640,7 +668,11 @@ Examples of powerful skill stacks.
 - Stack: Writing + Organizing + Listening
 - Result: Effective leader who can communicate vision, write proposals, coordinate people, build trust
 
-**Creative Entrepreneur:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Creative Entrepreneur:*
+
 - Core: Design and art (deep mastery)
 - Stack: Marketing + Basic business + Digital tools
 - Result: Can create great work AND get it seen AND build a business around it
@@ -680,7 +712,11 @@ The ultimate skill. Getting better at getting better.
 
 These techniques accelerate everything.
 
-**1. Active Recall (Don't just re-read—test yourself)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *1. Active Recall (Don't just re-read—test yourself)*
+
 
 
 ---
@@ -692,7 +728,11 @@ Close the book. Try to explain the concept. Struggle to remember. That's your br
 
 Use flashcards. Self-quizzing. Teaching others.
 
-**2. Spaced Repetition (Review at increasing intervals)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *2. Spaced Repetition (Review at increasing intervals)*
+
 
 Review new concept: one day later, three days later, one week later, one month later.
 
@@ -706,13 +746,21 @@ Your brain remembers what you revisit. Not what you cram once.
 
 Use apps like Anki or Quizlet. Or just calendar reminders.
 
-**3. Interleaving (Mix practice, don't block)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *3. Interleaving (Mix practice, don't block)*
+
 
 Don't practice one thing for three hours straight. Mix it up. A, B, C, A, C, B.
 
 Forces your brain to distinguish between skills. Harder in the moment. Better long-term retention.
 
-**4. The Feynman Technique (Explain it simply)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *4. The Feynman Technique (Explain it simply)*
+
 
 Step 1: Learn the concept.
 Step 2: Explain it to someone (or yourself) in simple terms.
@@ -721,7 +769,11 @@ Step 4: Go back and re-learn those gaps.
 
 Rule: If you can't explain it simply, you don't understand it deeply.
 
-**5. Embrace Difficulty (Seek the struggle)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *5. Embrace Difficulty (Seek the struggle)*
+
 
 Easy practice equals comfort, not growth.
 

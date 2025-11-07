@@ -32,7 +32,11 @@ You're standing in your old high school gym, now decorated with string lights an
 
 You spot two people you used to know pretty well. Let's call them Alex and Jordan.
 
-**Alex walks up first.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Alex walks up first.*
+
 
 "Hey! How are you?"
 
@@ -50,7 +54,11 @@ Alex played the short game for ten straight years. Made every decision based on 
 
 The result? A resume everyone envies. A life Alex doesn't actually want to live.
 
-**Then Jordan walks over.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Then Jordan walks over.*
+
 
 "How've you been?"
 
@@ -116,11 +124,19 @@ The result? Everyone's playing checkers when life is chess.
 
 ### What Happens When You Only Play the Short Game
 
-**Burnout becomes inevitable.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Burnout becomes inevitable.*
+
 
 You can sprint for six months. Maybe a year. But you can't sprint for thirty years. Eventually, your body breaks down. Your mind breaks down. The hustle that felt like momentum becomes a treadmill you can't get off.
 
-**Misalignment becomes your default state.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Misalignment becomes your default state.*
+
 
 You achieve goals that don't actually make you happy. You win games you didn't want to play. You climb a ladder and realize it's leaning against the wrong building.
 
@@ -134,11 +150,19 @@ I've watched it happen. Students who got into their dream school and felt... emp
 
 They won. But they don't even know what game they were playing.
 
-**Regret becomes the backdrop of your life.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Regret becomes the backdrop of your life.*
+
 
 You wake up at 30 or 40 wondering how you got here. The resume looks great. The Instagram is curated. But when you're alone with your thoughts, you can't shake the feeling that you sold yourself out somewhere along the way.
 
-**Shallow success replaces deep fulfillment.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Shallow success replaces deep fulfillment.*
+
 
 Impressive on the outside, hollow on the inside. People congratulate you on achievements that feel meaningless. You're living someone else's definition of success while your own definition sits buried under years of "should."
 
@@ -425,7 +449,11 @@ iMac. iPod. iPhone. iPad.
 
 But Jony's real legacy isn't the products. It's the design culture he built at Apple. The generations of designers he mentored. The standard of craft he established.
 
-**His long game mindset:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *His long game mindset:*
+
 
 "We don't just design for this year's product cycle. We're building a design language that will matter in twenty years."
 
@@ -459,11 +487,19 @@ But Alicia asked a different question: "Which aligns with who I want to become?"
 
 Her core values were clear: environmental impact, meaningful work, authenticity.
 
-**She chose Option B.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *She chose Option B.*
+
 
 Everyone thought she was making a mistake. Her college counselor was skeptical. Her parents were worried.
 
-**Here's what actually happened:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Here's what actually happened:*
+
 
 The internship was challenging and fulfilling. She built real skills, not just coffee-run experience. She met mentors who became lifelong advocates. She felt like herself every single day.
 
@@ -507,7 +543,11 @@ You're not doing that. You're defining what YOU actually value.
 
 #### The Value Discovery Exercise
 
-**Part A: Raw Brainstorm (10 minutes)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Part A: Raw Brainstorm (10 minutes)*
+
 
 Think about moments when you felt most fulfilled, most yourself, most alive. What was present in those moments?
 
@@ -515,13 +555,21 @@ Here are examples of values to get you started:
 
 Authenticity. Creativity. Growth. Family. Adventure. Impact. Craft/Mastery. Freedom. Connection. Purpose. Justice. Learning. Health. Courage. Service. Excellence. Joy. Integrity. Innovation. Leadership. Balance. Wisdom.
 
-**Write down 10-15 values that resonate with you.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Write down 10-15 values that resonate with you.*
+
 
 Don't overthink it. Just write what feels true.
 
 ---
 
-**Part B: The Elimination Round**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Part B: The Elimination Round*
+
 
 This is the hard part. You're going to narrow those 10-15 down to your TOP 5.
 
@@ -536,7 +584,11 @@ For each value, ask:
 
 Be ruthless. Get to five.
 
-**Your Top 5 Core Values:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Your Top 5 Core Values:*
+
 
 
 1. _____________
@@ -547,7 +599,11 @@ Be ruthless. Get to five.
 
 ---
 
-**Part C: The Definition Round**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Part C: The Definition Round*
+
 
 Now define what each value means TO YOU. Not the dictionary definition. Your personal definition.
 
@@ -594,7 +650,11 @@ Then provide evidence. Be specific.
 
 ---
 
-**Now ask the hard questions:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Now ask the hard questions:*
+
 
 
 
@@ -625,7 +685,11 @@ Close your eyes for a moment.
 
 It's ten years from now. You're living your ideal life—values-aligned, sustainably excellent, authentically successful.
 
-**Answer these questions as if it's already true:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Answer these questions as if it's already true:*
+
 
 
 
@@ -657,7 +721,11 @@ It's ten years from now. You're living your ideal life—values-aligned, sustain
 
 ---
 
-**Now write your 10-Year Vision Statement (one paragraph):**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Now write your 10-Year Vision Statement (one paragraph):*
+
 
 > "Ten years from now, I am..."
 
@@ -745,7 +813,11 @@ This test reminds you that character beats achievement.
 
 Let's see how this works with actual decisions you'll face.
 
-**Scenario 1: Job Offer**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Scenario 1: Job Offer*
+
 
 You get a job offer that pays 20% more than your other option. But it requires 70-hour weeks in a cutthroat culture where people step on each other to climb.
 
@@ -763,7 +835,11 @@ Take the other job. Build sustainable excellence. Play the long game.
 
 ---
 
-**Scenario 2: Friend Group**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Scenario 2: Friend Group*
+
 
 A new friend group invites you in. They're fun. Popular. But they constantly make fun of anyone who tries hard. They mock effort and ambition.
 
@@ -780,7 +856,11 @@ Your peer group determines your trajectory (Chapter 14). Choose wisely.
 
 ---
 
-**Scenario 3: Summer Program**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Scenario 3: Summer Program*
+
 
 Two options: Prestigious internship that looks better on paper vs. learning opportunity that aligns with your passion but is less impressive.
 
@@ -814,7 +894,11 @@ The long game requires sustainable pace. You can't sprint for thirty years.
 
 #### The Sustainability Principles
 
-**1. Marathon Pace, Not Sprint Speed**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *1. Marathon Pace, Not Sprint Speed*
+
 
 You can sprint for six months. Maybe a year if you're pushing it.
 
@@ -826,7 +910,11 @@ If the answer is no, redesign it or decline it.
 
 ---
 
-**2. Recovery is Not Optional**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *2. Recovery is Not Optional*
+
 
 
 ---
@@ -844,7 +932,11 @@ This isn't optional. It's strategic.
 
 ---
 
-**3. Values-Aligned Work Doesn't Feel Like Pure Grinding**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *3. Values-Aligned Work Doesn't Feel Like Pure Grinding*
+
 
 If everything feels like suffering, you're probably misaligned.
 
@@ -856,7 +948,11 @@ Alignment doesn't make work easy. It makes it sustainable.
 
 ---
 
-**4. Relationships Beat Achievements**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *4. Relationships Beat Achievements*
+
 
 Achievements fade. Trophies collect dust. Job titles change.
 
@@ -868,7 +964,11 @@ Don't sacrifice people for trophies. The trophies won't care about you when you'
 
 ---
 
-**5. Health is Non-Negotiable**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *5. Health is Non-Negotiable*
+
 
 You can't play the long game if your body or mind breaks down.
 
@@ -911,7 +1011,11 @@ Your legacy isn't your achievements. It's your impact on people.
 
 #### The Legacy Questions
 
-**1. Who have I helped become better?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *1. Who have I helped become better?*
+
 
 Not what you've done. Who you've developed.
 
@@ -921,7 +1025,11 @@ That's legacy.
 
 ---
 
-**2. What values have I modeled?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *2. What values have I modeled?*
+
 
 
 ---
@@ -937,7 +1045,11 @@ Your values aren't what you say. They're what you do when nobody's watching and 
 
 ---
 
-**3. What would I want said at my funeral?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *3. What would I want said at my funeral?*
+
 
 This is morbid but clarifying.
 
@@ -951,7 +1063,11 @@ Which game are you playing?
 
 ---
 
-**4. Am I building a life I want others to emulate?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *4. Am I building a life I want others to emulate?*
+
 
 If your future kid followed your exact path—choices, values, priorities—would you be proud?
 
@@ -1085,7 +1201,11 @@ Track it. See if the alignment improves.
 - Activity commitment
 - Job/internship
 
-**Run them through all five filters:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Run them through all five filters:*
+
 
 **Decision**: [Write it here]
 
@@ -1205,7 +1325,11 @@ Let's distill this chapter into the essentials:
 
 
 
-**What is Perfect Effort?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *What is Perfect Effort?*
+
 
 Perfect Effort isn't about being perfect. It's about alignment.
 
@@ -1219,7 +1343,11 @@ Perfect Effort isn't about being perfect. It's about alignment.
 
 ### The Core Principles (Chapters 1-20 in One Page)
 
-**Part 1: Foundation**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Part 1: Foundation*
+
 
 
 1. **Life is a Sport** (Ch. 1) - Treat life like you treat game day
@@ -1227,7 +1355,11 @@ Perfect Effort isn't about being perfect. It's about alignment.
 3. **Internal Scorecard** (Ch. 3) - Define success for yourself, not for Instagram
 4. **Effort Compounds** (Ch. 4) - Small, consistent actions over time equal mastery
 
-**Part 2: Mental Game**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Part 2: Mental Game*
+
 
 
 5. **Inner Coach** (Ch. 5) - Your self-talk determines your ceiling
@@ -1235,7 +1367,11 @@ Perfect Effort isn't about being perfect. It's about alignment.
 7. **Focus** (Ch. 7) - Attention is your most valuable resource
 8. **Pressure is Privilege** (Ch. 8) - High-stakes moments reveal who you are
 
-**Part 3: Performance**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Part 3: Performance*
+
 
 
 9. **Craft Over Talent** (Ch. 9) - Mastery beats natural ability over time
@@ -1243,7 +1379,11 @@ Perfect Effort isn't about being perfect. It's about alignment.
 11. **Recovery** (Ch. 11) - Elite performers rest intentionally
 12. **Time is Currency** (Ch. 12) - Spend it on what actually matters
 
-**Part 4: Relationships**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Part 4: Relationships*
+
 
 
 13. **Momentum** (Ch. 13) - Small wins compound into unstoppable force
@@ -1251,7 +1391,11 @@ Perfect Effort isn't about being perfect. It's about alignment.
 15. **The Mentor Advantage** (Ch. 15) - Find guides who've won the game you want to win
 16. **Support System** (Ch. 16) - You can't win alone
 
-**Part 5: Championship Level**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Part 5: Championship Level*
+
 
 17-19. Building resilience, leading others, adapting to change
 
@@ -1279,9 +1423,17 @@ Not proud because it impresses others.
 
 Proud because it's authentically yours. Proud because you played the game with integrity. Proud because you stayed aligned with your values. Proud because you helped others rise. Proud because you gave perfect effort—not perfect results, but perfect alignment between who you are and how you show up.
 
-**The long game starts now.**
 
-**Go build your championship life.**
+> [!NOTE]
+> **💭 Key Insight**
+> *The long game starts now.*
+
+
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Go build your championship life.*
+
 
 ---
 
@@ -1348,13 +1500,21 @@ Twenty chapters. Thousands of words. Frameworks for your mental game, your perfo
 
 But here's the truth I need you to hear:
 
-**None of this matters if you don't do anything with it.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *None of this matters if you don't do anything with it.*
+
 
 You can know every strategy in this book. You can understand the psychology. You can agree with the principles. And you can still build a life you regret—if you don't take action.
 
 So here's my final challenge:
 
-**Pick one thing from this book. Just one. And do it today.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Pick one thing from this book. Just one. And do it today.*
+
 
 
 
@@ -1369,7 +1529,11 @@ Just one thing. Today. Not tomorrow. Not "when I have time." Today.
 
 Because the long game doesn't start ten years from now. It doesn't start when you're 30, or when you graduate, or when you "figure it all out."
 
-**The long game starts the moment you decide to play it.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The long game starts the moment you decide to play it.*
+
 
 ---
 
@@ -1383,7 +1547,11 @@ They're the ones who commit. Who show up. Who align their actions with their val
 
 They're the ones who give perfect effort—not perfect results, but perfect alignment between who they are and how they show up.
 
-**You have everything you need.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *You have everything you need.*
+
 
 You have the frameworks. You have the strategies. You have the knowledge.
 
@@ -1413,13 +1581,29 @@ But because you're willing to give perfect effort. Because you're willing to be 
 
 Because you're willing to build a championship life—not just chase highlight-reel moments.
 
-**This is your championship life.**
 
-**The tools are in your hands.**
+> [!NOTE]
+> **💭 Key Insight**
+> *This is your championship life.*
 
-**The game has already started.**
 
-**Now go build something you're proud of.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The tools are in your hands.*
+
+
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The game has already started.*
+
+
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Now go build something you're proud of.*
+
 
 Not something that looks good on Instagram.
 
@@ -1433,7 +1617,11 @@ Build a life where, ten years from now, when someone asks "How are you, really?"
 
 Build a life your future self will thank you for.
 
-**The long game starts now.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The long game starts now.*
+
 
 Go win the championship that matters.
 
@@ -1445,7 +1633,11 @@ Your coach,
 
 ---
 
-**END OF CHAPTER 20**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *END OF CHAPTER 20*
+
 **END OF "PERFECT EFFORT"**
 
 ---

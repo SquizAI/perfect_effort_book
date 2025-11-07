@@ -148,7 +148,11 @@ Here's the version that works for your life: Define your mission first. Understa
 
 You're not building a company. You're building yourself. But the same principles apply.
 
-**The Kalanick Principle** (constructive lessons):
+
+> [!NOTE]
+> **🎯 Core Principle**
+> **The Kalanick Principle** (constructive lessons):
+
 
 
 
@@ -534,7 +538,11 @@ The best way to attract high-performers? Be a high-performer. The best way to bu
 
 **Be the culture you want to be in** - If you want friends who work hard, work hard. If you want friends who celebrate growth, celebrate growth. You set the standard.
 
-**The Reciprocity Principle**: People naturally gravitate toward those who make them better. When you become an elevator, you become magnetic to other elevators.
+
+> [!NOTE]
+> **🎯 Core Principle**
+> **The Reciprocity Principle**: People naturally gravitate toward those who make them better. When you become an elevator, you become magnetic to other elevators.
+
 
 And here's the secret: being an elevator makes you better too. When you hold others accountable, you hold yourself accountable. When you celebrate their wins, you raise your own standards. When you push them higher, you rise with them.
 

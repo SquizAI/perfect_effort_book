@@ -79,7 +79,11 @@ That's not how engines work.
 
 Everything comes down to three systems. Get these right, and you'll have more energy, focus, and physical capacity than 95% of people your age. Ignore them, and you'll always be running on fumes.
 
-**1. Nutrition (What You Put In)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *1. Nutrition (What You Put In)*
+
 
 Food determines everything. Your energy levels. Your ability to concentrate. Your mood. Whether your body builds muscle or breaks it down. Whether you feel like a champion or a zombie at 2pm.
 
@@ -87,7 +91,11 @@ Not all calories are equal. A 300-calorie breakfast of eggs and oatmeal does som
 
 One fuels you. The other crashes you.
 
-**2. Sleep (When You Recover)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *2. Sleep (When You Recover)*
+
 
 Sleep isn't downtime. It's when the magic happens. Your brain consolidates everything you learned that day—transferring it from short-term to long-term memory. Your muscles repair and rebuild. Your immune system strengthens. Your emotions regulate.
 
@@ -95,7 +103,11 @@ Skip sleep, and you're not just tired. You're literally blocking your brain from
 
 You can't upgrade your operating system while it's running. You need to shut down, update, and restart. That's sleep.
 
-**3. Movement (How You Maintain)**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *3. Movement (How You Maintain)*
+
 
 Here's the paradox: moving your body doesn't drain energy—it creates it. Regular physical activity builds your engine's capacity. It improves mental health. It increases energy levels even though it feels like it should do the opposite.
 
@@ -117,7 +129,11 @@ You can't pour from an empty cup. You can't innovate when you're burned out. You
 
 Sleep, nutrition, and recovery aren't weakness. They're strategic advantages.
 
-**Here's what empathy for your body looks like:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Here's what empathy for your body looks like:*
+
 
 You recognize that hunger impacts your mood, focus, and decision-making. You're not weak for needing food—you're human.
 
@@ -127,7 +143,11 @@ You understand that recovery isn't optional. It's when improvement actually happ
 
 You respect that your body is the platform for everything you want to achieve. Taking care of it isn't selfish—it's smart.
 
-**The opposite of empathy is ignoring the signals:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The opposite of empathy is ignoring the signals:*
+
 
 Pushing through exhaustion like it's a badge of honor.
 Skipping meals because you're "too busy."
@@ -144,29 +164,53 @@ Let's reframe this the way we reframe everything in this book.
 
 
 > [!WARNING]
-> ❌ **Task-focused thinking**: "I need to eat healthy."
+
+> [!WARNING]
+> <table>
+> <tr>
+> <th>❌ Avoid This</th>
+> <th>✅ Do This Instead</th>
+> </tr>
+> <tr>
+> <td>Task-focused thinking "I need to eat healthy."</td>
+> <td>Output-focused thinking "I need consistent energy from 7am to 10pm so I can dominate my day."</td>
+> </tr>
+> </table>
+
+
 
 
 > [!WARNING]
-> ✅ **Output-focused thinking**: "I need consistent energy from 7am to 10pm so I can dominate my day."
+
+> [!WARNING]
+> <table>
+> <tr>
+> <th>❌ Avoid This</th>
+> <th>✅ Do This Instead</th>
+> </tr>
+> <tr>
+> <td>Task-focused thinking "I should get 8 hours of sleep."</td>
+> <td>Output-focused thinking "I need to wake up with mental clarity and physical energy so I'm ready to perform."</td>
+> </tr>
+> </table>
+
 
 
 
 > [!WARNING]
-> ❌ **Task-focused thinking**: "I should get 8 hours of sleep."
-
 
 > [!WARNING]
-> ✅ **Output-focused thinking**: "I need to wake up with mental clarity and physical energy so I'm ready to perform."
+> <table>
+> <tr>
+> <th>❌ Avoid This</th>
+> <th>✅ Do This Instead</th>
+> </tr>
+> <tr>
+> <td>Task-focused thinking "I have to work out."</td>
+> <td>Output-focused thinking "I'm building a body that's strong, fast, and doesn't break down when it matters."</td>
+> </tr>
+> </table>
 
-
-
-> [!WARNING]
-> ❌ **Task-focused thinking**: "I have to work out."
-
-
-> [!WARNING]
-> ✅ **Output-focused thinking**: "I'm building a body that's strong, fast, and doesn't break down when it matters."
 
 See the difference? One feels like a chore. The other feels like power.
 
@@ -391,7 +435,11 @@ Sleep isn't a luxury. It's a performance multiplier.
 
 ### The Sleep Reality Check
 
-**How much sleep you actually need:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *How much sleep you actually need:*
+
 
 Ages 13-18: 8-10 hours. Not a suggestion. A biological requirement.
 Ages 18+: 7-9 hours. Still not negotiable if you want peak performance.
@@ -404,7 +452,11 @@ Studies show people can't accurately judge their own sleep deprivation. You thin
 
 And here's the competitive reality: you're not competing against your tired self. You're competing against people who ARE getting enough sleep. Who's going to win?
 
-**The person running at 100% capacity or the person running at 60%?**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The person running at 100% capacity or the person running at 60%?*
+
 
 It's not even close.
 
@@ -564,7 +616,11 @@ Whatever you enjoy: running, basketball, swimming, soccer, biking, dancing, mart
 
 Look, if you do nothing else, do this:
 
-**20 minutes of movement per day.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *20 minutes of movement per day.*
+
 
 That's it. Can be a walk. A bike ride. Pickup basketball. A home workout. A YouTube exercise video. Doesn't matter what. Just move.
 
@@ -602,7 +658,11 @@ You can't lead if you're burned out. You can't innovate if you're exhausted. You
 
 Physical well-being equals mental well-being equals better performance. It's not three separate things. It's one system.
 
-**Apply this to your life:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Apply this to your life:*
+
 
 You're not building a body for one season. You're building a body for the next 70+ years.
 
@@ -628,7 +688,11 @@ You're playing the long game. Build accordingly.
 
 Let's revisit the core principle of this entire book:
 
-**"The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life."**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *"The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life."*
+
 
 Here's how it applies to fueling your engine:
 
@@ -686,7 +750,11 @@ Your brain needs actual rest. Time when it's not trying to achieve, perform, or 
 
 You can't go 100% seven days a week. Your body doesn't work that way. Build recovery into the plan from the start.
 
-**Sample Week Structure:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Sample Week Structure:*
+
 
 **Monday-Tuesday**: High intensity (hard practices, heavy studying, max effort)
 **Wednesday**: Medium intensity + extra focus on nutrition and sleep
@@ -846,19 +914,35 @@ Perfection isn't the goal. Consistency is.
 
 Every day, ask yourself with empathy:
 
-**"What does my body actually need right now?"**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *"What does my body actually need right now?"*
+
 
 Not what you feel like. What you need. There's a difference.
 
-**"Am I fueling for performance or just out of habit/boredom?"**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *"Am I fueling for performance or just out of habit/boredom?"*
+
 
 Are you eating because you're hungry and need energy? Or because it's there?
 
-**"Am I getting enough sleep to learn and grow?"**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *"Am I getting enough sleep to learn and grow?"*
+
 
 Not "can I function." Can I perform at my best?
 
-**"Am I moving my body enough to feel good?"**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *"Am I moving my body enough to feel good?"*
+
 
 Physical and mental health are connected. Are you taking care of both?
 
@@ -919,7 +1003,11 @@ That's how you build a body for life.
 
 Not crash diets. Not extreme programs that burn you out. Not six-week challenges.
 
-**Sustainable habits that compound.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Sustainable habits that compound.*
+
 **Empathy for your body's real needs.**
 **Long-term thinking that pays dividends for decades.**
 
@@ -937,19 +1025,35 @@ This week, commit to these five things:
 
 Write it down. Be honest. No judgment—just awareness.
 
-**2. Implement ONE performance meal per day**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *2. Implement ONE performance meal per day*
+
 
 Start with breakfast. Protein + carb + fruit/veggie.
 
-**3. Add 30oz more water than you currently drink**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *3. Add 30oz more water than you currently drink*
+
 
 Fill up a water bottle. Refill it. Finish it again.
 
-**4. Go to bed 30 minutes earlier than usual**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *4. Go to bed 30 minutes earlier than usual*
+
 
 Set an alarm for your bedtime, not just your wake-up.
 
-**5. Add 15 minutes of movement daily**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *5. Add 15 minutes of movement daily*
+
 
 Walk, workout, play a sport—just move.
 
@@ -1066,7 +1170,11 @@ While they're breaking down, you'll be getting stronger.
 
 That's not luck. That's fuel.
 
-**Fuel your engine like your future depends on it.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Fuel your engine like your future depends on it.*
+
 
 **Because it does.**
 

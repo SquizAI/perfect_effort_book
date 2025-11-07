@@ -45,9 +45,17 @@ But one person just learned nothing. The other person just got better.
 
 One will avoid that situation in the future. The other will seek it out to prove their improvement.
 
-**The scoreboard said they both lost.**
 
-**The real scoreboard says Player B just won.**
+> [!NOTE]
+> **💭 Key Insight**
+> *The scoreboard said they both lost.*
+
+
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The real scoreboard says Player B just won.*
+
 
 Here's what nobody tells you about losing: it's only a loss if you don't learn from it. Otherwise, it's expensive data. And data is exactly what winners use to get better.
 
@@ -149,7 +157,11 @@ Same loss. Completely different interpretation.
 
 Here's what separates winners from everyone else:
 
-**Winners extract the lesson. Losers just feel the pain.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Winners extract the lesson. Losers just feel the pain.*
+
 
 Every failure contains information. Every loss shows you something. Every mistake reveals a gap in your skill or knowledge.
 
@@ -163,7 +175,11 @@ Don't waste your failures.
 
 When you "fail" at something, here's what winners do:
 
-**Step 1: Separate Outcome from Learning**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 1: Separate Outcome from Learning*
+
 
 The outcome is binary. Did you get the result you wanted? Yes or no.
 
@@ -175,7 +191,11 @@ The learning is unlimited. What information did this experience give you? That's
 
 See? The grade sucks. But the grade is just one data point. The real value is in analyzing which specific skills you're missing.
 
-**Step 2: Ask the Growth Questions**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 2: Ask the Growth Questions*
+
 
 After any failure, immediately ask yourself:
 
@@ -188,7 +208,11 @@ After any failure, immediately ask yourself:
 
 These questions transform failure from a verdict into a roadmap.
 
-**Step 3: Convert to Action Plan**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 3: Convert to Action Plan*
+
 
 This is where most people quit. They analyze what went wrong, feel bad about it, and... nothing changes.
 
@@ -272,7 +296,11 @@ After every game – win or lose, but especially after losses – athletes sit d
 
 They watch themselves make mistakes. They identify exactly where things went wrong. They analyze why it happened.
 
-**The key: Ruthless honesty without self-judgment.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The key: Ruthless honesty without self-judgment.*
+
 
 "On play #23, I missed my defensive assignment. Why? I was watching the ball instead of my player. What do I need to practice? Keeping eyes on my assignment even when the ball moves."
 
@@ -288,7 +316,11 @@ Here's your system for turning every loss into growth:
 
 This is the immediate aftermath. You're disappointed. Maybe angry. Maybe embarrassed.
 
-**Allow the emotion without catastrophizing**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Allow the emotion without catastrophizing*
+
 - It's okay to feel disappointed
 - It's NOT okay to spiral into "I'm a failure" thinking
 - Feel the feeling, don't become the feeling
@@ -314,11 +346,19 @@ Now you do the analysis:
 - What was in my control?
 - What wasn't in my control?
 
-**Extract the lesson**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Extract the lesson*
+
 - What's the one thing I learned?
 - What specifically do I need to work on?
 
-**Create action plan**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Create action plan*
+
 - What will I practice?
 - How will I measure improvement?
 - When will I test this?
@@ -329,7 +369,11 @@ Write this down. Seriously. Don't just think about it. Writing forces clarity.
 
 This is where you actually get better:
 
-**Practice the specific skill that failed**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Practice the specific skill that failed*
+
 - Not general practice – targeted practice on the weakness
 - Use the deliberate practice principles from Chapter 4
 - Track your progress
@@ -342,7 +386,11 @@ This is where you actually get better:
 
 ---
 
-**Remember: You're in the growth zone**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Remember: You're in the growth zone*
+
 - The discomfort you feel = your brain rewiring
 - This is what improvement feels like
 - Most people quit here – you won't
@@ -351,15 +399,27 @@ This is where you actually get better:
 
 Eventually, you'll face a similar situation:
 
-**Apply the lessons**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Apply the lessons*
+
 - Use what you practiced
 - Stay focused on your process
 
-**Measure improvement**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Measure improvement*
+
 - Did you do better than last time?
 - Even small improvement counts
 
-**Extract new lessons**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Extract new lessons*
+
 - What worked? What didn't?
 - What's the next thing to improve?
 
@@ -443,7 +503,11 @@ Most "failures" only look like failures on a short timeline.
 
 If you zoom out far enough, many of your biggest "failures" become the setups for your biggest wins.
 
-**Example: College Rejection**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Example: College Rejection*
+
 
 Short-term view: Devastating. The school you wanted said no. Feels like you're not good enough. Everyone will know you got rejected.
 
@@ -463,7 +527,11 @@ But it means the hurt is temporary, and the lesson is permanent.
 
 Here's what elite performers understand:
 
-**Most "failures" are only failures if you stop there.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Most "failures" are only failures if you stop there.*
+
 
 The kid who didn't make the team... but kept training and made it next year? That's not a failure story. That's a success story with a setback in the middle.
 
@@ -487,7 +555,11 @@ Your choice.
 
 Here's a practice that changes everything:
 
-**Keep a "Film Room Log."**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Keep a "Film Room Log."*
+
 
 Every time you experience a significant failure or setback, write down:
 
@@ -505,7 +577,11 @@ Over time, this log becomes proof that you're learning from every loss. It's evi
 
 More importantly: it rewires your brain to see failures as data, not verdicts.
 
-**Example Film Room Log Entry:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Example Film Room Log Entry:*
+
 
 Date: October 15
 Situation: Missed game-winning free throws, lost championship game
@@ -526,7 +602,11 @@ See how powerful that is? You transformed a painful loss into measurable growth.
 
 Here's a counterintuitive truth:
 
-**If you're not failing regularly, you're not pushing yourself hard enough.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *If you're not failing regularly, you're not pushing yourself hard enough.*
+
 
 Failure is a sign you're attempting things at the edge of your ability. It means you're in the growth zone, not the comfort zone.
 
@@ -567,11 +647,19 @@ Not all failures are equal. Some failures are productive. Some are just stupid.
 - Come from ignoring obvious risks
 - Result from not doing basics
 
-**Example of Good Failure:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Example of Good Failure:*
+
 
 You try out for the varsity team as a sophomore, even though you're probably not ready yet. You don't make it. But you learn exactly what level you need to reach, you get feedback on your skills, and you have a clear target for improvement.
 
-**Example of Bad Failure:**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Example of Bad Failure:*
+
 
 You show up to tryouts without practicing, unprepared, and don't make the team. You learn nothing because you didn't give yourself a real chance.
 
@@ -593,7 +681,11 @@ Your real record isn't wins vs. losses.
 
 Your real record isn't grades or scores or stats.
 
-**Your real record is lessons learned vs. lessons ignored.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Your real record is lessons learned vs. lessons ignored.*
+
 
 ### The Real Stats to Track
 
@@ -614,28 +706,56 @@ These are the stats that actually predict long-term success.
 
 Because here's the truth: everyone fails. Everyone loses. Everyone faces setbacks.
 
-**The difference between winners and losers isn't that winners never fail.**
 
-**It's that winners treat failure like a teacher, not a judge.**
+> [!NOTE]
+> **💭 Key Insight**
+> *The difference between winners and losers isn't that winners never fail.*
+
+
+
+> [!NOTE]
+> **💭 Key Insight**
+> *It's that winners treat failure like a teacher, not a judge.*
+
 
 ### This Week's Game Plan
 
-**Step 1: Identify one recent "failure" or disappointment**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 1: Identify one recent "failure" or disappointment*
+
 - A bad grade, a missed opportunity, a performance that didn't go well
 
-**Step 2: Do a Film Room Review**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 2: Do a Film Room Review*
+
 - Use the Bounce-Back Framework from earlier
 - Write it down (don't just think about it)
 
-**Step 3: Extract the specific lesson**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 3: Extract the specific lesson*
+
 - What exactly did you learn?
 - What specific skill needs work?
 
-**Step 4: Create your action plan**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 4: Create your action plan*
+
 - What will you practice?
 - How will you measure improvement?
 
-**Step 5: Track the retest**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Step 5: Track the retest*
+
 - When you face a similar situation, did you do better?
 - Even small improvement = you won
 
@@ -659,7 +779,11 @@ You're not protecting your ego. You're building your capabilities.
 
 You're not focused on this week's score. You're focused on who you're becoming over time.
 
-**That's the game winners play.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *That's the game winners play.*
+
 
 ---
 
@@ -727,7 +851,11 @@ You're not trying to avoid losses. You're trying to learn faster than your compe
 
 ### Practice Drills
 
-**Drill 1: The Film Room Entry**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Drill 1: The Film Room Entry*
+
 
 This week, pick one mistake, failure, or disappointment. Write a Film Room Review:
 
@@ -738,7 +866,11 @@ This week, pick one mistake, failure, or disappointment. Write a Film Room Revie
 
 **Why it works:** Writing forces clarity. You can't hide from the lesson when you write it down.
 
-**Drill 2: Start Your Film Room Log**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Drill 2: Start Your Film Room Log*
+
 
 Create your Film Room Log. You can use a notebook, a notes app, whatever works.
 
@@ -752,7 +884,11 @@ Start with one entry from something recent. Use the format:
 
 **Why it works:** Over time, this becomes proof you're learning. It rewires your brain to see failure as data.
 
-**Drill 3: The Bounce-Back Timer**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Drill 3: The Bounce-Back Timer*
+
 
 Next time something goes wrong, time yourself:
 
@@ -791,7 +927,11 @@ Everyone loses. Everyone fails. Everyone faces setbacks.
 
 That's not what separates winners from losers.
 
-**The separation happens in the 24-48 hours after the loss.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The separation happens in the 24-48 hours after the loss.*
+
 
 Do you wallow, make it about your identity, and quit?
 
@@ -801,9 +941,17 @@ Do you see the loss as a verdict on your worth?
 
 Or do you see it as expensive data that just told you exactly what to practice?
 
-**Losers see failure and think: "This proves I'm not good enough."**
 
-**Winners see failure and think: "This shows me exactly what I need to work on. Thank you for the feedback."**
+> [!NOTE]
+> **💭 Key Insight**
+> *Losers see failure and think: "This proves I'm not good enough."*
+
+
+
+> [!NOTE]
+> **💭 Key Insight**
+> *Winners see failure and think: "This shows me exactly what I need to work on. Thank you for the feedback."*
+
 
 Every loss is a lesson.
 
@@ -811,7 +959,11 @@ Every failure is data.
 
 Every setback is a setup for a comeback.
 
-**The only real failure is refusing to learn.**
+
+> [!NOTE]
+> **💭 Key Insight**
+> *The only real failure is refusing to learn.*
+
 
 Don't refuse.
 
