@@ -17,7 +17,11 @@
 
 ---
 
+
+---
+
 ## Championship Game. Final Seconds. One Shot.
+
 
 The ball leaves your hands. Perfect rotation. Clean release. Good arc.
 
@@ -49,7 +53,11 @@ Here's what nobody tells you about losing: it's only a loss if you don't learn f
 
 ---
 
+
+---
+
 ## The Scoreboard Lied to You
+
 
 Let's talk about the biggest lie society's been telling you since kindergarten:
 
@@ -93,6 +101,7 @@ Elite performers look at the same losses you do. They see something completely d
 See the difference? One is a judgment. The other is information.
 
 **Coach's Corner:**
+
 > The external scoreboard tells you WHAT happened. The internal scoreboard tells you HOW to improve. Losers obsess over what happened. Winners focus on how to get better.
 
 ### The Jeff Bezos Perspective
@@ -100,6 +109,7 @@ See the difference? One is a judgment. The other is information.
 Let's talk about someone who's failed more than almost anyone on the planet: Jeff Bezos.
 
 Amazon failures most people have never heard of:
+
 - Fire Phone (billions of dollars, massive embarrassment)
 - Amazon Auctions (failed eBay clone)
 - Amazon Destinations (travel site that went nowhere)
@@ -111,6 +121,7 @@ Bezos himself said: **"I've made billions of dollars of failures at Amazon.com."
 But here's the thing: he's still worth over $100 billion. Amazon is one of the most successful companies in history. So what gives?
 
 Bezos has what he calls a "Day 1 mentality":
+
 - Always learning, always experimenting
 - Failures are part of the process, not evidence you should quit
 - Focus on what you're building long-term, not what failed this week
@@ -130,7 +141,11 @@ Same loss. Completely different interpretation.
 
 ---
 
+
+---
+
 ## Failure is Just Expensive Data
+
 
 Here's what separates winners from everyone else:
 
@@ -164,6 +179,7 @@ See? The grade sucks. But the grade is just one data point. The real value is in
 
 After any failure, immediately ask yourself:
 
+
 1. **What specifically went wrong?** (Not "everything" – be precise)
 2. **What was within my control?** (Focus here, this is where you have power)
 3. **What would I do differently next time?** (Create the game plan)
@@ -184,17 +200,23 @@ Winners convert analysis into action.
 
 See the difference? One is a conclusion about your identity. The other is a specific practice plan.
 
-### Real Example: The Math Test Breakdown
+
+> [!TIP]
+> **Real Example: The Math Test Breakdown**
+>
 
 Let's say you got a D on a math test. Here's how two students respond:
 
 **Loser Mindset:**
+
 "I got a D. I'm terrible at math. I've always been bad at math. I'll never be good at this. Math just isn't my thing."
 
 Result: Learned nothing. Gets D on next test. Eventually gives up on math. Limits future options because "I'm not a math person."
 
 **Winner Mindset:**
+
 "I got a D. Let me look at which problems I missed:
+
 - Algebra problems: 8/10 correct (solid, keep doing what I'm doing)
 - Word problems: 2/10 correct (this is the gap)
 - Graphing problems: 6/10 correct (need some work but not urgent)
@@ -202,6 +224,7 @@ Result: Learned nothing. Gets D on next test. Eventually gives up on math. Limit
 The data shows: I understand the math, I struggle translating words to equations.
 
 Action plan:
+
 - Practice 5 word problems daily for two weeks
 - Focus on identifying what the problem is asking before trying to solve it
 - Create a checklist: What's given? What am I solving for? What operation makes sense?
@@ -213,9 +236,13 @@ Result: Identified specific weakness. Created focused practice plan. Will improv
 Same grade. One person stayed stuck. One person just got better.
 
 **Coach's Corner:**
+
 > Every test, every game, every performance gives you free diagnostic information about where you are versus where you want to be. Winners collect that data. Losers ignore it and wonder why they're not improving.
 
 ### The Uncomfortable Truth (Applied)
+
+
+---
 
 Remember from Chapter 2: **"The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life."**
 
@@ -233,7 +260,11 @@ Which do you choose?
 
 ---
 
+
+---
+
 ## Your Personal Film Room
+
 
 Here's how elite athletes use failure: they watch the film.
 
@@ -308,6 +339,9 @@ This is where you actually get better:
 - Celebrate small improvements
 - Stack small wins to restore confidence
 
+
+---
+
 **Remember: You're in the growth zone**
 - The discomfort you feel = your brain rewiring
 - This is what improvement feels like
@@ -333,7 +367,10 @@ Eventually, you'll face a similar situation:
 
 This is how you compound improvement over time.
 
-### Real Example: The Presentation That Bombed
+
+> [!TIP]
+> **Real Example: The Presentation That Bombed**
+>
 
 You had to give a presentation in class. You completely froze. Forgot what you were going to say. Stumbled through it. It was painful.
 
@@ -350,7 +387,11 @@ The failure wasn't wasted. It showed you exactly what to practice.
 
 ---
 
+
+---
+
 ## The Jeff Bezos Long Game
+
 
 Let's zoom way out for a second.
 
@@ -415,6 +456,7 @@ Ten years later, you might look back and think: "If I'd gotten into that first s
 But it means the hurt is temporary, and the lesson is permanent.
 
 **Coach's Corner:**
+
 > Jeff Bezos asks: "Will I regret NOT trying this when I'm 80 years old?" The regret of not trying is worse than the regret of trying and failing. Because at least when you try and fail, you learned something.
 
 ### The Pattern Winners See
@@ -437,7 +479,11 @@ Your choice.
 
 ---
 
+
+---
+
 ## The Failure Log Exercise
+
 
 Here's a practice that changes everything:
 
@@ -472,7 +518,11 @@ See how powerful that is? You transformed a painful loss into measurable growth.
 
 ---
 
+
+---
+
 ## When Failure Means You're Aiming Too Low
+
 
 Here's a counterintuitive truth:
 
@@ -518,9 +568,11 @@ Not all failures are equal. Some failures are productive. Some are just stupid.
 - Result from not doing basics
 
 **Example of Good Failure:**
+
 You try out for the varsity team as a sophomore, even though you're probably not ready yet. You don't make it. But you learn exactly what level you need to reach, you get feedback on your skills, and you have a clear target for improvement.
 
 **Example of Bad Failure:**
+
 You show up to tryouts without practicing, unprepared, and don't make the team. You learn nothing because you didn't give yourself a real chance.
 
 **Ask yourself**: "Am I failing because I'm pushing my limits, or because I'm not doing the basics?"
@@ -529,7 +581,11 @@ One is a sign of growth. The other is a sign you need to go back to Chapter 4 an
 
 ---
 
+
+---
+
 ## The Scoreboard That Actually Matters
+
 
 Let's bring this home.
 
@@ -587,6 +643,7 @@ Because here's the truth: everyone fails. Everyone loses. Everyone faces setback
 
 At the end of each week, ask yourself:
 
+
 1. **Did I learn something from my losses this week?**
 2. **Did I bounce back faster than last time?**
 3. **Did I convert a weakness into a practice focus?**
@@ -606,33 +663,53 @@ You're not focused on this week's score. You're focused on who you're becoming o
 
 ---
 
+
+---
+
 ## Post-Game Review
+
+
+
+---
 
 ### Key Takeaways
 
+
 1. **Failure isn't the opposite of success – it's the admission price.** Every elite performer has failed more times than average people have tried. The difference is they learned from it.
+
 
 2. **The only real failure is refusing to learn.** A loss is just expensive data. Winners extract the lesson. Losers just feel the pain and move on.
 
+
 3. **Two scoreboards exist: external (what happened) and internal (what you learned).** Focus on the internal scoreboard. That's the one that predicts your future.
 
+
 4. **The Film Room Review is your superpower.** After every setback: objective review, extract lesson, create action plan, practice the weakness, retest. This system turns every loss into growth.
+
 
 5. **Long-term thinking changes everything.** Most "failures" only look like failures on a short timeline. Zoom out. Keep the Day 1 mentality. Stay in the game.
 
 ### Reflection Questions
 
+
 1. **What's one failure you're still holding onto as evidence you're "not good enough"?** What if you reframed it as data about what you need to practice?
+
 
 2. **When was the last time you actually analyzed a failure to extract the lesson?** Or did you just feel bad and move on?
 
+
 3. **Are you failing enough?** If you never fail, you're playing it too safe. Where could you push yourself more?
 
+
 4. **What's your bounce-back time?** How long does it take you to go from disappointment to productive analysis? Can you shorten that?
+
 
 5. **If you looked at your last failure through Jeff Bezos's eyes (10-year timeline, Day 1 mentality), what would you see differently?**
 
 ### The Output Mindset
+
+
+---
 
 Remember: Don't think about "dealing with failure."
 
@@ -651,6 +728,7 @@ You're not trying to avoid losses. You're trying to learn faster than your compe
 **Drill 1: The Film Room Entry**
 
 This week, pick one mistake, failure, or disappointment. Write a Film Room Review:
+
 - What happened? (Facts only)
 - What did I control?
 - What's the lesson?
@@ -663,6 +741,7 @@ This week, pick one mistake, failure, or disappointment. Write a Film Room Revie
 Create your Film Room Log. You can use a notebook, a notes app, whatever works.
 
 Start with one entry from something recent. Use the format:
+
 - Date & Situation
 - Objective Facts
 - Lesson Learned
@@ -674,6 +753,7 @@ Start with one entry from something recent. Use the format:
 **Drill 3: The Bounce-Back Timer**
 
 Next time something goes wrong, time yourself:
+
 - How long until you stop feeling sorry for yourself and start analyzing?
 - How long until you have a specific practice plan?
 - How long until you're back to work on improvement?
@@ -687,17 +767,23 @@ Track this. Try to get faster.
 ### Weekly Check-In
 
 Track your progress:
+
 - ☐ **Day 1**: Identify a recent failure to analyze
 - ☐ **Day 3**: Complete Film Room Review with action plan
 - ☐ **Day 5**: Start practicing the specific weakness identified
 - ☐ **Day 7**: Measure improvement – even small progress counts
 
 **Pro Tip:**
+
 > The faster you can go from "I failed" to "Here's what I learned and here's what I'm going to practice," the faster you'll improve. Winners don't spend days feeling sorry for themselves. They feel it, learn from it, and get back to work.
 
 ---
 
+
+---
+
 ## Closing Power Move
+
 
 Everyone loses. Everyone fails. Everyone faces setbacks.
 
@@ -736,6 +822,9 @@ You've learned to bounce back from losses. But how do you stay focused when dist
 That's what we're covering next.
 
 **Coming up in Chapter 7**: Focus is a superpower. And you're about to learn how to turn yours on.
+
+---
+
 
 ---
 

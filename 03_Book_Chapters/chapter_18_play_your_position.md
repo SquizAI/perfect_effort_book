@@ -10,14 +10,21 @@
 
 </div>
 
-> [!NOTE]
-> **💡 Key Insight**
+> 💡 **Key Insight**
 > **Core Concept**: You don't have to be the best at everything—you need to be exceptional at your thing.
 > **The Output**: Stop competing in someone else's game and start dominating your own.
 
 ---
 
+
+---
+
+
+---
+
 ## The Two Athletes
+
+
 
 It's late October. Junior varsity basketball tryouts just ended. Two sophomores walk out of the gym, same height, same build, same amount of sweat soaking through their shirts.
 
@@ -67,7 +74,15 @@ Let's talk about how to find your position and dominate it.
 
 ---
 
+
+---
+
+
+---
+
 ## The Problem: The "Good at Everything" Trap
+
+
 
 There's this lie floating around that sounds really good on paper:
 
@@ -120,6 +135,8 @@ She built Bumble on a simple principle: "Don't compete where you can't win. Crea
 That's what playing your position means.
 
 **Here's how it works:**
+
+
 
 1. Identify your unique strengths (what you're naturally good at)
 2. Double down on those strengths (become exceptional, not just good)
@@ -182,6 +199,7 @@ If you're a visual artist who isn't great at math, use calculators and collabora
 Fix the weakness enough that it doesn't block you. Then get back to building your strength.
 
 **Coach's Corner:**
+
 > Well-rounded sounds safe. But in the real world, specialists win. Companies hire experts, not generalists. Audiences follow people who are the best at their thing, not pretty good at several things. Be spike-shaped—deep expertise in your area—not flat across everything.
 
 ### Why This Works
@@ -209,21 +227,27 @@ The result? A company worth $13 billion. She became the youngest woman to take a
 When you play your position, here's what you gain:
 
 **Clarity on Your Value**
+
 You stop guessing what makes you special. You know exactly what you bring to the table.
 
 **Competitive Advantage**
+
 You stand out instead of blending in. When everyone else is fighting for space in a crowded lane, you've got your own lane.
 
 **Higher Performance**
+
 Excellence in your lane beats mediocrity everywhere. It's math. 10/10 in one area creates more value than 5/10 in ten areas.
 
 **Authentic Confidence**
+
 Not fake confidence based on pretending to be someone you're not. Real confidence based on genuine strengths.
 
 **Strategic Energy Use**
+
 You stop wasting effort where you can't win. You pour everything into where you can dominate.
 
 **Clear Direction**
+
 Career choices become easier. Life decisions become clearer. You're building toward what you're uniquely good at.
 
 Here's how to reframe your thinking:
@@ -241,9 +265,20 @@ The world doesn't need another version of someone else. It needs the first versi
 
 ---
 
+
+---
+
+
+---
+
 ## Real-World Examples
 
-### Example 1: Simone Biles - Turn Your "Disadvantage" Into Your Superpower
+
+
+
+> 💡 **Key Insight**
+> **Example 1: Simone Biles - Turn Your "Disadvantage" Into Your Superpower**
+>
 
 Simone Biles is 4'8". In a sport where height is often considered an advantage for elegance and grace, she's one of the shortest elite gymnasts.
 
@@ -263,7 +298,10 @@ She didn't try to be the most graceful gymnast. She became the most powerful. Th
 
 **The Lesson:** Your "disadvantage" might be your superpower if you own it instead of hiding it.
 
-### Example 2: MrBeast (Jimmy Donaldson) - Find Your Unique Combination
+
+> 💡 **Key Insight**
+> **Example 2: MrBeast (Jimmy Donaldson) - Find Your Unique Combination**
+>
 
 Jimmy Donaldson didn't set out to be the best looking YouTuber. Or the funniest. Or the most technically skilled video editor.
 
@@ -281,7 +319,10 @@ Now? Over 200 million subscribers. His videos regularly get 100+ million views. 
 
 **The Lesson:** Find your unusual combination. Don't try to be the best at one thing someone else already dominates. Combine multiple strengths in a way that's uniquely yours.
 
-### Example 3: Angela Ahrendts - Stack Your Different Experiences
+
+> 💡 **Key Insight**
+> **Example 3: Angela Ahrendts - Stack Your Different Experiences**
+>
 
 Angela Ahrendts was CEO of Burberry, then became Senior Vice President of Retail at Apple.
 
@@ -299,7 +340,10 @@ She didn't hide her fashion background when she entered tech. She didn't pretend
 
 **The Lesson:** Your unusual combination of experiences IS your position. Don't hide it. Build on it.
 
-### Example 4: Alex - The High School Connector
+
+> 💡 **Key Insight**
+> **Example 4: Alex - The High School Connector**
+>
 
 Alex started sophomore year trying to do everything. Decent grades—3.2 GPA. Played two sports, spent most of the time on the bench. Joined random clubs. Felt stretched thin and mediocre at everything.
 
@@ -329,7 +373,15 @@ Accepted to dream school. Now leading multiple student organizations in college.
 
 ---
 
+
+---
+
+
+---
+
 ## Your Game Plan
+
+
 
 ### Step 1: Discover Your Unique Strengths
 
@@ -374,6 +426,8 @@ Write it down: _______________________________
 Most people are good at A or B. What are you good at that's A AND B?
 
 Examples:
+
+
 - "I'm good at coding AND explaining things simply"
 - "I understand data AND I'm creative with presentations"
 - "I'm competitive in sports AND I'm genuinely empathetic"
@@ -410,6 +464,8 @@ Your position is where all three circles overlap.
 
 **Example - Alex the Connector:**
 
+
+
 - Good at: Bringing people together, organizing events, storytelling
 - Enjoy: Meeting new people, building community, creating content
 - People need: Connection, belonging, student voice being heard
@@ -431,6 +487,8 @@ Now write your position statement using this template:
 "I am uniquely positioned to [value you create] because I combine [strength 1] and [strength 2] in [context]."
 
 Examples:
+
+
 - "I am uniquely positioned to build inclusive team culture because I combine empathy and competitive drive in athletics."
 - "I am uniquely positioned to explain complex concepts because I combine deep technical knowledge and storytelling ability in STEM education."
 - "I am uniquely positioned to launch creative projects because I combine artistic vision and business thinking in entrepreneurship."
@@ -449,11 +507,15 @@ It's time for a comparison audit.
 
 List three areas where you're constantly comparing yourself to others:
 
+
+
 1. _______________________________
 2. _______________________________
 3. _______________________________
 
 For each area, ask three questions:
+
+
 
 - Is this one of my natural strengths? (Yes/No)
 - Does competing here energize me or drain me? (Energize/Drain)
@@ -469,9 +531,15 @@ It's not accepting defeat. It's choosing your battles.
 
 **Here's what you do:**
 
+
+
 1. **Good enough in weak areas** - Do what's required, not what's perfect. Free up energy for where you can dominate.
 
+
+
 2. **Pour energy into your strengths** - Use your freed-up time and focus on your actual position.
+
+
 
 3. **Stop measuring yourself** against people playing different games. Their game isn't your game.
 
@@ -491,6 +559,7 @@ If Jordan had done this sophomore year, the story would have ended differently.
 **The Output:** You just freed up 10-20 hours per week. Energy you were wasting trying to be someone you're not. Energy you can now pour into dominating your actual position.
 
 **Coach's Corner:**
+
 > Letting go isn't weakness. It's strategy. The best players in any sport know their role. They don't try to do everything. They do their thing at an elite level. That's how teams win championships.
 
 ### Step 4: Double Down on Your Strengths
@@ -552,15 +621,19 @@ Find the intersection. Build there.
 **Goal:** Be in the top ___% in this position within 12 months.
 
 **Daily Practice:**
+
 I will _______________________________ (specific action) every single day.
 
 **Mentorship:**
+
 I will ask _______________________________ (specific person) to coach me on this.
 
 **Showcase:**
+
 I will create _______________________________ (specific project/portfolio) to demonstrate my position.
 
 **Combination:**
+
 I will stack my strength with _______________________________ (complementary skill).
 
 **The Output:** A clear path from "good" to "exceptional" in your position. This is how you become irreplaceable.
@@ -574,6 +647,8 @@ Most people accept the rules they're given. They compete within existing structu
 Winners create new games where their strengths ARE the rules.
 
 **When to Rewrite Rules:**
+
+
 
 - The existing game doesn't value your strengths
 - You keep losing at someone else's game
@@ -648,11 +723,15 @@ Your differences are often your superpowers in disguise.
 
 List three things about you that are different from most of your peers:
 
+
+
 1. _______________________________
 2. _______________________________
 3. _______________________________
 
 For each one, ask:
+
+
 - How is this usually seen as a disadvantage?
 - How could this actually be an advantage?
 - What can I do BECAUSE of this difference that others can't?
@@ -685,7 +764,15 @@ Your difference? It's not holding you back. It's your edge. Own it.
 
 ---
 
+
+---
+
+
+---
+
 ## Practice Drills
+
+
 
 ### Exercise 1: The Strengths Finder Survey
 
@@ -772,6 +859,8 @@ Visibility matters. Showcase your position publicly.
 
 **Example:**
 
+
+
 - Current rule: "Success in school = highest grades"
 - Doesn't work: I learn better through projects and real-world application, not memorization for tests
 - Alternative: "Success = demonstrated mastery through applied projects"
@@ -785,19 +874,43 @@ Don't just complain about rules that don't fit you. Test alternatives. Be the pe
 
 ---
 
+
+---
+
+
+---
+
 ## Post-Game Review
+
+
 
 ### Reflection Questions
 
+
+
 1. **What are my top three natural strengths?** Am I building on them or ignoring them?
+
+
 
 2. **Where am I trying to be "well-rounded" instead of exceptional at my thing?** What would happen if I shifted that energy?
 
+
+
 3. **What's my unique position that no one else can claim?** Can I state it in one clear sentence?
+
+
 
 4. **What comparison am I ready to release because it's not my game?** How much energy would that free up?
 
+
+
 5. **How would my life change if I fully owned my position instead of trying to be someone else?** What would I start doing? What would I stop doing?
+
+
+---
+
+
+---
 
 ### Key Takeaways
 
@@ -848,7 +961,10 @@ You've got the position. Now let's make sure everyone knows you own it.
 ---
 
 **Coach's Corner:**
+
 > The uncomfortable truth? Most people never find their position because they're too afraid to stop trying to be everything. They spread themselves thin chasing "well-rounded" and never become exceptional at anything. Don't be most people. Find your position. Double down. Dominate your lane. That's how you win.
+
+
 
 
 ---

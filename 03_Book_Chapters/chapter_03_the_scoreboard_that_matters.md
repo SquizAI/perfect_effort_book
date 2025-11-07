@@ -17,11 +17,16 @@
 
 ---
 
+
+---
+
 ## 100 Likes and Still Empty
+
 
 You posted it 3 minutes ago.
 
 The photo's perfect. The caption's clever. The lighting hits just right. You watch the likes roll in.
+
 
 10... 25... 47... 82...
 
@@ -45,13 +50,18 @@ Because you're playing on the wrong scoreboard.
 
 ---
 
+
+---
+
 ## The Two Scoreboards
+
 
 Let me ask you something. Really think about this.
 
 **Would you rather BE great, or just LOOK great?**
 
 Not a trick question. Seriously. If you could only pick one:
+
 
 - Would you rather be the best player on the team but have everyone think you're mediocre, or be the worst player but have everyone think you're amazing?
 - Would you rather actually master a subject but get a B, or barely understand it but get an A?
@@ -81,6 +91,7 @@ And for about 5 minutes, it feels amazing.
 
 Then reality hits:
 
+
 - Your post gets 200 likes today. Tomorrow it gets 50. What happened? Are you suddenly less worthy?
 - You won last week's game. This week you lost. Does that mean you're now a loser?
 - You got an A in chemistry. Your friend got into Stanford. Now your A feels like nothing.
@@ -107,6 +118,7 @@ And here's the kicker: **You can't lose a game that only you're playing.**
 
 When you live by an internal scorecard, you ask different questions:
 
+
 - Not "Will people be impressed?" but "Am I proud of this?"
 - Not "What will this look like on my college application?" but "Did I actually learn something valuable?"
 - Not "How many likes will this get?" but "Does this represent who I want to be?"
@@ -119,7 +131,11 @@ You're playing your own game. And that's a game you can dominate.
 
 ---
 
+
+---
+
 ## Who Wrote Your Rules?
+
 
 Pop quiz:
 
@@ -132,6 +148,7 @@ Or did you just... absorb it? From parents, teachers, social media, society?
 For most people, it's the second one. We never chose our scoreboard. We inherited it.
 
 Here's what the default scorecard looks like:
+
 
 1. Get good grades
 2. Get into a prestigious college
@@ -187,7 +204,11 @@ The sooner you learn to be comfortable with being uncomfortable—with choosing 
 
 ---
 
+
+---
+
 ## Building Your Internal Scorecard
+
 
 Alright. Theory's great. But how do you actually do this?
 
@@ -206,6 +227,7 @@ None of these is "right" or "wrong." They're just different scoreboards.
 But you have to know what YOU value. Because if you don't choose deliberately, you'll just chase whatever everyone around you is chasing.
 
 Examples of values to consider:
+
 - Mastery and excellence at a craft
 - Freedom and autonomy
 - Impact and helping others
@@ -265,6 +287,7 @@ Not what you want to HAVE. Not what you want people to THINK about you.
 Who do you want to BE?
 
 Identity-based scorecard examples:
+
 - "I am someone who keeps my word"
 - "I am someone who faces challenges head-on"
 - "I am someone who gets 1% better every day"
@@ -284,7 +307,11 @@ The scoreboard becomes internal. And that's when you become unstoppable.
 
 ---
 
+
+---
+
 ## The Private Victory List
+
 
 Here's an exercise that'll change everything:
 
@@ -293,6 +320,7 @@ Here's an exercise that'll change everything:
 Seriously. Grab your phone or a piece of paper right now. List 5-10 things you could accomplish that would make you feel like you won, even if you could never tell anyone.
 
 Examples:
+
 - Finally understanding a concept I've been struggling with for months
 - Keeping a promise to myself when nobody was watching
 - Pushing through when I wanted to quit and nobody would've known if I did
@@ -313,12 +341,14 @@ Here's how you know if you're living by your internal scorecard:
 
 **"If nobody ever knew I did this, would I still feel proud?"**
 
+
 - If yes → Internal scorecard is leading (you're winning the right game)
 - If no → External scorecard has taken over (time to recalibrate)
 
 This question cuts through all the noise. All the rationalization. All the ways we convince ourselves we're doing things for the right reasons when really we're just chasing validation.
 
 Ask it about everything:
+
 - The classes you take
 - The activities you join
 - The content you post
@@ -330,7 +360,11 @@ If your honest answer is "I'm only doing this because it looks good," you've fou
 
 ---
 
+
+---
+
 ## The Social Media Trap
+
 
 We have to talk about this. Because if there's one thing that's completely hijacked the internal scorecard for your generation, it's social media.
 
@@ -343,6 +377,7 @@ That's not conspiracy theory. That's how they're designed.
 ### How the Algorithm Wins (And You Lose)
 
 Here's the cycle:
+
 
 1. You post something
 2. You get likes (dopamine hit)
@@ -407,7 +442,11 @@ Internal scorecard says Creator B. They're building something they care about. T
 
 ---
 
+
+---
+
 ## Living by Your Internal Scorecard (The Hard Part)
+
 
 Okay. You've defined your values. You've built your internal scorecard. You know what winning means for YOU.
 
@@ -499,13 +538,18 @@ But it's the only path to actually winning.
 
 ---
 
+
+---
+
 ## When the Scoreboards Align (The Bonus Round)
+
 
 Here's the cool part: Sometimes—not always, but sometimes—your internal and external scoreboards align.
 
 You do something that genuinely matters to you (internal win) and others recognize and celebrate it (external win).
 
 Example:
+
 - You master a difficult concept because you wanted to understand it (internal)
 - You get an A on the test (external)
 - You feel proud of the mastery, the grade is just confirmation (internal scorecard leading)
@@ -522,6 +566,7 @@ Ask yourself regularly:
 
 **"If nobody ever knew I did this, would I still feel proud?"**
 
+
 - If yes → Your internal scorecard is still leading. The external validation is just a bonus. You're good.
 - If no → The external scorecard has taken over. You've started playing for applause instead of growth. Time to recalibrate.
 
@@ -537,7 +582,11 @@ If the answer is no, you're playing the wrong game.
 
 ---
 
+
+---
+
 ## Your Scoreboard, Your Rules
+
 
 Let's bring this home.
 
@@ -560,6 +609,7 @@ This week, do these two things:
 **1. Identify one thing you're doing purely for external validation that doesn't serve your internal scorecard.**
 
 Maybe it's:
+
 - An activity you do because it "looks good" but you hate
 - Content you post to chase engagement instead of because you're proud of it
 - A friendship you're maintaining because of social status instead of genuine connection
@@ -568,6 +618,7 @@ Maybe it's:
 **2. Identify one thing you've been avoiding because it doesn't look impressive but aligns with what you actually value.**
 
 Maybe it's:
+
 - A skill you want to learn just for yourself
 - A creative project nobody would care about but you would love
 - A different path that doesn't fit the traditional mold
@@ -602,6 +653,7 @@ Not the default version. Not what sounds good. What actually makes me feel like 
 How will I know I'm winning MY game?
 
 Examples:
+
 - Concepts I've mastered deeply
 - Times I chose my path over external approval
 - Skills I've developed that I'm proud of
@@ -613,6 +665,7 @@ Examples:
 What lines won't I cross? What standards won't I lower?
 
 Examples:
+
 - I don't cheat even when I could get away with it
 - I don't pretend to be someone I'm not for social approval
 - I don't sacrifice my values for convenience
@@ -626,7 +679,11 @@ This is your game now.
 
 ---
 
+
+---
+
 ## Closing Power Move
+
 
 Warren Buffett put it perfectly:
 
@@ -666,33 +723,53 @@ And dominate.
 
 ---
 
+
+---
+
 ## Post-Game Review
+
+
+
+---
 
 ### Key Takeaways
 
+
 1. **Two Scoreboards Exist**: External (what others think) and Internal (what you know about yourself). One you can never control. One you completely control.
+
 
 2. **The External Scoreboard is Infinite**: There's always someone with better stats. You can never win a game with no finish line.
 
+
 3. **Your Default Scorecard Was Chosen For You**: Society, parents, social media—they all have opinions about what "success" means. But did YOU choose?
 
+
 4. **The Internal Scorecard is Freedom**: When you define success on your own terms, you're no longer dependent on others' approval.
+
 
 5. **Discomfort is the Price**: Choosing your own path means disappointing people sometimes. Get comfortable with being uncomfortable.
 
 ### Reflection Questions
 
+
 1. What's one thing you're currently doing purely because it looks impressive, not because it actually serves your goals or values?
+
 
 2. If you had to define success right now—YOUR version, not the default—what would it be?
 
+
 3. Think about your last 5 social media posts. Which ones were you genuinely proud of vs. which ones were you hoping would get engagement?
 
+
 4. What's something you'd love to pursue but haven't because it doesn't fit the traditional definition of success?
+
 
 5. If nobody ever knew about your achievements, what would you still want to accomplish?
 
 ### The Output Mindset
+
+
+---
 
 Remember: Don't think about getting more likes, better grades, or higher status.
 
@@ -718,9 +795,15 @@ The scoreboard is set. Now let's dominate it.
 
 ---
 
+
+---
+
 ## Action Items
 
+
+
 ✅ **This Week**:
+
 
 1. Complete your Internal Scorecard (values, definition of winning, private metrics, non-negotiables)
 2. Identify ONE thing you're doing for external validation that doesn't serve you

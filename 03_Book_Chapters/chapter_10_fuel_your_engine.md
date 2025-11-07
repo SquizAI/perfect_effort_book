@@ -17,7 +17,11 @@
 
 ---
 
+
+---
+
 ## The 2pm Crash
+
 
 It's Tuesday. 2:15pm. History class.
 
@@ -45,7 +49,11 @@ What if you've been trying to win with an engine running on garbage?
 
 ---
 
+
+---
+
 ## Your Body is the Engine
+
 
 Let's get something straight: your body isn't separate from your goals. It's not this thing you have to deal with while you chase what you want.
 
@@ -133,13 +141,19 @@ Not because it's easy. Because it works.
 
 Let's reframe this the way we reframe everything in this book.
 
+
 ❌ **Task-focused thinking**: "I need to eat healthy."
+
 ✅ **Output-focused thinking**: "I need consistent energy from 7am to 10pm so I can dominate my day."
 
+
 ❌ **Task-focused thinking**: "I should get 8 hours of sleep."
+
 ✅ **Output-focused thinking**: "I need to wake up with mental clarity and physical energy so I'm ready to perform."
 
+
 ❌ **Task-focused thinking**: "I have to work out."
+
 ✅ **Output-focused thinking**: "I'm building a body that's strong, fast, and doesn't break down when it matters."
 
 See the difference? One feels like a chore. The other feels like power.
@@ -158,7 +172,11 @@ That's the output focus. That's how champions think.
 
 ---
 
+
+---
+
 ## The Fuel That Powers Performance
+
 
 Alright, let's talk about food. Real talk, no BS.
 
@@ -256,9 +274,13 @@ Here's your simple, practical, no-BS guide to eating for performance. No calorie
 **Why it works**: Protein repairs muscles and tissues damaged during the day. Moderate carbs help you sleep. Veggies provide the micronutrients your body needs to recover.
 
 **Coach's Corner:**
+
 > The Performance Plate isn't about restriction. It's about construction. You're not removing "bad" foods—you're adding fuel that makes you unstoppable. Build the foundation first. Everything else is bonus.
 
 ### The Hydration Non-Negotiable
+
+
+---
 
 Water is your baseline fuel. Not optional. Not something to "remember" to do. Non-negotiable.
 
@@ -312,7 +334,11 @@ That's sustainable. That's smart. That's the long game.
 
 ---
 
+
+---
+
 ## The Recovery That Changes Everything
+
 
 Let's talk about the most underrated performance enhancer on the planet.
 
@@ -325,6 +351,9 @@ And no, I'm not about to bore you with "sleep is important" platitudes. I'm abou
 ### The Sleep Science That Actually Matters
 
 Here's what happens when you sleep. Not metaphorically. Literally. In your brain and body.
+
+
+---
 
 **Memory consolidation**: Everything you learned today—that chemistry formula, that basketball play, that conversation with your friend—lives in short-term storage. Sleep transfers it to long-term memory. No sleep = you can study for hours and still won't remember it tomorrow.
 
@@ -422,6 +451,7 @@ Your bedroom is your recovery chamber. Treat it like one.
 Put the phone in another room. Seriously. Not on airplane mode. Not face-down on your nightstand. Different room. You'll sleep better and wake up better.
 
 **Coach's Corner:**
+
 > The athletes getting recruited? The students getting scholarships? The creators building massive followings? They're not superhuman. They're well-rested. They're performing at their actual capacity while everyone else is fighting exhaustion. Sleep is the cheat code hiding in plain sight.
 
 ### The Nap Strategy (For Real)
@@ -449,7 +479,11 @@ Elite performers nap strategically. LeBron James naps every day. Cristiano Ronal
 
 ---
 
+
+---
+
 ## Movement as Fuel
+
 
 Here's a paradox that seems wrong but is absolutely true:
 
@@ -462,11 +496,13 @@ Not exactly.
 ### The Movement Paradox
 
 **What seems true**:
+
 "I'm too tired to work out."
 "Exercise will make me more exhausted."
 "I need to save energy for important stuff."
 
 **What's actually true**:
+
 Regular movement increases your overall energy levels—not decreases them.
 Exercise improves sleep quality, which means more energy tomorrow.
 Physical activity reduces stress and anxiety, which drain more energy than any workout.
@@ -563,6 +599,7 @@ Sustainable beats sprinting until you break. Consistency beats intensity that yo
 Movement and recovery compound over time. The habits you build now echo for decades.
 
 **Empathy for your body means**:
+
 Recognizing it needs to move—not as punishment, but as maintenance.
 Understanding that rest days are part of the plan, not failures.
 Accepting that sustainable performance requires balance, not constant grinding.
@@ -571,7 +608,11 @@ You're playing the long game. Build accordingly.
 
 ---
 
+
+---
+
 ## The Recovery Room Mindset
+
 
 Let's revisit the core principle of this entire book:
 
@@ -664,11 +705,16 @@ If you're experiencing these, you don't need more effort. You need more recovery
 Rest isn't giving up. It's regrouping. Champions know the difference.
 
 **Coach's Corner:**
+
 > Elite performers aren't the ones who never rest. They're the ones who rest strategically so they can push harder when it counts. Recovery is part of the training plan, not an interruption to it.
 
 ---
 
+
+---
+
 ## Building Your Fuel System
+
 
 Theory is useless without practice. Here's your step-by-step system to fuel your engine properly.
 
@@ -683,6 +729,7 @@ Theory is useless without practice. Here's your step-by-step system to fuel your
 **The output**: Understanding your baseline patterns. Where are you actually starting from?
 
 Use your phone notes or a journal. Write down:
+
 - What you ate and when
 - Energy levels (1-10 scale) at different times of day
 - How you felt after eating (energized, tired, focused, foggy)
@@ -740,17 +787,20 @@ Keep tracking. Add this one change. Nothing else yet.
 Copy this. Put it on your phone. Check off items daily.
 
 #### Morning:
+
 - [ ] 16oz water within 30 minutes of waking
 - [ ] Performance breakfast (protein + carb + fruit/veggie)
 - [ ] 15-20 minutes of movement (even just a walk)
 
 #### Throughout Day:
+
 - [ ] Sipping water consistently (aim for clear or light yellow urine)
 - [ ] Performance lunch (protein + veggies + carb)
 - [ ] Healthy snacks between meals if needed
 - [ ] No caffeine after 2pm
 
 #### Evening:
+
 - [ ] Performance dinner (protein + veggies + moderate carb)
 - [ ] Light movement (walk after dinner if possible)
 - [ ] 60-minute wind-down routine starting at same time
@@ -785,15 +835,19 @@ Perfection isn't the goal. Consistency is.
 Every day, ask yourself with empathy:
 
 **"What does my body actually need right now?"**
+
 Not what you feel like. What you need. There's a difference.
 
 **"Am I fueling for performance or just out of habit/boredom?"**
+
 Are you eating because you're hungry and need energy? Or because it's there?
 
 **"Am I getting enough sleep to learn and grow?"**
+
 Not "can I function." Can I perform at my best?
 
 **"Am I moving my body enough to feel good?"**
+
 Physical and mental health are connected. Are you taking care of both?
 
 **This is empathy**: Caring about future you, not just present you.
@@ -804,7 +858,11 @@ Empathy means treating your body like your most important teammate. Because it i
 
 ---
 
+
+---
+
 ## The Long-Term Engine
+
 
 The habits you build now determine what your body is capable of for the next 70+ years.
 
@@ -864,18 +922,23 @@ Taking care of your engine isn't optional if you want to keep driving.
 This week, commit to these five things:
 
 **1. Track your current fuel patterns** (food, sleep, movement)
+
 Write it down. Be honest. No judgment—just awareness.
 
 **2. Implement ONE performance meal per day**
+
 Start with breakfast. Protein + carb + fruit/veggie.
 
 **3. Add 30oz more water than you currently drink**
+
 Fill up a water bottle. Refill it. Finish it again.
 
 **4. Go to bed 30 minutes earlier than usual**
+
 Set an alarm for your bedtime, not just your wake-up.
 
 **5. Add 15 minutes of movement daily**
+
 Walk, workout, play a sport—just move.
 
 **Journal these questions**:
@@ -890,7 +953,14 @@ You'll be shocked at the difference.
 
 ---
 
+
+---
+
 ## Post-Game Review
+
+
+
+---
 
 ### Key Takeaways
 
@@ -910,21 +980,30 @@ You'll be shocked at the difference.
 
 ### Reflection Questions
 
+
 1. **What's one fuel habit you know is holding you back?** (Be honest. Is it skipping breakfast? Staying up until 2am? Never drinking water?)
+
 
 2. **What output do you want to achieve in the next 30 days that requires better fuel?** (Better grades? Athletic performance? More energy? Improved mood?)
 
+
 3. **If you treated your body like the high-performance engine it is, what would you change immediately?** (What's the one thing you know you should do but aren't doing?)
 
+
 4. **How does your energy, focus, and mood change when you're well-fueled vs. running on empty?** (Think about specific examples. What patterns do you notice?)
+
 
 5. **What's your biggest obstacle to fueling properly—and what's one small step you can take this week to overcome it?** (Not "I don't have time." What's really stopping you? And what's the smallest possible improvement you can make?)
 
 ### The Output Mindset
 
+
+---
+
 Remember: Don't think about "eating healthy" or "getting enough sleep" or "working out."
 
 Think about:
+
 - **Having consistent energy to dominate every day**
 - **Building mental clarity that makes everything easier**
 - **Creating a body that's strong, fast, and doesn't break down**
@@ -936,7 +1015,11 @@ You're not checking boxes. You're building an engine.
 
 ---
 
+
+---
+
 ## Closing Power Move
+
 
 Your body isn't separate from your dreams. It's the vehicle for achieving them.
 
@@ -981,15 +1064,21 @@ That's not luck. That's fuel.
 
 **Your Action Items This Week**:
 
+
 1. **Track your current fuel patterns for 3 days** - Food, water, sleep, movement. Just awareness.
+
 
 2. **Implement one Performance Plate meal daily** - Start with breakfast. Protein + carb + fruit/veggie.
 
+
 3. **Add 30oz of water per day** - Carry a water bottle. Refill it. Finish it.
+
 
 4. **Set a consistent bedtime and create your 60-minute wind-down routine** - Same time every night. No screens.
 
+
 5. **Add 15-20 minutes of movement daily** - Walk, workout, sport. Anything. Just move.
+
 
 6. **Journal: How does better fuel change your performance?** - Energy, focus, mood, physical capability. Track the difference.
 

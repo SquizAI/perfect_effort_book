@@ -17,7 +17,11 @@
 
 ---
 
+
+---
+
 ## Two Students, Same 24 Hours
+
 
 6:45am.
 
@@ -65,7 +69,11 @@ Here's the question nobody asks: What if the most important hour of your day is 
 
 ---
 
+
+---
+
 ## Why Your Morning Is Your Competitive Edge
+
 
 Let's get real about something. Most people lose their day before it even starts.
 
@@ -135,7 +143,11 @@ You're building something different.
 
 ---
 
+
+---
+
 ## Design Your Morning Like Jony Ive Designed the iPhone
+
 
 You know what made the iPhone revolutionary? It wasn't that it did more things. It was that it did the right things perfectly.
 
@@ -154,6 +166,7 @@ Think about the iPhone for a second. When you hold one, it feels inevitable. Lik
 Ive's philosophy was simple: every detail should serve a purpose. Remove everything that doesn't matter. Make the experience so clear that it feels natural.
 
 **Applied to your morning, that means:**
+
 
 - Every action should serve your goals
 - Remove everything that doesn't move you forward
@@ -203,6 +216,7 @@ Here's where Ive's philosophy gets really interesting. He didn't just ask what t
 
 **What to remove from your morning:**
 
+
 - Phone scrolling first thing (immediately gives away your attention)
 - Snooze button (trains your brain to ignore commitments)
 - Checking email or messages (puts you in reactive mode)
@@ -210,6 +224,7 @@ Here's where Ive's philosophy gets really interesting. He didn't just ask what t
 - Rushed chaos (removes the control that makes mornings valuable)
 
 **What you gain by removing those things:**
+
 
 - Time for what actually matters
 - Mental clarity
@@ -247,7 +262,11 @@ Creation is an act of care. When Ive designed, every detail mattered because the
 
 ---
 
+
+---
+
 ## The Science Behind Morning Wins
+
 
 Let's talk about why mornings actually matter, beyond just "it feels good to be productive."
 
@@ -285,6 +304,7 @@ Don't waste that decision energy negotiating with yourself about whether to hit 
 
 Morning routines stick better than other habits. Here's why:
 
+
 - Fewer variables (your environment is consistent every morning)
 - Less decision fatigue (you're fresh)
 - Immediate reward (the feeling of winning early creates motivation)
@@ -301,6 +321,9 @@ That's why morning routines work when other habits fail.
 
 ### Flow State Foundation
 
+
+---
+
 Remember learning about flow state? That zone where time disappears and everything clicks?
 
 Your morning sets up your ability to enter flow later. Starting calm and focused makes flow possible. Starting stressed and reactive makes flow nearly impossible.
@@ -315,7 +338,11 @@ A good morning isn't just about the morning. It primes your brain for peak perfo
 
 ---
 
+
+---
+
 ## Building Your Morning System
+
 
 You can't copy someone else's morning routine. What works for a professional athlete training for the Olympics won't work for you. What works for a CEO running a company probably won't either.
 
@@ -410,6 +437,7 @@ Start here. The MVM. Minimum Viable Morning.
 That's it. Thirty minutes. Nothing complex.
 
 But here's what this beats:
+
 - Sleeping until the last second
 - Scrolling your phone for an hour
 - Rushing out the door in chaos
@@ -451,6 +479,7 @@ Here's the framework for building YOUR morning routine.
 
 **Step 1: Define Your Outputs**
 
+
 - How do I want to FEEL when I start my day? (Calm? Energized? Confident? Ready?)
 - What do I want DONE before distractions hit? (Workout? Studying? Priorities clear?)
 - Who do I need to BE to have a great day? (Focused? Disciplined? Prepared?)
@@ -476,6 +505,7 @@ Simple math. Non-negotiable time.
 **Step 3: Map Your Four Elements**
 
 For each element, choose your specific actions:
+
 
 - Activation: How will you wake your body up?
 - Intention: How will you get mental clarity?
@@ -516,6 +546,7 @@ Here's where Ive's design thinking really shows up. Make the right behavior the 
 
 **The night before:**
 
+
 - Lay out your workout clothes (zero decisions tomorrow morning)
 - Prep breakfast if possible (removes friction)
 - Pack your bag (one less thing to think about)
@@ -523,6 +554,7 @@ Here's where Ive's design thinking really shows up. Make the right behavior the 
 - Go to bed on time (you can't win mornings if you're exhausted)
 
 **Morning environment:**
+
 
 - Clothes are visible immediately (visual cue to get dressed)
 - Phone is NOT in your bedroom (removes the biggest distraction)
@@ -540,7 +572,11 @@ You're designing the environment so the right behavior becomes automatic. That's
 
 ---
 
+
+---
+
 ## The Alarm Clock Moment
+
 
 Everything we just talked about means nothing if you can't get out of bed when your alarm rings.
 
@@ -660,7 +696,11 @@ The first 60 seconds after your alarm determines the next 60 minutes. Win those 
 
 ---
 
+
+---
+
 ## Making It Stick
+
 
 Starting a morning routine is easy. Everyone's motivated on day one.
 
@@ -690,6 +730,9 @@ The critical period is Days 11-21. That's the make-or-break window.
 
 **Track your streak.** Put X's on a calendar. Use a habit app. Whatever. Just make it visible.
 
+
+---
+
 **Focus on the output, not the routine.** Remember why you're doing this. You're not waking up early for fun. You're doing it to own your day, build discipline, and separate from everyone who's choosing comfort.
 
 **Allow imperfect execution.** Did your 60-minute routine turn into 30 minutes because you were exhausted? That still counts. Done beats perfect.
@@ -709,6 +752,7 @@ Here's the truth: Elite athletes don't take weekends off from being elite. Your 
 Weekends are when you separate from the pack.
 
 **Weekend strategy:**
+
 
 - Same alarm, maybe 30 to 60 minutes later if you want (not three hours)
 - Abbreviated routine is fine (30 minutes instead of 60)
@@ -775,7 +819,11 @@ That's the real output. Not a good morning. A better you.
 
 ---
 
+
+---
+
 ## Champions Build in the Dark
+
 
 Let's look at what this actually looks like in real life. Morning routines aren't theory. They're what separate good from great.
 
@@ -845,7 +893,11 @@ You don't need to be Kobe or Michelle Obama to benefit. Ordinary people plus eli
 
 ---
 
+
+---
+
 ## Your Morning Playbook
+
 
 Now you build your system. Here's the step-by-step playbook to design, launch, and lock in your morning routine.
 
@@ -862,6 +914,7 @@ Be honest. You can't fix what you don't measure.
 **Wednesday-Thursday: Output Definition**
 
 Answer these questions:
+
 - How do I want to FEEL starting my day?
 - What do I want DONE before distractions hit?
 - What would make me feel like I already won by 8am?
@@ -886,6 +939,7 @@ Your mission: 14 consecutive days. No misses.
 
 **Daily Protocol:**
 
+
 1. Night before - Prep everything
 2. Alarm rings - 5-4-3-2-1-MOVE
 3. Execute routine (imperfect execution beats no execution)
@@ -900,6 +954,9 @@ Can't get up? Phone across room. You have to stand to turn it off.
 
 Running out of time? Cut one element. Better to do three out of four than zero out of four.
 
+
+---
+
 Losing motivation? Review your output goals. Remember why this matters.
 
 ---
@@ -913,6 +970,7 @@ Your mission: Make it automatic.
 What parts of the routine feel natural now? What still feels forced? What's your biggest friction point? What output are you actually seeing?
 
 **Lock-in checklist:**
+
 
 - [ ] Same alarm time daily (including weekends)
 - [ ] Environment designed (no-friction setup)
@@ -962,13 +1020,20 @@ Print this. Put it where you'll see it.
 - Complete: _____________
 - Become: _____________
 
+
+---
+
 **If I want to quit:** Remember why I started. One day at a time. Never miss twice.
 
 ---
 
 ---
 
+
+---
+
 ## The Morning Advantage
+
 
 Owning your morning isn't about waking up early. It's about taking control of your life before anything else can.
 
@@ -1044,13 +1109,18 @@ But your alarm is about to ring.
 
 What are you going to do?
 
+
 5.
+
 
 4.
 
+
 3.
 
+
 2.
+
 
 1.
 
@@ -1058,29 +1128,46 @@ Move.
 
 ---
 
+
+---
+
 ## Post-Game Review
+
+
+
+---
 
 ### Key Takeaways
 
+
 1. **Your morning creates momentum for everything that follows.** Win the morning, win the day. Lose the morning, spend all day playing catch-up.
+
 
 2. **Design your morning like Jony Ive designed products.** Every element serves a purpose. Remove everything unnecessary. Keep it simple enough to sustain. Design for the output, not just the task.
 
+
 3. **The Four Core Elements are non-negotiable.** Activation, Intention, Movement, Preparation. You need all four. The specifics depend on you.
 
+
 4. **The 5-4-3-2-1 Rule beats the snooze button every time.** Five seconds of counting. Then movement. Physical action beats mental negotiation.
+
 
 5. **Discomfort is the price of separation.** Everyone else is choosing comfort. That's why everyone else gets average results. You're building something different.
 
 ### Reflection Questions
 
+
 1. What would be different about your life if you owned your first 90 minutes every day?
+
 
 2. What's currently stealing your morning time? Phone? Snooze? Rushing? Be specific.
 
+
 3. If you could feel one specific way starting your day, what would it be? That's your output target.
 
+
 4. What's one thing you could do before school that would make you feel like you already won?
+
 
 5. Who do you know who owns their mornings? What can you learn from them?
 

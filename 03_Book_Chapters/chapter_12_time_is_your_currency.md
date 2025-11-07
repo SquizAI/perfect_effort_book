@@ -17,9 +17,16 @@
 
 ---
 
+
+---
+
 ## Sunday Night, 10:47pm
 
+
 You're lying in bed scrolling through your phone.
+
+
+---
 
 The weekend's over. School tomorrow. But here's the weird part—you can't actually remember what you did today.
 
@@ -28,6 +35,9 @@ Breakfast. Some YouTube. TikTok scrolling. Games. Friends. A little homework. Ne
 Now it's Sunday night and you're trying to figure out where 48 hours went.
 
 What do you have to show for it? What did you build? What did you learn? What got better?
+
+
+---
 
 The honest answer: almost nothing you'll remember by Tuesday.
 
@@ -41,7 +51,11 @@ And you're spending it like you're rich when you're actually broke.
 
 ---
 
+
+---
+
 ## The Time Poverty Crisis
+
 
 You think you have plenty of time. You're young. Your whole life is ahead of you.
 
@@ -58,6 +72,7 @@ Sounds like forever, right?
 Wrong.
 
 **Here's what those 65 years actually look like in hours:**
+
 
 - Total hours left: ~560,000
 - Remove sleep (8 hours/day): ~373,000 hours left
@@ -83,6 +98,7 @@ Let's track a typical day. Not what you think you do. What you actually do.
 Seven and a half hours. That's what you control.
 
 Now track what happens to those 7.5 hours:
+
 - Social media scrolling: 3 hours
 - Gaming/Netflix: 2 hours
 - Homework (but distracted, so it takes forever): 1.5 hours
@@ -96,6 +112,7 @@ Think about that. Every single day, you're getting a 30-minute return on a 7.5-h
 That's not a good trade.
 
 **Coach's Corner:**
+
 > Most people measure time by hours spent. Winners measure time by what they created. "I worked for 3 hours" means nothing. "I mastered this concept" means everything.
 
 ### The Time Value Ladder
@@ -137,7 +154,11 @@ Same hour. Completely different returns.
 
 ---
 
+
+---
+
 ## The Contrarian Time Choice
+
 
 Here's a question most people never ask: "What important truth do very few people agree with you on?"
 
@@ -148,6 +169,7 @@ Let's apply that to time.
 **What should you be doing with your time that almost no one your age is doing?**
 
 Think about it. Most teenagers spend their time the same way:
+
 - Optimizing for social approval
 - Doing what everyone else does
 - Following the standard path (same classes, same activities, same trajectory)
@@ -214,6 +236,7 @@ By 25, they're ten years ahead of everyone who played it safe.
 
 Ask yourself every Sunday night:
 
+
 1. What is everyone in my peer group doing with their time?
 2. What is almost no one doing?
 3. Which activities will matter in 10 years?
@@ -228,7 +251,11 @@ The stuff that will matter? You're probably avoiding it because it's hard and no
 
 ---
 
+
+---
+
 ## The 7-Day Time Audit
+
 
 You can't fix what you can't see.
 
@@ -241,6 +268,7 @@ Let's find out.
 For the next seven days, track every single hour.
 
 **Create a simple note on your phone with four columns:**
+
 1. **Time & Activity** (what you did each hour)
 2. **Value Category** (zero/low/medium/high)
 3. **Energy Level** (high/medium/low)
@@ -257,6 +285,7 @@ After seven days, add up your hours by category.
 **Your discretionary time (about 50 hours per week) breaks down like this:**
 
 Time by Category:
+
 - Zero-value hours: ___
 - Low-value hours: ___
 - Medium-value hours: ___
@@ -269,6 +298,7 @@ Most people discover they spent 40 hours on zero/low-value activities and 10 hou
 The goal? Flip it.
 
 **Coach's Corner:**
+
 > The time audit is uncomfortable. You'll see patterns you don't like. That discomfort is the feeling of growth. Lean into it.
 
 ### The Energy-Value Matrix
@@ -344,7 +374,11 @@ Context switching between tasks constantly.
 
 ---
 
+
+---
+
 ## The Leverage Hierarchy
+
 
 Some activities give you 1x return. You put in an hour, you get an hour of value.
 
@@ -416,24 +450,34 @@ Same 24 hours. Completely different trajectories.
 
 Before you commit time to anything, run it through these five questions:
 
+
 1. **Does this compound?** Will it be worth more in the future than it is right now?
+
 
 2. **Does this create leverage?** Can I use this skill or output repeatedly?
 
+
 3. **Is this the highest-value use of this hour?** What am I saying no to by saying yes to this?
 
+
 4. **Am I doing this because it matters or because everyone else is?** Am I following the crowd or making a contrarian bet?
+
 
 5. **Will future me thank current me?** In five years, will I be glad I spent this hour this way?
 
 If you can't answer yes to at least three of these, you're probably wasting time.
 
 **Coach's Corner:**
+
 > The goal isn't to be productive every second. It's to be strategic about where your hours go. Rest matters. Recovery matters. But scrolling for three hours isn't rest—it's just wasted time you'll never get back.
 
 ---
 
+
+---
+
 ## The Art of Strategic No
+
 
 Your time is the scarcest resource you have.
 
@@ -559,7 +603,11 @@ Which do you want?
 
 ---
 
+
+---
+
 ## Your High-Leverage Time Blocks
+
 
 You can't just think about time differently. You have to structure your days differently.
 
@@ -671,6 +719,7 @@ In five years? Completely different lives.
 
 Once a month, run this check-in:
 
+
 1. Complete another 7-day time audit
 2. Compare it to your ideal week template
 3. Identify your biggest current time leak
@@ -678,6 +727,7 @@ Once a month, run this check-in:
 5. Add one new high-leverage time block
 
 Once a quarter, go deeper:
+
 
 1. What did I actually build or create this quarter?
 2. What skills did I develop?
@@ -691,7 +741,11 @@ Because it's easy to slip back into old patterns without realizing it.
 
 ---
 
+
+---
+
 ## The Compound Time Effect
+
 
 Small daily choices about time don't create small results.
 
@@ -723,6 +777,7 @@ What if you invested just one extra hour per day in high-leverage activities?
 
 Let's do the math:
 
+
 - **Daily:** 1 hour ahead
 - **Weekly:** 7 hours ahead
 - **Monthly:** 30 hours ahead (full extra week of leverage)
@@ -732,6 +787,7 @@ Let's do the math:
 But it's not linear. It's exponential.
 
 Because:
+
 - Skills build on skills
 - Networks connect to networks
 - Reputation opens doors
@@ -775,7 +831,11 @@ Which version do you want to be?
 
 ---
 
+
+---
+
 ## Your Game Plan
+
 
 Time to move from theory to action.
 
@@ -837,7 +897,11 @@ Be direct. Be kind. Be firm.
 
 ---
 
+
+---
+
 ## Practice Drills
+
 
 ### Drill 1: The Hour Value Calculator
 
@@ -846,6 +910,7 @@ For each activity you did today, calculate the return:
 **Formula:** What value will this create in 1 month? 1 year? 5 years?
 
 Example:
+
 - 1 hour scrolling: $0 in 1 month, $0 in 1 year, $0 in 5 years
 - 1 hour learning to code: $0 in 1 month, $1,000 in 1 year, $50,000+ in 5 years
 
@@ -854,6 +919,7 @@ Do this for a week. It changes how you see every time choice.
 ### Drill 2: The Contrarian Question Challenge
 
 Every Sunday night, answer these five questions:
+
 
 1. What is everyone my age doing with their time?
 2. What is almost no one doing?
@@ -868,6 +934,7 @@ Write down your answers. Track patterns over time.
 Starting tomorrow, protect one 90-minute deep work block.
 
 **Your only goals:**
+
 1. One task only
 2. Zero distractions
 3. Measure by output, not time
@@ -880,43 +947,65 @@ You'll be shocked at what you can accomplish with actual focus.
 
 Track your time transformation:
 
+
 - [ ] **Day 1:** Complete first time audit entry
 - [ ] **Day 3:** Identify biggest time leak
 - [ ] **Day 5:** One full week of 90-minute blocks
 - [ ] **Day 7:** Review audit and design ideal week
 
 **Pro Tip:**
+
 > The first week is the hardest. Your brain fights you. Old habits pull at you. Friends pressure you. That discomfort? That's growth. Push through. Week two is easier. Week four feels natural.
+
+---
+
 
 ---
 
 ## Post-Game Review
 
+
+
+---
+
 ### Key Takeaways
+
 
 1. **Time is your only non-renewable resource.** You can't make more. You can only invest it wisely or waste it. Every hour spent is gone forever.
 
+
 2. **Not all hours are equal.** Some create 1x value. Some create 100x value. Focus on high-leverage activities that compound, not busywork that vanishes.
+
 
 3. **Learning to say no is the highest-leverage skill.** Good opportunities are the enemy of great ones. Use the 90% rule. Protect your time ruthlessly.
 
+
 4. **Contrarian choices create exponential results.** Everyone follows the crowd. Winners make uncomfortable bets on high-leverage skills others ignore.
+
 
 5. **Small daily choices compound into massive life differences.** One hour per day of strategic time use creates a completely different life in five years.
 
 ### Reflection Questions
 
+
 1. If you tracked your time for the last week honestly, what percentage went to zero-value activities?
+
 
 2. What's one thing almost no one your age is doing with their time that could create massive leverage in 5-10 years?
 
+
 3. What's your biggest time leak right now? The honest answer, not the one that sounds good.
 
+
 4. What would Version B of you (five years from now) tell current you about how to spend today?
+
 
 5. What one commitment can you say no to this week to free up time for what actually matters?
 
 ### The Output Mindset
+
+
+---
 
 Remember: Don't think about "spending time."
 

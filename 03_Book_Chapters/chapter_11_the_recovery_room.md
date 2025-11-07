@@ -17,7 +17,11 @@
 
 ---
 
+
+---
+
 ## The Collapse
+
 
 Sarah had the perfect resume.
 
@@ -47,7 +51,11 @@ Let's talk about the most underrated performance enhancer in existence: strategi
 
 ---
 
+
+---
+
 ## The Burnout Reality
+
 
 Let's get real about what burnout actually is.
 
@@ -119,11 +127,16 @@ That's active. Intentional. Performance-focused.
 Recovery isn't what you do when you're too weak to work. Recovery is what enables you to work at elite levels.
 
 **Coach's Corner:**
+
 > Your body doesn't get stronger during the workout. It gets stronger during recovery after the workout. Training breaks down muscle. Recovery rebuilds it stronger. No recovery means no growth - just breakdown. This applies to your brain too.
 
 ---
 
+
+---
+
 ## How Growth Actually Happens
+
 
 You need to understand something that changes everything: you don't actually improve during the work. You improve during recovery.
 
@@ -156,6 +169,7 @@ Spaced practice plus quality sleep? Strong retention. The information actually s
 ### The Recovery-Performance Cycle
 
 **The winning pattern:**
+
 1. **Stress** (training, practice, hard work)
 2. **Recovery** (rest, sleep, downtime)
 3. **Adaptation** (body and mind get stronger)
@@ -165,6 +179,7 @@ Spaced practice plus quality sleep? Strong retention. The information actually s
 That's how you actually get better. It's a cycle. Leave out recovery and the cycle breaks.
 
 **The losing pattern:**
+
 1. **Stress** (training, practice, hard work)
 2. **More stress** (no recovery, just more work)
 3. **Even more stress** (push through the fatigue)
@@ -205,6 +220,9 @@ The best in the world prioritize sleep. That's not a coincidence. That's strateg
 
 ### The Uncomfortable Truth Applied
 
+
+---
+
 Remember our core principle? "The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life."
 
 Here's the uncomfortable part about recovery: it requires being comfortable with the discomfort of feeling like you "should" be working.
@@ -217,7 +235,11 @@ Elite performers have learned to be comfortable with the discomfort of rest. The
 
 ---
 
+
+---
+
 ## The Netflix Approach to Sustainable Performance
+
 
 Reed Hastings built Netflix into one of the most successful companies in the world. But here's what's interesting: Netflix culture isn't about hustle 24/7. It's about sustainable high performance.
 
@@ -306,11 +328,16 @@ You're not just building your own habits. You're creating a culture.
 Which culture do you want to create?
 
 **Coach's Corner:**
+
 > Elite performers optimize for years, not weeks. The person who can maintain 80% effort with proper recovery will outperform the person who gives 100% until they burn out. Consistency beats intensity when intensity isn't sustainable.
 
 ---
 
+
+---
+
 ## The Recovery Protocol System
+
 
 Recovery isn't just "take a break when you feel like it." It's a system. A skill you can learn and practice.
 
@@ -366,6 +393,7 @@ Think of it like a basketball game. You don't play all 40 minutes without breaks
 **The science:** Elite athletes take 1-2 full rest days per week. Not because they're soft. Because their bodies need it to adapt and get stronger. Your body works the same way.
 
 **Coach's Corner:**
+
 > Rest days aren't days off. They're when adaptation happens. The athlete who trains 5 days a week with proper recovery will outperform the athlete who trains 7 days a week without it. Same applies to your academic and mental performance.
 
 ### The Sleep Optimization System
@@ -440,7 +468,11 @@ Not all rest is lying on the couch. Active recovery can actually speed up your a
 
 ---
 
+
+---
+
 ## The Balance Framework
+
 
 Let's talk about balance. But first, what balance isn't.
 
@@ -550,11 +582,16 @@ If you're reading this and thinking "I'm already overcommitted and burned out," 
 This might mean quitting some things. That's okay. Better to do fewer things really well than many things poorly while burning out.
 
 **Coach's Corner:**
+
 > You can't do everything. But you can do important things really well. The word "priority" used to be singular - one priority. We made it plural and now everyone has 47 priorities. That's not priorities. That's chaos. Pick 2-3 things that matter most. Go deep.
 
 ---
 
+
+---
+
 ## When Rest Feels Wrong
+
 
 Let's address the biggest barrier to recovery: the guilt.
 
@@ -600,6 +637,7 @@ Social media rewards the appearance of constant hustle. Real life rewards sustai
 ### The FOMO Recovery
 
 Fear of Missing Out prevents recovery:
+
 - Can't say no to social events (even when exhausted)
 - Can't skip optional practices (even when overtrained)
 - Can't take a rest day (even when your body is screaming for it)
@@ -651,11 +689,18 @@ Own it.
 
 ---
 
+
+---
+
 ## Real-World Recovery Masters
+
 
 Let's look at people who prove this works.
 
-### Example 1: LeBron James - The Recovery Investment
+
+> [!TIP]
+> **Example 1: LeBron James - The Recovery Investment**
+>
 
 **LeBron's recovery protocol:**
 - 12 hours of sleep per night during season
@@ -671,7 +716,10 @@ Let's look at people who prove this works.
 
 **The lesson:** The best player in the world prioritizes recovery as much as training. That's not coincidence. That's WHY he's still the best.
 
-### Example 2: Simone Biles - The Burnout Recovery
+
+> [!TIP]
+> **Example 2: Simone Biles - The Burnout Recovery**
+>
 
 **What happened:**
 - Tokyo Olympics 2020 (held in 2021): Withdrew from events citing mental health
@@ -693,7 +741,10 @@ Let's look at people who prove this works.
 
 **The lesson:** Even the greatest athlete in her sport needs recovery. Pushing through burnout doesn't make you tough. It makes you injured. Strategic rest makes you sustainable.
 
-### Example 3: The Student Who Stopped All-Nighters
+
+> [!TIP]
+> **Example 3: The Student Who Stopped All-Nighters**
+>
 
 **The situation:**
 - High school junior, straight A's, multiple AP classes
@@ -713,7 +764,10 @@ Let's look at people who prove this works.
 
 **The lesson:** More hours doesn't equal better performance. Quality work plus recovery beats quantity without rest every time.
 
-### Example 4: The Athlete Who Embraced Rest Days
+
+> [!TIP]
+> **Example 4: The Athlete Who Embraced Rest Days**
+>
 
 **The situation:**
 - Competitive swimmer training 6 days per week
@@ -736,7 +790,11 @@ Let's look at people who prove this works.
 
 ---
 
+
+---
+
 ## Your Recovery Game Plan
+
 
 Enough theory. Here's your actionable system for building recovery into your life starting today.
 
@@ -803,6 +861,7 @@ Enough theory. Here's your actionable system for building recovery into your lif
 
 **This week, implement all five:**
 
+
 1. **Sleep optimization protocol** - 7 nights of consistent, quality sleep
 2. **Micro-recovery** - 5-minute breaks between work sessions
 3. **Energy audit** - Track drains, restorers, energizers daily
@@ -815,29 +874,46 @@ You already know the answer. Now prove it to yourself.
 
 ---
 
+
+---
+
 ## Post-Game Review
+
+
+
+---
 
 ### Key Takeaways
 
+
 1. **Recovery isn't weakness - it's when growth happens.** You don't get stronger during the workout. You get stronger during recovery. Your body and brain need rest to adapt and improve.
+
 
 2. **Burnout is real and serious.** It's not just being tired. It's systematic shutdown that can take months or years to recover from. Prevent it by building recovery into your routine now.
 
+
 3. **The Netflix model works.** Sustainable high performance beats unsustainable sprints every time. Optimize for years, not weeks. That's how you actually win long-term.
 
+
 4. **Sleep is non-negotiable.** It's not optional downtime. It's when your brain consolidates learning, your body repairs itself, and your performance capacity rebuilds. 7-9 hours minimum.
+
 
 5. **Balance is strategic, not equal.** You can't do everything. Pick 2-3 priorities and go deep. Protect recovery time as fiercely as you protect training time.
 
 ### Reflection Questions
 
+
 1. What's your current relationship with rest? Do you see it as weakness or strategy?
+
 
 2. What are the signs that you might be heading toward burnout? (Be honest)
 
+
 3. If you implemented the three types of recovery (micro, daily, weekly), what would change about your performance?
 
+
 4. What's one drain you could minimize this week to protect your energy?
+
 
 5. What would it take for you to be comfortable with the discomfort of rest?
 
@@ -858,6 +934,7 @@ Think: "Rest is what makes the work actually work."
 Focus on who you're becoming: a sustainable high performer who understands that recovery is part of the game, not separate from it.
 
 **Coach's Corner:**
+
 > Life is a marathon run at sprint pace. You need recovery built into your system or you won't make it to the finish line. The winners aren't the ones who never rest. They're the ones who train hard and recover harder.
 
 ---

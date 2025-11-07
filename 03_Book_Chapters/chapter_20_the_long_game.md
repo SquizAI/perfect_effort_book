@@ -10,14 +10,21 @@
 
 </div>
 
-> [!NOTE]
-> **💡 Key Insight**
+> 💡 **Key Insight**
 > **Core Concept**: This isn't about winning one season—it's about building a championship life that you're proud to live for decades.
 > **The Output**: Define your values, build authentic success, sustain excellence, and create a legacy that matters.
 
 ---
 
+
+---
+
+
+---
+
 ## The Ten-Year Reunion
+
+
 
 It's ten years after graduation.
 
@@ -85,7 +92,15 @@ Let's talk about how to win a game that actually matters.
 
 ---
 
+
+---
+
+
+---
+
 ## The Problem: The Short-Term Thinking Epidemic
+
+
 
 We live in a culture of *now*.
 
@@ -108,6 +123,12 @@ You can sprint for six months. Maybe a year. But you can't sprint for thirty yea
 **Misalignment becomes your default state.**
 
 You achieve goals that don't actually make you happy. You win games you didn't want to play. You climb a ladder and realize it's leaning against the wrong building.
+
+
+---
+
+
+---
 
 I've watched it happen. Students who got into their dream school and felt... empty. Athletes who won championships and wondered why it didn't feel like they thought it would. Entrepreneurs who built million-dollar businesses and couldn't remember the last time they felt genuine joy.
 
@@ -153,7 +174,15 @@ Which game are you playing?
 
 ---
 
+
+---
+
+
+---
+
 ## The Solution: Values-Driven Long-Term Vision
+
+
 
 Let's get clear on what the long game actually is—and what it isn't.
 
@@ -265,6 +294,7 @@ The second question matters. But the first question is what creates legacy.
 
 ---
 
+> 💡 **Key Insight**
 > **Coach's Corner:**
 >
 > Values-aligned success feels different. Even when it's hard, you're energized because you know you're on the right path. Impressive success without alignment feels hollow—even when you're winning, something feels off. Trust that feeling. It's your compass telling you which game you're playing.
@@ -305,7 +335,15 @@ Small aligned decisions compound over time into an extraordinary life.
 
 ---
 
+
+---
+
+
+---
+
 ## The Output: What You'll Build
+
+
 
 When you commit to the long game, here's what you're building:
 
@@ -331,11 +369,22 @@ That's the output of the long game.
 
 ---
 
+
+---
+
+
+---
+
 ## Real-World Examples
+
+
 
 Let's look at people who played the long game and won the championship that matters.
 
-### Example 1: Angela Ahrendts' Values-First Career
+
+> 💡 **Key Insight**
+> **Example 1: Angela Ahrendts' Values-First Career**
+>
 
 Angela rose to CEO of Burberry and transformed it into a global powerhouse. When Apple came calling with an offer to run retail—with a compensation package worth $70+ million—most people would have signed immediately.
 
@@ -361,7 +410,10 @@ Your values aren't negotiable. Everything else is.
 
 ---
 
-### Example 2: Jony Ive's Decades-Long Craft Mastery
+
+> 💡 **Key Insight**
+> **Example 2: Jony Ive's Decades-Long Craft Mastery**
+>
 
 Jony Ive joined Apple in 1992. For the first few years, he almost quit multiple times. The company was struggling. The work felt unappreciated. It would have been easy to take a more prestigious design job elsewhere.
 
@@ -390,7 +442,10 @@ He never compromised quality for short-term gains. He never cut corners to ship 
 
 ---
 
-### Example 3: Alicia's Values-Aligned Choice
+
+> 💡 **Key Insight**
+> **Example 3: Alicia's Values-Aligned Choice**
+>
 
 Alicia was a high school junior facing a common decision. Two summer opportunities:
 
@@ -428,7 +483,15 @@ Every decision is a chance to choose alignment over impression.
 
 ---
 
+
+---
+
+
+---
+
 ## Your Game Plan
+
+
 
 Enough theory. Let's build your long game strategy.
 
@@ -465,6 +528,8 @@ This is the hard part. You're going to narrow those 10-15 down to your TOP 5.
 Why five? Because if everything is a value, nothing is a value. Your core values are the ones you'd make sacrifices to honor.
 
 For each value, ask:
+
+
 - "Would I make a real sacrifice to honor this value?"
 - "Does this show up in my proudest moments?"
 - "Can I imagine living a fulfilling life without prioritizing this?"
@@ -472,6 +537,8 @@ For each value, ask:
 Be ruthless. Get to five.
 
 **Your Top 5 Core Values:**
+
+
 1. _____________
 2. _____________
 3. _____________
@@ -529,6 +596,8 @@ Then provide evidence. Be specific.
 
 **Now ask the hard questions:**
 
+
+
 1. Where are my biggest gaps?
 2. What am I doing that actively violates my values?
 3. What am I NOT doing that would honor my values?
@@ -558,17 +627,31 @@ It's ten years from now. You're living your ideal life—values-aligned, sustain
 
 **Answer these questions as if it's already true:**
 
+
+
 1. **How do you spend your days?** What's your work? What skills have you mastered?
+
+
 
 2. **Who are you surrounded by?** What kind of relationships have you built?
 
+
+
 3. **What does your health and energy feel like?** How do you take care of yourself?
+
+
 
 4. **What impact are you making?** Who have you helped? What have you contributed?
 
+
+
 5. **What are you most proud of?** Not achievements—who you've become.
 
+
+
 6. **When you look in the mirror, what do you see?** Character. Values. Identity.
+
+
 
 7. **What does "success" mean to you in this vision?** Your definition, not society's.
 
@@ -664,6 +747,8 @@ Let's see how this works with actual decisions you'll face.
 
 You get a job offer that pays 20% more than your other option. But it requires 70-hour weeks in a cutthroat culture where people step on each other to climb.
 
+
+
 - **Values Test**: Violates your "balance" and "integrity" values.
 - **10-Year Test**: Will you be burned out? Probably yes.
 - **Authenticity Test**: Would you have to become ruthless to succeed? Not who you are.
@@ -679,6 +764,8 @@ Take the other job. Build sustainable excellence. Play the long game.
 **Scenario 2: Friend Group**
 
 A new friend group invites you in. They're fun. Popular. But they constantly make fun of anyone who tries hard. They mock effort and ambition.
+
+
 
 - **Values Test**: Violates your "growth" value.
 - **Authenticity Test**: Would you have to hide who you really are? Yes.
@@ -696,6 +783,8 @@ Your peer group determines your trajectory (Chapter 14). Choose wisely.
 Two options: Prestigious internship that looks better on paper vs. learning opportunity that aligns with your passion but is less impressive.
 
 The internship gets you status. The learning opportunity gets you growth.
+
+
 
 - **Values Test**: Prestige vs. Growth. Which value matters more to you?
 - **10-Year Test**: Which matters more in a decade? Skills or a line on your resume?
@@ -736,6 +825,12 @@ If the answer is no, redesign it or decline it.
 ---
 
 **2. Recovery is Not Optional**
+
+
+---
+
+
+---
 
 Remember Chapter 11? Elite performers recover intentionally. They build rest into their system. They protect their health.
 
@@ -787,6 +882,8 @@ Protect your health like your future depends on it. Because it does.
 
 Every Sunday, spend ten minutes asking these questions:
 
+
+
 1. Did I honor my values this week?
 2. Am I moving toward my ten-year vision?
 3. Am I sustainable, or am I burning out?
@@ -823,6 +920,12 @@ That's legacy.
 ---
 
 **2. What values have I modeled?**
+
+
+---
+
+
+---
 
 People remember how you made them feel. They remember what you stood for.
 
@@ -875,13 +978,27 @@ Are you building something worth emulating?
 
 **The Output**: A life that matters beyond yourself.
 
+
+---
+
+
+---
+
 When you're gone, people won't remember your job title. They'll remember how you made them feel and who you helped them become.
 
 That's the long game.
 
 ---
 
+
+---
+
+
+---
+
 ## Practice Drills
+
+
 
 You've got the framework. Now let's practice.
 
@@ -911,6 +1028,8 @@ You've got the framework. Now let's practice.
 **Week 2 Challenge**: Assess current alignment.
 
 Complete the Life Alignment Audit from Step 2:
+
+
 - Rate each of your five values 1-10 (current alignment)
 - Provide specific evidence for each rating
 - Identify your biggest gaps
@@ -933,12 +1052,14 @@ Track it. See if the alignment improves.
 - Write as if you're living your ideal life (aligned, successful, authentic)
 - Address it to your current self
 - Include:
+
   - What your life looks like now (ten years in the future)
   - How you got there (key decisions, values you honored)
   - What you're most proud of (who you became, not just what you achieved)
   - Advice you'd give your current self
 
 **Format**:
+
 > Dear [Your Name],
 >
 > It's [current year + 10]. I'm writing to tell you that everything worked out—not the way you planned exactly, but better because it's aligned with who we really are.
@@ -964,6 +1085,8 @@ Track it. See if the alignment improves.
 
 **Decision**: [Write it here]
 
+
+
 1. **Values Test**: Does this align with my core values? (Pass/Fail + Why)
 2. **10-Year Test**: Will I be proud of this in ten years? (Pass/Fail + Why)
 3. **Authenticity Test**: Does this feel true to who I am? (Pass/Fail + Why)
@@ -978,7 +1101,15 @@ Build the muscle. Get comfortable filtering decisions through your values.
 
 ---
 
+
+---
+
+
+---
+
 ## Post-Game Review
+
+
 
 You've made it to the final chapter. Let's tie it all together.
 
@@ -986,17 +1117,31 @@ You've made it to the final chapter. Let's tie it all together.
 
 These aren't gentle questions. They're designed to make you think.
 
+
+
 1. **If I keep living exactly as I am now for ten years, will I be proud of the life I've built?**
+
+
 
 2. **What are my core values? Can I name them without looking?**
 
+
+
 3. **What's one decision I made recently that I know I'll regret in ten years? What would I do differently?**
+
+
 
 4. **Who do I want to become?** Not what do I want to achieve—*who*?
 
+
+
 5. **What would I want people to say about me at my funeral? Am I living in a way that creates that legacy?**
 
+
+
 6. **What's my definition of success? Is it actually mine, or did I inherit it from parents, friends, or social media?**
+
+
 
 7. **If someone watched my life for a week, what would they say I value most?** Not what I SAY I value—what my actions SHOW I value.
 
@@ -1004,31 +1149,61 @@ Write down your answers. Be honest.
 
 ---
 
+
+---
+
+
+---
+
 ### Key Takeaways
 
 Let's distill this chapter into the essentials:
 
+
+
 1. **The long game beats the short game every time.** Short-term wins fade. Values-aligned excellence compounds.
+
+
 
 2. **Values are your compass.** Define them. Live them. Don't compromise them for impressive opportunities that feel hollow.
 
+
+
 3. **Build a life you're proud to live, not just a resume you're proud to show.** Your resume is what you've done. Your life is who you are.
+
+
 
 4. **Sustainable excellence beats temporary wins.** Marathon pace for thirty years beats sprint speed for six months.
 
+
+
 5. **Legacy equals impact on people, not achievements.** Who you helped. What you modeled. How you showed up.
 
+
+
 6. **Start playing the long game NOW—not when you're 30.** Your decisions at 16 compound into the life you're living at 46.
+
+
 
 7. **The scoreboard everyone sees lasts a moment. The life you build lasts forever.** Choose the game that matters.
 
 ---
 
+
+---
+
+
+---
+
 ## The "Perfect Effort" Philosophy - One Page Summary
+
+
 
 **What is Perfect Effort?**
 
 Perfect Effort isn't about being perfect. It's about alignment.
+
+
 
 - Alignment between your values and your actions
 - Alignment between your effort and what actually matters
@@ -1039,31 +1214,42 @@ Perfect Effort isn't about being perfect. It's about alignment.
 ### The Core Principles (Chapters 1-20 in One Page)
 
 **Part 1: Foundation**
+
+
 1. **Life is a Sport** (Ch. 1) - Treat life like you treat game day
 2. **Know Your Stats** (Ch. 2) - Self-awareness is your superpower
 3. **Internal Scorecard** (Ch. 3) - Define success for yourself, not for Instagram
 4. **Effort Compounds** (Ch. 4) - Small, consistent actions over time equal mastery
 
 **Part 2: Mental Game**
+
+
 5. **Inner Coach** (Ch. 5) - Your self-talk determines your ceiling
 6. **Losing is Learning** (Ch. 6) - Failure is data, not identity
 7. **Focus** (Ch. 7) - Attention is your most valuable resource
 8. **Pressure is Privilege** (Ch. 8) - High-stakes moments reveal who you are
 
 **Part 3: Performance**
+
+
 9. **Craft Over Talent** (Ch. 9) - Mastery beats natural ability over time
 10. **Process Over Results** (Ch. 10) - Control the inputs, trust the outputs
 11. **Recovery** (Ch. 11) - Elite performers rest intentionally
 12. **Time is Currency** (Ch. 12) - Spend it on what actually matters
 
 **Part 4: Relationships**
+
+
 13. **Momentum** (Ch. 13) - Small wins compound into unstoppable force
 14. **Choose Your Teammates** (Ch. 14) - Your peer group determines your trajectory
 15. **The Mentor Advantage** (Ch. 15) - Find guides who've won the game you want to win
 16. **Support System** (Ch. 16) - You can't win alone
 
 **Part 5: Championship Level**
+
 17-19. Building resilience, leading others, adapting to change
+
+
 20. **The Long Game** (Ch. 20) - Build a championship life, not just a highlight reel
 
 ---
@@ -1093,7 +1279,15 @@ Proud because it's authentically yours. Proud because you played the game with i
 
 ---
 
+
+---
+
+
+---
+
 ## The Final Challenge: Your Perfect Effort Commitment
+
+
 
 This is it. Twenty chapters. Hundreds of pages. Dozens of frameworks.
 
@@ -1111,6 +1305,7 @@ So here's the challenge:
 
 > I commit to building a life aligned with my values:
 >
+> 💡 **Key Insight**
 > **[Value 1], [Value 2], [Value 3], [Value 4], [Value 5]**
 >
 > I commit to playing the long game—making decisions I'll be proud of in ten years, not just ten minutes.
@@ -1123,6 +1318,7 @@ So here's the challenge:
 >
 > This is my championship life. I'm building it with perfect effort—not perfect results, but perfect alignment between who I am and how I show up every single day.
 >
+> 💡 **Key Insight**
 > **The long game starts now.**
 
 **Signed**: ________________
@@ -1130,7 +1326,15 @@ So here's the challenge:
 
 ---
 
+
+---
+
+
+---
+
 ## A Letter From Your Coach
+
+
 
 You made it.
 
@@ -1145,6 +1349,8 @@ You can know every strategy in this book. You can understand the psychology. You
 So here's my final challenge:
 
 **Pick one thing from this book. Just one. And do it today.**
+
+
 
 - Define your five core values (this chapter)
 - Build your morning routine so you own your day (Chapter 11)
@@ -1178,6 +1384,8 @@ You have the frameworks. You have the strategies. You have the knowledge.
 But most importantly: **you have the power to choose.**
 
 Every single day, you get to choose:
+
+
 
 - Short game or long game?
 - Impressive or authentic?
@@ -1237,6 +1445,8 @@ Your coach,
 ---
 
 *"The scoreboard everyone sees lasts a moment. The life you build lasts forever."*
+
+
 
 
 ---

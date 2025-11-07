@@ -11,6 +11,8 @@
 </div>
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Core Concept**: You can't win alone. Every champion has a support system—people who believe in you, catch you when you fall, and celebrate when you win.
 > 💡 **Key Insight**
 > **The Output**: Build genuine support → Navigate challenges with resilience, solve problems faster, take bigger risks, and rise together.
@@ -20,7 +22,19 @@
 
 ---
 
+
+---
+
+
+---
+
+
+---
+
 ## The Breaking Point
+
+
+
 
 
 It's 9:47pm on a Tuesday.
@@ -31,6 +45,9 @@ She should be home by now. Her parents think she's at a student government meeti
 
 Here's what Maya's life looks like from the outside:
 
+
+
+
 - Straight A's in all AP classes
 - Varsity soccer captain
 - Student government VP
@@ -39,6 +56,9 @@ Here's what Maya's life looks like from the outside:
 - Always "fine"
 
 Here's what Maya's life actually looks like:
+
+
+
 
 - Failing AP Calc and too embarrassed to ask for help
 - Playing soccer on a stress fracture because she doesn't want to let her team down
@@ -109,6 +129,8 @@ And Maya learned the hardest, most important lesson of her life:
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **You don't have to carry everything alone.**
 
 
@@ -126,6 +148,8 @@ And she's learned something that changed everything:
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Asking for help isn't weakness. It's strategy.**
 
 
@@ -134,7 +158,19 @@ And she's learned something that changed everything:
 
 ---
 
+
+---
+
+
+---
+
+
+---
+
 ## The Problem: The "I'll Handle It Alone" Trap
+
+
+
 
 
 Let's talk about the biggest lie your generation has been sold.
@@ -191,6 +227,8 @@ That creator with millions of followers? They have editors, managers, collaborat
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Nobody wins alone.**
 
 
@@ -203,12 +241,26 @@ They're smart enough to build their team before they need it. Strategic enough t
 
 ---
 
+
+---
+
+
+---
+
+
+---
+
 ## The Solution: Building Your Strategic Ohana
+
+
+
 
 
 Here's what champions know that everyone else is still learning:
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **Your support system isn't a safety net for when you fail. It's the foundation you build success on.**
 
@@ -230,6 +282,15 @@ Let's build your Ohana. Your strategic support system. Your team.
 Not some vague "positive vibes" circle. Not people who just tell you what you want to hear.
 
 A real support system is:
+
+
+---
+
+
+---
+
+
+---
 
 
 ---
@@ -260,6 +321,9 @@ You can call them at 2am when you're falling apart. You don't have to perform fo
 
 Usually this includes:
 
+
+
+
 - Family members you trust
 - Your absolute closest friends
 - A mentor or coach who really knows you
@@ -278,6 +342,9 @@ This is your bench. Your specialist players.
 These are people you trust and respect, but in more specific contexts. You might not call them at 2am, but you'd definitely text them when you need their specific expertise or support.
 
 Examples:
+
+
+
 
 - Teammates who push you in your sport
 - Study group members who help you academically
@@ -307,6 +374,8 @@ You're not close with everyone here, but you share identity and values. There's 
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Coach's Corner:**
 
 
@@ -326,6 +395,8 @@ Because they've learned what you're about to learn:
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Vulnerability isn't weakness. It's courage.**
 
 
@@ -339,6 +410,8 @@ Oprah's built her entire empire on this principle. "The moment you start telling
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Rule 1: Be Vulnerable With the Right People**
 
 
@@ -349,6 +422,8 @@ Start with your Inner Circle. People who've proven they're trustworthy. People w
 Test the waters. Share something small. See how they respond. If they're supportive, share more. If they're judgmental or dismissive, that's information—they might not be Inner Circle material.
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **Rule 2: Be Specific About What You Need**
 
@@ -361,6 +436,8 @@ The more specific you are, the easier you make it for people to help you.
 "I'm overwhelmed by college apps and need someone to help me create a timeline" → easy to help with
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **Rule 3: Vulnerability Creates Connection, Not Burden**
 
@@ -409,6 +486,8 @@ Here's what happens when you build real support:
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Coach's Corner:**
 
 
@@ -419,7 +498,19 @@ Here's what happens when you build real support:
 
 ---
 
+
+---
+
+
+---
+
+
+---
+
 ## Real Champions, Real Support Systems
+
+
+
 
 
 Let's look at people who've proven this works.
@@ -478,10 +569,14 @@ But more importantly, she showed the entire world what strength actually looks l
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Strength isn't pretending you're fine when you're not.**
 
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **Strength is saying "I need help" even when everyone's watching.**
 
@@ -510,6 +605,9 @@ That conversation changed everything.
 
 Mr. Rodriguez connected Jordan with the school counselor. The counselor connected him with:
 
+
+
+
 - A peer support group for students with divorced parents (turned out half his school was dealing with this)
 - A tutor for the classes he was falling behind in
 - His soccer coach, who started checking in weekly
@@ -531,9 +629,13 @@ But he wasn't carrying it alone anymore.
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Coach's Corner:**
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > Notice the pattern? Oprah. Simone. Jordan. Different levels. Different contexts. Same principle: **Nobody wins alone.** The people who succeed aren't the ones who don't need help. They're the ones brave enough to ask for it.
 
@@ -542,7 +644,19 @@ But he wasn't carrying it alone anymore.
 
 ---
 
+
+---
+
+
+---
+
+
+---
+
 ## Your Game Plan: Building Your Support System
+
+
+
 
 
 Okay, enough theory. Let's build your actual support system.
@@ -557,6 +671,8 @@ Take inventory. Who's in your corner right now?
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Grab a piece of paper or open your notes app. Do this exercise:**
 
 
@@ -564,10 +680,15 @@ Take inventory. Who's in your corner right now?
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **INNER CIRCLE (2-5 people)**
 
 
 Who knows the real you? Who can you call at 2am? Who would you trust with your deepest struggles?
+
+
+
 
 
 1. _______________
@@ -582,6 +703,8 @@ Who knows the real you? Who can you call at 2am? Who would you trust with your d
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **EXTENDED NETWORK (10-20 people)**
 
 
@@ -589,25 +712,40 @@ Who do you trust in specific areas? Who helps you with particular challenges?
 
 Academic support:
 
+
+
+
 - _______________
 - _______________
 
 Athletic/activity support:
+
+
+
 
 - _______________
 - _______________
 
 Creative/interest support:
 
+
+
+
 - _______________
 - _______________
 
 Future planning support:
 
+
+
+
 - _______________
 - _______________
 
 General friendship:
+
+
+
 
 - _______________
 - _______________
@@ -618,10 +756,15 @@ General friendship:
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **COMMUNITY (broader sense of belonging)**
 
 
 What groups give you a sense of identity and belonging?
+
+
+
 
 
 - School: _______________
@@ -634,7 +777,12 @@ What groups give you a sense of identity and belonging?
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Now ask yourself these questions:**
+
+
+
 
 
 
@@ -653,6 +801,8 @@ You can't build what you can't see. Let's find the gaps.
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Map your current challenges against your support system:**
 
 
@@ -669,7 +819,12 @@ You can't build what you can't see. Let's find the gaps.
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Be brutally honest:**
+
+
+
 
 
 
@@ -694,6 +849,8 @@ Every good ask has three parts:
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **1. Be Specific**
 
 
@@ -702,6 +859,8 @@ Instead: "I'm failing AP Calc. I don't understand limits and derivatives and I h
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **2. Make It Easy**
 
 
@@ -709,6 +868,8 @@ Tell them exactly what would help.
 "Could you explain how limits work or point me toward a good YouTube channel or study guide?"
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **3. Show Vulnerability**
 
@@ -722,6 +883,8 @@ Let them see the real situation.
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **To a Parent/Guardian:**
 
 
@@ -730,6 +893,8 @@ Let them see the real situation.
 ---
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **To a Teacher:**
 
@@ -740,6 +905,8 @@ Let them see the real situation.
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **To a School Counselor:**
 
 
@@ -748,6 +915,8 @@ Let them see the real situation.
 ---
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **To a Friend:**
 
@@ -758,6 +927,8 @@ Let them see the real situation.
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **To a Coach:**
 
 
@@ -766,6 +937,8 @@ Let them see the real situation.
 ---
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **What to expect when you ask:**
 
@@ -794,12 +967,16 @@ The question isn't just "Who's there for me?" It's also "Who am I there for?"
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **1. Show Up When They Need You**
 
 
 Not just when you need them. Check in on people proactively. Notice when they're off. Ask how they're really doing.
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **2. Listen Without Judgment**
 
@@ -810,6 +987,8 @@ Ask: "Do you want advice or do you just need me to listen?"
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **3. Check In Proactively**
 
 
@@ -817,12 +996,16 @@ Don't wait for people to tell you they're struggling. Text your friends. Ask rea
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **4. Celebrate Their Wins**
 
 
 Be genuinely happy when good things happen to your people. Not jealous. Not competitive. Just happy for them.
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **5. Hold Them Accountable (With Love)**
 
@@ -832,6 +1015,8 @@ Real support includes calling people on their BS. "You said you wanted to do thi
 ---
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **The critical question to ask yourself:**
 
@@ -860,7 +1045,12 @@ You maintain your support system when things are good so it's there when things 
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Every week, do this:**
+
+
+
 
 
 
@@ -871,6 +1061,8 @@ You maintain your support system when things are good so it's there when things 
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **This takes 10 minutes total. You have time.**
 
 
@@ -880,7 +1072,12 @@ You maintain your support system when things are good so it's there when things 
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Once a month, audit:**
+
+
+
 
 
 
@@ -891,6 +1088,8 @@ You maintain your support system when things are good so it's there when things 
 - What gaps have emerged? What new challenges am I facing?
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **Adjust accordingly.**
 
@@ -913,6 +1112,8 @@ This isn't complicated. It's just intentional.
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Coach's Corner:**
 
 
@@ -923,7 +1124,19 @@ This isn't complicated. It's just intentional.
 
 ---
 
+
+---
+
+
+---
+
+
+---
+
 ## Practice Drills
+
+
+
 
 
 Okay, enough reading. Time to practice.
@@ -933,6 +1146,8 @@ These aren't optional. These are your assignments for the next week.
 ### Drill 1: The Three-Layer Map (Complete This Week)
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **What to do:**
 
@@ -945,12 +1160,16 @@ Community: Groups where you belong
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Why it works:**
 
 
 You can't build what you can't see. This gives you visibility into what you're working with.
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **This week's challenge:**
 
@@ -963,7 +1182,12 @@ Then listen.
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Track it:**
+
+
+
 
 
 
@@ -977,6 +1201,8 @@ Then listen.
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **What to do:**
 
 
@@ -986,12 +1212,17 @@ Not your biggest, scariest problem. Something smaller. Practice the ask.
 
 Examples:
 
+
+
+
 - "Can you help me study for this quiz?"
 - "I'm confused about this homework problem, will you explain it?"
 - "I'm stressed about [thing], can I vent for a minute?"
 - "Do you know anyone who can help me with [specific thing]?"
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **Why it works:**
 
@@ -1000,7 +1231,12 @@ Asking for help is a skill. You build the skill with low-stakes practice so when
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Track it:**
+
+
+
 
 
 
@@ -1018,6 +1254,8 @@ Asking for help is a skill. You build the skill with low-stakes practice so when
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **What to do:**
 
 
@@ -1025,7 +1263,12 @@ Look back at the last month. Be honest.
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Answer these questions:**
+
+
+
 
 
 
@@ -1034,9 +1277,15 @@ Look back at the last month. Be honest.
 _______________________________________________________________
 
 
+
+
+
 2. When did someone offer help and I said "I'm fine" (but I wasn't)?
 
 _______________________________________________________________
+
+
+
 
 
 3. Who showed up for me in the last month? Did I thank them?
@@ -1044,9 +1293,15 @@ _______________________________________________________________
 _______________________________________________________________
 
 
+
+
+
 4. Who needed support from me? Did I show up?
 
 _______________________________________________________________
+
+
+
 
 
 5. What pattern do I notice? (Do I always give but never receive? Do I always take but never give? Do I isolate when things get hard?)
@@ -1054,6 +1309,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **Why it works:**
 
@@ -1069,6 +1326,9 @@ You can't change patterns you don't see. This creates awareness of how you're cu
 Track your progress over the next 7 days:
 
 
+
+
+
 - [ ] **Day 1**: Complete the Three-Layer Map (who's in my support system?)
 - [ ] **Day 2**: Identify one support gap (where do I need help?)
 - [ ] **Day 3**: Ask for help with something small (practice the ask)
@@ -1076,6 +1336,8 @@ Track your progress over the next 7 days:
 - [ ] **Day 7**: Complete the Support Audit (reflect on patterns)
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **Pro Tip:**
 
@@ -1087,10 +1349,31 @@ Track your progress over the next 7 days:
 
 ---
 
+
+---
+
+
+---
+
+
+---
+
 ## Post-Game Review
 
 
+
+
+
 Let's lock in what matters.
+
+
+---
+
+
+---
+
+
+---
 
 
 ---
@@ -1099,12 +1382,16 @@ Let's lock in what matters.
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **1. Nobody wins alone—every champion has a support system.**
 
 
 The people who look like they're crushing it solo? They're not. They just don't broadcast their support system on social media. Build yours strategically.
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **2. Vulnerability is courage, not weakness.**
 
@@ -1113,6 +1400,8 @@ Asking for help is the strongest move you can make. It takes more courage to say
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **3. Build your system BEFORE you're in crisis.**
 
 
@@ -1120,12 +1409,16 @@ Don't wait until you're drowning to reach out. Maintain relationships when thing
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **4. Support is reciprocal—give and receive.**
 
 
 You can't just take. You can't just give. Healthy support systems flow both ways. Be the support you want to have.
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **5. Three layers: Inner Circle (unconditional), Extended Network (specific), Community (belonging).**
 
@@ -1140,12 +1433,16 @@ Take a few minutes. Really think about these.
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **1. When's the last time I was truly vulnerable with someone? How did it feel?**
 
 
 _______________________________________________________________
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **2. What's one thing I'm currently handling alone that I should ask for help with?**
 
@@ -1154,12 +1451,16 @@ _______________________________________________________________
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **3. Who in my life has shown up for me repeatedly? Have I thanked them?**
 
 
 _______________________________________________________________
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **4. Am I as good at receiving support as I am at giving it? Why or why not?**
 
@@ -1168,10 +1469,21 @@ _______________________________________________________________
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **5. What would change in my life if I actually believed "asking for help is strength, not weakness"?**
 
 
 _______________________________________________________________
+
+---
+
+
+---
+
+
+---
+
 
 ---
 
@@ -1191,6 +1503,8 @@ You're building the community that will rise with you.
 ---
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **Coach's Corner:**
 
@@ -1217,6 +1531,8 @@ Now let's talk about going the distance.
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **The truth is simple:**
 
 
@@ -1241,6 +1557,8 @@ That's how champions do it.
 That's how you'll do it.
 
 Let's go.
+
+
 
 
 

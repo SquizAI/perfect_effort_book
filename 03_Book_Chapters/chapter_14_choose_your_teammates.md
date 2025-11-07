@@ -11,6 +11,8 @@
 </div>
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Core Concept**: Your peer group determines your trajectory. Strategic relationship choices accelerate growth.
 > 💡 **Key Insight**
 > **The Output**: Surround yourself with people who raise your game so you become exceptional.
@@ -20,7 +22,19 @@
 
 ---
 
+
+---
+
+
+---
+
+
+---
+
 ## The Two Friend Groups
+
+
+
 
 
 It's Saturday morning. Two students wake up with the exact same talent, same grades, same potential.
@@ -48,7 +62,19 @@ There's no in-between.
 
 ---
 
+
+---
+
+
+---
+
+
+---
+
 ## The Problem: Friendship by Default
+
+
+
 
 
 Let's be honest about how most people choose friends.
@@ -75,6 +101,8 @@ Not because you're weak. Because you're human.
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Coach's Corner:**
 
 
@@ -93,7 +121,19 @@ That's how powerful peer groups are.
 
 ---
 
+
+---
+
+
+---
+
+
+---
+
 ## The Solution: Strategic Friendship
+
+
+
 
 
 Here's the thing—this isn't about being fake or manipulative. This isn't about dropping everyone you know and becoming a social climber.
@@ -111,13 +151,25 @@ You're not building a company. You're building yourself. But the same principles
 **The Kalanick Principle** (constructive lessons):
 
 
+
+
+
 1. **Know what game you're playing** - What do you actually want to achieve? Where do you want to be in two years?
+
+
+
 
 
 2. **Identify who's playing at that level** - Who's already doing what you want to do? Who's grinding when everyone else is scrolling?
 
 
+
+
+
 3. **Seek people who make you uncomfortable** - Not toxic uncomfortable. Growth uncomfortable. People who challenge you to be better.
+
+
+
 
 
 4. **Build reciprocal value** - Don't just take. Be the friend you want to have.
@@ -159,7 +211,19 @@ Not by being ruthless. By being intentional.
 
 ---
 
+
+---
+
+
+---
+
+
+---
+
 ## Why This Changes Everything
+
+
+
 
 
 You've probably heard the quote: "You are the average of the five people you spend the most time with."
@@ -178,6 +242,8 @@ When your roommate is grinding, you grind. When your roommate is slacking, you s
 
 
 > 💡 **Key Insight**
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > **Coach's Corner:**
 
 
@@ -192,10 +258,24 @@ Your peer group is either your competitive advantage or your anchor. Choose wise
 
 ---
 
+
+---
+
+
+---
+
+
+---
+
 ## Real-World Examples
 
 
 
+
+
+
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **Example 1: The Williams Sisters**
 >
@@ -211,6 +291,8 @@ Their dad, Richard Williams, built this intentionally. He knew that having a pee
 **Lesson**: The right teammate makes you better than you could ever be alone.
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **Example 2: Emma's Study Group**
 >
@@ -230,6 +312,8 @@ But something shifted. She started preparing more because she didn't want to sho
 **Lesson**: Sometimes you need to join a different peer group to become a different person.
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **Example 3: The PayPal Mafia**
 >
@@ -255,7 +339,19 @@ Think that's a coincidence? They chose teammates who raised their game. When eve
 
 ---
 
+
+---
+
+
+---
+
+
+---
+
 ## Your Game Plan
+
+
+
 
 
 Ready to build your championship team? Here's how.
@@ -269,6 +365,9 @@ You can't change what you don't measure. Time to get honest about who you're spe
 List the five people you spend the most time with. Not who you wish you spent time with. Not who you follow on social media. Who you actually spend hours with each week.
 
 
+
+
+
 1. _____________
 2. _____________
 3. _____________
@@ -276,6 +375,9 @@ List the five people you spend the most time with. Not who you wish you spent ti
 5. _____________
 
 Now answer these questions for each person:
+
+
+
 
 
 - **Do they push me toward better, or pull me toward comfortable?**
@@ -305,15 +407,27 @@ Strategic friendship starts with knowing what game you're playing. You can't bui
 **Ask yourself**:
 
 
+
+
+
 1. **What game am I playing?** (What do I want to achieve in the next year? Two years?)
+
+
+
 
 
 2. **What kind of people are playing at that level?** (What do they value? How do they spend their time?)
 
 
+
+
+
 3. **What qualities do I need in my inner circle?** (Ambitious? Creative? Athletic? Intellectually curious?)
 
 **Write Your Ideal Teammate Profile**:
+
+
+
 
 
 - They're working on: _____________
@@ -331,6 +445,9 @@ This isn't shallow. It's strategic. NBA coaches don't build rosters by accident�
 You've audited your current team. You know what you're looking for. Now go find them.
 
 **Where Elevators hang out**:
+
+
+
 
 
 - High-performing teams (sports, robotics, debate, theater, esports)
@@ -375,6 +492,9 @@ You don't have to be mean. You don't have to burn bridges. But you do have to pr
 **Script Examples**:
 
 
+
+
+
 - "I love hanging out, but I'm really focused on [goal] right now. Can we catch up in a few weeks?"
 - "I'm cutting back on [activity] to make time for [priority]. Hope you understand."
 - "I'm trying to spend more time with people who are working toward [shared goal]. Want to join?"
@@ -388,6 +508,8 @@ But here's the thing: staying stuck with the wrong peer group for years because 
 You're not abandoning people. You're choosing yourself. There's a difference.
 
 
+> 💡 **Key Insight**
+> 💡 **Key Insight**
 > 💡 **Key Insight**
 > **Coach's Corner:**
 
@@ -421,7 +543,19 @@ And here's the secret: being an elevator makes you better too. When you hold oth
 
 ---
 
+
+---
+
+
+---
+
+
+---
+
 ## Practice Drills
+
+
+
 
 
 ### Exercise 1: The 7-Day Time Audit
@@ -480,6 +614,9 @@ Create a simple log in your phone or notebook:
 **Pick 1 Drainer** relationship to create distance from:
 
 
+
+
+
 - **Person**: _____________
 - **Current time spent**: _______ hours/week
 - **Target time spent**: _______ hours/week
@@ -497,8 +634,29 @@ The first no is the hardest. The second is easier. By the third, you'll realize 
 
 ---
 
+
+---
+
+
+---
+
+
+---
+
 ## Post-Game Review
 
+
+
+
+
+
+---
+
+
+---
+
+
+---
 
 
 ---
@@ -506,16 +664,31 @@ The first no is the hardest. The second is easier. By the third, you'll realize 
 ### Key Takeaways
 
 
+
+
+
 1. **Your peer group is your competitive advantage or your anchor** - The five people you spend the most time with determine your trajectory. Choose wisely.
+
+
+
 
 
 2. **Friendship by intention beats friendship by default** - Most people choose friends by proximity, history, or convenience. Winners choose friends by values, standards, and shared goals.
 
 
+
+
+
 3. **Know your ratios** - Drainers pull you down. Maintainers keep you comfortable. Elevators push you higher. Target 60%+ of your time with Elevators.
 
 
+
+
+
 4. **Be the teammate you want to have** - Don't just seek elevators—become one. Celebrate wins, push people to be their best, share what you learn, hold people accountable with love.
+
+
+
 
 
 5. **Short-term discomfort, long-term winning** - Yes, changing friend groups is uncomfortable. But staying stuck with the wrong people for years is more uncomfortable. Choose growth discomfort over stuck comfort.
@@ -523,16 +696,31 @@ The first no is the hardest. The second is easier. By the third, you'll realize 
 ### Reflection Questions
 
 
+
+
+
 1. When I look at my current five-person inner circle, am I proud of who I'm becoming around them?
+
+
+
 
 
 2. What's one friendship that's been keeping me comfortable instead of pushing me toward better? Am I ready to create some distance?
 
 
+
+
+
 3. Who's one Elevator I admire? What's one specific way I can add value to them this week?
 
 
+
+
+
 4. Am I being the kind of teammate I want to have? Where can I improve—celebrating others' wins, holding people accountable, or sharing what I learn?
+
+
+
 
 
 5. What's scarier: the discomfort of changing my peer group, or the regret of staying stuck at my current level for the next two years?
@@ -552,6 +740,15 @@ Don't think: "My friends are just for fun."
 Think: "My friends are my competitive advantage."
 
 You're not just hanging out. You're building the peer group that will help you become exceptional. That's not selfish—that's strategic.
+
+
+---
+
+
+---
+
+
+---
 
 
 ---
@@ -579,6 +776,8 @@ And the people who truly care about you will either grow with you or celebrate y
 Your job isn't to drag people along who don't want to come. Your job is to become the best version of yourself—and surround yourself with people who help you get there.
 
 Choose your teammates wisely. They'll determine how far you go.
+
+
 
 
 

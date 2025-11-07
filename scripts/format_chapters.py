@@ -133,7 +133,8 @@ def format_chapter_file(filepath):
 
     # Apply formatting
     content = add_visual_formatting(content)
-    content = style_quotes(content)
+    # Skip style_quotes - already handled by style_chapters.py
+    # content = style_quotes(content)
 
     # Write back
     with open(filepath, 'w') as f:
@@ -152,7 +153,7 @@ def main():
     chapter_files = sorted(CHAPTERS_DIR.glob('chapter_*.md'))
 
     success = 0
-    for filepath in chapter_files[:16]:  # Chapters 1-16
+    for filepath in chapter_files[:20]:  # Chapters 1-20
         if format_chapter_file(filepath):
             success += 1
 
