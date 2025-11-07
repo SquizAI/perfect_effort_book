@@ -4,7 +4,7 @@
 ### *Winning at the Game of Life*
 #### by Professor Matty
 
-<img src="images/generated/book_cover_perfect_effort.png" alt="Perfect Effort Book Cover" width="400"/>
+<img src="images/generated/chapters_informative/social_preview_perfect_effort.png" alt="Perfect Effort Book Cover" width="400"/>
 
 **A practical playbook for middle and high school students mastering the fundamentals of success**
 
