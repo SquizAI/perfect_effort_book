@@ -4,159 +4,20 @@
 
 # Chapter 6: Losing is Learning
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
-
-
----
-
-</div>
-
-<div align="center">
-
-<img src="../images/generated/chapters_informative/chapter_06_Losing_is_Learning.png" alt="Chapter 6: Losing is Learning" width="600"/>
-
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
-
-
----
-
-</div>
-
-<div align="center">
-
-<img src="../images/generated/chapters_informative/chapter_06_Losing_is_Learning.png" alt="Chapter 6: Losing is Learning" width="600"/>
-
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
-
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
 
 ---
 
 </div>
 
 > [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
 > **💡 Key Insight**
 > **Core Concept**: Failure isn't the opposite of success – it's the admission price. Every loss is a lesson if you're willing to learn from it.
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
 > **The Output**: Transform every setback into a strategic advantage by extracting the lesson and bouncing back faster than your competition.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Championship Game. Final Seconds. One Shot.
-
-
-
 
 The ball leaves your hands. Perfect rotation. Clean release. Good arc.
 
@@ -180,73 +41,15 @@ But one person just learned nothing. The other person just got better.
 
 One will avoid that situation in the future. The other will seek it out to prove their improvement.
 
+**The scoreboard said they both lost.**
 
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The scoreboard said they both lost.**
-
-
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The real scoreboard says Player B just won.**
-
+**The real scoreboard says Player B just won.**
 
 Here's what nobody tells you about losing: it's only a loss if you don't learn from it. Otherwise, it's expensive data. And data is exactly what winners use to get better.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## The Scoreboard Lied to You
-
-
-
 
 Let's talk about the biggest lie society's been telling you since kindergarten:
 
@@ -289,31 +92,7 @@ Elite performers look at the same losses you do. They see something completely d
 
 See the difference? One is a judgment. The other is information.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Coach's Corner:**
-
-
+**Coach's Corner:**
 > The external scoreboard tells you WHAT happened. The internal scoreboard tells you HOW to improve. Losers obsess over what happened. Winners focus on how to get better.
 
 ### The Jeff Bezos Perspective
@@ -321,9 +100,6 @@ See the difference? One is a judgment. The other is information.
 Let's talk about someone who's failed more than almost anyone on the planet: Jeff Bezos.
 
 Amazon failures most people have never heard of:
-
-
-
 - Fire Phone (billions of dollars, massive embarrassment)
 - Amazon Auctions (failed eBay clone)
 - Amazon Destinations (travel site that went nowhere)
@@ -335,9 +111,6 @@ Bezos himself said: **"I've made billions of dollars of failures at Amazon.com."
 But here's the thing: he's still worth over $100 billion. Amazon is one of the most successful companies in history. So what gives?
 
 Bezos has what he calls a "Day 1 mentality":
-
-
-
 - Always learning, always experimenting
 - Failures are part of the process, not evidence you should quit
 - Focus on what you're building long-term, not what failed this week
@@ -357,46 +130,11 @@ Same loss. Completely different interpretation.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Failure is Just Expensive Data
-
-
-
 
 Here's what separates winners from everyone else:
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Winners extract the lesson. Losers just feel the pain.**
-
+**Winners extract the lesson. Losers just feel the pain.**
 
 Every failure contains information. Every loss shows you something. Every mistake reveals a gap in your skill or knowledge.
 
@@ -410,95 +148,21 @@ Don't waste your failures.
 
 When you "fail" at something, here's what winners do:
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Step 1: Separate Outcome from Learning**
-
+**Step 1: Separate Outcome from Learning**
 
 The outcome is binary. Did you get the result you wanted? Yes or no.
 
 The learning is unlimited. What information did this experience give you? That's where the value is.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Example:**
-
-
-
+**Example:**
 - Outcome: Got a D on the math test (didn't get result I wanted)
 - Learning: Let me look at which problems I missed and figure out exactly what I don't understand yet
 
 See? The grade sucks. But the grade is just one data point. The real value is in analyzing which specific skills you're missing.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Step 2: Ask the Growth Questions**
-
+**Step 2: Ask the Growth Questions**
 
 After any failure, immediately ask yourself:
-
-
-
 
 1. **What specifically went wrong?** (Not "everything" – be precise)
 2. **What was within my control?** (Focus here, this is where you have power)
@@ -508,30 +172,7 @@ After any failure, immediately ask yourself:
 
 These questions transform failure from a verdict into a roadmap.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Step 3: Convert to Action Plan**
-
+**Step 3: Convert to Action Plan**
 
 This is where most people quit. They analyze what went wrong, feel bad about it, and... nothing changes.
 
@@ -543,91 +184,17 @@ Winners convert analysis into action.
 
 See the difference? One is a conclusion about your identity. The other is a specific practice plan.
 
-
-> [!TIP]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Real Example: The Math Test Breakdown**
->
+### Real Example: The Math Test Breakdown
 
 Let's say you got a D on a math test. Here's how two students respond:
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Loser Mindset:**
-
-
+**Loser Mindset:**
 "I got a D. I'm terrible at math. I've always been bad at math. I'll never be good at this. Math just isn't my thing."
 
 Result: Learned nothing. Gets D on next test. Eventually gives up on math. Limits future options because "I'm not a math person."
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Winner Mindset:**
-
-
+**Winner Mindset:**
 "I got a D. Let me look at which problems I missed:
-
-
-
 - Algebra problems: 8/10 correct (solid, keep doing what I'm doing)
 - Word problems: 2/10 correct (this is the gap)
 - Graphing problems: 6/10 correct (need some work but not urgent)
@@ -635,9 +202,6 @@ Result: Learned nothing. Gets D on next test. Eventually gives up on math. Limit
 The data shows: I understand the math, I struggle translating words to equations.
 
 Action plan:
-
-
-
 - Practice 5 word problems daily for two weeks
 - Focus on identifying what the problem is asking before trying to solve it
 - Create a checklist: What's given? What am I solving for? What operation makes sense?
@@ -648,43 +212,10 @@ Result: Identified specific weakness. Created focused practice plan. Will improv
 
 Same grade. One person stayed stuck. One person just got better.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Coach's Corner:**
-
-
+**Coach's Corner:**
 > Every test, every game, every performance gives you free diagnostic information about where you are versus where you want to be. Winners collect that data. Losers ignore it and wonder why they're not improving.
 
 ### The Uncomfortable Truth (Applied)
-
-
----
-
-
----
-
-
----
 
 Remember from Chapter 2: **"The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life."**
 
@@ -702,19 +233,7 @@ Which do you choose?
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Your Personal Film Room
-
-
-
 
 Here's how elite athletes use failure: they watch the film.
 
@@ -722,30 +241,7 @@ After every game – win or lose, but especially after losses – athletes sit d
 
 They watch themselves make mistakes. They identify exactly where things went wrong. They analyze why it happened.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The key: Ruthless honesty without self-judgment.**
-
+**The key: Ruthless honesty without self-judgment.**
 
 "On play #23, I missed my defensive assignment. Why? I was watching the ball instead of my player. What do I need to practice? Keeping eyes on my assignment even when the ball moves."
 
@@ -761,32 +257,7 @@ Here's your system for turning every loss into growth:
 
 This is the immediate aftermath. You're disappointed. Maybe angry. Maybe embarrassed.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Allow the emotion without catastrophizing**
-
-
-
+**Allow the emotion without catastrophizing**
 - It's okay to feel disappointed
 - It's NOT okay to spiral into "I'm a failure" thinking
 - Feel the feeling, don't become the feeling
@@ -796,32 +267,7 @@ This is the immediate aftermath. You're disappointed. Maybe angry. Maybe embarra
 - Talk to yourself with that same energy
 - "This is one loss, not a permanent identity"
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Physical reset**
-
-
-
+**Physical reset**
 - Get sleep (seriously, everything feels worse when you're tired)
 - Move your body (exercise literally changes your brain chemistry)
 - Connect with people who support you
@@ -832,91 +278,16 @@ Don't make major decisions in the first 24 hours. Let the emotion settle.
 
 Now you do the analysis:
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Objective review**
-
-
-
+**Objective review**
 - What happened? (Just facts)
 - What was in my control?
 - What wasn't in my control?
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Extract the lesson**
-
-
-
+**Extract the lesson**
 - What's the one thing I learned?
 - What specifically do I need to work on?
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Create action plan**
-
-
-
+**Create action plan**
 - What will I practice?
 - How will I measure improvement?
 - When will I test this?
@@ -927,104 +298,17 @@ Write this down. Seriously. Don't just think about it. Writing forces clarity.
 
 This is where you actually get better:
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Practice the specific skill that failed**
-
-
-
+**Practice the specific skill that failed**
 - Not general practice – targeted practice on the weakness
 - Use the deliberate practice principles from Chapter 4
 - Track your progress
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Build small wins**
-
-
-
+**Build small wins**
 - Don't expect to master it immediately
 - Celebrate small improvements
 - Stack small wins to restore confidence
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-
----
-
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-
----
-
-> [!NOTE]
-> 💡 **Key Insight**
-> **Remember: You're in the growth zone**
-
-
-
+**Remember: You're in the growth zone**
 - The discomfort you feel = your brain rewiring
 - This is what improvement feels like
 - Most people quit here – you won't
@@ -1033,144 +317,23 @@ This is where you actually get better:
 
 Eventually, you'll face a similar situation:
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Apply the lessons**
-
-
-
+**Apply the lessons**
 - Use what you practiced
 - Stay focused on your process
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Measure improvement**
-
-
-
+**Measure improvement**
 - Did you do better than last time?
 - Even small improvement counts
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Extract new lessons**
-
-
-
+**Extract new lessons**
 - What worked? What didn't?
 - What's the next thing to improve?
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Repeat the cycle**
-
+**Repeat the cycle**
 
 This is how you compound improvement over time.
 
-
-> [!TIP]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Real Example: The Presentation That Bombed**
->
+### Real Example: The Presentation That Bombed
 
 You had to give a presentation in class. You completely froze. Forgot what you were going to say. Stumbled through it. It was painful.
 
@@ -1187,19 +350,7 @@ The failure wasn't wasted. It showed you exactly what to practice.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## The Jeff Bezos Long Game
-
-
-
 
 Let's zoom way out for a second.
 
@@ -1251,30 +402,7 @@ Most "failures" only look like failures on a short timeline.
 
 If you zoom out far enough, many of your biggest "failures" become the setups for your biggest wins.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Example: College Rejection**
-
+**Example: College Rejection**
 
 Short-term view: Devastating. The school you wanted said no. Feels like you're not good enough. Everyone will know you got rejected.
 
@@ -1286,61 +414,14 @@ Ten years later, you might look back and think: "If I'd gotten into that first s
 
 But it means the hurt is temporary, and the lesson is permanent.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Coach's Corner:**
-
-
+**Coach's Corner:**
 > Jeff Bezos asks: "Will I regret NOT trying this when I'm 80 years old?" The regret of not trying is worse than the regret of trying and failing. Because at least when you try and fail, you learned something.
 
 ### The Pattern Winners See
 
 Here's what elite performers understand:
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Most "failures" are only failures if you stop there.**
-
+**Most "failures" are only failures if you stop there.**
 
 The kid who didn't make the team... but kept training and made it next year? That's not a failure story. That's a success story with a setback in the middle.
 
@@ -1356,46 +437,11 @@ Your choice.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## The Failure Log Exercise
-
-
-
 
 Here's a practice that changes everything:
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Keep a "Film Room Log."**
-
+**Keep a "Film Room Log."**
 
 Every time you experience a significant failure or setback, write down:
 
@@ -1413,30 +459,7 @@ Over time, this log becomes proof that you're learning from every loss. It's evi
 
 More importantly: it rewires your brain to see failures as data, not verdicts.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Example Film Room Log Entry:**
-
+**Example Film Room Log Entry:**
 
 Date: October 15
 Situation: Missed game-winning free throws, lost championship game
@@ -1449,46 +472,11 @@ See how powerful that is? You transformed a painful loss into measurable growth.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## When Failure Means You're Aiming Too Low
-
-
-
 
 Here's a counterintuitive truth:
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **If you're not failing regularly, you're not pushing yourself hard enough.**
-
+**If you're not failing regularly, you're not pushing yourself hard enough.**
 
 Failure is a sign you're attempting things at the edge of your ability. It means you're in the growth zone, not the comfort zone.
 
@@ -1515,122 +503,24 @@ Think about it:
 
 Not all failures are equal. Some failures are productive. Some are just stupid.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Good failures:**
-
-
-
+**Good failures:**
 - Happen when you're trying something new or challenging
 - Teach you valuable lessons
 - Are affordable (won't destroy you)
 - Move you toward long-term goals
 - Come from taking calculated risks
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Bad failures:**
-
-
-
+**Bad failures:**
 - Happen from lack of effort or preparation
 - Teach you nothing (because you don't analyze them)
 - Repeat the same mistake without learning
 - Come from ignoring obvious risks
 - Result from not doing basics
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Example of Good Failure:**
-
-
+**Example of Good Failure:**
 You try out for the varsity team as a sophomore, even though you're probably not ready yet. You don't make it. But you learn exactly what level you need to reach, you get feedback on your skills, and you have a clear target for improvement.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Example of Bad Failure:**
-
-
+**Example of Bad Failure:**
 You show up to tryouts without practicing, unprepared, and don't make the team. You learn nothing because you didn't give yourself a real chance.
 
 **Ask yourself**: "Am I failing because I'm pushing my limits, or because I'm not doing the basics?"
@@ -1639,19 +529,7 @@ One is a sign of growth. The other is a sign you need to go back to Chapter 4 an
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## The Scoreboard That Actually Matters
-
-
-
 
 Let's bring this home.
 
@@ -1659,90 +537,17 @@ Your real record isn't wins vs. losses.
 
 Your real record isn't grades or scores or stats.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Your real record is lessons learned vs. lessons ignored.**
-
+**Your real record is lessons learned vs. lessons ignored.**
 
 ### The Real Stats to Track
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Don't track:**
-
-
-
+**Don't track:**
 - W-L record
 - Grade percentage
 - Success rate
 - How many times you "failed"
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Do track:**
-
-
-
+**Do track:**
 - Lessons learned from setbacks
 - Specific improvements made after failures
 - Weaknesses that became strengths
@@ -1753,208 +558,34 @@ These are the stats that actually predict long-term success.
 
 Because here's the truth: everyone fails. Everyone loses. Everyone faces setbacks.
 
+**The difference between winners and losers isn't that winners never fail.**
 
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The difference between winners and losers isn't that winners never fail.**
-
-
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **It's that winners treat failure like a teacher, not a judge.**
-
+**It's that winners treat failure like a teacher, not a judge.**
 
 ### This Week's Game Plan
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Step 1: Identify one recent "failure" or disappointment**
-
-
-
+**Step 1: Identify one recent "failure" or disappointment**
 - A bad grade, a missed opportunity, a performance that didn't go well
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Step 2: Do a Film Room Review**
-
-
-
+**Step 2: Do a Film Room Review**
 - Use the Bounce-Back Framework from earlier
 - Write it down (don't just think about it)
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Step 3: Extract the specific lesson**
-
-
-
+**Step 3: Extract the specific lesson**
 - What exactly did you learn?
 - What specific skill needs work?
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Step 4: Create your action plan**
-
-
-
+**Step 4: Create your action plan**
 - What will you practice?
 - How will you measure improvement?
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Step 5: Track the retest**
-
-
-
+**Step 5: Track the retest**
 - When you face a similar situation, did you do better?
 - Even small improvement = you won
 
 ### The Growth Scorecard
 
 At the end of each week, ask yourself:
-
-
-
 
 1. **Did I learn something from my losses this week?**
 2. **Did I bounce back faster than last time?**
@@ -1971,120 +602,37 @@ You're not protecting your ego. You're building your capabilities.
 
 You're not focused on this week's score. You're focused on who you're becoming over time.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **That's the game winners play.**
-
-
----
-
-
----
-
-
----
-
+**That's the game winners play.**
 
 ---
 
 ## Post-Game Review
 
-
-
-
-
----
-
-
----
-
-
----
-
 ### Key Takeaways
-
-
-
 
 1. **Failure isn't the opposite of success – it's the admission price.** Every elite performer has failed more times than average people have tried. The difference is they learned from it.
 
-
-
-
 2. **The only real failure is refusing to learn.** A loss is just expensive data. Winners extract the lesson. Losers just feel the pain and move on.
-
-
-
 
 3. **Two scoreboards exist: external (what happened) and internal (what you learned).** Focus on the internal scoreboard. That's the one that predicts your future.
 
-
-
-
 4. **The Film Room Review is your superpower.** After every setback: objective review, extract lesson, create action plan, practice the weakness, retest. This system turns every loss into growth.
-
-
-
 
 5. **Long-term thinking changes everything.** Most "failures" only look like failures on a short timeline. Zoom out. Keep the Day 1 mentality. Stay in the game.
 
 ### Reflection Questions
 
-
-
-
 1. **What's one failure you're still holding onto as evidence you're "not good enough"?** What if you reframed it as data about what you need to practice?
-
-
-
 
 2. **When was the last time you actually analyzed a failure to extract the lesson?** Or did you just feel bad and move on?
 
-
-
-
 3. **Are you failing enough?** If you never fail, you're playing it too safe. Where could you push yourself more?
 
-
-
-
 4. **What's your bounce-back time?** How long does it take you to go from disappointment to productive analysis? Can you shorten that?
-
-
-
 
 5. **If you looked at your last failure through Jeff Bezos's eyes (10-year timeline, Day 1 mentality), what would you see differently?**
 
 ### The Output Mindset
-
-
----
-
-
----
-
-
----
 
 Remember: Don't think about "dealing with failure."
 
@@ -2100,35 +648,9 @@ You're not trying to avoid losses. You're trying to learn faster than your compe
 
 ### Practice Drills
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Drill 1: The Film Room Entry**
-
+**Drill 1: The Film Room Entry**
 
 This week, pick one mistake, failure, or disappointment. Write a Film Room Review:
-
-
-
 - What happened? (Facts only)
 - What did I control?
 - What's the lesson?
@@ -2136,37 +658,11 @@ This week, pick one mistake, failure, or disappointment. Write a Film Room Revie
 
 **Why it works:** Writing forces clarity. You can't hide from the lesson when you write it down.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Drill 2: Start Your Film Room Log**
-
+**Drill 2: Start Your Film Room Log**
 
 Create your Film Room Log. You can use a notebook, a notes app, whatever works.
 
 Start with one entry from something recent. Use the format:
-
-
-
 - Date & Situation
 - Objective Facts
 - Lesson Learned
@@ -2175,35 +671,9 @@ Start with one entry from something recent. Use the format:
 
 **Why it works:** Over time, this becomes proof you're learning. It rewires your brain to see failure as data.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Drill 3: The Bounce-Back Timer**
-
+**Drill 3: The Bounce-Back Timer**
 
 Next time something goes wrong, time yourself:
-
-
-
 - How long until you stop feeling sorry for yourself and start analyzing?
 - How long until you have a specific practice plan?
 - How long until you're back to work on improvement?
@@ -2217,85 +687,23 @@ Track this. Try to get faster.
 ### Weekly Check-In
 
 Track your progress:
-
-
-
 - ☐ **Day 1**: Identify a recent failure to analyze
 - ☐ **Day 3**: Complete Film Room Review with action plan
 - ☐ **Day 5**: Start practicing the specific weakness identified
 - ☐ **Day 7**: Measure improvement – even small progress counts
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Pro Tip:**
-
-
+**Pro Tip:**
 > The faster you can go from "I failed" to "Here's what I learned and here's what I'm going to practice," the faster you'll improve. Winners don't spend days feeling sorry for themselves. They feel it, learn from it, and get back to work.
-
----
-
-
----
-
-
----
-
 
 ---
 
 ## Closing Power Move
 
-
-
-
 Everyone loses. Everyone fails. Everyone faces setbacks.
 
 That's not what separates winners from losers.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The separation happens in the 24-48 hours after the loss.**
-
+**The separation happens in the 24-48 hours after the loss.**
 
 Do you wallow, make it about your identity, and quit?
 
@@ -2305,55 +713,9 @@ Do you see the loss as a verdict on your worth?
 
 Or do you see it as expensive data that just told you exactly what to practice?
 
+**Losers see failure and think: "This proves I'm not good enough."**
 
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Losers see failure and think: "This proves I'm not good enough."**
-
-
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Winners see failure and think: "This shows me exactly what I need to work on. Thank you for the feedback."**
-
+**Winners see failure and think: "This shows me exactly what I need to work on. Thank you for the feedback."**
 
 Every loss is a lesson.
 
@@ -2361,30 +723,7 @@ Every failure is data.
 
 Every setback is a setup for a comeback.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The only real failure is refusing to learn.**
-
+**The only real failure is refusing to learn.**
 
 Don't refuse.
 
@@ -2400,36 +739,9 @@ That's what we're covering next.
 
 ---
 
-
----
-
-
----
-
-
----
-
 **Remember:** The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life. Failure is uncomfortable. Analyzing failure is uncomfortable. That discomfort is the price of growth. Winners pay it. Losers avoid it.
 
 Which one are you?
-
-
----
-
-<div align="center">
-
-[⬅️ Previous: Chapter 5 - Your Inner Coach](chapter_05_your_inner_coach.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 7 - Focus Mode: On ➡️](chapter_07_focus_mode_on.md)
-
-</div>
-
-
----
-
-<div align="center">
-
-[⬅️ Previous: Chapter 5 - Your Inner Coach](chapter_05_your_inner_coach.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 7 - Focus Mode: On ➡️](chapter_07_focus_mode_on.md)
-
-</div>
 
 
 ---

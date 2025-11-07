@@ -4,82 +4,13 @@
 
 # Chapter 5: Your Inner Coach
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
-
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
 
 ---
 
 </div>
-
-<div align="center">
-
-<img src="../images/generated/chapters_informative/chapter_05_Your_Inner_Coach.png" alt="Chapter 5: Your Inner Coach" width="600"/>
-
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
-
-
----
-
-</div>
-
-<div align="center">
-
-<img src="../images/generated/chapters_informative/chapter_05_Your_Inner_Coach.png" alt="Chapter 5: Your Inner Coach" width="600"/>
-
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
-
-
----
-
-</div>
-
-
----
-
-
----
-
-
----
 
 ## The Voice That Decides Everything
-
-
-
 
 Free throw line. Championship game. Down by one. Two seconds left.
 
@@ -105,28 +36,13 @@ You can do the same.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## The Voice You Can't Escape
-
-
-
 
 Let's get real for a second: Your inner voice never shuts up.
 
 Right now, it's probably commenting on this chapter. "Is this going to be useful?" "I already know this stuff." "This is interesting." "I'm hungry." Whatever it's saying, it's always talking.
 
 For most people, that voice is brutal. It's the voice that says:
-
-
-
 - "I'm terrible at this"
 - "Everyone's better than me"
 - "I'll never be good enough"
@@ -136,30 +52,7 @@ Sound familiar?
 
 The difference between people who succeed and people who don't often comes down to what that voice says when things get hard. Not talent. Not luck. Not even how much you practice.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **It's how you talk to yourself when the pressure's on.**
-
+**It's how you talk to yourself when the pressure's on.**
 
 ### The Brian Chesky Test
 
@@ -181,26 +74,11 @@ Your test isn't worth $30 billion. But the way you talk to yourself about it? Th
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## The Two Voices
-
-
-
 
 Your inner voice runs in one of two modes. Let's call them what they are: **The Critic** and **The Coach**.
 
 ### The Critic Says:
-
-
-
 
 - "I'm not good at this" (identity statement – you're labeling yourself)
 - "I always mess this up" (making it permanent)
@@ -212,9 +90,6 @@ The critic deals in absolutes. Everything's permanent. Everything's personal. Ev
 
 ### The Coach Says:
 
-
-
-
 - "I'm not good at this YET" (temporary state – you're still learning)
 - "I messed this up – what can I learn?" (turning mistakes into data)
 - "I can't do this YET – what do I need to practice?" (creating an action plan)
@@ -223,41 +98,9 @@ The critic deals in absolutes. Everything's permanent. Everything's personal. Ev
 
 The coach deals in progress. Everything's temporary. Everything's data. Everything's an opportunity to improve.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Same situation. Completely different self-talk. Completely different outcome.**
-
+**Same situation. Completely different self-talk. Completely different outcome.**
 
 ### Uncomfortable Means You're Learning
-
-
----
-
-
----
-
-
----
 
 Remember the core principle: **"The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life."**
 
@@ -269,61 +112,13 @@ The coach says: "This hurts. That's how growth feels."
 
 Elite athletes understand this instinctively. When Kobe Bryant talked about mental toughness, he said it's about "staying even-keeled" – not getting too high or too low. Your inner coach keeps you steady. Your inner critic sends you spiraling.
 
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
 > **Coach's Corner:**
 >
 > Research shows that students with growth mindsets literally process mistakes differently in their brains. When they mess up, their neural circuits activate learning pathways. When fixed mindset students mess up, their brains activate threat responses. Same mistake. Different self-talk. Different brain activity. Different results.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Catching Your Critic in the Act
-
-
-
 
 You can't change what you don't notice.
 
@@ -337,64 +132,21 @@ For the next seven days, pay attention to what your inner voice says when you fa
 
 Write it down. Get specific.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Common Critic Patterns:**
-
-
-
-
+**Common Critic Patterns:**
 
 1. **Catastrophizing**: "This is a disaster. Everything's ruined."
-
    - Example: Miss one assignment → "I'm going to fail the entire class"
 
-
-
-
 2. **Personalizing**: "This happened because I'm not good enough."
-
    - Example: Team loses → "It's my fault. I'm the weak link."
 
-
-
-
 3. **Black-and-White Thinking**: "I either ace this or I'm a failure."
-
    - Example: Get a B → "I'm terrible at this subject"
 
-
-
-
 4. **Mind Reading**: "Everyone thinks I'm stupid."
-
    - Example: Ask a question in class → "They're all judging me"
 
-
-
-
 5. **Fortune Telling**: "I know I'm going to fail."
-
    - Example: Before even trying → "There's no point. I'll just mess it up anyway."
 
 Sound familiar? That's the critic. And here's the uncomfortable truth: **We all have it.**
@@ -405,59 +157,13 @@ The difference between winners and everyone else isn't that winners don't have a
 
 Let's make this concrete. Imagine you're about to take a really hard test. You studied, but there's stuff you're still shaky on. You sit down. Open the test. First problem is confusing.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The Critic's Version:**
-
+**The Critic's Version:**
 
 "Oh no. I don't get this. I'm going to fail. I'm terrible at this subject. Everyone else probably gets it. Why am I so stupid? I knew I should have studied more. This is a disaster. The teacher's going to think I'm an idiot. My parents are going to be so disappointed. I'm never going to get into a good college. My life is over."
 
 (Yes, your brain can spiral that fast. Mine does too.)
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The Coach's Version:**
-
+**The Coach's Version:**
 
 "Okay, this first problem is tough. That's fine – tests usually start with the hardest stuff. I'll skip it and come back. Let me find the problems I know how to solve and build confidence. I studied the key concepts. I can figure this out. One problem at a time."
 
@@ -467,19 +173,7 @@ Guess which version leads to better performance?
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Rewriting Your Inner Script
-
-
-
 
 Now comes the fun part. Once you catch your critic, you can replace it.
 
@@ -487,30 +181,7 @@ This isn't about "just being positive." This isn't toxic positivity where you pr
 
 ### The 3-Step Reframe Process
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Step 1: NOTICE**
-
+**Step 1: NOTICE**
 
 Catch the critic in the act. Name it.
 
@@ -518,30 +189,7 @@ Catch the critic in the act. Name it.
 
 Just recognizing it takes away half its power. You're not your thoughts. You're the one observing your thoughts. Big difference.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Step 2: CHALLENGE**
-
+**Step 2: CHALLENGE**
 
 Ask: Is this actually true? Is this helpful?
 
@@ -549,30 +197,7 @@ Ask: Is this actually true? Is this helpful?
 
 "Is it helpful to tell myself I'm going to fail before I even try? No. That just makes me more anxious and less focused."
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Step 3: REPLACE**
-
+**Step 3: REPLACE**
 
 What would your coach say instead?
 
@@ -616,9 +241,6 @@ Let's practice this with real examples.
 
 Let's go back to Brian Chesky for a second. When Airbnb faced its biggest crisis, his inner coach did three things:
 
-
-
-
 1. **Acknowledged reality**: "This is the hardest thing we've faced" (not pretending it's not hard)
 2. **Declared capability**: "We will get through it" (confidence based on past resilience)
 3. **Focused on action**: "What do we need to do?" (shifting from problem to solution)
@@ -626,17 +248,11 @@ Let's go back to Brian Chesky for a second. When Airbnb faced its biggest crisis
 You can use the exact same formula.
 
 Facing a huge test you're not ready for?
-
-
-
 1. Acknowledge: "This is going to be really challenging"
 2. Declare: "I've handled tough tests before. I can figure this out"
 3. Focus: "What can I study in the next 2 hours that will make the biggest difference?"
 
 Trying out for a team and nervous you won't make it?
-
-
-
 1. Acknowledge: "Tryouts are intense. The competition is good."
 2. Declare: "I've been training for this. I'm ready to show what I can do."
 3. Focus: "What's the one thing I want coaches to notice about me today?"
@@ -647,19 +263,7 @@ That's your inner coach.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Training Your Coach Daily
-
-
-
 
 Here's the thing about your inner coach: It needs practice. Just like any skill.
 
@@ -671,25 +275,13 @@ But if you train your coach daily? Then when pressure hits, the coach shows up a
 
 Before your day starts, before you check your phone, before you do anything else – prime your coach.
 
-
-
-
 1. **"Today I'm working on: [specific skill or goal]"**
-
    - Not vague. Not "do better." Specific. "I'm working on staying calm when I get confused in math class."
 
-
-
-
 2. **"When it gets hard, I'll remind myself: [growth phrase]"**
-
    - Pick your phrase. Mine for tough workouts: "Discomfort means progress." Yours might be different. "I'm building my skills." "This is temporary." "I've done hard things before."
 
-
-
-
 3. **"I'm focusing on improvement, not perfection"**
-
    - Say it out loud if you can. Remind your brain what the game is.
 
 That's it. Three minutes. But those three minutes set your inner coach as the default voice for the day.
@@ -698,18 +290,12 @@ That's it. Three minutes. But those three minutes set your inner coach as the de
 
 When you hit a challenge during your day – and you will – here's the process:
 
-
-
-
 1. **Pause** (even 2 seconds helps)
 2. **Notice** what your inner voice is saying
 3. **If it's the critic**, challenge and replace
 4. **Refocus** on what you can control
 
 Example: You're in class. Teacher calls on you. You don't know the answer. Your brain starts spiraling: "Everyone thinks I'm stupid. I should have paid more attention. I'm so embarrassed."
-
-
-
 
 - **Pause**: Take a breath
 - **Notice**: "That's my critic. It's catastrophizing."
@@ -722,82 +308,22 @@ With practice, this happens in seconds. Your brain learns the pattern.
 
 Before bed, review your day:
 
-
-
-
 1. **When did my inner coach show up today?**
-
    - Celebrate this. Every time you catch yourself using coach talk, you're strengthening that neural pathway.
 
-
-
-
 2. **When did my inner critic show up?**
-
    - No judgment. Just notice. Where were you? What triggered it? What did it say?
 
-
-
-
 3. **What's one thing I can coach myself better on tomorrow?**
-
    - Specific. "Tomorrow when I'm practicing free throws and I miss three in a row, I'll remind myself that's normal – even pros miss. I'll focus on my form, not the outcome."
 
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
 > **Coach's Corner:**
 >
 > This is habit formation science in action. Cue (challenge arises) → Routine (Notice, Challenge, Replace) → Reward (better emotional state, better performance) → Identity (you become someone who coaches themselves through challenges). That's how you rewire your brain.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## The Pressure Test
-
-
-
 
 Your inner coach's real test comes when pressure is highest.
 
@@ -805,33 +331,7 @@ Anyone can use good self-talk when things are easy. The question is: What voice 
 
 ### High-Pressure Self-Talk Strategies
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Before Performance:**
-
-
-
-
+**Before Performance:**
 
 - "I've prepared for this. Trust my training."
 - "Focus on the process, not the outcome."
@@ -842,33 +342,7 @@ Not: "I have to be perfect." Not: "Everyone's watching." Not: "What if I mess up
 
 Just simple, process-focused reminders that keep you in the moment.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **During Performance:**
-
-
-
-
+**During Performance:**
 
 - "Breathe. Refocus."
 - "Next play. This moment."
@@ -876,35 +350,9 @@ Just simple, process-focused reminders that keep you in the moment.
 
 Short phrases. No time for complicated thinking when you're in the middle of performing. Just quick resets that bring you back to center.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **After a Mistake:**
-
+**After a Mistake:**
 
 This is where most people's inner coaches fail them. They mess up and immediately spiral.
-
-
-
 
 - "Reset. Next one."
 - "What's my adjustment?"
@@ -928,19 +376,7 @@ Which one are you making stronger?
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Your Voice, Your Choice
-
-
-
 
 Let's bring this home.
 
@@ -948,30 +384,7 @@ You didn't choose your initial inner voice. It got programmed by your early expe
 
 You didn't have control over that.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **But now? Now you do.**
-
+**But now? Now you do.**
 
 You can't control what happens to you. You can't control whether you make the team, ace the test, win the game, get into your dream school.
 
@@ -981,57 +394,19 @@ You can keep letting your critic run the show – telling you you're not good en
 
 Or you can train your coach – reminding you that growth is possible, challenges are opportunities, mistakes are data, discomfort means progress.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Same brain. Different voice. Completely different life.**
-
+**Same brain. Different voice. Completely different life.**
 
 ### This Week's Challenge
 
 Here's your mission:
 
-
-
-
 1. **Do the Self-Talk Audit**: Track your inner voice patterns all week. When you face challenges, what does it say? Write it down.
-
-
-
 
 2. **Pick ONE critic phrase**: What's the one negative thing you catch yourself saying most often? "I'm terrible at this." "I can't do this." "Everyone's better than me." Pick the one you say most.
 
-
-
-
 3. **Write your coach replacement**: For that ONE phrase, what would your coach say instead? Write it down. Put it where you'll see it.
 
-
-
-
 4. **Practice the replacement**: Every time you catch yourself saying your critic phrase this week, stop. Replace it with your coach phrase. Out loud if possible.
-
-
-
 
 5. **Journal the results**: Did your performance improve when you used your coach voice? Did you feel different? What changed?
 
@@ -1057,30 +432,7 @@ That's a trained skill. Not luck.
 
 You can train the same skill.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Your inner voice is either your greatest coach or your worst enemy. You get to choose which one wins.**
-
+**Your inner voice is either your greatest coach or your worst enemy. You get to choose which one wins.**
 
 The critic will always be there. It's part of being human. But you can choose whether you listen to it – or whether you let your coach talk back.
 
@@ -1088,93 +440,33 @@ That choice? That's where your power lives.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Post-Game Review
-
-
-
-
-
----
-
-
----
-
-
----
 
 ### Key Takeaways
 
-
-
-
 1. **Your inner voice is always talking** – The question isn't whether you have an inner voice, but whether it's coaching you or criticizing you.
-
-
-
 
 2. **The Critic vs. The Coach** – Your critic deals in absolutes and permanence ("I'm bad at this"). Your coach deals in progress and possibility ("I'm not good at this YET").
 
-
-
-
 3. **Discomfort = Growth** – Your inner coach reframes challenges as opportunities: "This is hard, which means I'm learning."
 
-
-
-
 4. **The 3-Step Reframe** – Notice your critic, Challenge whether it's true and helpful, Replace with what your coach would say.
-
-
-
 
 5. **Training is daily** – You can't just use your coach voice when pressure hits. You have to practice it every day so it becomes your default.
 
 ### Reflection Questions
 
-
-
-
 1. What does your inner critic say most often? When does it show up loudest?
-
-
-
 
 2. If you had an actual coach standing next to you all day, what would they say instead of what your critic says?
 
-
-
-
 3. Think of a time you performed really well under pressure. What was your inner voice saying then?
 
-
-
-
 4. What's one specific situation this week where you can practice replacing your critic with your coach?
-
-
-
 
 5. Who do you know that seems to have a strong inner coach? What do they do differently?
 
 ### The Output Mindset
-
-
----
-
-
----
-
-
----
 
 Remember: You're not trying to "be more positive" or "think happy thoughts."
 
@@ -1205,24 +497,6 @@ That's what we're tackling next.
 Because here's the truth: Your inner coach isn't just for the wins. It's for the losses too. And how you handle those losses? That's what separates good from unstoppable.
 
 Let's go.
-
-
----
-
-<div align="center">
-
-[⬅️ Previous: Chapter 4 - Practice Like a Pro](chapter_04_practice_like_a_pro.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 6 - Losing is Learning ➡️](chapter_06_losing_is_learning.md)
-
-</div>
-
-
----
-
-<div align="center">
-
-[⬅️ Previous: Chapter 4 - Practice Like a Pro](chapter_04_practice_like_a_pro.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 6 - Losing is Learning ➡️](chapter_06_losing_is_learning.md)
-
-</div>
 
 
 ---

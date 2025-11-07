@@ -119,8 +119,36 @@ CHAPTERS = {
         "file": "chapter_16_building_your_support_system.md",
         "title": "Building Your Support System",
         "image": "../images/generated/chapters_informative/chapter_16_Building_Your_Support_System.png",
-        "next": None,
+        "next": 17,
         "prev": 15
+    },
+    17: {
+        "file": "chapter_17_level_up_your_skills.md",
+        "title": "Level Up Your Skills",
+        "image": "../images/generated/chapters_informative/chapter_17_Level_Up_Your_Skills.png",
+        "next": 18,
+        "prev": 16
+    },
+    18: {
+        "file": "chapter_18_play_your_position.md",
+        "title": "Play Your Position",
+        "image": "../images/generated/chapters_informative/chapter_18_Play_Your_Position.png",
+        "next": 19,
+        "prev": 17
+    },
+    19: {
+        "file": "chapter_19_clutch_moments.md",
+        "title": "Clutch Moments",
+        "image": "../images/generated/chapters_informative/chapter_19_Clutch_Moments.png",
+        "next": 20,
+        "prev": 18
+    },
+    20: {
+        "file": "chapter_20_the_long_game.md",
+        "title": "The Long Game",
+        "image": "../images/generated/chapters_informative/chapter_20_The_Long_Game.png",
+        "next": None,
+        "prev": 19
     }
 }
 
@@ -176,18 +204,37 @@ def style_blockquotes(content):
     # Find blockquote lines
     lines = content.split('\n')
     styled_lines = []
+    i = 0
+    in_blockquote = False
 
-    for line in lines:
-        # Convert simple blockquotes to callouts with icons
-        if line.startswith('> **'):
-            # This is a key quote
-            styled_lines.append('> [!NOTE]')
-            styled_lines.append('> **💡 Key Insight**')
+    while i < len(lines):
+        line = lines[i]
+
+        # Skip if already a callout
+        if line.startswith('> [!'):
             styled_lines.append(line)
+            i += 1
+            in_blockquote = True
+            continue
+
+        # Start of a new blockquote section
+        if line.startswith('> ') and not in_blockquote:
+            # Check if this is a key insight blockquote (has **Core Concept**: or **The Output**:)
+            if (i < len(lines) - 1 and line.startswith('> **') and '**:' in line):
+                # Add callout markers ONCE at the start of the blockquote
+                styled_lines.append('> [!NOTE]')
+                styled_lines.append('> **💡 Key Insight**')
+            styled_lines.append(line)
+            in_blockquote = True
         elif line.startswith('> '):
+            # Continue existing blockquote
             styled_lines.append(line)
         else:
+            # End of blockquote
+            in_blockquote = False
             styled_lines.append(line)
+
+        i += 1
 
     return '\n'.join(styled_lines)
 
@@ -206,8 +253,15 @@ def style_chapter(chapter_num):
     with open(filepath, 'r') as f:
         content = f.read()
 
-    # Remove old header if exists
+    # Check if header already exists - if so, skip
+    if content.startswith('<div align="center">') and f'Chapter {chapter_num}:' in content[:500]:
+        print(f"⏭️  Chapter {chapter_num} already styled, skipping...")
+        return True
+
+    # Remove old header if exists (both markdown and HTML versions)
     content = re.sub(r'^# Chapter \d+:.*?\n\n', '', content, flags=re.MULTILINE)
+    # Remove any existing header block
+    content = re.sub(r'^<div align="center">.*?</div>\n\n', '', content, flags=re.DOTALL)
 
     # Create new styled content
     header = create_header(chapter_num, meta['title'], meta['image'])
@@ -233,7 +287,7 @@ def main():
     success = 0
     failed = 0
 
-    for chapter_num in range(1, 17):
+    for chapter_num in range(1, 21):
         if style_chapter(chapter_num):
             success += 1
         else:

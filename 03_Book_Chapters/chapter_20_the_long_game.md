@@ -1,5 +1,17 @@
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_20_The_Long_Game.png" alt="Chapter 20: The Long Game" width="600"/>
+
 # Chapter 20: The Long Game
 
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+---
+
+</div>
+
+> [!NOTE]
+> **💡 Key Insight**
 > **Core Concept**: This isn't about winning one season—it's about building a championship life that you're proud to live for decades.
 > **The Output**: Define your values, build authentic success, sustain excellence, and create a legacy that matters.
 
@@ -89,7 +101,7 @@ The result? Everyone's playing checkers when life is chess.
 
 ### What Happens When You Only Play the Short Game
 
-**Burnout is the inevitable endgame.**
+**Burnout becomes inevitable.**
 
 You can sprint for six months. Maybe a year. But you can't sprint for thirty years. Eventually, your body breaks down. Your mind breaks down. The hustle that felt like momentum becomes a treadmill you can't get off.
 
@@ -227,9 +239,9 @@ The short game gets you temporary wins. The long game gets you sustained excelle
 
 Champions stay in the game long enough for everything to compound.
 
-#### 4. Authentic Success > Impressive Success
+#### 4. Authentic Success Over Impressive Success
 
-**Impressive success**: Looks good to other people. Gets congratulations. Boost the resume. Makes your parents proud.
+**Impressive success**: Looks good to other people. Gets congratulations. Boosts the resume. Makes your parents proud.
 
 **Authentic success**: Feels right to you. Aligns with your values. Reflects who you actually are. Sustains your energy instead of draining it.
 
@@ -253,6 +265,12 @@ The second question matters. But the first question is what creates legacy.
 
 ---
 
+> **Coach's Corner:**
+>
+> Values-aligned success feels different. Even when it's hard, you're energized because you know you're on the right path. Impressive success without alignment feels hollow—even when you're winning, something feels off. Trust that feeling. It's your compass telling you which game you're playing.
+
+---
+
 ### Why This Works: The Research
 
 This isn't just philosophy. It's backed by decades of research.
@@ -263,7 +281,7 @@ This isn't just philosophy. It's backed by decades of research.
 
 **Purpose research from Stanford** shows that people with a strong sense of purpose live seven years longer on average, show higher resilience, and maintain better physical and mental health.
 
-**Self-determination theory** (Deci & Ryan) demonstrates that intrinsic goals (aligned with personal values) lead to wellbeing and satisfaction. Extrinsic goals (status, money, external approval) don't.
+**Self-determination theory** (Deci and Ryan) demonstrates that intrinsic goals (aligned with personal values) lead to wellbeing and satisfaction. Extrinsic goals (status, money, external approval) don't.
 
 **The compounding effects are undeniable**. Angela Ahrendts spent thirty years building leadership skills, investing in relationships, and developing her craft. That's why she could transform Burberry and lead Apple Retail. The long game compounds.
 
@@ -283,11 +301,11 @@ Here's what happens when you play the long game:
 
 That's the long game multiplier.
 
-Small aligned decisions → Compound over time → Extraordinary life.
+Small aligned decisions compound over time into an extraordinary life.
 
 ---
 
-## The Output: What You'll Gain
+## The Output: What You'll Build
 
 When you commit to the long game, here's what you're building:
 
@@ -398,8 +416,8 @@ When it came time to write her college essay, she wrote about choosing values ov
 
 More importantly, she had zero regret. The experience aligned with her values. She felt proud of her choice.
 
-**Ten years later** (this is hypothetical but realistic):
-- Working in climate tech
+**Five years later**:
+- Working in climate tech at a startup she loves
 - Relationships from that nonprofit opened doors
 - Never questioned if she was on the right path
 - Playing the long game from age sixteen
@@ -474,11 +492,11 @@ Write a definition for each of your five values.
 
 **The Output**: Your personal compass for every decision for the next decade.
 
-When you face a choice, you can ask: "Does this align with [your values]?"
+When you face a choice, you can ask: "Does this align with my values?"
 
-If yes → you're in the right direction.
+If yes, you're in the right direction.
 
-If no → you're building someone else's life.
+If no, you're building someone else's life.
 
 ---
 
@@ -588,9 +606,9 @@ For any major decision—job opportunities, relationships, commitments, how you 
 
 Look at your five values. Does this opportunity honor them or violate them?
 
-If it violates your values → it's probably not worth it, no matter how impressive it looks.
+If it violates your values, it's probably not worth it, no matter how impressive it looks.
 
-If it aligns → keep evaluating.
+If it aligns, keep evaluating.
 
 ---
 
@@ -614,7 +632,7 @@ Impressive doesn't equal authentic.
 
 You can tell the difference. There's what looks good to others, and there's what feels right to you.
 
-If you'd have to become someone you're not to do this thing → it's not aligned.
+If you'd have to become someone you're not to do this thing, it's not aligned.
 
 ---
 
@@ -624,7 +642,7 @@ Is this a sprint or a marathon?
 
 Short-term wins that destroy you aren't wins. They're traps.
 
-The long game requires sustainable pace. If this opportunity requires sacrificing your health, relationships, or sanity → it's not worth it.
+The long game requires sustainable pace. If this opportunity requires sacrificing your health, relationships, or sanity, it's not worth it.
 
 ---
 
@@ -634,7 +652,7 @@ Morbid? Maybe. Clarifying? Absolutely.
 
 At the end of your life, what will have mattered? Who you were. How you treated people. Whether you lived aligned with your values.
 
-This test reminds you that character > achievement.
+This test reminds you that character beats achievement.
 
 ---
 
@@ -685,7 +703,7 @@ The internship gets you status. The learning opportunity gets you growth.
 - **Sustainability Test**: Both are sustainable, so this isn't the deciding factor.
 - **Legacy Test**: "They chased prestige" vs. "They followed their curiosity."
 
-**Decision**: If your values prioritize growth and authenticity → take the learning opportunity. Trust the long game.
+**Decision**: If your values prioritize growth and authenticity, take the learning opportunity. Trust the long game.
 
 ---
 
@@ -713,7 +731,7 @@ But you need marathon pace for thirty years.
 
 Before you commit to something, ask: "Can I do this for the next ten years?"
 
-If the answer is no → redesign it or decline it.
+If the answer is no, redesign it or decline it.
 
 ---
 
@@ -735,13 +753,13 @@ If everything feels like suffering, you're probably misaligned.
 
 Yes, meaningful work is hard. Yes, growth is uncomfortable. But there should be flow. There should be moments when you're so engaged that time disappears.
 
-If you're constantly exhausted and your work feels meaningless → recheck your values. Something's off.
+If you're constantly exhausted and your work feels meaningless, recheck your values. Something's off.
 
 Alignment doesn't make work easy. It makes it sustainable.
 
 ---
 
-**4. Relationships > Achievements**
+**4. Relationships Beat Achievements**
 
 Achievements fade. Trophies collect dust. Job titles change.
 
@@ -900,7 +918,7 @@ Complete the Life Alignment Audit from Step 2:
 **Action Items**:
 - Pick ONE value with the lowest alignment score
 - Identify ONE specific action this week to improve alignment
-- Example: Value is "Growth" (currently 5/10) → Action: Read for 30 minutes daily
+- Example: Value is "Growth" (currently 5/10). Action: Read for 30 minutes daily
 
 Track it. See if the alignment improves.
 
@@ -996,9 +1014,9 @@ Let's distill this chapter into the essentials:
 
 3. **Build a life you're proud to live, not just a resume you're proud to show.** Your resume is what you've done. Your life is who you are.
 
-4. **Sustainable excellence > temporary wins.** Marathon pace for thirty years beats sprint speed for six months.
+4. **Sustainable excellence beats temporary wins.** Marathon pace for thirty years beats sprint speed for six months.
 
-5. **Legacy = impact on people, not achievements.** Who you helped. What you modeled. How you showed up.
+5. **Legacy equals impact on people, not achievements.** Who you helped. What you modeled. How you showed up.
 
 6. **Start playing the long game NOW—not when you're 30.** Your decisions at 16 compound into the life you're living at 46.
 
@@ -1024,7 +1042,7 @@ Perfect Effort isn't about being perfect. It's about alignment.
 1. **Life is a Sport** (Ch. 1) - Treat life like you treat game day
 2. **Know Your Stats** (Ch. 2) - Self-awareness is your superpower
 3. **Internal Scorecard** (Ch. 3) - Define success for yourself, not for Instagram
-4. **Effort Compounds** (Ch. 4) - Small, consistent actions over time = mastery
+4. **Effort Compounds** (Ch. 4) - Small, consistent actions over time equal mastery
 
 **Part 2: Mental Game**
 5. **Inner Coach** (Ch. 5) - Your self-talk determines your ceiling
@@ -1045,7 +1063,7 @@ Perfect Effort isn't about being perfect. It's about alignment.
 16. **Support System** (Ch. 16) - You can't win alone
 
 **Part 5: Championship Level**
-17-19. *(Building resilience, leading others, adapting to change)*
+17-19. Building resilience, leading others, adapting to change
 20. **The Long Game** (Ch. 20) - Build a championship life, not just a highlight reel
 
 ---
@@ -1056,8 +1074,8 @@ Before any decision, ask:
 
 > "Is this aligned with my values? Will I be proud of this in ten years?"
 
-If yes → Do it with perfect effort.
-If no → Walk away, no matter how impressive it looks.
+If yes, do it with perfect effort.
+If no, walk away, no matter how impressive it looks.
 
 ---
 
@@ -1219,3 +1237,12 @@ Your coach,
 ---
 
 *"The scoreboard everyone sees lasts a moment. The life you build lasts forever."*
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 19 - Clutch Moments](chapter_19_clutch_moments.md) | [📚 All Chapters](../README.md#-the-chapters) | [🏠 Back to Home](../README.md)
+
+</div>

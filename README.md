@@ -167,22 +167,22 @@ Growth happens outside<br/>your comfort zone
 <td width="25%" align="center">
 <img src="images/generated/chapters_informative/chapter_17_Level_Up_Your_Skills.png" width="200"/><br/>
 <b>17. Level Up Your Skills</b><br/>
-<em>Coming Soon</em>
+<a href="03_Book_Chapters/chapter_17_level_up_your_skills.md">Read Chapter →</a>
 </td>
 <td width="25%" align="center">
 <img src="images/generated/chapters_informative/chapter_18_Play_Your_Position.png" width="200"/><br/>
 <b>18. Play Your Position</b><br/>
-<em>Coming Soon</em>
+<a href="03_Book_Chapters/chapter_18_play_your_position.md">Read Chapter →</a>
 </td>
 <td width="25%" align="center">
 <img src="images/generated/chapters_informative/chapter_19_Clutch_Moments.png" width="200"/><br/>
 <b>19. Clutch Moments</b><br/>
-<em>Coming Soon</em>
+<a href="03_Book_Chapters/chapter_19_clutch_moments.md">Read Chapter →</a>
 </td>
 <td width="25%" align="center">
 <img src="images/generated/chapters_informative/chapter_20_The_Long_Game.png" width="200"/><br/>
 <b>20. The Long Game</b><br/>
-<em>Coming Soon</em>
+<a href="03_Book_Chapters/chapter_20_the_long_game.md">Read Chapter →</a>
 </td>
 </tr>
 </table>

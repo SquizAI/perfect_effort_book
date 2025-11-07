@@ -27,14 +27,15 @@ def add_visual_formatting(content):
             formatted.append(line)
             formatted.append('')
 
+        # Skip callout conversion - already handled by style_chapters.py
         # Convert bold key phrases to callouts
-        elif line.startswith('**') and line.endswith('**') and len(line) < 150:
-            # This is a standalone bold statement - make it a callout
-            text = line.strip('*')
-            formatted.append('')
-            formatted.append('> [!IMPORTANT]')
-            formatted.append(f'> **{text}**')
-            formatted.append('')
+        # elif line.startswith('**') and line.endswith('**') and len(line) < 150:
+        #     # This is a standalone bold statement - make it a callout
+        #     text = line.strip('*')
+        #     formatted.append('')
+        #     formatted.append('> [!IMPORTANT]')
+        #     formatted.append(f'> **{text}**')
+        #     formatted.append('')
 
         # Style bullet points with better spacing
         elif line.startswith('- ') or line.startswith('* '):

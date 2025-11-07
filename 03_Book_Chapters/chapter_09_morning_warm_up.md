@@ -4,159 +4,20 @@
 
 # Chapter 9: Morning Warm-Up
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
-
-
----
-
-</div>
-
-<div align="center">
-
-<img src="../images/generated/chapters_informative/chapter_09_Morning_Warm-Up.png" alt="Chapter 9: Morning Warm-Up" width="600"/>
-
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
-
-
----
-
-</div>
-
-<div align="center">
-
-<img src="../images/generated/chapters_informative/chapter_09_Morning_Warm-Up.png" alt="Chapter 9: Morning Warm-Up" width="600"/>
-
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
-
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
 
 ---
 
 </div>
 
 > [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
 > **💡 Key Insight**
 > **Core Concept**: Your morning isn't about waking up early - it's about owning your day before distractions, demands, and chaos take control.
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
 > **The Output**: Walk into school like you've already won three times before anyone else woke up.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Two Students, Same 24 Hours
-
-
-
 
 6:45am.
 
@@ -204,19 +65,7 @@ Here's the question nobody asks: What if the most important hour of your day is 
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Why Your Morning Is Your Competitive Edge
-
-
-
 
 Let's get real about something. Most people lose their day before it even starts.
 
@@ -256,57 +105,11 @@ Start your day with wins, and more wins follow. Start with discipline, and disci
 
 Start your day behind, stressed, and reactive? That pattern continues. All day long.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Here's the spiral when you lose your morning:**
-
+**Here's the spiral when you lose your morning:**
 
 Wake up late → Rush → Skip breakfast → Forget something → Stress increases → Bad mood → Worse decisions → Day keeps getting worse.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Here's the spiral when you own your morning:**
-
+**Here's the spiral when you own your morning:**
 
 Wake up with time → Calm start → Workout done → Priorities clear → Confidence builds → Better decisions → Day keeps getting better.
 
@@ -332,19 +135,7 @@ You're building something different.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Design Your Morning Like Jony Ive Designed the iPhone
-
-
-
 
 You know what made the iPhone revolutionary? It wasn't that it did more things. It was that it did the right things perfectly.
 
@@ -362,33 +153,7 @@ Think about the iPhone for a second. When you hold one, it feels inevitable. Lik
 
 Ive's philosophy was simple: every detail should serve a purpose. Remove everything that doesn't matter. Make the experience so clear that it feels natural.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Applied to your morning, that means:**
-
-
-
-
+**Applied to your morning, that means:**
 
 - Every action should serve your goals
 - Remove everything that doesn't move you forward
@@ -404,30 +169,7 @@ You're not trying to build the most complex morning routine in the world. You're
 
 Before you add anything to your morning routine, ask these three questions:
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **1. "What's the output?"**
-
+**1. "What's the output?"**
 
 Don't think about "I'll meditate for 10 minutes." Think about "I'll arrive at school calm and focused instead of stressed and scattered."
 
@@ -435,30 +177,7 @@ See the difference? One is a task. One is an outcome.
 
 Frame everything as what you'll achieve or become, not what you have to do.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **2. "Is this essential?"**
-
+**2. "Is this essential?"**
 
 If removing something from your morning wouldn't impact your goals, cut it.
 
@@ -466,30 +185,7 @@ Your morning isn't a productivity Olympics. It's not about doing the most things
 
 Every element should earn its place.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **3. "Can I sustain this?"**
-
+**3. "Can I sustain this?"**
 
 A perfect morning routine you do twice doesn't change anything. A simple morning routine you do 300 times changes your life.
 
@@ -505,33 +201,7 @@ Here's where Ive's philosophy gets really interesting. He didn't just ask what t
 
 "It's not about adding more," he said. "It's about removing everything except what's essential."
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **What to remove from your morning:**
-
-
-
-
+**What to remove from your morning:**
 
 - Phone scrolling first thing (immediately gives away your attention)
 - Snooze button (trains your brain to ignore commitments)
@@ -539,33 +209,7 @@ Here's where Ive's philosophy gets really interesting. He didn't just ask what t
 - News and social media (fills your mind with other people's agendas)
 - Rushed chaos (removes the control that makes mornings valuable)
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **What you gain by removing those things:**
-
-
-
-
+**What you gain by removing those things:**
 
 - Time for what actually matters
 - Mental clarity
@@ -585,30 +229,7 @@ When Ive created a product, he didn't wing it. He didn't just throw things toget
 
 You should do the same with your morning.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Here's the design process:**
-
+**Here's the design process:**
 
 **Step 1: Define the output.** How do you want to feel? What do you want done?
 
@@ -626,19 +247,7 @@ Creation is an act of care. When Ive designed, every detail mattered because the
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## The Science Behind Morning Wins
-
-
-
 
 Let's talk about why mornings actually matter, beyond just "it feels good to be productive."
 
@@ -676,9 +285,6 @@ Don't waste that decision energy negotiating with yourself about whether to hit 
 
 Morning routines stick better than other habits. Here's why:
 
-
-
-
 - Fewer variables (your environment is consistent every morning)
 - Less decision fatigue (you're fresh)
 - Immediate reward (the feeling of winning early creates motivation)
@@ -695,15 +301,6 @@ That's why morning routines work when other habits fail.
 
 ### Flow State Foundation
 
-
----
-
-
----
-
-
----
-
 Remember learning about flow state? That zone where time disappears and everything clicks?
 
 Your morning sets up your ability to enter flow later. Starting calm and focused makes flow possible. Starting stressed and reactive makes flow nearly impossible.
@@ -712,61 +309,13 @@ A good morning isn't just about the morning. It primes your brain for peak perfo
 
 ---
 
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
 > **Coach's Corner:**
 >
 > Your brain in the morning is like a clean whiteboard. You can write whatever you want on it. By noon, everyone else has already written all over it. Use that clean space while you have it.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Building Your Morning System
-
-
-
 
 You can't copy someone else's morning routine. What works for a professional athlete training for the Olympics won't work for you. What works for a CEO running a company probably won't either.
 
@@ -778,30 +327,7 @@ But every effective morning routine has the same four core elements.
 
 ### The Four Core Elements
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Element 1: ACTIVATION (Physical Wake-Up)**
-
+**Element 1: ACTIVATION (Physical Wake-Up)**
 
 **Purpose:** Transition from sleep mode to actually awake.
 
@@ -815,30 +341,7 @@ It doesn't need to be extreme. You don't need to jump into an ice bath. You just
 
 ---
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Element 2: INTENTION (Mental Clarity)**
-
+**Element 2: INTENTION (Mental Clarity)**
 
 **Purpose:** Set direction for the day. Get clear on what matters.
 
@@ -854,30 +357,7 @@ Answer those, and you've already separated from 95% of people who just react all
 
 ---
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Element 3: MOVEMENT (Physical Readiness)**
-
+**Element 3: MOVEMENT (Physical Readiness)**
 
 **Purpose:** Burn nervous energy, build discipline, get your body ready.
 
@@ -891,30 +371,7 @@ Plus, getting your workout done early means nothing can derail it later. No "I'm
 
 ---
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Element 4: PREPARATION (Tactical Setup)**
-
+**Element 4: PREPARATION (Tactical Setup)**
 
 **Purpose:** Handle the logistics so nothing gets forgotten or rushed.
 
@@ -928,30 +385,7 @@ Seems basic, right? But how many times have you gotten to school and realized yo
 
 ---
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **You need all four elements. The specifics depend on you.**
-
+**You need all four elements. The specifics depend on you.**
 
 Some people need 10 minutes of movement and 30 minutes of intention. Some people need the opposite. That's fine. But if you're missing an entire element, your morning system has a hole in it.
 
@@ -963,30 +397,7 @@ If you're starting from zero, don't try to build the perfect 90-minute routine o
 
 Start here. The MVM. Minimum Viable Morning.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Total time: 30 minutes**
-
+**Total time: 30 minutes**
 
 **5 minutes - Activation:** Cold water on face, make your bed, get dressed.
 
@@ -999,9 +410,6 @@ Start here. The MVM. Minimum Viable Morning.
 That's it. Thirty minutes. Nothing complex.
 
 But here's what this beats:
-
-
-
 - Sleeping until the last second
 - Scrolling your phone for an hour
 - Rushing out the door in chaos
@@ -1015,30 +423,7 @@ The MVM gives you all four elements. It's simple enough that you can actually do
 
 Once the MVM feels easy, here's the next level.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Total time: 60-75 minutes**
-
+**Total time: 60-75 minutes**
 
 **5 minutes - Activation:** Water, make bed, quick stretch.
 
@@ -1064,33 +449,7 @@ Because you have.
 
 Here's the framework for building YOUR morning routine.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Step 1: Define Your Outputs**
-
-
-
-
+**Step 1: Define Your Outputs**
 
 - How do I want to FEEL when I start my day? (Calm? Energized? Confident? Ready?)
 - What do I want DONE before distractions hit? (Workout? Studying? Priorities clear?)
@@ -1100,30 +459,7 @@ Answer those questions first. Everything else flows from that.
 
 ---
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Step 2: Work Backward From Your Wake-Up Time**
-
+**Step 2: Work Backward From Your Wake-Up Time**
 
 When do you NEED to leave for school or practice or work?
 
@@ -1137,35 +473,9 @@ Simple math. Non-negotiable time.
 
 ---
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Step 3: Map Your Four Elements**
-
+**Step 3: Map Your Four Elements**
 
 For each element, choose your specific actions:
-
-
-
 
 - Activation: How will you wake your body up?
 - Intention: How will you get mental clarity?
@@ -1178,30 +488,7 @@ Vague plans create vague results.
 
 ---
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Step 4: Prototype for One Week**
-
+**Step 4: Prototype for One Week**
 
 Test your design. See what actually works.
 
@@ -1213,30 +500,7 @@ This is the iteration phase. You're allowed to refine.
 
 ---
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Step 5: Lock It In**
-
+**Step 5: Lock It In**
 
 Once you've found what works, make it non-negotiable.
 
@@ -1250,33 +514,7 @@ Consistency is what creates the transformation.
 
 Here's where Ive's design thinking really shows up. Make the right behavior the easiest behavior.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The night before:**
-
-
-
-
+**The night before:**
 
 - Lay out your workout clothes (zero decisions tomorrow morning)
 - Prep breakfast if possible (removes friction)
@@ -1284,33 +522,7 @@ Here's where Ive's design thinking really shows up. Make the right behavior the 
 - Set alarm and put phone across the room (you have to get up to turn it off)
 - Go to bed on time (you can't win mornings if you're exhausted)
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Morning environment:**
-
-
-
-
+**Morning environment:**
 
 - Clothes are visible immediately (visual cue to get dressed)
 - Phone is NOT in your bedroom (removes the biggest distraction)
@@ -1322,61 +534,13 @@ You're designing the environment so the right behavior becomes automatic. That's
 
 ---
 
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
 > **Coach's Corner:**
 >
 > If your morning routine requires willpower to execute, it's designed wrong. Willpower is limited. Systems are unlimited. Design a system that works even when motivation is low.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## The Alarm Clock Moment
-
-
-
 
 Everything we just talked about means nothing if you can't get out of bed when your alarm rings.
 
@@ -1406,30 +570,7 @@ What you do in these five seconds determines everything that follows.
 
 Mel Robbins, a motivational speaker who studied habit formation, created something called the 5-Second Rule. It's stupid simple. And it works.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Here's the technique:**
-
+**Here's the technique:**
 
 Alarm rings.
 
@@ -1439,30 +580,7 @@ MOVE. Feet hit the floor.
 
 No negotiation. No "just one snooze." Physical movement before mental negotiation.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Why it works:**
-
+**Why it works:**
 
 Counting interrupts the negotiation pattern your brain starts. Counting backward creates urgency. Forward counting doesn't. 1-2-3-4-5 gives you time to chicken out. 5-4-3-2-1 doesn't.
 
@@ -1482,30 +600,7 @@ You're teaching yourself that comfort beats goals. You're practicing quitting. Y
 
 You're starting the day with a loss.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Here's the math:**
-
+**Here's the math:**
 
 Hit snooze three times every morning? That's three small quits before your day even starts.
 
@@ -1515,59 +610,13 @@ You're literally practicing being someone who doesn't follow through.
 
 ---
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Now flip it.**
-
+**Now flip it.**
 
 Every time you get up on the first alarm, you're training your brain that you do what you say. You're proving comfort doesn't control you. You're practicing discipline.
 
 You're starting the day with a win.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The math:**
-
+**The math:**
 
 Get up immediately every morning? That's one small win before your day starts.
 
@@ -1611,19 +660,7 @@ The first 60 seconds after your alarm determines the next 60 minutes. Win those 
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Making It Stick
-
-
-
 
 Starting a morning routine is easy. Everyone's motivated on day one.
 
@@ -1653,15 +690,6 @@ The critical period is Days 11-21. That's the make-or-break window.
 
 **Track your streak.** Put X's on a calendar. Use a habit app. Whatever. Just make it visible.
 
-
----
-
-
----
-
-
----
-
 **Focus on the output, not the routine.** Remember why you're doing this. You're not waking up early for fun. You're doing it to own your day, build discipline, and separate from everyone who's choosing comfort.
 
 **Allow imperfect execution.** Did your 60-minute routine turn into 30 minutes because you were exhausted? That still counts. Done beats perfect.
@@ -1680,33 +708,7 @@ Here's the truth: Elite athletes don't take weekends off from being elite. Your 
 
 Weekends are when you separate from the pack.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Weekend strategy:**
-
-
-
-
+**Weekend strategy:**
 
 - Same alarm, maybe 30 to 60 minutes later if you want (not three hours)
 - Abbreviated routine is fine (30 minutes instead of 60)
@@ -1719,84 +721,15 @@ Weekends are when you separate from the pack.
 
 Make it harder to quit than to continue.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Option 1: Public Commitment**
-
+**Option 1: Public Commitment**
 
 Tell people you're doing this. Post your streak. Check in with a friend who's doing the same thing. External accountability works.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Option 2: Physical Tracking**
-
+**Option 2: Physical Tracking**
 
 Calendar X's. Don't break the chain. Habit tracker apps like Streaks or Way of Life. Journal logging. Something visible that you'd hate to break.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Option 3: Consequence Design**
-
+**Option 3: Consequence Design**
 
 If you don't do your morning routine, you lose something. Maybe no phone that evening. Maybe you owe your friend five bucks. Make it real enough to matter.
 
@@ -1810,30 +743,7 @@ You will miss a morning. Maybe you're actually sick. Maybe you had a terrible ni
 
 It's okay. Elite performers aren't perfect. They're just better at bouncing back.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **When you miss:**
-
+**When you miss:**
 
 **Don't catastrophize.** "I ruined my streak, I'm terrible at this" doesn't help.
 
@@ -1865,19 +775,7 @@ That's the real output. Not a good morning. A better you.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Champions Build in the Dark
-
-
-
 
 Let's look at what this actually looks like in real life. Morning routines aren't theory. They're what separate good from great.
 
@@ -1891,57 +789,11 @@ While everyone else was sleeping, he was in the gym. First workout from 4:30am t
 
 "If I start my day this way," he said, "by the time everyone else wakes up, I'm already ahead."
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The output:**
-
+**The output:**
 
 Five NBA championships. Two Olympic gold medals. A reputation as the most disciplined player in the league. He became unstoppable because he outworked everyone in the hours nobody saw.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **What you can learn:**
-
+**What you can learn:**
 
 Your morning creates separation from your competition. What you do when nobody's watching matters more than what you do when everyone's looking. Discipline compounds over years.
 
@@ -1959,57 +811,11 @@ She worked out from 4:30am to 5:30am. Every single day. Non-negotiable.
 
 "No matter what chaos the day brings," she said, "I've already won."
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The output:**
-
+**The output:**
 
 She handled one of the most demanding jobs in the world without burning out. She stayed physically and mentally strong under constant pressure. She modeled discipline for her daughters. She controlled the one hour she could control.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **What you can learn:**
-
+**What you can learn:**
 
 Your morning is yours. Before demands hit, before people need things from you, you get to decide how you spend that time. Physical movement builds mental strength. Consistency matters more than intensity.
 
@@ -2019,111 +825,19 @@ Your morning is yours. Before demands hit, before people need things from you, y
 
 This one's about someone like you. High school senior. Not a professional athlete or celebrity. Just a regular student who changed the game.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Before the morning routine:**
-
+**Before the morning routine:**
 
 Waking up 10 minutes before leaving. No time for breakfast or exercise. Always forgetting something. Getting to school stressed. GPA: 3.2. Constantly behind.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **After implementing a 60-minute morning routine:**
-
+**After implementing a 60-minute morning routine:**
 
 Alarm at 6:00am. Gave himself 90 minutes before leaving. 30-minute workout. 20 minutes for breakfast and reviewing notes. 10 minutes to prep and pack.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Results after six months:**
-
+**Results after six months:**
 
 GPA jumped to 3.7. Same kid. Better preparation. Made varsity because he got stronger from daily training. Got recruited for college because consistency built skill. Felt confident instead of anxious.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **What changed?**
-
+**What changed?**
 
 Not talent. Not luck. His morning system.
 
@@ -2131,19 +845,7 @@ You don't need to be Kobe or Michelle Obama to benefit. Ordinary people plus eli
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Your Morning Playbook
-
-
-
 
 Now you build your system. Here's the step-by-step playbook to design, launch, and lock in your morning routine.
 
@@ -2151,94 +853,22 @@ Now you build your system. Here's the step-by-step playbook to design, launch, a
 
 ### Week 1: Design Phase
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Monday-Tuesday: Data Collection**
-
+**Monday-Tuesday: Data Collection**
 
 Track your current mornings. What time do you wake up? What time do you need to leave? Where does your morning time currently go? What's stealing your attention? Phone? Snooze? Chaos?
 
 Be honest. You can't fix what you don't measure.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Wednesday-Thursday: Output Definition**
-
+**Wednesday-Thursday: Output Definition**
 
 Answer these questions:
-
-
-
 - How do I want to FEEL starting my day?
 - What do I want DONE before distractions hit?
 - What would make me feel like I already won by 8am?
 
 Write it down. This is your north star.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Friday-Sunday: Routine Design**
-
+**Friday-Sunday: Routine Design**
 
 Map your Four Elements. Activation, Intention, Movement, Preparation. What specific actions for each?
 
@@ -2254,33 +884,7 @@ Design your environment. Lay out clothes. Prep breakfast. Put phone across the r
 
 Your mission: 14 consecutive days. No misses.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Daily Protocol:**
-
-
-
-
+**Daily Protocol:**
 
 1. Night before - Prep everything
 2. Alarm rings - 5-4-3-2-1-MOVE
@@ -2288,45 +892,13 @@ Your mission: 14 consecutive days. No misses.
 4. Track completion (X on calendar, journal entry, habit app)
 5. Note what worked and what didn't
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Troubleshooting:**
-
+**Troubleshooting:**
 
 Too tired? Sleep earlier. You can't win mornings on five hours of sleep.
 
 Can't get up? Phone across room. You have to stand to turn it off.
 
 Running out of time? Cut one element. Better to do three out of four than zero out of four.
-
-
----
-
-
----
-
-
----
 
 Losing motivation? Review your output goals. Remember why this matters.
 
@@ -2336,60 +908,11 @@ Losing motivation? Review your output goals. Remember why this matters.
 
 Your mission: Make it automatic.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Refinement questions:**
-
+**Refinement questions:**
 
 What parts of the routine feel natural now? What still feels forced? What's your biggest friction point? What output are you actually seeing?
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Lock-in checklist:**
-
-
-
-
+**Lock-in checklist:**
 
 - [ ] Same alarm time daily (including weekends)
 - [ ] Environment designed (no-friction setup)
@@ -2408,30 +931,7 @@ Here's your commitment:
 
 Journal weekly: What changed? What got easier? What output are you seeing?
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The reward:**
-
+**The reward:**
 
 You'll be someone different on Day 31. Not motivation-dependent anymore. Your identity shifted. "I'm someone who owns mornings." You have a competitive advantage that almost nobody has.
 
@@ -2443,30 +943,7 @@ Print this. Put it where you'll see it.
 
 ---
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **MY MORNING SYSTEM**
-
+**MY MORNING SYSTEM**
 
 **Alarm Time:** _____ (non-negotiable)
 
@@ -2480,44 +957,10 @@ Print this. Put it where you'll see it.
 
 **Intention (5-10 min):** _____________
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Output Goals:**
-
-
-
+**Output Goals:**
 - Feel: _____________
 - Complete: _____________
 - Become: _____________
-
-
----
-
-
----
-
-
----
 
 **If I want to quit:** Remember why I started. One day at a time. Never miss twice.
 
@@ -2525,19 +968,7 @@ Print this. Put it where you'll see it.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## The Morning Advantage
-
-
-
 
 Owning your morning isn't about waking up early. It's about taking control of your life before anything else can.
 
@@ -2613,28 +1044,13 @@ But your alarm is about to ring.
 
 What are you going to do?
 
-
-
-
 5.
-
-
-
 
 4.
 
-
-
-
 3.
 
-
-
-
 2.
-
-
-
 
 1.
 
@@ -2642,163 +1058,43 @@ Move.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Post-Game Review
-
-
-
-
-
----
-
-
----
-
-
----
 
 ### Key Takeaways
 
-
-
-
 1. **Your morning creates momentum for everything that follows.** Win the morning, win the day. Lose the morning, spend all day playing catch-up.
-
-
-
 
 2. **Design your morning like Jony Ive designed products.** Every element serves a purpose. Remove everything unnecessary. Keep it simple enough to sustain. Design for the output, not just the task.
 
-
-
-
 3. **The Four Core Elements are non-negotiable.** Activation, Intention, Movement, Preparation. You need all four. The specifics depend on you.
 
-
-
-
 4. **The 5-4-3-2-1 Rule beats the snooze button every time.** Five seconds of counting. Then movement. Physical action beats mental negotiation.
-
-
-
 
 5. **Discomfort is the price of separation.** Everyone else is choosing comfort. That's why everyone else gets average results. You're building something different.
 
 ### Reflection Questions
 
-
-
-
 1. What would be different about your life if you owned your first 90 minutes every day?
-
-
-
 
 2. What's currently stealing your morning time? Phone? Snooze? Rushing? Be specific.
 
-
-
-
 3. If you could feel one specific way starting your day, what would it be? That's your output target.
 
-
-
-
 4. What's one thing you could do before school that would make you feel like you already won?
-
-
-
 
 5. Who do you know who owns their mornings? What can you learn from them?
 
 ### Practice Drills This Week
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Drill 1: The Alarm Test**
-
+**Drill 1: The Alarm Test**
 
 Set your alarm 10 minutes earlier than usual. Practice the 5-4-3-2-1-MOVE technique. Feet hit the floor. No negotiation. Do this seven days straight.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Drill 2: The MVM (Minimum Viable Morning)**
-
+**Drill 2: The MVM (Minimum Viable Morning)**
 
 30-minute routine this week. Activation, Movement, Preparation, Intention. All four elements. Done beats perfect. Build from here once it's consistent.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Drill 3: The Environment Design**
-
+**Drill 3: The Environment Design**
 
 Tonight, lay out tomorrow's clothes. Put your phone across the room. Prep breakfast if possible. Pack your bag. Go to bed on time. See how much smoother your morning flows when you remove the friction.
 
@@ -2810,48 +1106,7 @@ Next up: **Chapter 10: Fuel Your Engine** - How to eat, sleep, and recover like 
 
 ---
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The morning is yours. What are you going to build with it?**
-
-
-
----
-
-<div align="center">
-
-[⬅️ Previous: Chapter 8 - The Pressure Test](chapter_08_the_pressure_test.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 10 - Fuel Your Engine ➡️](chapter_10_fuel_your_engine.md)
-
-</div>
-
-
----
-
-<div align="center">
-
-[⬅️ Previous: Chapter 8 - The Pressure Test](chapter_08_the_pressure_test.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 10 - Fuel Your Engine ➡️](chapter_10_fuel_your_engine.md)
-
-</div>
+**The morning is yours. What are you going to build with it?**
 
 
 ---

@@ -4,26 +4,15 @@
 
 # Chapter 14: Choose Your Teammates
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> 💡 **Key Insight**
-> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
-
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
 
 ---
 
 </div>
 
-> [!NOTE]
-> [!NOTE]
 > 💡 **Key Insight**
-> **💡 Key Insight**
 > **Core Concept**: Your peer group determines your trajectory. Strategic relationship choices accelerate growth.
-> [!NOTE]
-> [!NOTE]
 > 💡 **Key Insight**
-> **💡 Key Insight**
 > **The Output**: Surround yourself with people who raise your game so you become exceptional.
 
 ---
@@ -85,8 +74,6 @@ If your friends think reading is boring, you'll probably stop reading. If your f
 Not because you're weak. Because you're human.
 
 
-> [!IMPORTANT]
-> [!NOTE]
 > 💡 **Key Insight**
 > **Coach's Corner:**
 
@@ -190,8 +177,6 @@ It wasn't about tutoring. It wasn't about studying together. It was about standa
 When your roommate is grinding, you grind. When your roommate is slacking, you slack. The invisible standard gets set by the people around you.
 
 
-> [!IMPORTANT]
-> [!NOTE]
 > 💡 **Key Insight**
 > **Coach's Corner:**
 
@@ -211,8 +196,6 @@ Your peer group is either your competitive advantage or your anchor. Choose wise
 
 
 
-> [!TIP]
-> [!NOTE]
 > 💡 **Key Insight**
 > **Example 1: The Williams Sisters**
 >
@@ -228,8 +211,6 @@ Their dad, Richard Williams, built this intentionally. He knew that having a pee
 **Lesson**: The right teammate makes you better than you could ever be alone.
 
 
-> [!TIP]
-> [!NOTE]
 > 💡 **Key Insight**
 > **Example 2: Emma's Study Group**
 >
@@ -249,8 +230,6 @@ But something shifted. She started preparing more because she didn't want to sho
 **Lesson**: Sometimes you need to join a different peer group to become a different person.
 
 
-> [!TIP]
-> [!NOTE]
 > 💡 **Key Insight**
 > **Example 3: The PayPal Mafia**
 >
@@ -409,8 +388,6 @@ But here's the thing: staying stuck with the wrong peer group for years because 
 You're not abandoning people. You're choosing yourself. There's a difference.
 
 
-> [!IMPORTANT]
-> [!NOTE]
 > 💡 **Key Insight**
 > **Coach's Corner:**
 
@@ -602,6 +579,10 @@ And the people who truly care about you will either grow with you or celebrate y
 Your job isn't to drag people along who don't want to come. Your job is to become the best version of yourself—and surround yourself with people who help you get there.
 
 Choose your teammates wisely. They'll determine how far you go.
+
+
+
+
 
 
 ---

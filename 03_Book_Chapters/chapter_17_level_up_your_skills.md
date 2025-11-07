@@ -1,5 +1,17 @@
+<div align="center">
+
+<img src="../images/generated/chapters_informative/chapter_17_Level_Up_Your_Skills.png" alt="Chapter 17: Level Up Your Skills" width="600"/>
+
 # Chapter 17: Level Up Your Skills
 
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
+
+---
+
+</div>
+
+> [!NOTE]
+> **💡 Key Insight**
 > **Core Concept**: Skills aren't just about what you can do today—they're about what you'll be capable of tomorrow. Every skill you master makes the next one easier to learn.
 > **The Output**: Become exponentially more capable over time by building skills that stack and multiply.
 
@@ -81,7 +93,7 @@ You hit a ceiling you can't break through. You put in effort but don't see impro
 
 Meanwhile, your skills don't transfer. You're good at one specific thing but that skill doesn't help you learn anything else. So every new skill feels like starting completely over.
 
-And here's the worst part: learning gets HARDER over time instead of easier. Each new skill feels like the same grind. The same slow progress. The same plateau.
+And here's the worst part: learning gets harder over time instead of easier. Each new skill feels like the same grind. The same slow progress. The same plateau.
 
 That's the problem with collecting information instead of building foundations.
 
@@ -125,9 +137,9 @@ Surface knowledge of a hundred things is worthless. Deep mastery of ten fundamen
 The question is: are you willing to be bored for a while to be capable forever?
 
 **Don't think**: "I need to learn everything"
-**Think**: "I master fundamentals deeply, then build"
+**Think**: "Master fundamentals deeply, then build"
 
-### Deliberate Practice (Quality > Quantity)
+### Deliberate Practice (Quality Over Quantity)
 
 Ten thousand hours.
 
@@ -207,7 +219,7 @@ That's compound learning. That's how you become exponentially more capable inste
 
 And here's the best part: each skill you master makes the next one easier to learn. Not just related skills. All skills. Because you're building the meta-skill of learning itself.
 
-You're not just getting better at basketball. You're getting better at breaking down complex movements, getting feedback, and deliberately practicing. Those skills transfer to everything.
+You're not just getting better at basketball. You're getting better at breaking down complex movements, getting feedback, and practicing deliberately. Those skills transfer to everything.
 
 You're not just getting better at coding. You're getting better at problem-solving, debugging, and building on fundamentals. Those skills apply everywhere.
 
@@ -383,7 +395,7 @@ These are leverage points. Skills that open doors to everything else.
 
 **3. What am I genuinely curious about?**
 
-This matters more than people think. Curiosity-driven learning sticks. You'll put in the hours because you want to, not because you have to. Forced learning plateaus. You'll quit when it gets hard.
+This matters more than people think. Curiosity-driven learning sticks. You'll put in the hours because you want to, not because you have to. Forced learning plateaus when it gets hard.
 
 So be honest. What do you actually want to get better at?
 
@@ -443,7 +455,7 @@ Action step: for your chosen skill, write down:
 
 Every practice session should have a specific focus.
 
-Not "I'm going to practice." But "today I'm improving this exact thing."
+Not "I'm practicing." But "today I'm improving this exact thing."
 
 Here's the template.
 
@@ -501,7 +513,7 @@ Four elements.
 
 Thirty minutes daily beats five hours once a week. Your brain learns through spaced repetition, not cramming.
 
-Block time on your calendar. Treat it like practice. Non-negotiable.
+Block time on your calendar. Non-negotiable.
 
 Example schedule:
 - Monday/Wednesday/Friday: Skill A (30 min)
@@ -520,7 +532,7 @@ Progress tracking examples:
 - Athletics: Stats (shooting percentage, sprint times, reps)
 - School: Test scores, grades, time to complete assignments
 
-**3. Difficulty Progression (Always push edge)**
+**3. Difficulty Progression (Always push your edge)**
 
 As soon as something becomes easy, increase difficulty. This is how you grow. By staying uncomfortable.
 
@@ -757,3 +769,12 @@ Chapter 18 will show you how to push through plateaus, break through ceilings, a
 Because the real game isn't avoiding plateaus. It's learning how to break through them.
 
 Let's level up.
+
+
+---
+
+<div align="center">
+
+[⬅️ Previous: Chapter 16 - Building Your Support System](chapter_16_building_your_support_system.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 18 - Play Your Position ➡️](chapter_18_play_your_position.md)
+
+</div>

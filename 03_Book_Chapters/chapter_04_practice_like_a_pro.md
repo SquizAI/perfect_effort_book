@@ -4,159 +4,20 @@
 
 # Chapter 4: Practice Like a Pro
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
-
-
----
-
-</div>
-
-<div align="center">
-
-<img src="../images/generated/chapters_informative/chapter_04_Practice_Like_a_Pro.png" alt="Chapter 4: Practice Like a Pro" width="600"/>
-
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
-
-
----
-
-</div>
-
-<div align="center">
-
-<img src="../images/generated/chapters_informative/chapter_04_Practice_Like_a_Pro.png" alt="Chapter 4: Practice Like a Pro" width="600"/>
-
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
-
+**[🏠 Back to Home](../README.md)** | **[📚 All Chapters](../README.md#-the-chapters)**
 
 ---
 
 </div>
 
 > [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
 > **💡 Key Insight**
 > **Core Concept**: Hours don't make you better. The right kind of practice makes you better.
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
 > **The Output**: Master any skill faster than you thought possible – not by practicing more, but by practicing deliberately.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Two Players. Same Gym. Different Futures.
-
-
-
 
 Picture this: Two basketball players walk into the same gym at the same time. Both stay for exactly one hour. Both shoot 100 free throws.
 
@@ -172,30 +33,7 @@ Same gym. Same amount of time. One of them got dramatically better.
 
 The other one just repeated the same mistakes 3,000 times.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The difference? It wasn't effort. It was method.**
-
+**The difference? It wasn't effort. It was method.**
 
 Most people think practice is just repetition. Do something over and over, and you'll eventually get good at it.
 
@@ -207,19 +45,7 @@ Welcome to deliberate practice – the cheat code to mastering anything faster.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## The 10,000 Hour Lie
-
-
-
 
 You've heard it before. Maybe from a teacher. Maybe from a motivational poster. Definitely from someone who read a Malcolm Gladwell book and missed the point:
 
@@ -235,55 +61,9 @@ Or rather, it's true the same way "eating food makes you healthy" is true. Techn
 
 The 10,000-hour rule came from researcher Anders Ericsson's studies of elite performers. But here's what Gladwell left out:
 
+**It's not 10,000 hours of ANY practice.**
 
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **It's not 10,000 hours of ANY practice.**
-
-
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **It's 10,000 hours of DELIBERATE practice.**
-
+**It's 10,000 hours of DELIBERATE practice.**
 
 Huge difference.
 
@@ -293,93 +73,20 @@ Nope. Most people plateau after the first few months. They reach "good enough" a
 
 Or think about that kid in your class who's been playing guitar for 5 years but still sounds like they started last month. They practice. They play every day. But they're not getting better.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Why? Because they're doing repetition, not practice.**
-
+**Why? Because they're doing repetition, not practice.**
 
 ### Repetition vs. Deliberate Practice
 
 Let's break this down because understanding this difference is worth more than a thousand hours of mindless grinding.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Mindless Repetition:**
-
-
-
+**Mindless Repetition:**
 - Going through the motions on autopilot
 - No specific focus on what needs to improve
 - Comfortable, easy, familiar
 - No immediate feedback on what's working or not
 - Low friction, low growth
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Deliberate Practice:**
-
-
-
+**Deliberate Practice:**
 - Laser-focused on improving specific weakness
 - Immediate feedback after every rep
 - Pushes you just beyond your comfort zone
@@ -388,63 +95,13 @@ Let's break this down because understanding this difference is worth more than a
 
 Here's a real example:
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Mindless Guitar Practice:**
-
-
-
+**Mindless Guitar Practice:**
 - Play songs you already know
 - Feel good, sound decent
 - Enjoy the feeling of playing
 - Zero improvement
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Deliberate Guitar Practice:**
-
-
-
+**Deliberate Guitar Practice:**
 - Identify the exact chord transition you keep messing up
 - Isolate just those two chords
 - Practice that ONE transition 50 times
@@ -456,48 +113,12 @@ See the difference?
 
 One feels like practice. The other IS practice.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Coach's Corner:**
-
-
+**Coach's Corner:**
 > The uncomfortable truth: If practice feels comfortable and fun, you're probably not improving. Real practice should feel hard, awkward, and a little frustrating. That's your brain rewiring itself. That's growth happening in real time.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## First Principles: Breaking Skills Down to Basics
-
-
-
 
 Before you can practice effectively, you need to understand what you're actually practicing.
 
@@ -525,33 +146,7 @@ You can apply the exact same thinking to learning anything.
 
 Okay... how? What does that even mean? Where do you start?
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **First principles approach:**
-
-
-
-
+**First principles approach:**
 1. **Break it down:** What specific type of math? Algebra? Geometry? Calculus?
 2. **Go deeper:** What specific skill within algebra? Factoring? Quadratic equations?
 3. **Identify fundamentals:** What's the core concept I'm missing? Is it actually algebra, or is it the arithmetic that underlies it?
@@ -565,72 +160,29 @@ Let's make this practical with an example everyone can visualize:
 
 That's repetition. That's Player A from our opening story.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Do practice:**
-
-
-
-
+**Do practice:**
 
 1. **Fundamental 1: Foot placement and balance**
-
    - 20 shots focusing ONLY on stance
    - Record video from the side
    - Analyze each shot: Did your weight stay balanced?
 
-
-
-
 2. **Fundamental 2: Elbow positioning**
-
    - 20 shots focusing ONLY on keeping elbow in
    - Have someone watch or use video
    - Ignore whether the ball goes in – just focus on form
 
-
-
-
 3. **Fundamental 3: Follow-through and wrist snap**
-
    - 20 shots focusing ONLY on completing the motion
    - Watch your hand – is it in the cookie jar?
    - Feel the ball roll off your fingers
 
-
-
-
 4. **Fundamental 4: Mental routine and rhythm**
-
    - Develop a consistent pre-shot routine
    - Same number of dribbles, same breathing pattern
    - Build automaticity
 
-
-
-
 5. **Integration: Put it all together**
-
    - Final 20 shots with everything combined
    - Now you're allowed to care about makes and misses
    - Track your percentage
@@ -641,39 +193,7 @@ Result: You just improved more from 80 focused shots than most people improve fr
 
 Breaking things down to fundamentals feels slow. It feels boring. It feels like you're going backward instead of forward.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **That's the friction. That's where the growth happens.**
-
-
-
----
-
-
----
-
-
----
+**That's the friction. That's where the growth happens.**
 
 Remember from Chapter 1: *"The sooner you learn to be comfortable with being uncomfortable, the sooner you will win in life."*
 
@@ -683,46 +203,11 @@ Most people avoid this. They keep shooting 100 free throws mindlessly because it
 
 Elite performers do the opposite. They seek out the discomfort. They find their weakness and attack it relentlessly.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **That's the difference between good and unstoppable.**
-
-
----
-
-
----
-
-
----
-
+**That's the difference between good and unstoppable.**
 
 ---
 
 ## The Deliberate Practice Framework
-
-
-
 
 Alright. You understand what deliberate practice is. You know why it works.
 
@@ -734,15 +219,9 @@ Vague practice produces vague results.
 
 Elite practice requires laser-focused targets.
 
-
-
-
 ❌ **Bad:** "I'm going to practice piano for an hour."
 
 What are you actually going to improve? What does success look like? How will you know if the hour was effective?
-
-
-
 
 ✅ **Good:** "I'm going to master the left-hand arpeggio in measures 12-16 of this piece until I can play it flawlessly at tempo 5 times in a row."
 
@@ -752,20 +231,11 @@ Now you have a target. Now you have a finish line. Now you know exactly what you
 
 More examples:
 
-
-
-
 - **Not:** "Study math"
 - **Instead:** "Master factoring quadratic equations – complete 10 problems without looking at notes, getting 9/10 correct"
 
-
-
-
 - **Not:** "Work on free throws"
 - **Instead:** "Make 8 out of 10 free throws three times in a row"
-
-
-
 
 - **Not:** "Get better at Spanish"
 - **Instead:** "Hold a 3-minute conversation using only preterite tense verbs"
@@ -776,30 +246,7 @@ See how much more actionable those are?
 
 Here's a fact that will change how you practice everything:
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The faster you get feedback, the faster you improve.**
-
+**The faster you get feedback, the faster you improve.**
 
 This is why video games are so addictive at teaching you – you die, you see exactly what killed you, you adjust, you try again. Instant feedback loop.
 
@@ -807,121 +254,23 @@ Most people practice with delayed feedback or no feedback at all. They study for
 
 That's like playing a video game where you don't find out if you died until next Tuesday.
 
+**How to build immediate feedback into practice:**
 
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **How to build immediate feedback into practice:**
-
-
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **For Physical Skills:**
-
-
-
+**For Physical Skills:**
 - Record yourself on video (your phone works fine)
 - Use a mirror for form work
 - Track stats immediately (makes vs. misses, time, reps)
 - Get a coach, trainer, or friend to watch and give specific feedback
 - Use technology (apps that track shooting percentage, running pace, etc.)
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **For Mental Skills (studying, learning concepts):**
-
-
-
+**For Mental Skills (studying, learning concepts):**
 - Practice problems with answer key – check EACH problem before moving to the next
 - Teach the concept to someone else (if you can't explain it, you don't know it)
 - Use flashcards and self-testing (active recall)
 - Write out the explanation, then compare to the source material
 - Try to solve problems without notes, immediately check if you got it right
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **For Creative Skills:**
-
-
-
+**For Creative Skills:**
 - Set specific criteria before you create
 - Compare your output to those criteria
 - Get feedback from someone you trust who understands the craft
@@ -931,41 +280,9 @@ The pattern: **Find a way to know RIGHT AWAY if you did it right or wrong.**
 
 ### Element 3: Operating at the Edge of Your Ability
 
-
----
-
-
----
-
-
----
-
 Remember how we talked about the 4% rule in Chapter 1?
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Flow state – that feeling of being in the zone – happens when challenge exceeds your skill by about 4%.**
-
+**Flow state – that feeling of being in the zone – happens when challenge exceeds your skill by about 4%.**
 
 Not 50% harder (you'll panic and shut down).
 
@@ -975,121 +292,23 @@ Right at the edge. Just uncomfortable enough to force growth. Just achievable en
 
 This is the Goldilocks zone of practice.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Too Easy:**
-
-
-
+**Too Easy:**
 - You can do it on autopilot
 - Feels comfortable, maybe even fun
 - Zero growth happening
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Too Hard:**
-
-
-
+**Too Hard:**
 - Way beyond current ability
 - Feels overwhelming, leads to shutdown
 - Zero growth happening (just frustration)
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Just Right (The Growth Zone):**
-
-
-
+**Just Right (The Growth Zone):**
 - You can do it, but just barely
 - Requires full concentration
 - Uncomfortable but achievable
 - Maximum growth happening
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Here's what this looks like in practice:**
-
+**Here's what this looks like in practice:**
 
 If you're shooting 60% from the free-throw line, don't practice trick shots or NBA three-pointers (too hard). Don't practice layups from under the basket (too easy).
 
@@ -1099,30 +318,7 @@ If you're learning algebra and you've mastered basic equations, don't jump to ca
 
 Move to equations with variables on both sides. That's your 4% challenge.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The rule: If you're not failing at least 20-30% of the time in practice, you're not practicing hard enough.**
-
+**The rule: If you're not failing at least 20-30% of the time in practice, you're not practicing hard enough.**
 
 ### Element 4: Massive Repetition on Weak Points
 
@@ -1134,9 +330,6 @@ Here's what elite performers do: **They identify their weakest link and attack i
 
 Real example from basketball:
 
-
-
-
 - Player shoots 70% from the right side
 - Player shoots 40% from the left side
 
@@ -1146,30 +339,7 @@ Real example from basketball:
 
 Why? Because the left side is the weakness. That's the leak in the boat. That's what's holding them back from the next level.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **This is deeply uncomfortable.**
-
+**This is deeply uncomfortable.**
 
 Working on your weakness means failing a lot. It means exposing the thing you're worst at. It means looking bad, even in practice.
 
@@ -1179,33 +349,7 @@ You could be the best dribbler on your team, but if you can't shoot from the lef
 
 You could be great at algebra but terrible at geometry, and your math grade is capped by your worst skill.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The deliberate practice approach:**
-
-
-
-
+**The deliberate practice approach:**
 
 1. Identify your actual weakness (be honest – this is just data)
 2. Isolate it (work on JUST that skill, not mixed with everything else)
@@ -1215,61 +359,14 @@ You could be great at algebra but terrible at geometry, and your math grade is c
 
 This is how you go from good to elite.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Coach's Corner:**
-
-
+**Coach's Corner:**
 > Most people avoid their weaknesses their entire lives. That's why most people never reach their potential. Elite performers hunt for weaknesses like they're treasure – because they are. Every weakness you identify is a clear path to improvement. Every weakness you fix makes you unstoppable in a new way.
 
 ### Element 5: Intense Focus (No Multitasking)
 
 Last element. This one's simple but non-negotiable.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Real practice requires your full brain.**
-
+**Real practice requires your full brain.**
 
 Not your brain while scrolling Instagram between reps.
 
@@ -1283,65 +380,13 @@ Research is crystal clear on this: **Multitasking is a myth.** Your brain doesn'
 
 When you practice with divided attention, you're getting a fraction of the benefit.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The data:**
-
-
-
-
+**The data:**
 
 - 30 minutes of intense, focused deliberate practice beats 3 hours of distracted repetition
 - Flow state (peak performance) requires complete focus – it literally can't happen if you're multitasking
 - Learning and skill development require focused attention to wire neural pathways effectively
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **How to practice with full focus:**
-
-
-
-
+**How to practice with full focus:**
 
 - Phone in another room (not silent, not face-down – actually gone)
 - Notifications off on everything
@@ -1350,30 +395,7 @@ When you practice with divided attention, you're getting a fraction of the benef
 - Tell people you're unavailable for this block
 - Music maybe (depends on the task – instrumental works better than lyrics for complex learning)
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The mental contract:**
-
+**The mental contract:**
 
 When you start a practice session, you're making a deal with yourself: "For the next X minutes, this is the only thing that exists."
 
@@ -1381,46 +403,11 @@ If you can't commit to that level of focus, don't bother practicing. You'll just
 
 Real practice is hard. Real practice is mentally exhausting.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **That's why it works.**
-
-
----
-
-
----
-
-
----
-
+**That's why it works.**
 
 ---
 
 ## The Practice Session Template
-
-
-
 
 Alright. You've got the five elements. Now let's put them together into a system you can use today.
 
@@ -1428,103 +415,25 @@ Here's the exact template elite performers use for every practice session:
 
 ### Before Practice
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **1. What SPECIFIC skill am I improving today?**
-
+**1. What SPECIFIC skill am I improving today?**
 
 Not "basketball." Not "math." Not "guitar."
-
-
-
 
 - The exact skill: "Left-hand crossover dribble at full speed"
 - Or: "Solving systems of equations using substitution method"
 - Or: "Clean chord transitions between G and C"
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **2. How will I know if I'm improving?**
-
+**2. How will I know if I'm improving?**
 
 Define your feedback mechanism:
-
-
-
 - Video recording every 10 reps to check form
 - Tracking percentage of successful attempts
 - Solving problems and checking answer key immediately
 - Having someone listen and give specific feedback
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **3. What's my target for success?**
-
+**3. What's my target for success?**
 
 Be specific and measurable:
-
-
-
 - "Make 15 out of 20 free throws"
 - "Solve 8 out of 10 problems correctly without notes"
 - "Complete 5 clean transitions in a row without buzz"
@@ -1533,125 +442,27 @@ Write these down. Seriously. Don't just think about them.
 
 ### During Practice
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **1. Focus solely on your target skill**
-
+**1. Focus solely on your target skill**
 
 Not on everything. Just the one thing you defined.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **2. Get feedback after EACH rep**
-
+**2. Get feedback after EACH rep**
 
 Not at the end. After each attempt.
-
-
-
 
 - Did that shot go in?
 - Did I get that problem right?
 - Did that transition sound clean?
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **3. Adjust based on feedback**
-
+**3. Adjust based on feedback**
 
 This is the key. Feedback is useless if you don't use it.
-
-
-
 
 - Shot went left? Adjust elbow position.
 - Got the problem wrong? Identify exactly where the logic broke down.
 - Transition was sloppy? Slow it down, focus on finger placement.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **4. Repeat until success criteria is met**
-
+**4. Repeat until success criteria is met**
 
 Don't just do your reps and leave. Practice until you hit your target.
 
@@ -1661,202 +472,34 @@ If you only have 20 minutes and you don't hit your target, that's fine – but n
 
 ### After Practice
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **1. Did I hit my target?**
-
+**1. Did I hit my target?**
 
 Yes or no. Simple.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **2. What specific thing improved?**
-
+**2. What specific thing improved?**
 
 Not "I got better." What exactly improved?
-
-
-
 
 - "My elbow stayed in 80% of shots instead of 50%"
 - "I solved 7/10 instead of 5/10"
 - "Transitions were clean at 80 BPM, up from 60 BPM"
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **3. What's still my weakest link?**
-
+**3. What's still my weakest link?**
 
 Based on today's practice, what's still holding you back?
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **4. What will I target next session?**
-
+**4. What will I target next session?**
 
 Lock it in. Write it down. Next time you practice, you know exactly where to start.
 
+### Example Practice Session: Math
 
-> [!TIP]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Example Practice Session: Math**
->
-
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Before:**
-
-
-
+**Before:**
 - Skill: Factoring quadratic equations with leading coefficient ≠ 1
 - Feedback: Answer key, check each problem immediately
 - Target: 8 out of 10 problems correct in under 20 minutes
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **During:**
-
-
-
+**During:**
 - Do problem 1, check immediately
 - Got it wrong – identify where mistake happened
 - Redo that step, check again
@@ -1864,32 +507,7 @@ Lock it in. Write it down. Next time you practice, you know exactly where to sta
 - Full focus, no phone, 25-minute block
 - Track time and accuracy
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **After:**
-
-
-
+**After:**
 - Result: 7/10 correct in 22 minutes
 - Improvement: Got 3 more right than last time, but still slow
 - Weak link: Factoring when coefficient is negative
@@ -1897,73 +515,15 @@ Lock it in. Write it down. Next time you practice, you know exactly where to sta
 
 See how much more effective that is than "study math for an hour"?
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **This is the difference between training and just showing up.**
-
-
----
-
-
----
-
-
----
-
+**This is the difference between training and just showing up.**
 
 ---
 
 ## The Failure Factory: Why Practice Should Feel Terrible
 
-
-
-
 Let's talk about something nobody wants to admit:
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Deliberate practice feels bad.**
-
+**Deliberate practice feels bad.**
 
 Like, genuinely uncomfortable. Sometimes frustrating. Often discouraging.
 
@@ -1973,9 +533,6 @@ And that's exactly how it's supposed to feel.
 
 Think about what you're actually doing:
 
-
-
-
 - You're constantly working on what you suck at (not fun)
 - You're failing way more than you're succeeding (ego hit)
 - You're pushing at the edge of your ability (mentally exhausting)
@@ -1983,9 +540,6 @@ Think about what you're actually doing:
 - You're exposing your weaknesses on purpose (uncomfortable)
 
 Compare that to mindless practice:
-
-
-
 
 - Work on what you're already decent at (feels good)
 - Success more often than failure (ego boost)
@@ -1995,149 +549,28 @@ Compare that to mindless practice:
 
 One feels better in the moment. The other makes you better.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **You have to choose.**
-
+**You have to choose.**
 
 ### The Three Zones
 
 Here's a model that makes this crystal clear:
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Comfort Zone:**
-
-
-
+**Comfort Zone:**
 - Things you can already do easily
 - Feels good, low stress
 - Zero growth happening
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Growth Zone (The Edge):**
-
-
-
+**Growth Zone (The Edge):**
 - Things just beyond your current ability
 - Feels uncomfortable, high effort
 - Maximum growth happening
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Panic Zone:**
-
-
-
+**Panic Zone:**
 - Things way too hard for your current level
 - Feels overwhelming, leads to shutdown
 - Zero growth happening (just frustration)
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Deliberate practice lives in the growth zone.**
-
+**Deliberate practice lives in the growth zone.**
 
 And the growth zone is, by definition, uncomfortable.
 
@@ -2145,20 +578,11 @@ And the growth zone is, by definition, uncomfortable.
 
 Here's the shift that separates elite performers from everyone else:
 
-
-
-
 ❌ **Fixed mindset:** "I messed up again. I suck at this. Maybe I'm just not talented."
-
-
-
 
 ✅ **Growth mindset:** "I messed up again. That's data showing me exactly what to adjust. One more rep closer to mastery."
 
 Every failure in practice is:
-
-
-
 - **Information** about what doesn't work
 - **Opportunity** to make a specific adjustment
 - **Progress** toward mastering the skill
@@ -2169,30 +593,7 @@ You didn't think "I fell again, I'm not a bike person."
 
 You thought "Okay, lean less next time" or "Turn the handlebars earlier."
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Same thing here. Just apply it to everything.**
-
+**Same thing here. Just apply it to everything.**
 
 ### Practice vs. Performance: Know the Difference
 
@@ -2205,9 +606,6 @@ Most people treat every moment like performance. They avoid failure at all costs
 
 **What elite performers do:** Fail aggressively in practice so they can dominate in performance.
 
-
-
-
 - Athletes deliberately attempt shots they're not good at in practice
 - Musicians purposely play pieces too fast and mess up to find their limits
 - Students do the hardest practice problems first to expose what they don't know
@@ -2218,142 +616,30 @@ Then when it's game time, test time, performance time – they execute what they
 
 If you're not failing regularly in practice, you're not practicing hard enough.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Coach's Corner:**
-
-
+**Coach's Corner:**
 > The best athletes I've ever coached hunt for mistakes in practice. They'll literally try new things just to see what fails. Why? Because it's better to find your ceiling in practice than in the championship game. Better to expose your weakness Tuesday afternoon than Friday night under the lights.
-
----
-
-
----
-
-
----
-
 
 ---
 
 ## The Feedback Loop: Faster Input, Faster Growth
 
-
-
-
 Let's get nerdy for a second about why feedback timing matters so much.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The Feedback Speed Hierarchy (Ranked by Effectiveness):**
-
+**The Feedback Speed Hierarchy (Ranked by Effectiveness):**
 
 ### Immediate > Delayed
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Immediate feedback:**
-
-
-
+**Immediate feedback:**
 - Video games tell you instantly if you died
 - Basketball tells you immediately if the shot went in
 - You learn fast because you can connect action to result
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Delayed feedback:**
-
-
-
+**Delayed feedback:**
 - Study for hours, find out how you did on the test next week
 - Practice skills, wait for the game to see if they work
 - You learn slow because action and result are disconnected
 
 **The fix:** Create immediate feedback loops even for delayed systems.
-
-
-
 
 - Don't wait for the test – do practice problems with answer keys now
 - Don't wait for the game – track your stats in practice
@@ -2361,62 +647,12 @@ Let's get nerdy for a second about why feedback timing matters so much.
 
 ### Specific > General
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Specific feedback:**
-
-
-
+**Specific feedback:**
 - "Your left elbow drops 2 inches on your release"
 - "You're solving for x correctly but making arithmetic errors in step 3"
 - "Your finger is landing between frets, not on them"
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **General feedback:**
-
-
-
+**General feedback:**
 - "Your form looks off"
 - "You need to study harder"
 - "Keep practicing"
@@ -2427,62 +663,12 @@ Specific feedback tells you exactly what to fix. General feedback is useless.
 
 ### Objective > Subjective
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Objective feedback:**
-
-
-
+**Objective feedback:**
 - Made 7 out of 10 free throws (measurable)
 - Solved 8 out of 10 problems correctly (verifiable)
 - Ran a mile in 7:32 (data-driven)
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Subjective feedback:**
-
-
-
+**Subjective feedback:**
 - "You seemed to shoot pretty well today"
 - "I think you're getting better"
 - "That felt good"
@@ -2495,96 +681,21 @@ Objective feedback gives you data. Subjective feedback gives you feelings.
 
 You don't need a coach or expensive equipment. You need to be strategic.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **For Physical Skills:**
-
-
-
+**For Physical Skills:**
 - **Phone camera:** Record yourself, watch immediately
 - **Mirror:** Practice in front of it for real-time visual feedback
 - **Stats tracking:** Simple tally marks (makes vs. misses, time, reps completed)
 - **Friend feedback:** Give them one specific thing to watch for
 - **Apps:** Tons of free apps for running pace, shooting percentage, workout tracking
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **For Mental Skills (Studying/Learning):**
-
-
-
+**For Mental Skills (Studying/Learning):**
 - **Answer keys:** Check each problem immediately before moving on
 - **Teach it:** If you can explain it clearly to someone else, you know it
 - **Flashcards:** Active recall with immediate verification
 - **Practice tests:** Simulate the real thing, check answers right away
 - **The Feynman Technique:** Explain concept in simple terms, find gaps in your understanding
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **For Creative Skills:**
-
-
-
+**For Creative Skills:**
 - **Criteria-based:** Define what "good" looks like before creating, then evaluate against those criteria
 - **Peer feedback:** Find someone who actually knows the craft (not just encouragement)
 - **Iteration:** Create, get specific feedback, adjust, create again
@@ -2600,48 +711,13 @@ That's the entire point.
 
 If all your feedback is positive, you're not pushing hard enough. You're not finding your limits. You're not identifying weaknesses.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Positive feedback feels good. Negative feedback makes you better.**
-
+**Positive feedback feels good. Negative feedback makes you better.**
 
 Choose accordingly.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Building Your Practice System: The 30-Day Skill Sprint
-
-
-
 
 Enough theory. Time to put this into action.
 
@@ -2649,37 +725,11 @@ Here's a framework you can use starting this week to dramatically improve at any
 
 ### The 30-Day Skill Sprint
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Pick ONE skill to improve dramatically in 30 days.**
-
+**Pick ONE skill to improve dramatically in 30 days.**
 
 Not three skills. Not "everything." One.
 
 Examples:
-
-
-
 - Free-throw shooting percentage
 - Solving quadratic equations
 - Conversational fluency in Spanish
@@ -2687,139 +737,34 @@ Examples:
 - Chess opening theory
 - Clean chord transitions on guitar
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The commitment:**
-
-
-
-
+**The commitment:**
 
 - 30-45 minutes per day, 6 days per week (rest day matters)
 - Deliberate practice only – full focus, no distractions
 - Track specific metrics every session
 - Adjust based on feedback daily
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The structure:**
-
+**The structure:**
 
 ### Week 1: Baseline Assessment + Identify Weak Link
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Day 1-2: Assess current level**
-
-
-
+**Day 1-2: Assess current level**
 - Test yourself objectively
 - Record your baseline numbers
 - Identify specific weaknesses
 
 Example (Free Throws):
-
-
-
 - Shoot 50 free throws, track makes/misses
 - Record video from multiple angles
 - Baseline: 62% (31/50)
 - Weak link: Inconsistent elbow position
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Day 3-7: Attack the weakest fundamental**
-
-
-
+**Day 3-7: Attack the weakest fundamental**
 - Isolate that one skill
 - Massive focused repetition with immediate feedback
 - Track improvement daily
 
 Example:
-
-
-
 - 40 shots per day focusing ONLY on elbow position
 - Don't care about makes/misses, only care about form
 - Video every 10 shots to check elbow placement
@@ -2827,39 +772,11 @@ Example:
 
 ### Week 2: Drill Fundamental #2
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Day 8-14: Second biggest weakness**
-
-
-
+**Day 8-14: Second biggest weakness**
 - You've fixed the first leak in the boat
 - Now find and fix the second one
 
 Example (Free Throws):
-
-
-
 - New weak link: Follow-through inconsistent
 - 40 shots per day focusing ONLY on wrist snap and follow-through
 - Film from side angle, watch hand position
@@ -2867,39 +784,11 @@ Example (Free Throws):
 
 ### Week 3: Drill Fundamental #3
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Day 15-21: Third component**
-
-
-
+**Day 15-21: Third component**
 - Continue the pattern
 - Each week, you're fixing one specific weakness
 
 Example (Free Throws):
-
-
-
 - New focus: Pre-shot routine and rhythm
 - Develop consistent routine: 3 dribbles, deep breath, focus on front rim
 - Practice the routine without caring about makes/misses
@@ -2908,71 +797,18 @@ Example (Free Throws):
 
 ### Week 4: Integration + Reassessment
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Day 22-28: Put it all together**
-
-
-
+**Day 22-28: Put it all together**
 - Now practice the skill as a whole
 - All fundamentals integrated
 - Track performance metrics again
 
 Example (Free Throws):
-
-
-
 - Shoot 50 free throws with everything combined
 - Full routine, perfect elbow, clean follow-through
 - Track percentage
 - Result: 78% (39/50) – up from 62% baseline
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Day 29-30: Test and reflect**
-
-
-
+**Day 29-30: Test and reflect**
 - Final assessment
 - Compare to baseline
 - Document specific improvements
@@ -2980,146 +816,28 @@ Example (Free Throws):
 
 ### The Rules of the Sprint
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **1. Non-negotiable commitment**
-
+**1. Non-negotiable commitment**
 
 30-45 minutes, 6 days per week. Block the time on your calendar like it's a job.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **2. Deliberate practice only**
-
+**2. Deliberate practice only**
 
 If you can't give full focus, skip the session. Don't just go through the motions.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **3. Track everything**
-
+**3. Track everything**
 
 Keep a simple practice log:
-
-
-
 - Date
 - What you worked on
 - Metrics/numbers
 - What improved
 - What's still weak
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **4. Adjust based on data**
-
+**4. Adjust based on data**
 
 If something isn't working after 3-4 sessions, change your approach. Be scientific.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **5. Rest day is mandatory**
-
+**5. Rest day is mandatory**
 
 Your brain consolidates learning during rest. Don't skip the off day.
 
@@ -3137,19 +855,7 @@ Your brain consolidates learning during rest. Don't skip the off day.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## From Practice to Performance
-
-
-
 
 The goal of practice isn't to practice forever.
 
@@ -3159,32 +865,7 @@ So let's talk about the difference between practice mode and performance mode.
 
 ### Practice Mindset vs. Performance Mindset
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Practice Mindset:**
-
-
-
+**Practice Mindset:**
 - Seek out failures and mistakes
 - Focus on improvement, not outcome
 - Slow down and analyze everything
@@ -3192,32 +873,7 @@ So let's talk about the difference between practice mode and performance mode.
 - High friction = high learning
 - Question everything, adjust constantly
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Performance Mindset:**
-
-
-
+**Performance Mindset:**
 - Execute what you've practiced
 - Focus on outcome, not analysis
 - Trust your training, let it flow
@@ -3229,32 +885,7 @@ Both are essential. But you have to know when to use which one.
 
 ### When to Switch Modes
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Practice Mode (90% of your time):**
-
-
-
+**Practice Mode (90% of your time):**
 - Training sessions
 - Study time
 - Skill development
@@ -3262,32 +893,7 @@ Both are essential. But you have to know when to use which one.
 - Low-stakes situations
 - Scrimmages and rehearsals
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Performance Mode (10% of your time):**
-
-
-
+**Performance Mode (10% of your time):**
 - The actual game
 - The test
 - The presentation
@@ -3311,55 +917,11 @@ Then when it's time to perform, trust your training and execute.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## The Compound Effect of Deliberate Practice
-
-
-
-
-
----
-
-
----
-
-
----
 
 Remember the 1% improvement principle from Chapter 1?
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **If you improve 1% every day for a year, you're 37 times better by year's end.**
-
+**If you improve 1% every day for a year, you're 37 times better by year's end.**
 
 That's compound interest. And deliberate practice is how you actually get those 1% gains.
 
@@ -3373,30 +935,7 @@ Over months: Dramatic transformation.
 
 Over years: You become unrecognizable compared to who you were.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **That's the power of deliberate practice.**
-
+**That's the power of deliberate practice.**
 
 Not massive heroic efforts. Not "grind culture" working 80-hour weeks.
 
@@ -3406,196 +945,48 @@ Compound interest does the rest.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Your First Deliberate Practice Session
-
-
-
 
 Alright. You've got the blueprint. You understand the system.
 
 Now it's time to actually do it.
 
+**This week's challenge:**
 
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **This week's challenge:**
-
-
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **1. Pick ONE skill you want to dramatically improve**
-
+**1. Pick ONE skill you want to dramatically improve**
 
 Be specific. Not "basketball" – pick "left-hand layups" or "free-throw percentage."
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **2. Do ONE 30-minute deliberate practice session using the template**
-
+**2. Do ONE 30-minute deliberate practice session using the template**
 
 Before:
-
-
-
 - Define specific skill to improve
 - Set up feedback mechanism
 - Create measurable success target
 
 During:
-
-
-
 - Full focus (phone gone, notifications off)
 - Get feedback after each rep
 - Adjust based on feedback
 - Work at edge of ability
 
 After:
-
-
-
 - Did you hit your target?
 - What specifically improved?
 - What's still your weak link?
 - What will you target next time?
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **3. Track your numbers**
-
+**3. Track your numbers**
 
 Write them down. This isn't optional.
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **4. Compare to your normal practice**
-
+**4. Compare to your normal practice**
 
 How different did that feel? How much more did you improve?
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## The Truth About Practice
-
-
-
 
 Most people never reach their potential.
 
@@ -3607,80 +998,11 @@ Then they wonder why they plateau.
 
 You now know what they don't:
 
+**Hours don't matter. Method matters.**
 
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Hours don't matter. Method matters.**
+**Repetition doesn't make you better. Deliberate practice makes you better.**
 
-
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Repetition doesn't make you better. Deliberate practice makes you better.**
-
-
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Time spent doesn't equal improvement. Focused effort on weaknesses equals improvement.**
-
+**Time spent doesn't equal improvement. Focused effort on weaknesses equals improvement.**
 
 You have the cheat code now.
 
@@ -3694,122 +1016,39 @@ Will you track your progress and adjust based on data?
 
 Or will you keep doing what everyone else does – going through the motions, staying comfortable, wondering why you're not improving faster?
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **The game is already happening. The scoreboard is already running.**
-
+**The game is already happening. The scoreboard is already running.**
 
 Practice like a pro. Improve like you mean it.
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Post-Game Review
-
-
-
-
-
----
-
-
----
-
-
----
 
 ### Key Takeaways
 
-
-
-
 1. **The 10,000-hour rule is misleading:** It's not about time, it's about the quality of practice. Deliberate practice beats mindless repetition every single time.
-
-
-
 
 2. **First principles thinking breaks skills down:** Don't practice vague goals. Break skills into fundamental components and master each one systematically.
 
-
-
-
 3. **The 5 elements of deliberate practice are non-negotiable:** Specific goals, immediate feedback, edge of ability, massive repetition on weak points, intense focus.
 
-
-
-
 4. **Practice should feel uncomfortable:** If it feels easy and fun, you're probably not improving. Real growth happens in the friction.
-
-
-
 
 5. **Track everything:** You can't improve what you don't measure. Objective data beats subjective feelings.
 
 ### Reflection Questions
 
-
-
-
 1. What skill have you been practicing for years without really improving? What would deliberate practice look like for that skill?
-
-
-
 
 2. When you practice, are you working on your strengths (comfortable) or your weaknesses (uncomfortable)? Be honest.
 
-
-
-
 3. What's your actual weak link right now – the one skill that, if mastered, would unlock the next level for you?
 
-
-
-
 4. How do you get feedback currently? Is it immediate or delayed? Specific or general? How could you improve your feedback loop?
-
-
-
 
 5. What would a 30-day skill sprint look like for you? What skill would you choose?
 
 ### The Output Mindset
-
-
----
-
-
----
-
-
----
 
 Remember: Don't think about "practicing more."
 
@@ -3829,59 +1068,13 @@ But here's the question: What's going on in your head while you do it?
 
 How do you talk to yourself when you fail? How do you stay focused when it gets hard? How do you maintain confidence when you're deliberately working on what you suck at?
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Next up: Chapter 5 – Your Inner Coach**
-
+**Next up: Chapter 5 – Your Inner Coach**
 
 The mental game is everything. Let's master it.
 
 ---
 
-
-> [!IMPORTANT]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **💡 Key Insight**
-> [!NOTE]
-> [!NOTE]
-> [!NOTE]
-> 💡 **Key Insight**
-> 💡 **Key Insight**
-> **💡 Key Insight**
-> **Action Item:**
-
+**Action Item:**
 
 This week, complete ONE 30-minute deliberate practice session using the framework from this chapter. Pick one skill. Define specific goals. Get immediate feedback. Work at the edge of your ability. Track your metrics.
 
@@ -3890,24 +1083,6 @@ Then report back to yourself: How much more effective was that than your normal 
 The game has begun. Time to practice like a pro.
 
 Let's go.
-
-
----
-
-<div align="center">
-
-[⬅️ Previous: Chapter 3 - The Scoreboard That Matters](chapter_03_the_scoreboard_that_matters.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 5 - Your Inner Coach ➡️](chapter_05_your_inner_coach.md)
-
-</div>
-
-
----
-
-<div align="center">
-
-[⬅️ Previous: Chapter 3 - The Scoreboard That Matters](chapter_03_the_scoreboard_that_matters.md) | [📚 All Chapters](../README.md#-the-chapters) | [Next: Chapter 5 - Your Inner Coach ➡️](chapter_05_your_inner_coach.md)
-
-</div>
 
 
 ---
